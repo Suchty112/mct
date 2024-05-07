@@ -411,7 +411,6 @@ jobs:
       run: |
        git pull
        curl -X GET https://www.larmcentralen-spelet.se/api/mission_type_data.json > mtd/sv_SE.json
-       curl -X GET https://www.larmcentralen-spelet.se/alliance_event_types.json > Events/sv_SE.json
                
     - name: json-syntax-check
       uses: limitusus/json-syntax-check@v2.0.2
@@ -440,7 +439,6 @@ jobs:
       run: |
         git pull
         curl -X GET https://www.missionchief.co.uk/api/mission_type_data.json > mtd/en_GB.json
-        curl -X GET https://www.missionchief.co.uk/alliance_event_types.json > Events/en_GB.json
                 
     - name: json-syntax-check
       uses: limitusus/json-syntax-check@v2.0.2
@@ -469,7 +467,6 @@ jobs:
       run: |
         git pull
         curl -X GET https://www.missionchief.com/api/mission_type_data.json > mtd/en_US.json
-        curl -X GET https://www.missionchief.com/alliance_event_types.json > Events/en_US.json
                 
     - name: json-syntax-check
       uses: limitusus/json-syntax-check@v2.0.2
