@@ -1,7 +1,7 @@
 const fs = require("fs/promises");
 const path = require("path");
 const jsdom = require("jsdom");
-const { js: beautifyJs, css: beautifyCss } = require("js-beautify");
+const { js: beautifyJs} = require("js-beautify");
 
 const BEAUTIFIER_OPTIONS = {
   indent_size: "4",
@@ -25,7 +25,7 @@ const BEAUTIFIER_OPTIONS = {
 
 const PATH = path.resolve(__dirname);
 
-const GAME = "https://missionchief.co.uk";
+const GAME = "https://mission-creation-tool.missionchief.com";
 
 let timestamp = 0;
 
@@ -34,38 +34,29 @@ fetch(GAME)
   .then((html) => new jsdom.JSDOM(html))
   .then((dom) => dom.window.document)
   .then((doc) => ({
-    js: doc.querySelector('script[src^="/assets/application-"][src$=".js"]')
-      ?.src,
-    css: doc.querySelector('link[href^="/assets/application-"][href$=".css"]')
-      ?.href,
+    js: doc.querySelector('script[src^="/main"][src$=".js"]')
+      ?.src
   }))
   .then((files) => {
     timestamp = new Date().toISOString();
     return files;
   })
-  .then(async ({ js, css }) => ({
+  .then(async ({ js}) => ({
     js: await fetch(`${GAME}${js}`)
       .then((res) => res.text())
       .then((js) => beautifyJs(js, BEAUTIFIER_OPTIONS)),
-    css: await fetch(`${GAME}${css}`)
-      .then((res) => res.text())
-      .then((css) => beautifyCss(css, BEAUTIFIER_OPTIONS)),
     jsPath: js,
-    cssPath: css,
   }))
-  .then(({ js, css, jsPath, cssPath }) => [
-    fs.writeFile(path.resolve(PATH, "application.js"), js).then(() => jsPath),
-    fs
-      .writeFile(path.resolve(PATH, "application.css"), css)
-      .then(() => cssPath),
+  .then(({ js, jsPath}) => [
+    fs.writeFile(path.resolve(PATH, "main.js"), js).then(() => jsPath),
   ])
   .then((writing) => Promise.all(writing))
-  .then(([jsPath, cssPath]) =>
+  .then(([jsPath]) =>
     fs
       .readFile(path.resolve(PATH, "README.md"))
-      .then((readme) => [readme, jsPath, cssPath]),
+      .then((readme) => [readme, jsPath]),
   )
-  .then(([readme, jsPath, cssPath]) =>
+  .then(([readme, jsPath]) =>
     fs.writeFile(
       path.resolve(PATH, "README.md"),
       readme.toString().replace(
