@@ -10,7 +10,7 @@ jobs:
     runs-on: ubuntu-latest
     continue-on-error: true
     steps:
-    - uses: actions/checkout@v3
+    - uses: actions/checkout@v4.1.4
       with:
         persist-credentials: false
         fetch-depth: 0
@@ -21,12 +21,12 @@ jobs:
         curl -X GET https://www.missionchief-australia.com/api/mission_type_data.json > mtd/en_AU.json
                 
     - name: json-syntax-check
-      uses: limitusus/json-syntax-check@v1
+      uses: limitusus/json-syntax-check@v2.0.2
       with:
         pattern: "\\.json$"
 
     - name: Prettify code & PUSH
-      uses: creyD/prettier_action@master
+      uses: creyD/prettier_action@v4.3
       with:
         prettier_options: --write **/*.{js,md,json}
         commit_message: Update en_AU
@@ -38,7 +38,7 @@ jobs:
     continue-on-error: true
     needs: en_AU
     steps:
-    - uses: actions/checkout@v3
+    - uses: actions/checkout@v4.1.4
       with:
         persist-credentials: false
         fetch-depth: 0
@@ -49,12 +49,12 @@ jobs:
         curl -X GET https://www.operacni-stredisko.cz/api/mission_type_data.json > mtd/cs_CZ.json
                 
     - name: json-syntax-check
-      uses: limitusus/json-syntax-check@v1
+      uses: limitusus/json-syntax-check@v2.0.2
       with:
         pattern: "\\.json$"
 
     - name: Prettify code & PUSH
-      uses: creyD/prettier_action@master
+      uses: creyD/prettier_action@v4.3
       with:
         prettier_options: --write **/*.{js,md,json}
         commit_message: Update cs_CZ
@@ -66,7 +66,7 @@ jobs:
     continue-on-error: true
     needs: cs_CZ
     steps:
-    - uses: actions/checkout@v3
+    - uses: actions/checkout@v4.1.4
       with:
         persist-credentials: false
         fetch-depth: 0
@@ -77,12 +77,12 @@ jobs:
         curl -X GET https://www.leitstellenspiel.de/api/mission_type_data.json > mtd/de_DE.json
                 
     - name: json-syntax-check
-      uses: limitusus/json-syntax-check@v1
+      uses: limitusus/json-syntax-check@v2.0.2
       with:
         pattern: "\\.json$"
         
     - name: Prettify code & PUSH
-      uses: creyD/prettier_action@master
+      uses: creyD/prettier_action@v4.3
       with:
         prettier_options: --write **/*.{js,md,json}
         commit_message: Update de_DE
@@ -94,7 +94,7 @@ jobs:
     continue-on-error: true
     needs: de_DE
     steps:
-    - uses: actions/checkout@v3
+    - uses: actions/checkout@v4.1.4
       with:
         persist-credentials: false
         fetch-depth: 0
@@ -105,12 +105,12 @@ jobs:
         curl -X GET https://www.alarmcentral-spil.dk/api/mission_type_data.json > mtd/da_DK.json
                 
     - name: json-syntax-check
-      uses: limitusus/json-syntax-check@v1
+      uses: limitusus/json-syntax-check@v2.0.2
       with:
         pattern: "\\.json$"
         
     - name: Prettify code & PUSH
-      uses: creyD/prettier_action@master 
+      uses: creyD/prettier_action@v4.3 
       with:
         prettier_options: --write **/*.{js,md,json}
         commit_message: Update da_DK
@@ -122,7 +122,7 @@ jobs:
     continue-on-error: true
     needs: da_DK
     steps:
-    - uses: actions/checkout@v3
+    - uses: actions/checkout@v4.1.4
       with:
         persist-credentials: false
         fetch-depth: 0
@@ -133,12 +133,12 @@ jobs:
         curl -X GET https://www.centro-de-mando.es/api/mission_type_data.json > mtd/es_ES.json
         
     - name: json-syntax-check
-      uses: limitusus/json-syntax-check@v1
+      uses: limitusus/json-syntax-check@v2.0.2
       with:
         pattern: "\\.json$"
         
     - name: Prettify code & PUSH
-      uses: creyD/prettier_action@master 
+      uses: creyD/prettier_action@v4.3 
       with:
         prettier_options: --write **/*.{js,md,json}
         commit_message: Update es_ES
@@ -150,7 +150,7 @@ jobs:
     continue-on-error: true
     needs: es_ES
     steps:
-    - uses: actions/checkout@v3
+    - uses: actions/checkout@v4.1.4
       with:
         persist-credentials: false
         fetch-depth: 0
@@ -161,12 +161,12 @@ jobs:
         curl -X GET https://www.hatakeskuspeli.com/api/mission_type_data.json > mtd/fi_FI.json
                 
     - name: json-syntax-check
-      uses: limitusus/json-syntax-check@v1
+      uses: limitusus/json-syntax-check@v2.0.2
       with:
         pattern: "\\.json$"
         
     - name: Prettify code & PUSH
-      uses: creyD/prettier_action@master 
+      uses: creyD/prettier_action@v4.3 
       with:
         prettier_options: --write **/*.{js,md,json}
         commit_message: Update fi_FI
@@ -178,7 +178,7 @@ jobs:
     continue-on-error: true
     needs: fi_FI
     steps:
-    - uses: actions/checkout@v3
+    - uses: actions/checkout@v4.1.4
       with:
         persist-credentials: false
         fetch-depth: 0
@@ -189,12 +189,12 @@ jobs:
         curl -X GET https://www.operateur112.fr/api/mission_type_data.json > mtd/fr_FR.json
                 
     - name: json-syntax-check
-      uses: limitusus/json-syntax-check@v1
+      uses: limitusus/json-syntax-check@v2.0.2
       with:
         pattern: "\\.json$"
         
     - name: Prettify code & PUSH
-      uses: creyD/prettier_action@master 
+      uses: creyD/prettier_action@v4.3 
       with:
         prettier_options: --write **/*.{js,md,json}
         commit_message: Update fr_FR
@@ -206,7 +206,7 @@ jobs:
     continue-on-error: true
     needs: fr_FR
     steps:
-    - uses: actions/checkout@v3
+    - uses: actions/checkout@v4.1.4
       with:
         persist-credentials: false
         fetch-depth: 0
@@ -217,12 +217,12 @@ jobs:
         curl -X GET https://www.operatore112.it/api/mission_type_data.json > mtd/it_IT.json
                 
     - name: json-syntax-check
-      uses: limitusus/json-syntax-check@v1
+      uses: limitusus/json-syntax-check@v2.0.2
       with:
         pattern: "\\.json$"
         
     - name: Prettify code & PUSH
-      uses: creyD/prettier_action@master 
+      uses: creyD/prettier_action@v4.3 
       with:
         prettier_options: --write **/*.{js,md,json}
         commit_message: Update it_IT
@@ -234,7 +234,7 @@ jobs:
     continue-on-error: true
     needs: it_IT
     steps:
-    - uses: actions/checkout@v3
+    - uses: actions/checkout@v4.1.4
       with:
         persist-credentials: false
         fetch-depth: 0
@@ -245,12 +245,12 @@ jobs:
         curl -X GET https://www.missionchief-japan.com/api/mission_type_data.json > mtd/ja_JP.json
                 
     - name: json-syntax-check
-      uses: limitusus/json-syntax-check@v1
+      uses: limitusus/json-syntax-check@v2.0.2
       with:
         pattern: "\\.json$"
         
     - name: Prettify code & PUSH
-      uses: creyD/prettier_action@master 
+      uses: creyD/prettier_action@v4.3 
       with:
         prettier_options: --write **/*.{js,md,json}
         commit_message: Update ja_JP
@@ -262,7 +262,7 @@ jobs:
     continue-on-error: true
     needs: ja_JP
     steps:
-    - uses: actions/checkout@v3
+    - uses: actions/checkout@v4.1.4
       with:
         persist-credentials: false
         fetch-depth: 0
@@ -273,12 +273,12 @@ jobs:
         curl -X GET https://www.missionchief-korea.com/api/mission_type_data.json > mtd/ko_KR.json
                 
     - name: json-syntax-check
-      uses: limitusus/json-syntax-check@v1
+      uses: limitusus/json-syntax-check@v2.0.2
       with:
         pattern: "\\.json$"
         
     - name: Prettify code & PUSH
-      uses: creyD/prettier_action@master 
+      uses: creyD/prettier_action@v4.3 
       with:
         prettier_options: --write **/*.{js,md,json}
         commit_message: Update ko_KR
@@ -290,7 +290,7 @@ jobs:
     continue-on-error: true
     needs: ko_KR
     steps:
-    - uses: actions/checkout@v3
+    - uses: actions/checkout@v4.1.4
       with:
         persist-credentials: false
         fetch-depth: 0
@@ -301,12 +301,12 @@ jobs:
         curl -X GET https://www.meldkamerspel.com/api/mission_type_data.json > mtd/nl_NL.json
                 
     - name: json-syntax-check
-      uses: limitusus/json-syntax-check@v1
+      uses: limitusus/json-syntax-check@v2.0.2
       with:
         pattern: "\\.json$"
         
     - name: Prettify code & PUSH
-      uses: creyD/prettier_action@master 
+      uses: creyD/prettier_action@v4.3 
       with:
         prettier_options: --write **/*.{js,md,json}
         commit_message: Update nl_NL
@@ -318,7 +318,7 @@ jobs:
     continue-on-error: true
     needs: nl_NL
     steps:
-    - uses: actions/checkout@v3
+    - uses: actions/checkout@v4.1.4
       with:
         persist-credentials: false
         fetch-depth: 0
@@ -329,12 +329,12 @@ jobs:
         curl -X GET https://www.nodsentralspillet.com/api/mission_type_data.json > mtd/nb_NO.json
                 
     - name: json-syntax-check
-      uses: limitusus/json-syntax-check@v1
+      uses: limitusus/json-syntax-check@v2.0.2
       with:
         pattern: "\\.json$"
         
     - name: Prettify code & PUSH
-      uses: creyD/prettier_action@master 
+      uses: creyD/prettier_action@v4.3 
       with:
         prettier_options: --write **/*.{js,md,json}
         commit_message: Update nb_NO
@@ -346,7 +346,7 @@ jobs:
     continue-on-error: true
     needs: nb_NO
     steps:
-    - uses: actions/checkout@v3
+    - uses: actions/checkout@v4.1.4
       with:
         persist-credentials: false
         fetch-depth: 0
@@ -357,12 +357,12 @@ jobs:
         curl -X GET https://www.operatorratunkowy.pl/api/mission_type_data.json > mtd/pl_PL.json
                 
     - name: json-syntax-check
-      uses: limitusus/json-syntax-check@v1
+      uses: limitusus/json-syntax-check@v2.0.2
       with:
         pattern: "\\.json$"
         
     - name: Prettify code & PUSH
-      uses: creyD/prettier_action@master 
+      uses: creyD/prettier_action@v4.3 
       with:
         prettier_options: --write **/*.{js,md,json}
         commit_message: Update pl_PL
@@ -374,7 +374,7 @@ jobs:
     continue-on-error: true
     needs: pl_PL
     steps:
-    - uses: actions/checkout@v3
+    - uses: actions/checkout@v4.1.4
       with:
         persist-credentials: false
         fetch-depth: 0
@@ -385,12 +385,12 @@ jobs:
         curl -X GET https://www.jogo-operador112.com/api/mission_type_data.json > mtd/pt_PT.json
                 
     - name: json-syntax-check
-      uses: limitusus/json-syntax-check@v1
+      uses: limitusus/json-syntax-check@v2.0.2
       with:
         pattern: "\\.json$"
         
     - name: Prettify code & PUSH
-      uses: creyD/prettier_action@master 
+      uses: creyD/prettier_action@v4.3 
       with:
         prettier_options: --write **/*.{js,md,json}
         commit_message: Update pt_PT
@@ -402,7 +402,7 @@ jobs:
     continue-on-error: true
     needs: pt_PT
     steps:
-    - uses: actions/checkout@v3
+    - uses: actions/checkout@v4.1.4
       with:
         persist-credentials: false
         fetch-depth: 0
@@ -414,12 +414,12 @@ jobs:
        curl -X GET https://www.larmcentralen-spelet.se/alliance_event_types.json > Events/sv_SE.json
                
     - name: json-syntax-check
-      uses: limitusus/json-syntax-check@v1
+      uses: limitusus/json-syntax-check@v2.0.2
       with:
         pattern: "\\.json$"
         
     - name: Prettify code & PUSH
-      uses: creyD/prettier_action@master
+      uses: creyD/prettier_action@v4.3
       with:
         prettier_options: --write **/*.{js,md,json}
         commit_message: Update sv_SE
@@ -431,7 +431,7 @@ jobs:
     continue-on-error: true
     needs: sv_SE
     steps:
-    - uses: actions/checkout@v3
+    - uses: actions/checkout@v4.1.4
       with:
         persist-credentials: false
         fetch-depth: 0
@@ -443,12 +443,12 @@ jobs:
         curl -X GET https://www.missionchief.co.uk/alliance_event_types.json > Events/en_GB.json
                 
     - name: json-syntax-check
-      uses: limitusus/json-syntax-check@v1
+      uses: limitusus/json-syntax-check@v2.0.2
       with:
         pattern: "\\.json$"
         
     - name: Prettify code & PUSH
-      uses: creyD/prettier_action@master
+      uses: creyD/prettier_action@v4.3
       with:
         prettier_options: --write **/*.{js,md,json}
         commit_message: Update en_GB
@@ -460,7 +460,7 @@ jobs:
     continue-on-error: true
     needs: en_GB
     steps:
-    - uses: actions/checkout@v3
+    - uses: actions/checkout@v4.1.4
       with:
         persist-credentials: false
         fetch-depth: 0
@@ -472,12 +472,12 @@ jobs:
         curl -X GET https://www.missionchief.com/alliance_event_types.json > Events/en_US.json
                 
     - name: json-syntax-check
-      uses: limitusus/json-syntax-check@v1
+      uses: limitusus/json-syntax-check@v2.0.2
       with:
         pattern: "\\.json$"
         
     - name: Prettify code & PUSH
-      uses: creyD/prettier_action@master 
+      uses: creyD/prettier_action@v4.3 
       with:
         prettier_options: --write **/*.{js,md,json}
         commit_message: Update en_US
