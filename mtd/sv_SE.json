@@ -1,0 +1,4289 @@
+{
+  "available_mission_values": [
+    {
+      "key": "id",
+      "caption": null,
+      "type": "Integer"
+    },
+    {
+      "key": "caption",
+      "caption": null,
+      "type": "String"
+    },
+    {
+      "key": "fire_value",
+      "caption": null,
+      "type": "Integer"
+    },
+    {
+      "key": "credits",
+      "caption": "Krediter i genomsnitt",
+      "type": "Integer"
+    },
+    {
+      "key": "feuerwache_count",
+      "caption": "Nödvändiga brandstationer",
+      "type": "Integer"
+    },
+    {
+      "key": "poi_type",
+      "caption": "Intressepunkt",
+      "type": "Unknown"
+    },
+    {
+      "key": "icon",
+      "caption": "Ikon",
+      "type": "String"
+    },
+    {
+      "key": "main_building",
+      "caption": null,
+      "type": "Integer"
+    },
+    {
+      "key": "filter_id",
+      "caption": null,
+      "type": "String"
+    },
+    {
+      "key": "award",
+      "caption": null,
+      "type": "Unknown"
+    },
+    {
+      "key": "expansion_missions",
+      "caption": "Uppdrag att utöka",
+      "type": "Unknown"
+    },
+    {
+      "key": "need_lf",
+      "caption": "Nödvändiga släckbilar",
+      "type": "Integer"
+    },
+    {
+      "key": "need_dlk",
+      "caption": "Nödvändiga stegbilar",
+      "type": "Integer"
+    },
+    {
+      "key": "need_dlk_chance",
+      "caption": "Sannolikhet att stegbilar krävs",
+      "type": "Integer"
+    },
+    {
+      "key": "possible_patient",
+      "caption": "Mest Patienter",
+      "type": "Integer"
+    },
+    {
+      "key": "patient_extension_id",
+      "caption": "Patientspecialiseringar",
+      "type": "Unknown"
+    },
+    {
+      "key": "transport_need_quote",
+      "caption": "Sannolikhet att en patient måste transporteras",
+      "type": "Integer"
+    },
+    {
+      "key": "allow_rw_instead_of_lf",
+      "caption": "Lastväxlare kan användas istället för Brandbil",
+      "type": "Boolean"
+    },
+    {
+      "key": "allow_dlk_instead_of_lf",
+      "caption": "Lastväxlare kan användas istället för Brandbil",
+      "type": "Boolean"
+    },
+    {
+      "key": "need_elw1",
+      "caption": "Nödvändiga brandbefäl",
+      "type": "Integer"
+    },
+    {
+      "key": "need_elw1_chance",
+      "caption": "Sannolikhet att brandbefäl krävs",
+      "type": "Integer"
+    },
+    {
+      "key": "brandmeldeanlage_possible",
+      "caption": null,
+      "type": "Boolean"
+    },
+    {
+      "key": "rettungswache_count",
+      "caption": "Nödvändiga ambulansstationer",
+      "type": "Integer"
+    },
+    {
+      "key": "need_rw",
+      "caption": "Nödvändiga Lastväxlare",
+      "type": "Integer"
+    },
+    {
+      "key": "need_gwl2wasser",
+      "caption": "Nödvändiga tankbilar",
+      "type": "Integer"
+    },
+    {
+      "key": "need_gwl2wasser_chance",
+      "caption": "Sannolikhet att tankbilar krävs",
+      "type": "Integer"
+    },
+    {
+      "key": "water_needed",
+      "caption": "Kräver vatten",
+      "type": "Integer"
+    },
+    {
+      "key": "mission_generation_types",
+      "caption": "Uppdragstyp",
+      "type": "Set"
+    },
+    {
+      "key": "additive_value_overlays",
+      "caption": null,
+      "type": "Unknown"
+    },
+    {
+      "key": "police_count",
+      "caption": "Krav på polisstationer",
+      "type": "Integer"
+    },
+    {
+      "key": "need_streifenwagen",
+      "caption": "Nödvändiga polisbilar",
+      "type": "Integer"
+    },
+    {
+      "key": "need_gwgefahrgut",
+      "caption": "Nödvändiga Kemskyddsenhet",
+      "type": "Integer"
+    },
+    {
+      "key": "possible_patient_min",
+      "caption": "Lägsta antal patienter",
+      "type": "Integer"
+    },
+    {
+      "key": "patient_allow_first_responder_full",
+      "caption": "Första enheten på plats kan hantera alla patienter fullt",
+      "type": "Integer"
+    },
+    {
+      "key": "critical_care_quote",
+      "caption": "Sannorlikhet att intensivvård behövs",
+      "type": "Integer"
+    },
+    {
+      "key": "police_value",
+      "caption": null,
+      "type": "Integer"
+    },
+    {
+      "key": "possible_prisoner",
+      "caption": "Högsta antal fångar",
+      "type": "Integer"
+    },
+    {
+      "key": "alliance_mission_caption",
+      "caption": null,
+      "type": "String"
+    },
+    {
+      "key": "only_alliance_mission",
+      "caption": "\nBara som alliansuppdrag",
+      "type": "Boolean"
+    },
+    {
+      "key": "date_start",
+      "caption": "Pågår bara från",
+      "type": "Datetime"
+    },
+    {
+      "key": "need_gwgefahrgut_chance",
+      "caption": "Sannolikhet att Kemskyddsenhet krävs",
+      "type": "Integer"
+    },
+    {
+      "key": "alliance_mission_sort_order",
+      "caption": null,
+      "type": "Integer"
+    },
+    {
+      "key": "allow_without_poi",
+      "caption": "Tillåt utan intressepunkt",
+      "type": "Boolean"
+    },
+    {
+      "key": "date_end",
+      "caption": "Pågår bara fram till ",
+      "type": "Datetime"
+    },
+    {
+      "key": "task_tag",
+      "caption": null,
+      "type": "Symbol"
+    },
+    {
+      "key": "event_mission_type",
+      "caption": null,
+      "type": "Symbol"
+    },
+    {
+      "key": "probability_modifier",
+      "caption": null,
+      "type": "Unknown"
+    },
+    {
+      "key": "patient_modus",
+      "caption": null,
+      "type": "Integer"
+    },
+    {
+      "key": "need_rtw",
+      "caption": "Nödvändiga ambulanser",
+      "type": "Integer"
+    },
+    {
+      "key": "need_gwa",
+      "caption": "Nödvändiga fordon med luftapparater",
+      "type": "Integer"
+    },
+    {
+      "key": "need_gwa_chance",
+      "caption": "Sannolikhet att luftfordon behövs",
+      "type": "Integer"
+    },
+    {
+      "key": "polizeihubschrauber_count",
+      "caption": "Min. Polisflyg",
+      "type": "Integer"
+    },
+    {
+      "key": "need_polizeihubschrauber_chance",
+      "caption": "Sannolikhet att polishelikopter behövs",
+      "type": "Integer"
+    },
+    {
+      "key": "need_polizeihubschrauber",
+      "caption": "Nödvändiga polishelikoptrar",
+      "type": "Integer"
+    },
+    {
+      "key": "need_swat_personal",
+      "caption": "Kräver Insats-personal (Gäller insatsfordon)",
+      "type": "Integer"
+    },
+    {
+      "key": "rth_need_quote",
+      "caption": "Chans till begäran av ambulanshelikopter",
+      "type": "Integer"
+    },
+    {
+      "key": "need_elw2",
+      "caption": "Nödvändiga Räddningsledningsfordon",
+      "type": "Integer"
+    },
+    {
+      "key": "optional_event_mission",
+      "caption": "Evenemangsuppdrag:",
+      "type": "Boolean"
+    },
+    {
+      "key": "max_police_building",
+      "caption": "Högsta antal polisstationer",
+      "type": "Integer"
+    },
+    {
+      "key": "sicherheitswache",
+      "caption": null,
+      "type": "Boolean"
+    },
+    {
+      "key": "duration",
+      "caption": null,
+      "type": "Integer"
+    },
+    {
+      "key": "need_k9",
+      "caption": "Nödvändiga hundenheter",
+      "type": "Integer"
+    },
+    {
+      "key": "need_police_horse",
+      "caption": "Kräver polishästar",
+      "type": "Integer"
+    },
+    {
+      "key": "need_police_horse_only_if_present",
+      "caption": "Polisrytteri krävs om dessa finns tillgängliga",
+      "type": "Boolean"
+    },
+    {
+      "key": "need_k9_chance",
+      "caption": "Sannolikhet att hundenhet krävs",
+      "type": "Integer"
+    },
+    {
+      "key": "possible_prisoner_min",
+      "caption": null,
+      "type": "Integer"
+    },
+    {
+      "key": "personal_min_polizei",
+      "caption": "Minuter i genomsnitt Polispersonal",
+      "type": "Integer"
+    },
+    {
+      "key": "wasser_value",
+      "caption": null,
+      "type": "Integer"
+    },
+    {
+      "key": "wasserrettung_count",
+      "caption": "Krav för sjöräddning",
+      "type": "Integer"
+    },
+    {
+      "key": "need_boot",
+      "caption": "Nödvändiga båtar",
+      "type": "Integer"
+    },
+    {
+      "key": "need_gwtaucher",
+      "caption": "Nödvändiga dykbilar",
+      "type": "Integer"
+    },
+    {
+      "key": "personal_min_feuerwehr",
+      "caption": "Minuter i genomsnitt Brandpersonal",
+      "type": "Integer"
+    },
+    {
+      "key": "ktw_value",
+      "caption": null,
+      "type": "Integer"
+    },
+    {
+      "key": "allow_ktw_instead_of_rtw",
+      "caption": "Lättvårdsambulans kan användas istället för Ambulans",
+      "type": "Boolean"
+    },
+    {
+      "key": "possible_patient_gender",
+      "caption": "Möjligt patientkön",
+      "type": "String"
+    },
+    {
+      "key": "brush_value",
+      "caption": null,
+      "type": "Integer"
+    },
+    {
+      "key": "need_brush_truck",
+      "caption": "Kräver skogsbrandsfordon",
+      "type": "Integer"
+    },
+    {
+      "key": "brush_extension_count",
+      "caption": "Kräver skogsexpansionen",
+      "type": "Integer"
+    },
+    {
+      "key": "followup_missions",
+      "caption": "Följeuppdrag",
+      "type": "Unknown"
+    },
+    {
+      "key": "followup_missions_probabilities",
+      "caption": null,
+      "type": "Unknown"
+    },
+    {
+      "key": "followup_missions_ranges",
+      "caption": null,
+      "type": "Unknown"
+    },
+    {
+      "key": "subsequent_missions",
+      "caption": "Påöljande uppdrag vid avklarat uppdrag",
+      "type": "Unknown"
+    },
+    {
+      "key": "subsequent_missions_probabilities",
+      "caption": null,
+      "type": "Unknown"
+    },
+    {
+      "key": "fire_aviation_count",
+      "caption": "Brandflygsstation",
+      "type": "Integer"
+    },
+    {
+      "key": "need_fire_aviation",
+      "caption": "Kräver brandflygsenhet",
+      "type": "Integer"
+    },
+    {
+      "key": "need_elw2_chance",
+      "caption": "Sannolikhet att Räddningsledningsfordon krävs",
+      "type": "Integer"
+    },
+    {
+      "key": "need_kdow_orgl",
+      "caption": "Kräver Ambulansledningsfordon",
+      "type": "Integer"
+    },
+    {
+      "key": "need_kdow_orgl_chance",
+      "caption": "Sannorlikhet att Ambulansledningsfordon behövs",
+      "type": "Integer"
+    },
+    {
+      "key": "expansion_mission_only",
+      "caption": "Kan bara bli ett expansionsuppdrag av ett annat uppdrag.",
+      "type": "Boolean"
+    },
+    {
+      "key": "need_pump",
+      "caption": "Kräver Motorspruta",
+      "type": "Integer"
+    },
+    {
+      "key": "fire_support_count",
+      "caption": "Kräver brandstödsenhets utbyggnad",
+      "type": "Integer"
+    },
+    {
+      "key": "need_foam",
+      "caption": "Kräver Skumenhet",
+      "type": "Integer"
+    },
+    {
+      "key": "foam_needed",
+      "caption": "Kräver skum",
+      "type": "Integer"
+    },
+    {
+      "key": "fehlalarm_possible",
+      "caption": null,
+      "type": "Boolean"
+    },
+    {
+      "key": "subsequent_mission_only",
+      "caption": "Kan bara vara ett efterföljande uppdrag av ett annat uppdrag",
+      "type": "Boolean"
+    },
+    {
+      "key": "need_traffic_car",
+      "caption": "Kräver trafikpolis",
+      "type": "Integer"
+    },
+    {
+      "key": "traffic_police_count",
+      "caption": "Kräver trafikpolis utbyggnad",
+      "type": "Integer"
+    },
+    {
+      "key": "need_traffic_car_chance",
+      "caption": "Sannolikhet att trafikpolis krävs",
+      "type": "Integer"
+    },
+    {
+      "key": "allow_swat_instead_of_police",
+      "caption": "Insatsfordon kan användas istället för Polis",
+      "type": "Boolean"
+    },
+    {
+      "key": "nef_need_quote",
+      "caption": "Sannolikhet för akutbil",
+      "type": "Integer"
+    },
+    {
+      "key": "detention_unit_count",
+      "caption": "Kräver polisens transportenhet",
+      "type": "Integer"
+    },
+    {
+      "key": "need_bike_police",
+      "caption": "Kräver cykelpolis",
+      "type": "Integer"
+    },
+    {
+      "key": "bike_police_count",
+      "caption": "Kräver cykelpolisutbyggnad",
+      "type": "Integer"
+    },
+    {
+      "key": "need_detention_unit",
+      "caption": "Kräver häktesbuss",
+      "type": "Integer"
+    },
+    {
+      "key": "need_bike_police_chance",
+      "caption": "Sannolikhet att cykelpolis krävs",
+      "type": "Integer"
+    },
+    {
+      "key": "need_bomb",
+      "caption": "Kräver NBS",
+      "type": "Integer"
+    },
+    {
+      "key": "bomb_disposal_count",
+      "caption": "Kräver bombskyddsutbyggnad",
+      "type": "Integer"
+    },
+    {
+      "key": "allow_traffic_car_instead_of_fustw",
+      "caption": "Traffic car can replace Police car",
+      "type": "Boolean"
+    },
+    {
+      "key": "ocean_value",
+      "caption": null,
+      "type": "Integer"
+    },
+    {
+      "key": "coastal_rescue_count",
+      "caption": "Kräver Kustbevakningsstation",
+      "type": "Integer"
+    },
+    {
+      "key": "need_coastal_boat",
+      "caption": "Kräver högfartsfartyg",
+      "type": "Integer"
+    },
+    {
+      "key": "personnel_educations_count",
+      "caption": "Required Personnel Available",
+      "type": "Unknown"
+    },
+    {
+      "key": "required_personnel_educations",
+      "caption": "Required Personnel",
+      "type": "Unknown"
+    },
+    {
+      "key": "custom_spawn_area",
+      "caption": "Anpassat uppdrags spawn-område",
+      "type": "Boolean"
+    },
+    {
+      "key": "groups",
+      "caption": "Begränsade fordonstyper",
+      "type": "Unknown"
+    },
+    {
+      "key": "second_patient_transfer_from",
+      "caption": "Överlämnande av patient och fånge efter uppdrag möjligt till",
+      "type": "Unknown"
+    },
+    {
+      "key": "need_coastal_guard_boat",
+      "caption": "Kräver övervakningsfartyg",
+      "type": "Integer"
+    },
+    {
+      "key": "need_large_coastal_boat",
+      "caption": "Kräver miljöfartyg",
+      "type": "Integer"
+    },
+    {
+      "key": "need_coastal_boat_trailer",
+      "caption": "Kräver pråm",
+      "type": "Integer"
+    },
+    {
+      "key": "need_coastal_boat_hover",
+      "caption": "Kräver svävare",
+      "type": "Integer"
+    },
+    {
+      "key": "airport_count",
+      "caption": "Kräver flygplatsutökningar",
+      "type": "Integer"
+    },
+    {
+      "key": "need_arff",
+      "caption": "Kräver Haveribil",
+      "type": "Integer"
+    },
+    {
+      "key": "allow_piercing_nozzle_instead_of_arff",
+      "caption": "Vattenskärare kan användas istället för Haveribil",
+      "type": "Boolean"
+    },
+    {
+      "key": "need_riv",
+      "caption": "Kräver Första Insats Bil",
+      "type": "Integer"
+    },
+    {
+      "key": "airport_2_count",
+      "caption": "Kräver förlängningar för Vattenskärare",
+      "type": "Integer"
+    },
+    {
+      "key": "need_piercing_nozzle",
+      "caption": "Erforderliga Vattenskärare",
+      "type": "Integer"
+    },
+    {
+      "key": "allow_arff_instead_of_lf",
+      "caption": "Haveribil kan användas istället för Släckbilar",
+      "type": "Boolean"
+    },
+    {
+      "key": "allow_riv_instead_of_lf",
+      "caption": "Första Insats Bil kan användas istället för Släckbilar",
+      "type": "Boolean"
+    },
+    {
+      "key": "need_hose",
+      "caption": "Kräver Slangbil",
+      "type": "Integer"
+    },
+    {
+      "key": "minutes_value",
+      "caption": null,
+      "type": "Integer"
+    },
+    {
+      "key": "water_damage_pump_count",
+      "caption": "Kräver Vattenskada pumpförlängning behövs",
+      "type": "Integer"
+    },
+    {
+      "key": "water_damage_pump_value",
+      "caption": "Vatten till pumpen",
+      "type": "Integer"
+    },
+    {
+      "key": "min_pump_speed",
+      "caption": "Min. pumpkapacitet",
+      "type": "Integer"
+    },
+    {
+      "key": "need_flood_equipment",
+      "caption": "Kräver släpvagnar för översvämningutrustning",
+      "type": "Integer"
+    },
+    {
+      "key": "need_rw_chance",
+      "caption": "Sannolikhet att Lastväxlare krävs",
+      "type": "Integer"
+    }
+  ],
+  "pois": [
+    {
+      "id": 0,
+      "caption": "Park"
+    },
+    {
+      "id": 1,
+      "caption": "Sjö"
+    },
+    {
+      "id": 2,
+      "caption": "Sjukhus"
+    },
+    {
+      "id": 3,
+      "caption": "Skog"
+    },
+    {
+      "id": 4,
+      "caption": "Busshållplats"
+    },
+    {
+      "id": 5,
+      "caption": "Spårvagnshållplats"
+    },
+    {
+      "id": 6,
+      "caption": "Tågstation (regionaltåg)"
+    },
+    {
+      "id": 7,
+      "caption": "Tågstation (regional- och fjärrtåg)"
+    },
+    {
+      "id": 8,
+      "caption": "Varustation"
+    },
+    {
+      "id": 9,
+      "caption": "Mataffär"
+    },
+    {
+      "id": 10,
+      "caption": "Stormarknad"
+    },
+    {
+      "id": 11,
+      "caption": "Bensinmack"
+    },
+    {
+      "id": 12,
+      "caption": "Skola"
+    },
+    {
+      "id": 13,
+      "caption": "Museum"
+    },
+    {
+      "id": 14,
+      "caption": "Köpcentrum"
+    },
+    {
+      "id": 15,
+      "caption": "Bilverkstad"
+    },
+    {
+      "id": 16,
+      "caption": "Avfart"
+    },
+    {
+      "id": 17,
+      "caption": "Julmarknad"
+    },
+    {
+      "id": 18,
+      "caption": "Lagerbyggnad"
+    },
+    {
+      "id": 19,
+      "caption": "Nattklubb"
+    },
+    {
+      "id": 20,
+      "caption": "Arena"
+    },
+    {
+      "id": 21,
+      "caption": "Bondgård"
+    },
+    {
+      "id": 22,
+      "caption": "Kontorsbyggnad"
+    },
+    {
+      "id": 23,
+      "caption": "Badhus"
+    },
+    {
+      "id": 24,
+      "caption": "Järnvägsövergång"
+    },
+    {
+      "id": 25,
+      "caption": "Teater"
+    },
+    {
+      "id": 26,
+      "caption": "Nöjesfält"
+    },
+    {
+      "id": 27,
+      "caption": "Flod"
+    },
+    {
+      "id": 28,
+      "caption": "Liten startbana"
+    },
+    {
+      "id": 29,
+      "caption": "Stor startbana"
+    },
+    {
+      "id": 30,
+      "caption": "Flygplatsterminal"
+    },
+    {
+      "id": 31,
+      "caption": "Bank"
+    },
+    {
+      "id": 32,
+      "caption": "Varuhus"
+    },
+    {
+      "id": 33,
+      "caption": "Bro"
+    },
+    {
+      "id": 34,
+      "caption": "Snabbmatsrestaurang"
+    },
+    {
+      "id": 35,
+      "caption": "Fraktgodshamn"
+    },
+    {
+      "id": 36,
+      "caption": "Återvinningscentral"
+    },
+    {
+      "id": 37,
+      "caption": "Höghus"
+    },
+    {
+      "id": 38,
+      "caption": "Kryssningshamn"
+    },
+    {
+      "id": 39,
+      "caption": "Småbåtshamn"
+    },
+    {
+      "id": 40,
+      "caption": "Järnvägskorsning"
+    },
+    {
+      "id": 41,
+      "caption": "Tunnel"
+    },
+    {
+      "id": 42,
+      "caption": "Fryshus"
+    },
+    {
+      "id": 43,
+      "caption": "Kraftverk"
+    },
+    {
+      "id": 44,
+      "caption": "Fabrik"
+    },
+    {
+      "id": 45,
+      "caption": "Skrotupplag"
+    },
+    {
+      "id": 46,
+      "caption": "Tunnelbanestation"
+    },
+    {
+      "id": 47,
+      "caption": "Liten kemikalietank"
+    },
+    {
+      "id": 48,
+      "caption": "Stor kemikalietank"
+    },
+    {
+      "id": 49,
+      "caption": "Hotell"
+    },
+    {
+      "id": 50,
+      "caption": "Bar"
+    },
+    {
+      "id": 51,
+      "caption": "Soptipp"
+    },
+    {
+      "id": 52,
+      "caption": "Parkeringshus"
+    },
+    {
+      "id": 53,
+      "caption": "Silo"
+    },
+    {
+      "id": 54,
+      "caption": "Centrum"
+    },
+    {
+      "id": 55,
+      "caption": "Torg"
+    },
+    {
+      "id": 56,
+      "caption": "Lägenhetskomplex"
+    },
+    {
+      "id": 57,
+      "caption": "Lekpark"
+    },
+    {
+      "id": 58,
+      "caption": "Eldstad"
+    },
+    {
+      "id": 59,
+      "caption": "Skogsstuga"
+    },
+    {
+      "id": 60,
+      "caption": "Kärnkraftverk"
+    },
+    {
+      "id": 61,
+      "caption": "Motorcross bana"
+    },
+    {
+      "id": 62,
+      "caption": "Skyddad bostad"
+    },
+    {
+      "id": 63,
+      "caption": "Sågverk"
+    },
+    {
+      "id": 64,
+      "caption": "Oljeraffinaderi"
+    },
+    {
+      "id": 65,
+      "caption": "Kyrka"
+    },
+    {
+      "id": 66,
+      "caption": "Strand"
+    },
+    {
+      "id": 67,
+      "caption": "Ö"
+    },
+    {
+      "id": 68,
+      "caption": "Kust"
+    },
+    {
+      "id": 69,
+      "caption": "Damm"
+    },
+    {
+      "id": 70,
+      "caption": "Bibliotek"
+    },
+    {
+      "id": 71,
+      "caption": "Akvarium"
+    },
+    {
+      "id": 72,
+      "caption": "Fängelse"
+    },
+    {
+      "id": 73,
+      "caption": "Bastu"
+    },
+    {
+      "id": 74,
+      "caption": "Tvättstuga"
+    },
+    {
+      "id": 75,
+      "caption": "Rörledning"
+    }
+  ],
+  "available_icons": [
+    "fire",
+    "sawmill",
+    "caraccident",
+    "oil",
+    "medicalstore",
+    "theft",
+    "baseball",
+    "cat",
+    "planecrash",
+    "dancinghall",
+    "blast",
+    "bus",
+    "xmas",
+    "constructioncrane",
+    "icy_road",
+    "climbing",
+    "fallingrocks",
+    "clock",
+    "zoom",
+    "shooting",
+    "cannabis",
+    "stadium",
+    "waterpark",
+    "elevator",
+    "river",
+    "ambulance",
+    "bar_cocktail",
+    "ghost",
+    "glasses",
+    "tramway",
+    "gas",
+    "radiation",
+    "paragliding",
+    "soccer",
+    "comment",
+    "autumn",
+    "spring",
+    "cruiseship",
+    "snowy",
+    "cuffs",
+    "flood"
+  ],
+  "building_types": [
+    {
+      "id": 0,
+      "caption": "Brandstation",
+      "key": "BUILDING_TYPE_FEUERWACHE",
+      "extensions": [
+        {
+          "id": 0,
+          "caption": "Ambulansutbyggnad"
+        },
+        {
+          "id": 1,
+          "caption": "Sjöräddning"
+        },
+        {
+          "id": 2,
+          "caption": "Skogsexpansionen"
+        },
+        {
+          "id": 3,
+          "caption": "Brandstöds Expansionen"
+        },
+        {
+          "id": 4,
+          "caption": "Utbyggnad av flygplatsen"
+        },
+        {
+          "id": 5,
+          "caption": "Uttbyggnad för Vattenskärare"
+        },
+        {
+          "id": 6,
+          "caption": "Vattenskada pumpförlängning"
+        },
+        {
+          "id": 7,
+          "caption": "Stor brandstation"
+        }
+      ]
+    },
+    {
+      "id": 1,
+      "caption": "Räddningsskola",
+      "key": "BUILDING_TYPE_FEUERWEHRSCHULE",
+      "extensions": [
+        {
+          "id": 0,
+          "caption": "Fler klassrum"
+        },
+        {
+          "id": 1,
+          "caption": "Fler klassrum"
+        },
+        {
+          "id": 2,
+          "caption": "Fler klassrum"
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "caption": "Ambulansstation",
+      "key": "BUILDING_TYPE_RETTUNGSWACHE",
+      "extensions": [
+        {
+          "id": 0,
+          "caption": "Intensivvårdsavdelning"
+        },
+        {
+          "id": 1,
+          "caption": "Stor ambulansstation"
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "caption": "Vård- och hälsohögskola",
+      "key": "BUILDING_TYPE_RETTUNGSSCHULE",
+      "extensions": [
+        {
+          "id": 0,
+          "caption": "Fler klassrum"
+        },
+        {
+          "id": 1,
+          "caption": "Fler klassrum"
+        },
+        {
+          "id": 2,
+          "caption": "Fler klassrum"
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "caption": "Sjukhus",
+      "key": "BUILDING_TYPE_HOSPITAL",
+      "extensions": [
+        {
+          "id": 0,
+          "caption": "Invärtesmedicinare"
+        },
+        {
+          "id": 1,
+          "caption": "Allmänkirurg"
+        },
+        {
+          "id": 2,
+          "caption": "Gynekologi"
+        },
+        {
+          "id": 3,
+          "caption": "Urologi"
+        },
+        {
+          "id": 4,
+          "caption": "Traumatologi"
+        },
+        {
+          "id": 5,
+          "caption": "Neurologi"
+        },
+        {
+          "id": 6,
+          "caption": "Neurokirurgi"
+        },
+        {
+          "id": 7,
+          "caption": "Kardiologi"
+        },
+        {
+          "id": 8,
+          "caption": "Hjärtkirurgi"
+        },
+        {
+          "id": 9,
+          "caption": "Stort sjukhus"
+        }
+      ]
+    },
+    {
+      "id": 5,
+      "caption": "Ambulanshelikopterstation",
+      "key": "BUILDING_TYPE_NOTARZTHUBSCHRAUBERLANDEPLATZ"
+    },
+    {
+      "id": 6,
+      "caption": "Polisstation",
+      "key": "BUILDING_TYPE_POLIZEIWACHE",
+      "extensions": [
+        {
+          "id": 0,
+          "caption": "Fängelsecell"
+        },
+        {
+          "id": 1,
+          "caption": "Fler celler"
+        },
+        {
+          "id": 2,
+          "caption": "Fler celler"
+        },
+        {
+          "id": 3,
+          "caption": "Fler celler"
+        },
+        {
+          "id": 4,
+          "caption": "Fler celler"
+        },
+        {
+          "id": 5,
+          "caption": "Fler celler"
+        },
+        {
+          "id": 6,
+          "caption": "Fler celler"
+        },
+        {
+          "id": 7,
+          "caption": "Fler celler"
+        },
+        {
+          "id": 8,
+          "caption": "Fler celler"
+        },
+        {
+          "id": 9,
+          "caption": "Fler celler"
+        },
+        {
+          "id": 10,
+          "caption": "Trafikpolisutbyggnad"
+        },
+        {
+          "id": 11,
+          "caption": "Cykelpolisutbyggnad"
+        },
+        {
+          "id": 12,
+          "caption": "Bombskyddsutbyggnad"
+        },
+        {
+          "id": 13,
+          "caption": "Yttrebefäl"
+        },
+        {
+          "id": 14,
+          "caption": "Polisens transportenhet"
+        },
+        {
+          "id": 15,
+          "caption": "Stor polisstation"
+        },
+        {
+          "id": 16,
+          "caption": "Stort fängelse"
+        }
+      ]
+    },
+    {
+      "id": 7,
+      "caption": "Svarpunkt",
+      "key": "BUILDING_TYPE_LEITSTELLE"
+    },
+    {
+      "id": 8,
+      "caption": "Polishögskola",
+      "key": "BUILDING_TYPE_POLIZEISCHULE",
+      "extensions": [
+        {
+          "id": 0,
+          "caption": "Fler klassrum"
+        },
+        {
+          "id": 1,
+          "caption": "Fler klassrum"
+        },
+        {
+          "id": 2,
+          "caption": "Fler klassrum"
+        }
+      ]
+    },
+    {
+      "id": null,
+      "caption": null,
+      "key": null
+    },
+    {
+      "id": null,
+      "caption": null,
+      "key": null
+    },
+    {
+      "id": null,
+      "caption": null,
+      "key": null
+    },
+    {
+      "id": null,
+      "caption": null,
+      "key": null
+    },
+    {
+      "id": 13,
+      "caption": "Polisflyg",
+      "key": "BUILDING_TYPE_POLIZEIHUBSCHRAUBERLANDEPLATZ"
+    },
+    {
+      "id": 14,
+      "caption": "Uppsamlingsområde",
+      "key": "BUILDING_TYPE_BEREITSTELLUNGSRAUM"
+    },
+    {
+      "id": null,
+      "caption": null,
+      "key": null
+    },
+    {
+      "id": 16,
+      "caption": "Häkte",
+      "key": "BUILDING_TYPE_POLIZEIZELLE",
+      "extensions": [
+        {
+          "id": 0,
+          "caption": "Fängelsecell"
+        },
+        {
+          "id": 1,
+          "caption": "Fler celler"
+        },
+        {
+          "id": 2,
+          "caption": "Fler celler"
+        },
+        {
+          "id": 3,
+          "caption": "Fler celler"
+        },
+        {
+          "id": 4,
+          "caption": "Fler celler"
+        },
+        {
+          "id": 5,
+          "caption": "Fler celler"
+        },
+        {
+          "id": 6,
+          "caption": "Fler celler"
+        },
+        {
+          "id": 7,
+          "caption": "Fler celler"
+        },
+        {
+          "id": 8,
+          "caption": "Fler celler"
+        },
+        {
+          "id": 9,
+          "caption": "Fler celler"
+        },
+        {
+          "id": 10,
+          "caption": "Fler celler"
+        },
+        {
+          "id": 11,
+          "caption": "Fler celler"
+        },
+        {
+          "id": 12,
+          "caption": "Fler celler"
+        },
+        {
+          "id": 13,
+          "caption": "Fler celler"
+        },
+        {
+          "id": 14,
+          "caption": "Fler celler"
+        },
+        {
+          "id": 15,
+          "caption": "Fler celler"
+        },
+        {
+          "id": 16,
+          "caption": "Fler celler"
+        },
+        {
+          "id": 17,
+          "caption": "Fler celler"
+        },
+        {
+          "id": 18,
+          "caption": "Fler celler"
+        },
+        {
+          "id": 19,
+          "caption": "Fler celler"
+        },
+        {
+          "id": 20,
+          "caption": "Stort fängelse"
+        }
+      ]
+    },
+    {
+      "id": null,
+      "caption": null,
+      "key": null
+    },
+    {
+      "id": 18,
+      "caption": "Brandstation (liten)",
+      "key": "BUILDING_TYPE_FEUERWACHE_KLEINWACHE"
+    },
+    {
+      "id": 19,
+      "caption": "Polisstation (liten)",
+      "key": "BUILDING_TYPE_POLIZEIWACHE_KLEINWACHE"
+    },
+    {
+      "id": 20,
+      "caption": "Ambulansstation (liten)",
+      "key": "BUILDING_TYPE_RETTUNGSWACHE_KLEINWACHE"
+    },
+    {
+      "id": 21,
+      "caption": "Brandflygsstation",
+      "key": "BUILDING_TYPE_FIRE_AVIATION_STATION"
+    },
+    {
+      "id": 22,
+      "caption": "\u003Cspan class=\"translation_missing localeapp\" title=\"translation missing: sv_SE.buildings.building_type.building_complex\"\u003EBuilding Complex\u003C/span\u003E",
+      "key": "BUILDING_TYPE_COMPLEX"
+    },
+    {
+      "id": 23,
+      "caption": "\u003Cspan class=\"translation_missing localeapp\" title=\"translation missing: sv_SE.buildings.building_type.building_complex\"\u003EBuilding Complex\u003C/span\u003E",
+      "key": "BUILDING_TYPE_COMPLEX_SMALL"
+    },
+    {
+      "id": 24,
+      "caption": "Kustbevakningsstation",
+      "key": "BUILDING_TYPE_COASTAL_RESCUE"
+    },
+    {
+      "id": 25,
+      "caption": "Sjöfartshögsskolan",
+      "key": "BUILDING_TYPE_WATER_RESCUE_SCHOOL",
+      "extensions": [
+        {
+          "id": 0,
+          "caption": "Fler klassrum"
+        },
+        {
+          "id": 1,
+          "caption": "Fler klassrum"
+        },
+        {
+          "id": 2,
+          "caption": "Fler klassrum"
+        }
+      ]
+    },
+    {
+      "id": 26,
+      "caption": "Kustflygsstation",
+      "key": "BUILDING_TYPE_WATER_RESCUE_HELIPORT",
+      "extensions": [
+        {
+          "id": 0,
+          "caption": "Flyghangar"
+        },
+        {
+          "id": 1,
+          "caption": "Ytterligare hangar för flygplan"
+        },
+        {
+          "id": 2,
+          "caption": "Ytterligare hangar för flygplan"
+        },
+        {
+          "id": 3,
+          "caption": "Ytterligare hangar för flygplan"
+        }
+      ]
+    }
+  ],
+  "awards": [
+    {
+      "id": 0,
+      "caption": "Släckta sopbränder",
+      "key": null
+    },
+    {
+      "id": 1,
+      "caption": "Spelartid",
+      "key": null
+    },
+    {
+      "id": 2,
+      "caption": "Räddade liv",
+      "key": null
+    },
+    {
+      "id": 3,
+      "caption": "Snabbsläckta",
+      "key": null
+    },
+    {
+      "id": 4,
+      "caption": "Forumnisse",
+      "key": null
+    },
+    {
+      "id": 5,
+      "caption": "Chattnisse",
+      "key": null
+    },
+    {
+      "id": 6,
+      "caption": "Påskäggshittare",
+      "key": null
+    },
+    {
+      "id": 9,
+      "caption": "Halloweenuppdrag",
+      "key": "AWARD_HALLOWEEN"
+    },
+    {
+      "id": 10,
+      "caption": "Juluppdrag",
+      "key": "AWARD_CHRISTMAS"
+    },
+    {
+      "id": 11,
+      "caption": "Nyårsuppdrag",
+      "key": "AWARD_NEW_YEARS"
+    },
+    {
+      "id": 12,
+      "caption": "Påskhareuppdrag",
+      "key": "AWARD_EASTER_MISSIONS"
+    },
+    {
+      "id": 13,
+      "caption": "Hittade pumpor",
+      "key": "AWARD_HALLOWEEN_HUNT"
+    },
+    {
+      "id": 14,
+      "caption": "Jubileum!",
+      "key": null
+    },
+    {
+      "id": 15,
+      "caption": "Alla hjärtans dag",
+      "key": "AWARD_VALENTINES"
+    },
+    {
+      "id": 16,
+      "caption": "Mors dag uppdrag",
+      "key": "AWARD_MOTHERS_DAY_MISSIONS"
+    },
+    {
+      "id": 17,
+      "caption": "Fotbolls-EM 2021",
+      "key": "AWARD_EM2021_MISSIONS"
+    },
+    {
+      "id": 18,
+      "caption": "Sommareventpris",
+      "key": "AWARD_SUMMER_MISSIONS"
+    },
+    {
+      "id": 19,
+      "caption": "Höstevenemang",
+      "key": "AWARD_FALL_MISSIONS"
+    },
+    {
+      "id": 20,
+      "caption": "Jubileum!",
+      "key": "AWARD_ANNIVERSARY_2YEARS"
+    },
+    {
+      "id": 21,
+      "caption": "Den europeiska 112-dagen",
+      "key": "AWARD_EUROPEAN_112_DAY"
+    },
+    {
+      "id": 22,
+      "caption": "Vårevenemangsuppdrag",
+      "key": "AWARD_SPRING_MISSIONS"
+    },
+    {
+      "id": 23,
+      "caption": "Jubileum!",
+      "key": "AWARD_ANNIVERSARY_3YEARS"
+    },
+    {
+      "id": 24,
+      "caption": "Juluppdrag 2022",
+      "key": "AWARD_CHRISTMAS2022"
+    },
+    {
+      "id": 25,
+      "caption": "Vinterevenemang 2022",
+      "key": "AWARD_WINTER_MISSIONS"
+    },
+    {
+      "id": 26,
+      "caption": "Nytt år 2022",
+      "key": "AWARD_NEWYEAR2022"
+    },
+    {
+      "id": 27,
+      "caption": "Alla hjärtans dag 2023",
+      "key": "AWARD_VALENTINES_MISSIONS_2023"
+    },
+    {
+      "id": 28,
+      "caption": "Hjärtjägare",
+      "key": "AWARD_VALENTINES_COLLECTION"
+    },
+    {
+      "id": 29,
+      "caption": "Den europeiska 112-dagen (2023)",
+      "key": "AWARD_EUROPEAN_112_DAY_2023"
+    },
+    {
+      "id": 30,
+      "caption": "Vårevenemangsuppdrag 2023",
+      "key": "AWARD_SPRING_MISSIONS_2023"
+    },
+    {
+      "id": 31,
+      "caption": "Påskäggshittare 2023",
+      "key": "AWARD_EASTER_COLLECTION_2023"
+    },
+    {
+      "id": 32,
+      "caption": "Påskhareuppdrag 2023",
+      "key": "AWARD_EASTER_MISSIONS_2023"
+    },
+    {
+      "id": 33,
+      "caption": "Mors dag uppdrag 2023",
+      "key": "AWARD_MOTHERS_DAY_MISSIONS_2023"
+    },
+    {
+      "id": 34,
+      "caption": "Sommarevenemang 2023",
+      "key": "AWARD_SUMMER_MISSIONS_2023"
+    },
+    {
+      "id": 35,
+      "caption": "Fotbollsevenemang 2023",
+      "key": "AWARD_WC2023_MISSIONS"
+    },
+    {
+      "id": 36,
+      "caption": "Solrosentusiast 2023",
+      "key": "AWARD_SUMMER_COLLECTION_2023"
+    },
+    {
+      "id": 37,
+      "caption": "Alliansens utmaning 2023",
+      "key": "AWARD_ALLIANCE_CHALLENGE_2023"
+    },
+    {
+      "id": 38,
+      "caption": "Höstens uppdrag 2023",
+      "key": "AWARD_AUTUMN_MISSIONS_2023"
+    },
+    {
+      "id": 39,
+      "caption": "Långvarig supporter",
+      "key": "AWARD_PREMIUM_LEGACY"
+    },
+    {
+      "id": 40,
+      "caption": "1-Månads VIP",
+      "key": "AWARD_PREMIUM_1_MONTH"
+    },
+    {
+      "id": 41,
+      "caption": "3-Månaders VIP",
+      "key": "AWARD_PREMIUM_3_MONTH"
+    },
+    {
+      "id": 42,
+      "caption": "6-Månaders VIP",
+      "key": "AWARD_PREMIUM_6_MONTH"
+    },
+    {
+      "id": 43,
+      "caption": "1-Års VIP",
+      "key": "AWARD_PREMIUM_1_YEAR"
+    },
+    {
+      "id": 44,
+      "caption": "2-År VIP",
+      "key": "AWARD_PREMIUM_2_YEAR"
+    },
+    {
+      "id": 45,
+      "caption": "3-År VIP",
+      "key": "AWARD_PREMIUM_3_YEAR"
+    },
+    {
+      "id": 46,
+      "caption": "4-År VIP",
+      "key": "AWARD_PREMIUM_4_YEAR"
+    },
+    {
+      "id": 47,
+      "caption": "5-År VIP",
+      "key": "AWARD_PREMIUM_5_YEAR"
+    },
+    {
+      "id": 48,
+      "caption": "6-År VIP",
+      "key": "AWARD_PREMIUM_6_YEAR"
+    },
+    {
+      "id": 49,
+      "caption": "7-År VIP",
+      "key": "AWARD_PREMIUM_7_YEAR"
+    },
+    {
+      "id": 50,
+      "caption": "8-År VIP",
+      "key": "AWARD_PREMIUM_8_YEAR"
+    },
+    {
+      "id": 51,
+      "caption": "9-År VIP",
+      "key": "AWARD_PREMIUM_9_YEAR"
+    },
+    {
+      "id": 52,
+      "caption": "10-År VIP",
+      "key": "AWARD_PREMIUM_10_YEAR"
+    },
+    {
+      "id": 53,
+      "caption": "11-År VIP",
+      "key": "AWARD_PREMIUM_11_YEAR"
+    },
+    {
+      "id": 54,
+      "caption": "12-År VIP",
+      "key": "AWARD_PREMIUM_12_YEAR"
+    },
+    {
+      "id": 55,
+      "caption": "13-År VIP",
+      "key": "AWARD_PREMIUM_13_YEAR"
+    },
+    {
+      "id": 56,
+      "caption": "14-År VIP",
+      "key": "AWARD_PREMIUM_14_YEAR"
+    },
+    {
+      "id": 57,
+      "caption": "15-År VIP",
+      "key": "AWARD_PREMIUM_15_YEAR"
+    },
+    {
+      "id": 58,
+      "caption": "16-År VIP",
+      "key": "AWARD_PREMIUM_16_YEAR"
+    },
+    {
+      "id": 59,
+      "caption": "17-År VIP",
+      "key": "AWARD_PREMIUM_17_YEAR"
+    },
+    {
+      "id": 60,
+      "caption": "18-År VIP",
+      "key": "AWARD_PREMIUM_18_YEAR"
+    },
+    {
+      "id": 61,
+      "caption": "19-År VIP",
+      "key": "AWARD_PREMIUM_19_YEAR"
+    },
+    {
+      "id": 62,
+      "caption": "20-År VIP",
+      "key": "AWARD_PREMIUM_20_YEAR"
+    },
+    {
+      "id": 63,
+      "caption": "Halloween 2023",
+      "key": "AWARD_HALLOWEEN_2023"
+    },
+    {
+      "id": 64,
+      "caption": "Hittade pumpor 2023",
+      "key": "AWARD_HALLOWEEN_HUNT_2023"
+    },
+    {
+      "id": 65,
+      "caption": "4-årsjubileum!",
+      "key": "AWARD_FOURYEARS"
+    },
+    {
+      "id": 66,
+      "caption": "Juluppdrag 2023",
+      "key": "AWARD_CHRISTMAS_2023"
+    },
+    {
+      "id": 67,
+      "caption": "Julsamlare 2023",
+      "key": "AWARD_CHRISTMAS_COLLECTION_2023"
+    },
+    {
+      "id": 68,
+      "caption": "Nytt år 2023",
+      "key": "AWARD_NEWYEAR2023"
+    },
+    {
+      "id": 69,
+      "caption": "Vinterevenemang 2024",
+      "key": "AWARD_WINTER_2024"
+    },
+    {
+      "id": 70,
+      "caption": "Alliance Challenge Januari 2024",
+      "key": "AWARD_ALLIANCE_CHALLENGE_JAN_2024"
+    },
+    {
+      "id": 71,
+      "caption": "Alla hjärtans dag 2024",
+      "key": "AWARD_VALENTINES_MISSIONS_2024"
+    },
+    {
+      "id": 72,
+      "caption": "Hjärtjägare 2024",
+      "key": "AWARD_VALENTINES_COLLECTION_2024"
+    },
+    {
+      "id": 73,
+      "caption": "Den europeiska 112-dagen (2024)",
+      "key": "AWARD_EUROPEAN_112_DAY_2024"
+    },
+    {
+      "id": 74,
+      "caption": "Polisens utmaning februari 2024",
+      "key": "AWARD_POLICE_CHALLENGE_FEB_2024"
+    },
+    {
+      "id": 75,
+      "caption": "Alliance Challenge mars 2024",
+      "key": "AWARD_ALLIANCE_CHALLENGE_MAR_2024"
+    },
+    {
+      "id": 76,
+      "caption": "Påskäggshittare 2024",
+      "key": "AWARD_EASTER_COLLECTION_2024"
+    },
+    {
+      "id": 77,
+      "caption": "Påskhareuppdrag 2024",
+      "key": "AWARD_EASTER_MISSIONS_2024"
+    },
+    {
+      "id": 78,
+      "caption": "Vårevenemangsuppdrag 2024",
+      "key": "AWARD_SPRING_MISSIONS_2024"
+    },
+    {
+      "id": 79,
+      "caption": "Alliansutmaning April 2024",
+      "key": "AWARD_ALLIANCE_CHALLENGE_APR_2024"
+    }
+  ],
+  "filter_types": [
+    {
+      "key": "firehouse_missions",
+      "caption": "Brandstation"
+    },
+    {
+      "key": "police_station_missions",
+      "caption": "Polisstation"
+    },
+    {
+      "key": "rapid_deployment_group_missions",
+      "caption": "Rapid Deployment Group"
+    },
+    {
+      "key": "riot_police_missions",
+      "caption": "Kravallpolis"
+    },
+    {
+      "key": "ambulance_station_missions",
+      "caption": "Ambulansstation"
+    },
+    {
+      "key": "technical_aid_organization_missions",
+      "caption": "Technical Aid Organization"
+    },
+    {
+      "key": "water_watch_missions",
+      "caption": "Vattenräddning"
+    },
+    {
+      "key": "factory_fire_brigade_missions",
+      "caption": "Factory Fire Brigade"
+    },
+    {
+      "key": "federal_police_missions",
+      "caption": "Federal Police Station"
+    },
+    {
+      "key": "coastal_rescue_missions",
+      "caption": "Kusträddning"
+    },
+    {
+      "key": "technical_aid_missions",
+      "caption": "Technical Aid Missions"
+    },
+    {
+      "key": "swat_missions",
+      "caption": "GIGN"
+    }
+  ],
+  "existing_mission_captions": [
+    {
+      "id": 0,
+      "caption": "Brand ute - soptunna"
+    },
+    {
+      "id": 1,
+      "caption": "Brand ute - container"
+    },
+    {
+      "id": 2,
+      "caption": "Brand ute - fordon, personbil"
+    },
+    {
+      "id": 3,
+      "caption": "Brand ute - fordon, motorcykel"
+    },
+    {
+      "id": 4,
+      "caption": "Brand ute - terräng, gräsbrand"
+    },
+    {
+      "id": 5,
+      "caption": "Brand i byggnad - flerfamiljshus, lägenhet"
+    },
+    {
+      "id": 6,
+      "caption": "Brand i byggnad - mindre, fristående"
+    },
+    {
+      "id": 7,
+      "caption": "Brand ute - löv"
+    },
+    {
+      "id": 8,
+      "caption": "Brand ute - sopor"
+    },
+    {
+      "id": 9,
+      "caption": "Brand ute - höbal"
+    },
+    {
+      "id": 10,
+      "caption": "Brand ute - fordon, arbetsmaskin"
+    },
+    {
+      "id": 11,
+      "caption": "Brand ute - telefonkiosk"
+    },
+    {
+      "id": 12,
+      "caption": "Hinder på väg"
+    },
+    {
+      "id": 13,
+      "caption": "Brand ute - fordon, lastbil"
+    },
+    {
+      "id": 14,
+      "caption": "Brand ute - terräng, skogsbrand"
+    },
+    {
+      "id": 15,
+      "caption": "Brand ute - terräng"
+    },
+    {
+      "id": 16,
+      "caption": "Brand ute - fordon, husvagn"
+    },
+    {
+      "id": 17,
+      "caption": "Brand ute - postlåda"
+    },
+    {
+      "id": 18,
+      "caption": "Brand ute - rishög"
+    },
+    {
+      "id": 19,
+      "caption": "Brand ute - fordon, släpvagn"
+    },
+    {
+      "id": 20,
+      "caption": "Brand i byggnad - flerfamiljshus, källare"
+    },
+    {
+      "id": 21,
+      "caption": "Soteld"
+    },
+    {
+      "id": 22,
+      "caption": "Brand i byggnad - flerfamiljshus, vind"
+    },
+    {
+      "id": 23,
+      "caption": "Brinnande fett"
+    },
+    {
+      "id": 24,
+      "caption": "Brand ute - busskur"
+    },
+    {
+      "id": 25,
+      "caption": "Trafikolycka - singel"
+    },
+    {
+      "id": 26,
+      "caption": "Brand i byggnad - publik lokal, mataffär"
+    },
+    {
+      "id": 27,
+      "caption": "Brand i byggnad - parkeringshus"
+    },
+    {
+      "id": 28,
+      "caption": "Brand i byggnad - industri, maskin"
+    },
+    {
+      "id": 29,
+      "caption": "Utsläpp farligt ämne - övrigt"
+    },
+    {
+      "id": 30,
+      "caption": "Utsläpp farligt ämne - gas"
+    },
+    {
+      "id": 31,
+      "caption": "Brand i byggnad - villa"
+    },
+    {
+      "id": 32,
+      "caption": "Brand ute - fordon, skördetröska"
+    },
+    {
+      "id": 33,
+      "caption": "Brand i byggnad - publik lokal, mataffär"
+    },
+    {
+      "id": 34,
+      "caption": "Brand i byggnad - vård, sjukhus"
+    },
+    {
+      "id": 35,
+      "caption": "Alkoholförgiftning"
+    },
+    {
+      "id": 36,
+      "caption": "Bröstsmärta"
+    },
+    {
+      "id": 37,
+      "caption": "Andningsbesvär"
+    },
+    {
+      "id": 38,
+      "caption": "Misstänkt stroke"
+    },
+    {
+      "id": 39,
+      "caption": "Akut buk"
+    },
+    {
+      "id": 40,
+      "caption": "Trauma"
+    },
+    {
+      "id": 41,
+      "caption": "Brand i byggnad - industri, verkstad"
+    },
+    {
+      "id": 42,
+      "caption": "Misstänkt fraktur"
+    },
+    {
+      "id": 43,
+      "caption": "Fallolycka"
+    },
+    {
+      "id": 44,
+      "caption": "Stöld"
+    },
+    {
+      "id": 45,
+      "caption": "Stöld"
+    },
+    {
+      "id": 46,
+      "caption": "Trafikolycka, singel"
+    },
+    {
+      "id": 47,
+      "caption": "Trafikolycka"
+    },
+    {
+      "id": 48,
+      "caption": "Pågående inbrott"
+    },
+    {
+      "id": 49,
+      "caption": "Personrån"
+    },
+    {
+      "id": 50,
+      "caption": "Bedrägeri"
+    },
+    {
+      "id": 51,
+      "caption": "Bedrägeri"
+    },
+    {
+      "id": 52,
+      "caption": "Bedrägeri"
+    },
+    {
+      "id": 53,
+      "caption": "Bedrägeri"
+    },
+    {
+      "id": 54,
+      "caption": "Trafikolycka, singel"
+    },
+    {
+      "id": 55,
+      "caption": "Bråk"
+    },
+    {
+      "id": 56,
+      "caption": "Misshandel"
+    },
+    {
+      "id": 57,
+      "caption": "Ordningslagen, demonstration"
+    },
+    {
+      "id": 58,
+      "caption": "Brand i byggnad - flerfamiljshus, kök"
+    },
+    {
+      "id": 59,
+      "caption": "Djurräddning"
+    },
+    {
+      "id": 60,
+      "caption": "Brand i byggnad - publik lokal, idrottshall"
+    },
+    {
+      "id": 61,
+      "caption": "Flyghändelse - haveri"
+    },
+    {
+      "id": 62,
+      "caption": "Ordningslagen, oväsen"
+    },
+    {
+      "id": 63,
+      "caption": "Misstänkt stroke"
+    },
+    {
+      "id": 64,
+      "caption": "Trafikolycka - singel, buss"
+    },
+    {
+      "id": 65,
+      "caption": "Brand i byggnad - flerfamiljshus, lägenhet"
+    },
+    {
+      "id": 66,
+      "caption": "Brand i byggnad - radhus"
+    },
+    {
+      "id": 67,
+      "caption": "Misshandel, grov"
+    },
+    {
+      "id": 68,
+      "caption": "Brand i byggnad - publik lokal, stormarknad"
+    },
+    {
+      "id": 69,
+      "caption": "Utsläpp farligt ämne - övrigt"
+    },
+    {
+      "id": 70,
+      "caption": "Brand i byggnad - publik lokal, stormarknad"
+    },
+    {
+      "id": 71,
+      "caption": "Blödning"
+    },
+    {
+      "id": 72,
+      "caption": "Flyghändelse - varningslarm"
+    },
+    {
+      "id": 73,
+      "caption": "Trafikolycka - flera fordon, buss"
+    },
+    {
+      "id": 74,
+      "caption": "Stor brand"
+    },
+    {
+      "id": 75,
+      "caption": "Olaga hot"
+    },
+    {
+      "id": 76,
+      "caption": "Stöld"
+    },
+    {
+      "id": 77,
+      "caption": "Brinnande julstånd"
+    },
+    {
+      "id": 78,
+      "caption": "Brand på julmarknad"
+    },
+    {
+      "id": 79,
+      "caption": "Trafikolycka - singel, avåkning"
+    },
+    {
+      "id": 80,
+      "caption": "Brinnande julgran"
+    },
+    {
+      "id": 81,
+      "caption": "Brinnande julkrans"
+    },
+    {
+      "id": 82,
+      "caption": "Bråk"
+    },
+    {
+      "id": 83,
+      "caption": "Fastklämd"
+    },
+    {
+      "id": 84,
+      "caption": "Lösa föremål"
+    },
+    {
+      "id": 85,
+      "caption": "Trafikolycka - flera fordon"
+    },
+    {
+      "id": 86,
+      "caption": "Brand ute - fordon, lastbil"
+    },
+    {
+      "id": 87,
+      "caption": "Trafikolycka - arbetsmaskin"
+    },
+    {
+      "id": 88,
+      "caption": "Bilbrand orsakad av fyrverkerier"
+    },
+    {
+      "id": 89,
+      "caption": "Grovavfallsbrand orsakad av fyrverkerier"
+    },
+    {
+      "id": 90,
+      "caption": "Liten fältbrand orsakad av fyrverkerier"
+    },
+    {
+      "id": 91,
+      "caption": "Brand i källare orsakad av fyrverkerier"
+    },
+    {
+      "id": 92,
+      "caption": "Busshållplatsbrand orsakad av fyrverkerier"
+    },
+    {
+      "id": 93,
+      "caption": "Balkongbrand orsakad av fyrverkerier"
+    },
+    {
+      "id": 94,
+      "caption": "Bränder i papperscontainrar orsakade av fyrverkerier"
+    },
+    {
+      "id": 95,
+      "caption": "Buskbrand orsakad av smällare"
+    },
+    {
+      "id": 96,
+      "caption": "Alkoholpåverkad förare efter nyårsfest"
+    },
+    {
+      "id": 97,
+      "caption": "Brand i stråtakshus orsakad av fyrverkerier"
+    },
+    {
+      "id": 98,
+      "caption": "Bil skadad av fyrverkerier"
+    },
+    {
+      "id": 99,
+      "caption": "Brott mot förordningen om explosiva varor"
+    },
+    {
+      "id": 100,
+      "caption": "Handskada orsakad av fyrverkerier"
+    },
+    {
+      "id": 101,
+      "caption": "Brand ute - fordon, lastfordon"
+    },
+    {
+      "id": 102,
+      "caption": "Brand ute - fordon, sopbil"
+    },
+    {
+      "id": 103,
+      "caption": "Trafikolycka - motorcykel"
+    },
+    {
+      "id": 104,
+      "caption": "Utsläpp farligt ämne - kolmonoxid"
+    },
+    {
+      "id": 105,
+      "caption": "Rån, väpnat"
+    },
+    {
+      "id": 106,
+      "caption": "Våld/hot mot tjänsteman"
+    },
+    {
+      "id": 107,
+      "caption": "Trafikolycka - singel, volt"
+    },
+    {
+      "id": 108,
+      "caption": "Ofri luftväg"
+    },
+    {
+      "id": 109,
+      "caption": "Ryggtrauma"
+    },
+    {
+      "id": 110,
+      "caption": "Ras/skred"
+    },
+    {
+      "id": 111,
+      "caption": "Ras/skred - byggnad"
+    },
+    {
+      "id": 112,
+      "caption": "Allvarlig brännskada"
+    },
+    {
+      "id": 113,
+      "caption": "Skallskada"
+    },
+    {
+      "id": 114,
+      "caption": "Amputationsskada"
+    },
+    {
+      "id": 115,
+      "caption": "Brand i byggnad - ladugård"
+    },
+    {
+      "id": 116,
+      "caption": "Ryggsmärtor"
+    },
+    {
+      "id": 117,
+      "caption": "Brand i byggnad - skola"
+    },
+    {
+      "id": 118,
+      "caption": "Person - svår belägenhet"
+    },
+    {
+      "id": 119,
+      "caption": "Explosion - inomhus"
+    },
+    {
+      "id": 120,
+      "caption": "Brand i byggnad - Silo"
+    },
+    {
+      "id": 121,
+      "caption": "Personskada av högspänning"
+    },
+    {
+      "id": 122,
+      "caption": "Brinnande höbal"
+    },
+    {
+      "id": 123,
+      "caption": "Explosion - Överhängande fara"
+    },
+    {
+      "id": 124,
+      "caption": "Kramper"
+    },
+    {
+      "id": 125,
+      "caption": "Påskägg tjuv"
+    },
+    {
+      "id": 126,
+      "caption": "Pensel stulen från verkstad"
+    },
+    {
+      "id": 127,
+      "caption": "Kollapsat kaninhål"
+    },
+    {
+      "id": 128,
+      "caption": "Påkörd påskhare"
+    },
+    {
+      "id": 129,
+      "caption": "Bränning påskkorg"
+    },
+    {
+      "id": 130,
+      "caption": "Chokladutsläpp"
+    },
+    {
+      "id": 131,
+      "caption": "Brinnande äggkokare"
+    },
+    {
+      "id": 132,
+      "caption": "Harmöte i påskäggsstaden"
+    },
+    {
+      "id": 133,
+      "caption": "Vält påskäggsbil"
+    },
+    {
+      "id": 134,
+      "caption": "Prioriterat uppdrag: Påskäggsjakt"
+    },
+    {
+      "id": 135,
+      "caption": "Påskhare i lyftkran"
+    },
+    {
+      "id": 136,
+      "caption": "Försök till rymning"
+    },
+    {
+      "id": 137,
+      "caption": "Förföljande"
+    },
+    {
+      "id": 138,
+      "caption": "Försvunnen person"
+    },
+    {
+      "id": 139,
+      "caption": "Husrannsakan"
+    },
+    {
+      "id": 140,
+      "caption": "Vapenlagen"
+    },
+    {
+      "id": 141,
+      "caption": "Kontroll av fordon"
+    },
+    {
+      "id": 142,
+      "caption": "Ordningslagen, demonstration med tillstånd"
+    },
+    {
+      "id": 143,
+      "caption": "Ordningslagen, demonstration utan tillstånd"
+    },
+    {
+      "id": 144,
+      "caption": "Överlåtelse"
+    },
+    {
+      "id": 145,
+      "caption": "Överfallslarm"
+    },
+    {
+      "id": 146,
+      "caption": "Polis beskjuten"
+    },
+    {
+      "id": 147,
+      "caption": "Statsbesök"
+    },
+    {
+      "id": 148,
+      "caption": "Grovt rån"
+    },
+    {
+      "id": 149,
+      "caption": "Försök till mord/dråp"
+    },
+    {
+      "id": 150,
+      "caption": "Bankrån med gisslan"
+    },
+    {
+      "id": 151,
+      "caption": "Trafikolycka - mindre motorfordon, moped"
+    },
+    {
+      "id": 152,
+      "caption": "Hundbett"
+    },
+    {
+      "id": 153,
+      "caption": "Hästolycka"
+    },
+    {
+      "id": 154,
+      "caption": "Upplopp - evenemang, arena"
+    },
+    {
+      "id": 155,
+      "caption": "Narkotikabrott"
+    },
+    {
+      "id": 156,
+      "caption": "Trafikolycka - vilt"
+    },
+    {
+      "id": 157,
+      "caption": "Yrsel"
+    },
+    {
+      "id": 158,
+      "caption": "Trafikolycka - singel, personbil i vatten"
+    },
+    {
+      "id": 159,
+      "caption": "Trafikolycka - singel, lastbil i vatten"
+    },
+    {
+      "id": 160,
+      "caption": "Trafikolycka - singel, buss i vatten"
+    },
+    {
+      "id": 161,
+      "caption": "Dykolycka"
+    },
+    {
+      "id": 162,
+      "caption": "Försvunnen person - vid vatten"
+    },
+    {
+      "id": 163,
+      "caption": "Drunkning"
+    },
+    {
+      "id": 164,
+      "caption": "Drunkning"
+    },
+    {
+      "id": 165,
+      "caption": "Ringa stöld"
+    },
+    {
+      "id": 166,
+      "caption": "Hissnödläge"
+    },
+    {
+      "id": 167,
+      "caption": "Explosion - utomhus"
+    },
+    {
+      "id": 168,
+      "caption": "Drunkning - bassäng"
+    },
+    {
+      "id": 169,
+      "caption": "Transport mellan vårdinrättningar"
+    },
+    {
+      "id": 170,
+      "caption": "Misstänkt blindtarm"
+    },
+    {
+      "id": 171,
+      "caption": "Solsting"
+    },
+    {
+      "id": 172,
+      "caption": "Värmeslag"
+    },
+    {
+      "id": 173,
+      "caption": "Värmekramp"
+    },
+    {
+      "id": 174,
+      "caption": "Uttorkad person"
+    },
+    {
+      "id": 175,
+      "caption": "Grillbrand"
+    },
+    {
+      "id": 176,
+      "caption": "Påträffad person, överfall"
+    },
+    {
+      "id": 177,
+      "caption": "Förlossning"
+    },
+    {
+      "id": 178,
+      "caption": "Vinglig färd"
+    },
+    {
+      "id": 179,
+      "caption": "Flygande besiktning"
+    },
+    {
+      "id": 180,
+      "caption": "Hjärtstopp"
+    },
+    {
+      "id": 181,
+      "caption": "Intoxikation"
+    },
+    {
+      "id": 182,
+      "caption": "Brand i byggnad - Snabbmatsrestaurang"
+    },
+    {
+      "id": 183,
+      "caption": "Okontaktbar"
+    },
+    {
+      "id": 184,
+      "caption": "Panikångest"
+    },
+    {
+      "id": 185,
+      "caption": "Misstänkt skogsbrand, undersökning"
+    },
+    {
+      "id": 186,
+      "caption": "Skogsbrand, mellan"
+    },
+    {
+      "id": 187,
+      "caption": "Skogsbrand, utbredd"
+    },
+    {
+      "id": 188,
+      "caption": "Skogsbrand, toppbrand"
+    },
+    {
+      "id": 189,
+      "caption": "Kontrollerad brand, liten"
+    },
+    {
+      "id": 190,
+      "caption": "Kontrollerad brand, mellan"
+    },
+    {
+      "id": 191,
+      "caption": "Kontrollerad brand, utbredd"
+    },
+    {
+      "id": 192,
+      "caption": "Skogsbrand, eftersläckning"
+    },
+    {
+      "id": 193,
+      "caption": "Panik på discot"
+    },
+    {
+      "id": 194,
+      "caption": "IVPA - I väntan på ambulans"
+    },
+    {
+      "id": 195,
+      "caption": "Sänkt allmäntillstånd"
+    },
+    {
+      "id": 196,
+      "caption": "Brand i byggnad - underjordsanläggning"
+    },
+    {
+      "id": 197,
+      "caption": "Människorov"
+    },
+    {
+      "id": 198,
+      "caption": "Inbrott - 'smash and grab'"
+    },
+    {
+      "id": 199,
+      "caption": "Förberedelse för grovt brott"
+    },
+    {
+      "id": 200,
+      "caption": "Brand i byggnad - publik lokal, museum"
+    },
+    {
+      "id": 201,
+      "caption": "Brinnande fågelskrämma"
+    },
+    {
+      "id": 202,
+      "caption": "Brinnande pumpafält"
+    },
+    {
+      "id": 203,
+      "caption": "Överkokt pumpasoppa"
+    },
+    {
+      "id": 204,
+      "caption": "Häxa i träd"
+    },
+    {
+      "id": 205,
+      "caption": "Zombiebett"
+    },
+    {
+      "id": 206,
+      "caption": "Monster på rymmen"
+    },
+    {
+      "id": 207,
+      "caption": "Stulen pumpa"
+    },
+    {
+      "id": 208,
+      "caption": "Frankenstein i sikte"
+    },
+    {
+      "id": 209,
+      "caption": "Godisstöld"
+    },
+    {
+      "id": 210,
+      "caption": "Kommendering - musikfestival"
+    },
+    {
+      "id": 211,
+      "caption": "Patrullering - park"
+    },
+    {
+      "id": 212,
+      "caption": "Patrullering - stadsmiljö"
+    },
+    {
+      "id": 213,
+      "caption": "Patrullering - krogmiljö"
+    },
+    {
+      "id": 214,
+      "caption": "Kommendering - torgmöte"
+    },
+    {
+      "id": 215,
+      "caption": "Röklukt - ute"
+    },
+    {
+      "id": 216,
+      "caption": "Övrig räddning, dörrbryt"
+    },
+    {
+      "id": 217,
+      "caption": "Inbrottslarm, Höghus"
+    },
+    {
+      "id": 218,
+      "caption": "Räddning, kontroll efter brand"
+    },
+    {
+      "id": 219,
+      "caption": "Olycka vid bakning av jubileumstårta"
+    },
+    {
+      "id": 220,
+      "caption": "Jubileumsballong fast i träd"
+    },
+    {
+      "id": 221,
+      "caption": "Liten brand orsakad av elfel på jubileumsfirande"
+    },
+    {
+      "id": 222,
+      "caption": "Stor brand orsakad av elfel på jubileumsfirande"
+    },
+    {
+      "id": 223,
+      "caption": "Stulen jubileumspresent"
+    },
+    {
+      "id": 224,
+      "caption": "Sabotage av jubileumsjukebox"
+    },
+    {
+      "id": 225,
+      "caption": "Försvunnen jubileumsgäst"
+    },
+    {
+      "id": 226,
+      "caption": "Jubileumsgäster stal dekoration"
+    },
+    {
+      "id": 227,
+      "caption": "Jubileumsgäster stal tårta"
+    },
+    {
+      "id": 228,
+      "caption": "Gäst åt för mycket jubileumstårta"
+    },
+    {
+      "id": 229,
+      "caption": "Skada till följd av vasst presentpapper"
+    },
+    {
+      "id": 230,
+      "caption": "Jubileumsgäst drabbad av smärta i lederna efter dans"
+    },
+    {
+      "id": 231,
+      "caption": "Jubileumsgäst träffad av flygande kork"
+    },
+    {
+      "id": 232,
+      "caption": "Medvetslös jubileumsgäst"
+    },
+    {
+      "id": 233,
+      "caption": "Personer försvunna från dansgolv"
+    },
+    {
+      "id": 234,
+      "caption": "Ballonger i behov av uppblåsning på jubileumsfest"
+    },
+    {
+      "id": 235,
+      "caption": "En gäst drack förgiftad dryck på jubileumsfest"
+    },
+    {
+      "id": 236,
+      "caption": "Röklukt - byggnad"
+    },
+    {
+      "id": 237,
+      "caption": "Lägenhetsundersökning"
+    },
+    {
+      "id": 238,
+      "caption": "Person fast i lekplatsställning"
+    },
+    {
+      "id": 239,
+      "caption": "Jaktolycka - civilperson"
+    },
+    {
+      "id": 240,
+      "caption": "Kvarglömt bagage"
+    },
+    {
+      "id": 241,
+      "caption": "Kvarglömt bagage"
+    },
+    {
+      "id": 242,
+      "caption": "Kvarglömt bagage"
+    },
+    {
+      "id": 243,
+      "caption": "Kvarglömt bagage"
+    },
+    {
+      "id": 244,
+      "caption": "Panikslaget djur orsakat av fyrverkerier"
+    },
+    {
+      "id": 245,
+      "caption": "Personskada orsakad av skadad fyrverkeripjäs"
+    },
+    {
+      "id": 246,
+      "caption": "Personskada orsakad av felaktig fyrverkeripjäs"
+    },
+    {
+      "id": 247,
+      "caption": "Personskada orsakad av fyrverkeripjäs"
+    },
+    {
+      "id": 248,
+      "caption": "Anfall orsakad av fyrverkeri-tittande"
+    },
+    {
+      "id": 249,
+      "caption": "Kommendering - nyårsfirande i centrum"
+    },
+    {
+      "id": 250,
+      "caption": "Användande av illegala fyrverkeripjäser"
+    },
+    {
+      "id": 251,
+      "caption": "Användande av fyrverkeripjäs nära väg"
+    },
+    {
+      "id": 252,
+      "caption": "Trafikolycka orsakad av fyrverkeripjäser när väg"
+    },
+    {
+      "id": 253,
+      "caption": "Saboterad fyrverkeripjäs"
+    },
+    {
+      "id": 254,
+      "caption": "Kvarglömt bagage"
+    },
+    {
+      "id": 255,
+      "caption": "Våld i hemmet"
+    },
+    {
+      "id": 256,
+      "caption": "Hastighetskontroll"
+    },
+    {
+      "id": 257,
+      "caption": "Brand ute - soptipp"
+    },
+    {
+      "id": 258,
+      "caption": "Kvarglömt bagage"
+    },
+    {
+      "id": 259,
+      "caption": "Järnväg - påkörd person"
+    },
+    {
+      "id": 260,
+      "caption": "Järnväg - kollision/urspårning"
+    },
+    {
+      "id": 261,
+      "caption": "Skogsbrand, liten"
+    },
+    {
+      "id": 262,
+      "caption": "Brand i byggnad - skogsstuga"
+    },
+    {
+      "id": 263,
+      "caption": "Brand ute – brand i eldstad"
+    },
+    {
+      "id": 264,
+      "caption": "Blixtnedslag i skog"
+    },
+    {
+      "id": 265,
+      "caption": "Vegetationsbrand, liten"
+    },
+    {
+      "id": 266,
+      "caption": "Vegetationsbrand, mellan"
+    },
+    {
+      "id": 267,
+      "caption": "Vegetationsbrand, stor"
+    },
+    {
+      "id": 268,
+      "caption": "Ett par har ätit för mycket choklad"
+    },
+    {
+      "id": 269,
+      "caption": "Fjärilar i magen"
+    },
+    {
+      "id": 270,
+      "caption": "Hjärtattack till följd av frierichock"
+    },
+    {
+      "id": 271,
+      "caption": "Krossat hjärta"
+    },
+    {
+      "id": 272,
+      "caption": "Brinnande alla hjärtans-dekorationer på restaurang"
+    },
+    {
+      "id": 273,
+      "caption": "Brand orsakad av middag med levande ljus har spridit sig"
+    },
+    {
+      "id": 274,
+      "caption": "Sökande efter försvunnen pojkvän"
+    },
+    {
+      "id": 275,
+      "caption": "Klagomål om högljutt pargräl"
+    },
+    {
+      "id": 276,
+      "caption": "Stulet hjärta"
+    },
+    {
+      "id": 277,
+      "caption": "Brokollaps"
+    },
+    {
+      "id": 278,
+      "caption": "Rån - museum"
+    },
+    {
+      "id": 279,
+      "caption": "Gaslukt - ute"
+    },
+    {
+      "id": 280,
+      "caption": "Vattenfylld väg"
+    },
+    {
+      "id": 281,
+      "caption": "Farligt utsläpp - fosfor"
+    },
+    {
+      "id": 282,
+      "caption": "Gripande av misstänkt person"
+    },
+    {
+      "id": 283,
+      "caption": "Kärnkraftverk - olycka"
+    },
+    {
+      "id": 284,
+      "caption": "Avbrutet larmsamtal"
+    },
+    {
+      "id": 285,
+      "caption": "Brinnande transformatorstation"
+    },
+    {
+      "id": 286,
+      "caption": "Väpnat rån - värdetransport"
+    },
+    {
+      "id": 287,
+      "caption": "Flyghändelse - brand i flygplan, litet"
+    },
+    {
+      "id": 288,
+      "caption": "Andningsstopp"
+    },
+    {
+      "id": 289,
+      "caption": "Allvarlig huvudskada"
+    },
+    {
+      "id": 290,
+      "caption": "Fallskärmsolycka, fast i träd"
+    },
+    {
+      "id": 291,
+      "caption": "Stroke"
+    },
+    {
+      "id": 292,
+      "caption": "Akut amputation"
+    },
+    {
+      "id": 293,
+      "caption": "Trafikolycka - motorcross"
+    },
+    {
+      "id": 294,
+      "caption": "Brand i byggnad - skola, liten brand"
+    },
+    {
+      "id": 295,
+      "caption": "Brand i byggnad - skola, stor brand"
+    },
+    {
+      "id": 296,
+      "caption": "Brand i byggnad - skyddad bostad"
+    },
+    {
+      "id": 297,
+      "caption": "Skottlossning - skadad person"
+    },
+    {
+      "id": 298,
+      "caption": "Brand i byggnad - huskomplex"
+    },
+    {
+      "id": 299,
+      "caption": "Personen ramlade på smält choklad"
+    },
+    {
+      "id": 300,
+      "caption": "Brinnande bukett"
+    },
+    {
+      "id": 301,
+      "caption": "Brand i sovrum efter brinnande ljus"
+    },
+    {
+      "id": 302,
+      "caption": "Brinnande tårta i ugnen"
+    },
+    {
+      "id": 303,
+      "caption": "Köket brinner ner"
+    },
+    {
+      "id": 304,
+      "caption": "Chokladrån"
+    },
+    {
+      "id": 305,
+      "caption": "Flyghändelse - flygplan i vatten, litet"
+    },
+    {
+      "id": 306,
+      "caption": "Trafikolycka - eldrivet fordon"
+    },
+    {
+      "id": 307,
+      "caption": "Första Hjälpen-utbildning"
+    },
+    {
+      "id": 308,
+      "caption": "Motorfordon, anträffat stulet"
+    },
+    {
+      "id": 309,
+      "caption": "Uppblåst fotboll"
+    },
+    {
+      "id": 310,
+      "caption": "Lagbuss parkerad i påbjuden stoppzon"
+    },
+    {
+      "id": 311,
+      "caption": "Behandling efter filmning"
+    },
+    {
+      "id": 312,
+      "caption": "Skada efter träff i stolpen"
+    },
+    {
+      "id": 313,
+      "caption": "Nedfallet mål"
+    },
+    {
+      "id": 314,
+      "caption": "Stulen trofé"
+    },
+    {
+      "id": 315,
+      "caption": "Frostskada efter isspray"
+    },
+    {
+      "id": 316,
+      "caption": "Halsont efter firandet"
+    },
+    {
+      "id": 317,
+      "caption": "Saknad kaptenarmband"
+    },
+    {
+      "id": 318,
+      "caption": "Brinnande hörnflagga"
+    },
+    {
+      "id": 319,
+      "caption": "Livräddare under en simtävling"
+    },
+    {
+      "id": 320,
+      "caption": "Förorenad glassvagn"
+    },
+    {
+      "id": 321,
+      "caption": "Olaglig brasa i parken"
+    },
+    {
+      "id": 322,
+      "caption": "Flyghändelse - flygplan i vatten, stort"
+    },
+    {
+      "id": 323,
+      "caption": "Skadegörelse, stadshus"
+    },
+    {
+      "id": 324,
+      "caption": "Åldringsbrott"
+    },
+    {
+      "id": 325,
+      "caption": "Brott mot blåljusverksamhet"
+    },
+    {
+      "id": 326,
+      "caption": "Flygande besiktning"
+    },
+    {
+      "id": 327,
+      "caption": "Skadegörelse, parkeringsplats"
+    },
+    {
+      "id": 328,
+      "caption": "Berusad person vid tågstation"
+    },
+    {
+      "id": 329,
+      "caption": "Sedlighetsbrott"
+    },
+    {
+      "id": 330,
+      "caption": "Kolmonoxidförgiftning"
+    },
+    {
+      "id": 331,
+      "caption": "Tillbud - barn inlåst in bil"
+    },
+    {
+      "id": 332,
+      "caption": "Fylleri/LOB"
+    },
+    {
+      "id": 333,
+      "caption": "Brand i byggnad - hiss"
+    },
+    {
+      "id": 334,
+      "caption": "Olycka - bandsåg"
+    },
+    {
+      "id": 335,
+      "caption": "Händelse - Helikopterolycka"
+    },
+    {
+      "id": 336,
+      "caption": "Upplopp - musikfestival"
+    },
+    {
+      "id": 337,
+      "caption": "Person har halkat på våta löv"
+    },
+    {
+      "id": 338,
+      "caption": "Vägolycka orsakad av våta löv"
+    },
+    {
+      "id": 339,
+      "caption": "Person har trillat i lövhög"
+    },
+    {
+      "id": 340,
+      "caption": "Okontrollerbar lövblåsare"
+    },
+    {
+      "id": 341,
+      "caption": "Stopp i avloppsbrunn på grund av löv"
+    },
+    {
+      "id": 342,
+      "caption": "Hypotermi efter att ha simmat i kallt vatten"
+    },
+    {
+      "id": 343,
+      "caption": "Olycka på dimmig väg"
+    },
+    {
+      "id": 344,
+      "caption": "Viltdjursolycka"
+    },
+    {
+      "id": 345,
+      "caption": "Brinnande lövhög"
+    },
+    {
+      "id": 346,
+      "caption": "Personskada - överdos"
+    },
+    {
+      "id": 347,
+      "caption": "Brand i byggnad - däckhotell"
+    },
+    {
+      "id": 348,
+      "caption": "Stöld - kontorshus"
+    },
+    {
+      "id": 349,
+      "caption": "Bilstöld"
+    },
+    {
+      "id": 350,
+      "caption": "Brand i fordon - tågset"
+    },
+    {
+      "id": 351,
+      "caption": "Trafikolycka - tunnel, singel"
+    },
+    {
+      "id": 352,
+      "caption": "Trafikolycka - tunnel, masskrock"
+    },
+    {
+      "id": 353,
+      "caption": "Industribrand - liten"
+    },
+    {
+      "id": 354,
+      "caption": "Industribrand - mellan"
+    },
+    {
+      "id": 355,
+      "caption": "Industribrand - stor"
+    },
+    {
+      "id": 356,
+      "caption": "Brand i byggnad - lägenhet, sovrum"
+    },
+    {
+      "id": 357,
+      "caption": "Brand i byggnad - oljeraffinaderi"
+    },
+    {
+      "id": 358,
+      "caption": "Kommendering - fotbollsmatch, högrisk"
+    },
+    {
+      "id": 359,
+      "caption": "Misstänkt skottlossning"
+    },
+    {
+      "id": 360,
+      "caption": "Ketoacidos"
+    },
+    {
+      "id": 361,
+      "caption": "Misstänkt brand - rökutveckling"
+    },
+    {
+      "id": 362,
+      "caption": "Skadegörelse, skolbyggnad"
+    },
+    {
+      "id": 363,
+      "caption": "Personskada - arbetsplatsolycka"
+    },
+    {
+      "id": 364,
+      "caption": "Föregivande av allmänställning"
+    },
+    {
+      "id": 365,
+      "caption": "Olaga intrång"
+    },
+    {
+      "id": 366,
+      "caption": "Brand ute - järnväg"
+    },
+    {
+      "id": 367,
+      "caption": "Brand i byggnad - idrottsarena, liten"
+    },
+    {
+      "id": 368,
+      "caption": "Brand i byggnad - idrottsarena, mellan"
+    },
+    {
+      "id": 369,
+      "caption": "Smuggling - exotiska djur"
+    },
+    {
+      "id": 370,
+      "caption": "Brand i byggnad - idrottsarena, stor"
+    },
+    {
+      "id": 371,
+      "caption": "Brand i byggnad - idrottsarena, övertänd"
+    },
+    {
+      "id": 372,
+      "caption": "Olaglig försäljning, stadsdel"
+    },
+    {
+      "id": 373,
+      "caption": "Larm om misstänkt smitta"
+    },
+    {
+      "id": 374,
+      "caption": "Explosion - laboratorium"
+    },
+    {
+      "id": 375,
+      "caption": "Brand i byggnad - lägergård (mellan)"
+    },
+    {
+      "id": 376,
+      "caption": "Brott mot griftefrid, gravplats"
+    },
+    {
+      "id": 377,
+      "caption": "Öka medvetenheten kring 112 för skolbarn"
+    },
+    {
+      "id": 378,
+      "caption": "Öka medvetenheten kring 112 för skolbarn"
+    },
+    {
+      "id": 379,
+      "caption": "Tillkännagivande av nya 112-funktioner"
+    },
+    {
+      "id": 380,
+      "caption": "Nationella 112-prisutdelning"
+    },
+    {
+      "id": 381,
+      "caption": "Nationella 112-prisutdelning"
+    },
+    {
+      "id": 382,
+      "caption": "Olycka - nedfallen flaggstång"
+    },
+    {
+      "id": 383,
+      "caption": "Brand i byggnad - servicevhus"
+    },
+    {
+      "id": 384,
+      "caption": "Arbetsplatsolycka - fall från höghöjd"
+    },
+    {
+      "id": 385,
+      "caption": "Allergisk reaktion av bistick"
+    },
+    {
+      "id": 386,
+      "caption": "Allergisk reaktion av pollen"
+    },
+    {
+      "id": 387,
+      "caption": "Olycka - ramlat från stege under vårstädning"
+    },
+    {
+      "id": 388,
+      "caption": "Attack av vilddjur under picknick"
+    },
+    {
+      "id": 389,
+      "caption": "Matförgiftning orsakad av vilda bär"
+    },
+    {
+      "id": 390,
+      "caption": "Brinnande picknick-korg"
+    },
+    {
+      "id": 391,
+      "caption": "Person stjäl kalvar"
+    },
+    {
+      "id": 392,
+      "caption": "Kotjuven är på flykt"
+    },
+    {
+      "id": 393,
+      "caption": "Tjuv attackerad av ko"
+    },
+    {
+      "id": 394,
+      "caption": "Brand i byggnad - möblemang"
+    },
+    {
+      "id": 395,
+      "caption": "Trafikolycka - singel, ravin"
+    },
+    {
+      "id": 396,
+      "caption": "Olagligt streetrace"
+    },
+    {
+      "id": 397,
+      "caption": "Smält chokladkanin"
+    },
+    {
+      "id": 398,
+      "caption": "Blixtnedslag i kaninhål"
+    },
+    {
+      "id": 399,
+      "caption": "Chokladkanin inlåst i bil"
+    },
+    {
+      "id": 400,
+      "caption": "Äggjakt under vatten"
+    },
+    {
+      "id": 401,
+      "caption": "Brand ute - badstrand"
+    },
+    {
+      "id": 402,
+      "caption": "Poliskommendering - datorfestival"
+    },
+    {
+      "id": 403,
+      "caption": "Brand i byggnad - hotell"
+    },
+    {
+      "id": 404,
+      "caption": "Hussökning"
+    },
+    {
+      "id": 405,
+      "caption": "Arbetsplatsolycka - gruva, incident"
+    },
+    {
+      "id": 406,
+      "caption": "Arbetsplatsolycka - gruva, kollaps"
+    },
+    {
+      "id": 407,
+      "caption": "Fordon - okänt utsläpp"
+    },
+    {
+      "id": 408,
+      "caption": "Trafikhändelse, bil stannar inte"
+    },
+    {
+      "id": 409,
+      "caption": "Kidnappning"
+    },
+    {
+      "id": 410,
+      "caption": "Trafikhändelse, bro - störning"
+    },
+    {
+      "id": 411,
+      "caption": "Trafikolycka, lastbil - tappat gods"
+    },
+    {
+      "id": 412,
+      "caption": "Brand i fordon, buss"
+    },
+    {
+      "id": 413,
+      "caption": "Bråk, många personer"
+    },
+    {
+      "id": 414,
+      "caption": "Trafikolycka, lastbil - påkörd"
+    },
+    {
+      "id": 415,
+      "caption": "Upplopp - orolighet"
+    },
+    {
+      "id": 416,
+      "caption": "Händelse, våldsam fotbollssupporter - sjukhus"
+    },
+    {
+      "id": 417,
+      "caption": "Händelse, avbrott upplopp"
+    },
+    {
+      "id": 418,
+      "caption": "Störningar i grannskapet"
+    },
+    {
+      "id": 419,
+      "caption": "Väpnat rån - förföljande av fordon"
+    },
+    {
+      "id": 420,
+      "caption": "Våldsamt upplopp, mindre"
+    },
+    {
+      "id": 421,
+      "caption": "Våldsamt upplopp, medium"
+    },
+    {
+      "id": 422,
+      "caption": "Våldsamt upplopp, stor"
+    },
+    {
+      "id": 423,
+      "caption": "VIP besök"
+    },
+    {
+      "id": 424,
+      "caption": "Misstänkt läge"
+    },
+    {
+      "id": 425,
+      "caption": "Misstänkt föremål, bomb - skola"
+    },
+    {
+      "id": 426,
+      "caption": "Misstänkt föremål, bomb - tågstation"
+    },
+    {
+      "id": 427,
+      "caption": "Brand i byggnad - lagerlokal, sprängmedel"
+    },
+    {
+      "id": 428,
+      "caption": "Upphittad ammunition"
+    },
+    {
+      "id": 429,
+      "caption": "Olycka - litet flygplan"
+    },
+    {
+      "id": 430,
+      "caption": "Brand i byggnad - matsal"
+    },
+    {
+      "id": 431,
+      "caption": "Olycka - nedfallen lyktstolpe"
+    },
+    {
+      "id": 432,
+      "caption": "Händelse - stopp i trafiken"
+    },
+    {
+      "id": 433,
+      "caption": "Stöld, person - smycken"
+    },
+    {
+      "id": 434,
+      "caption": "Djur fångat i en brunn"
+    },
+    {
+      "id": 435,
+      "caption": "Djur fångat i floden"
+    },
+    {
+      "id": 436,
+      "caption": "Händelse - bikupa i lägenhet"
+    },
+    {
+      "id": 437,
+      "caption": "Händelse - skada på egendom"
+    },
+    {
+      "id": 438,
+      "caption": "Explosion - byggnad, restaurang"
+    },
+    {
+      "id": 439,
+      "caption": "Tillbud - person på marken"
+    },
+    {
+      "id": 440,
+      "caption": "Stöld - konstverk"
+    },
+    {
+      "id": 441,
+      "caption": "Brand i byggnad - kyrka"
+    },
+    {
+      "id": 442,
+      "caption": "Olycka - biologiska produkter"
+    },
+    {
+      "id": 443,
+      "caption": "Brand i byggnad - obebyggt"
+    },
+    {
+      "id": 444,
+      "caption": "Olaga vapeninnehav - kniv"
+    },
+    {
+      "id": 445,
+      "caption": "Rökutveckling"
+    },
+    {
+      "id": 446,
+      "caption": "Trafikstockning vid köpcentrum"
+    },
+    {
+      "id": 447,
+      "caption": "Olycka under polisjakt"
+    },
+    {
+      "id": 448,
+      "caption": "Hypertensiv kris"
+    },
+    {
+      "id": 449,
+      "caption": "Bränsleutsläpp vid bensinstation"
+    },
+    {
+      "id": 450,
+      "caption": "Brand i byggnad - apotek"
+    },
+    {
+      "id": 451,
+      "caption": "Aggressiv tågresenär"
+    },
+    {
+      "id": 452,
+      "caption": "Inbrott - apotek"
+    },
+    {
+      "id": 453,
+      "caption": "Brand i fordon - tåg med brandfarligt föremål"
+    },
+    {
+      "id": 454,
+      "caption": "Rengöring av spåren"
+    },
+    {
+      "id": 455,
+      "caption": "Synkope återfanns"
+    },
+    {
+      "id": 456,
+      "caption": "Explosion av gasbehållare"
+    },
+    {
+      "id": 457,
+      "caption": "Brand i växeln"
+    },
+    {
+      "id": 458,
+      "caption": "Kontroll"
+    },
+    {
+      "id": 459,
+      "caption": "Sjöfylleri"
+    },
+    {
+      "id": 460,
+      "caption": "Oljespill - liten"
+    },
+    {
+      "id": 461,
+      "caption": "Oljespill - stor"
+    },
+    {
+      "id": 462,
+      "caption": "Strandnära oljespill"
+    },
+    {
+      "id": 463,
+      "caption": "Grovt sjöfylleri - fartyg"
+    },
+    {
+      "id": 464,
+      "caption": "Nödbogsering - fartyg"
+    },
+    {
+      "id": 465,
+      "caption": "Kontroll - Hummerfiske"
+    },
+    {
+      "id": 466,
+      "caption": "Sjötrafikkontroll"
+    },
+    {
+      "id": 467,
+      "caption": "Övervakning till sjöss"
+    },
+    {
+      "id": 468,
+      "caption": "Fartyg out of controll"
+    },
+    {
+      "id": 469,
+      "caption": "Båt för ankar i ett skyddat område"
+    },
+    {
+      "id": 470,
+      "caption": "Sjunkande båt (liten)"
+    },
+    {
+      "id": 471,
+      "caption": "Juldekoration fattade eld"
+    },
+    {
+      "id": 472,
+      "caption": "Jultomtens släde blockerar vägen"
+    },
+    {
+      "id": 473,
+      "caption": "Julgran stulen"
+    },
+    {
+      "id": 474,
+      "caption": "Julklappar stulna i köpcentrum"
+    },
+    {
+      "id": 475,
+      "caption": "Försök till mordbrand"
+    },
+    {
+      "id": 476,
+      "caption": "En lägereld sätter eld på en vedbod"
+    },
+    {
+      "id": 477,
+      "caption": "Bråk på frusen sjö"
+    },
+    {
+      "id": 478,
+      "caption": "Iceskater halkade"
+    },
+    {
+      "id": 479,
+      "caption": "Snöbollskrig pågår"
+    },
+    {
+      "id": 480,
+      "caption": "Smuggling via båt"
+    },
+    {
+      "id": 481,
+      "caption": "Eld i en grillgrop"
+    },
+    {
+      "id": 482,
+      "caption": "Båtmast Förlorad"
+    },
+    {
+      "id": 483,
+      "caption": "Spontan pneumothorax"
+    },
+    {
+      "id": 484,
+      "caption": "Olycka vid bakning av valentinsmiddag"
+    },
+    {
+      "id": 485,
+      "caption": "Brinnande Valentinbukett"
+    },
+    {
+      "id": 486,
+      "caption": "Brand från middag med levande ljus"
+    },
+    {
+      "id": 487,
+      "caption": "Övervakning av trafikljus"
+    },
+    {
+      "id": 488,
+      "caption": "Industriell brandövning"
+    },
+    {
+      "id": 489,
+      "caption": "Institutionell brandövning"
+    },
+    {
+      "id": 490,
+      "caption": "Fredlig demonstration (Liten)"
+    },
+    {
+      "id": 491,
+      "caption": "Fredlig demonstration (Stor)"
+    },
+    {
+      "id": 492,
+      "caption": "Hypovolemisk chock"
+    },
+    {
+      "id": 493,
+      "caption": "Olycka med turistbåt"
+    },
+    {
+      "id": 494,
+      "caption": "Olycka som resulterar i ett djupt sår"
+    },
+    {
+      "id": 495,
+      "caption": "Obligatorisk sjukhusvistelse"
+    },
+    {
+      "id": 496,
+      "caption": "Olycka, flyg - rök i kabinen"
+    },
+    {
+      "id": 497,
+      "caption": "Olycka, flyg - överhettat landningshjul"
+    },
+    {
+      "id": 498,
+      "caption": "Olycka, jet-bränsle - läckage"
+    },
+    {
+      "id": 499,
+      "caption": "Flygplan, tomt - brand, litet"
+    },
+    {
+      "id": 500,
+      "caption": "Flygplan, tomt - brand, litet"
+    },
+    {
+      "id": 501,
+      "caption": "Flygplan - brand i motor"
+    },
+    {
+      "id": 502,
+      "caption": "Brand på flygplats  - buskar"
+    },
+    {
+      "id": 503,
+      "caption": "Kommersiella flygplan - kollision med startbanan"
+    },
+    {
+      "id": 504,
+      "caption": "Ammoniakläckage i en fabrik"
+    },
+    {
+      "id": 505,
+      "caption": "Ett fordon kraschar in i en damm"
+    },
+    {
+      "id": 506,
+      "caption": "Överfall i en stormarknad"
+    },
+    {
+      "id": 507,
+      "caption": "Arrestering av falsk räddningspersonal"
+    },
+    {
+      "id": 508,
+      "caption": "Biblioteksbrand (liten)"
+    },
+    {
+      "id": 509,
+      "caption": "Biblioteksbrand (medium)"
+    },
+    {
+      "id": 510,
+      "caption": "Biblioteksbrand (stor)"
+    },
+    {
+      "id": 511,
+      "caption": "Biblioteksbrand (större)"
+    },
+    {
+      "id": 512,
+      "caption": "Explosion av en silo"
+    },
+    {
+      "id": 513,
+      "caption": "Brand i en bussdepå"
+    },
+    {
+      "id": 514,
+      "caption": "Buss under vatten"
+    },
+    {
+      "id": 515,
+      "caption": "Förgiftning genom inandning av rök"
+    },
+    {
+      "id": 516,
+      "caption": "SUV kör på cyklist"
+    },
+    {
+      "id": 517,
+      "caption": "Demonstration mot byggandet av ett motorvägsprojekt"
+    },
+    {
+      "id": 518,
+      "caption": "Brand i campingbil"
+    },
+    {
+      "id": 519,
+      "caption": "Liten underjordisk parkering översvämmad"
+    },
+    {
+      "id": 520,
+      "caption": "Översvämmade handelslokaler"
+    },
+    {
+      "id": 521,
+      "caption": "Översvämmad källare"
+    },
+    {
+      "id": 522,
+      "caption": "Stora översvämningar i ett distrikt till följd av dåligt väder"
+    },
+    {
+      "id": 523,
+      "caption": "Vattenrörsläckage i lägenhet"
+    },
+    {
+      "id": 524,
+      "caption": "Översvämning på campingplats"
+    },
+    {
+      "id": 525,
+      "caption": "Översvämning på en campingplats"
+    },
+    {
+      "id": 526,
+      "caption": "Översvämmad undervattenstunnel (liten)"
+    },
+    {
+      "id": 527,
+      "caption": "Översvämmad undervattenstunnel (medium)"
+    },
+    {
+      "id": 528,
+      "caption": "Översvämmad undervattenstunnel (stor)"
+    },
+    {
+      "id": 529,
+      "caption": "Översvämmad undervattenstunnel (Major)"
+    },
+    {
+      "id": 530,
+      "caption": "Köpcentrum översvämmat"
+    },
+    {
+      "id": 531,
+      "caption": "Flera källare under vatten"
+    },
+    {
+      "id": 532,
+      "caption": "Lantbruksbyggnad i brand"
+    },
+    {
+      "id": 533,
+      "caption": "Brand i lagerbyggnad för fast gödsel"
+    },
+    {
+      "id": 534,
+      "caption": "Brand i elfordon"
+    },
+    {
+      "id": 535,
+      "caption": "Brandlarm för akvarium utlöst"
+    },
+    {
+      "id": 536,
+      "caption": "Brand i akvarium"
+    },
+    {
+      "id": 537,
+      "caption": "Explosion i en akvariepark"
+    },
+    {
+      "id": 538,
+      "caption": "Läckage från ett akvarium"
+    },
+    {
+      "id": 539,
+      "caption": "Fängelsebrand, brand i en cell"
+    },
+    {
+      "id": 540,
+      "caption": "Brand i fängelse"
+    },
+    {
+      "id": 541,
+      "caption": "Brand i ett uthus"
+    },
+    {
+      "id": 542,
+      "caption": "Brand i tunnelbanestation"
+    },
+    {
+      "id": 543,
+      "caption": "Liten brand i nationalarkivet"
+    },
+    {
+      "id": 544,
+      "caption": "Brand i nationalarkivet"
+    },
+    {
+      "id": 545,
+      "caption": "Offentlig basturestaurang i brand"
+    },
+    {
+      "id": 546,
+      "caption": "Offentlig bastu i brand"
+    },
+    {
+      "id": 547,
+      "caption": "Nödbroms på tåget"
+    },
+    {
+      "id": 548,
+      "caption": "Barn som fastnat i träd"
+    },
+    {
+      "id": 549,
+      "caption": "Barn sväljer rengöringsmedel"
+    },
+    {
+      "id": 550,
+      "caption": "Barn-HLR"
+    },
+    {
+      "id": 551,
+      "caption": "Barn som fastnat i klätterställning"
+    },
+    {
+      "id": 552,
+      "caption": "Levande lager på väg"
+    },
+    {
+      "id": 553,
+      "caption": "Lastbilsolycka - Transport av djur"
+    },
+    {
+      "id": 554,
+      "caption": "Brand i prekära installationer"
+    },
+    {
+      "id": 555,
+      "caption": "Upptäckt av explosiva anordningar i ett fordon"
+    },
+    {
+      "id": 556,
+      "caption": "Upptäckt av misstänkta maskiner i ett flygplan"
+    },
+    {
+      "id": 557,
+      "caption": "Julbock i brand"
+    },
+    {
+      "id": 558,
+      "caption": "Stöld av julklappar"
+    },
+    {
+      "id": 559,
+      "caption": "Hund rymmer från djurhemmet"
+    },
+    {
+      "id": 560,
+      "caption": "Jultomten har fastnat i skorstenen"
+    },
+    {
+      "id": 561,
+      "caption": "Nedfallande juldekoration på allmän väg"
+    },
+    {
+      "id": 562,
+      "caption": "Skadad i en skola"
+    },
+    {
+      "id": 563,
+      "caption": "Person brände sig på varm choklad"
+    },
+    {
+      "id": 564,
+      "caption": "Olycka vid pulkaåkning"
+    },
+    {
+      "id": 565,
+      "caption": "Fall på en isfläck"
+    },
+    {
+      "id": 566,
+      "caption": "Lastbil välte på grund av is"
+    },
+    {
+      "id": 567,
+      "caption": "Fordonskollision på grund av is"
+    },
+    {
+      "id": 568,
+      "caption": "Brandlarm utlöst i en skola"
+    },
+    {
+      "id": 569,
+      "caption": "Jaktolycka"
+    },
+    {
+      "id": 570,
+      "caption": "Brand i ett stadshus"
+    },
+    {
+      "id": 571,
+      "caption": "Brutet ben i överlevnadsspel"
+    },
+    {
+      "id": 572,
+      "caption": "Brand på kryssningsfartyg vid kaj"
+    },
+    {
+      "id": 573,
+      "caption": "Säkra en festival"
+    },
+    {
+      "id": 574,
+      "caption": "Demonstration av rappellering"
+    },
+    {
+      "id": 575,
+      "caption": "Säkring av ett sportevenemang"
+    },
+    {
+      "id": 576,
+      "caption": "Kontroll av brandpost"
+    },
+    {
+      "id": 577,
+      "caption": "Läckage av kemikalier i ett laboratorium (sjukhus)"
+    },
+    {
+      "id": 578,
+      "caption": "Övning i skogsbrand"
+    },
+    {
+      "id": 579,
+      "caption": "Fordon föll ner i slukhål"
+    },
+    {
+      "id": 580,
+      "caption": "Barn instängda i avlopp"
+    },
+    {
+      "id": 581,
+      "caption": "Körsbärsblommor i brand"
+    },
+    {
+      "id": 582,
+      "caption": "Blomsterfält i brand"
+    },
+    {
+      "id": 583,
+      "caption": "Blommor stulna"
+    },
+    {
+      "id": 584,
+      "caption": "Impalering på staket"
+    },
+    {
+      "id": 585,
+      "caption": "Demonstranter som fastnat på toppen av ett monument"
+    },
+    {
+      "id": 586,
+      "caption": "Brand i tvättanläggning med självbetjäning"
+    },
+    {
+      "id": 587,
+      "caption": "Kollaps av sportstadion"
+    },
+    {
+      "id": 588,
+      "caption": "Räddning i trånga utrymmen"
+    },
+    {
+      "id": 589,
+      "caption": "Läckage i rörledning"
+    },
+    {
+      "id": 590,
+      "caption": "Brand i rörledning"
+    }
+  ]
+}
