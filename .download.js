@@ -1,7 +1,7 @@
 const fs = require("fs/promises");
 const path = require("path");
 const jsdom = require("jsdom");
-const { js: beautifyJs} = require("js-beautify");
+const { js: beautifyJs } = require("js-beautify");
 
 const BEAUTIFIER_OPTIONS = {
   indent_size: "4",
@@ -34,20 +34,19 @@ fetch(GAME)
   .then((html) => new jsdom.JSDOM(html))
   .then((dom) => dom.window.document)
   .then((doc) => ({
-    js: doc.querySelector('script[src^="/main"][src$=".js"]')
-      ?.src
+    js: doc.querySelector('script[src^="/main"][src$=".js"]')?.src,
   }))
   .then((files) => {
     timestamp = new Date().toISOString();
     return files;
   })
-  .then(async ({ js}) => ({
+  .then(async ({ js }) => ({
     js: await fetch(`${GAME}${js}`)
       .then((res) => res.text())
       .then((js) => beautifyJs(js, BEAUTIFIER_OPTIONS)),
     jsPath: js,
   }))
-  .then(({ js, jsPath}) => [
+  .then(({ js, jsPath }) => [
     fs.writeFile(path.resolve(PATH, "main.js"), js).then(() => jsPath),
   ])
   .then((writing) => Promise.all(writing))
