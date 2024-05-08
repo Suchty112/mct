@@ -1729,6 +1729,11 @@
       "id": 79,
       "caption": "Allianssin haaste huhtikuu 2024",
       "key": "AWARD_ALLIANCE_CHALLENGE_APR_2024"
+    },
+    {
+      "id": 80,
+      "caption": "Äitienpäivän tehtävät 2024",
+      "key": "AWARD_MOTHERS_DAY_MISSIONS_2024"
     }
   ],
   "filter_types": [
