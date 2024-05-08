@@ -1993,6 +1993,11 @@
       "id": 95,
       "caption": "Alliantie Uitdaging April 2024",
       "key": "AWARD_ALLIANCE_CHALLENGE_APR_2024"
+    },
+    {
+      "id": 96,
+      "caption": "Moederdag Inzetten 2024",
+      "key": "AWARD_MOTHERS_DAY_MISSIONS_2024"
     }
   ],
   "filter_types": [
