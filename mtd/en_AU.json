@@ -1799,6 +1799,11 @@
       "id": 78,
       "caption": "Alliance Challenge April 2024",
       "key": "AWARD_ALLIANCE_CHALLENGE_APR_2024"
+    },
+    {
+      "id": 79,
+      "caption": "Mother's-Day missions 2024",
+      "key": "AWARD_MOTHERS_DAY_MISSIONS_2024"
     }
   ],
   "filter_types": [
