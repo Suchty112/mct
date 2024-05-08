@@ -1917,6 +1917,11 @@
       "id": 82,
       "caption": "Alianční výzva duben 2024",
       "key": "AWARD_ALLIANCE_CHALLENGE_APR_2024"
+    },
+    {
+      "id": 83,
+      "caption": "Mise ke Dni matek 2024",
+      "key": "AWARD_MOTHERS_DAY_MISSIONS_2024"
     }
   ],
   "filter_types": [
