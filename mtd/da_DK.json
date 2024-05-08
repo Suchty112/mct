@@ -1814,6 +1814,11 @@
       "id": 83,
       "caption": "Alliance Challenge april 2024",
       "key": "AWARD_ALLIANCE_CHALLENGE_APR_2024"
+    },
+    {
+      "id": 84,
+      "caption": "Mors dag-missioner 2024",
+      "key": "AWARD_MOTHERS_DAY_MISSIONS_2024"
     }
   ],
   "filter_types": [
