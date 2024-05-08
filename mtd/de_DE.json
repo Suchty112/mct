@@ -2214,6 +2214,11 @@
       "id": 95,
       "caption": "Vatertagseinsätze 2024",
       "key": "AWARD_FATHERS_DAY_MISSIONS_2024"
+    },
+    {
+      "id": 96,
+      "caption": "Muttertag-Einsätze 2024",
+      "key": "AWARD_MOTHERS_DAY_MISSIONS_2024"
     }
   ],
   "filter_types": [
@@ -5654,6 +5659,10 @@
     {
       "id": 846,
       "caption": "Betrunkene versuchen Kühe um zu Schubsen"
+    },
+    {
+      "id": 847,
+      "caption": "Brand in Tortenfabrik"
     }
   ]
 }
