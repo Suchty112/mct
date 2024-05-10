@@ -273,7 +273,7 @@
     {
       "key": "date_end",
       "caption": "Løber kun indtil ",
-      "type": "Unknown"
+      "type": "Datetime"
     },
     {
       "key": "max_police_building",
