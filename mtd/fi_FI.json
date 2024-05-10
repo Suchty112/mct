@@ -1734,6 +1734,11 @@
       "id": 80,
       "caption": "Äitienpäivän tehtävät 2024",
       "key": "AWARD_MOTHERS_DAY_MISSIONS_2024"
+    },
+    {
+      "id": 81,
+      "caption": "Alliance Challenge Toukokuu 2024",
+      "key": "AWARD_ALLIANCE_CHALLENGE_MAY_2024"
     }
   ],
   "filter_types": [
@@ -4177,11 +4182,11 @@
     },
     {
       "id": 597,
-      "caption": "431 Kirsikankukat tulessa"
+      "caption": "421 Kirsikankukat tulessa"
     },
     {
       "id": 598,
-      "caption": "431 Kukkapelto tulessa"
+      "caption": "422 Kukkapelto tulessa"
     },
     {
       "id": 599,
