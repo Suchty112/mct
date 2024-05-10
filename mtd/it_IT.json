@@ -666,11 +666,6 @@
       "type": "Integer"
     },
     {
-      "key": "need_mobile_shelter",
-      "caption": "Modulo Scarrabile Tende richiesto",
-      "type": "Integer"
-    },
-    {
       "key": "need_disaster_response_equipment",
       "caption": "Modulo Scarrabile Movimento Terra richiesto",
       "type": "Integer"
@@ -688,6 +683,11 @@
     {
       "key": "need_rescue_dog_units",
       "caption": "Unità Cinofile Ricerca e Soccorso richieste",
+      "type": "Integer"
+    },
+    {
+      "key": "need_mobile_shelter",
+      "caption": "Modulo Scarrabile Tende richiesto",
       "type": "Integer"
     },
     {
@@ -2046,6 +2046,11 @@
       "id": 83,
       "caption": "Mother's-Day missions 2024",
       "key": "AWARD_MOTHERS_DAY_MISSIONS_2024"
+    },
+    {
+      "id": 84,
+      "caption": "Sfida dell'Alleanza maggio 2024",
+      "key": "AWARD_ALLIANCE_CHALLENGE_MAY_2024"
     }
   ],
   "filter_types": [
