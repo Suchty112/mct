@@ -228,7 +228,7 @@
     {
       "key": "date_end",
       "caption": "Probíhá pouze do ",
-      "type": "Datetime"
+      "type": "Unknown"
     },
     {
       "key": "need_gwgefahrgut_chance",
@@ -1922,6 +1922,11 @@
       "id": 83,
       "caption": "Mise ke Dni matek 2024",
       "key": "AWARD_MOTHERS_DAY_MISSIONS_2024"
+    },
+    {
+      "id": 84,
+      "caption": "Alianční výzva květen 2024",
+      "key": "AWARD_ALLIANCE_CHALLENGE_MAY_2024"
     }
   ],
   "filter_types": [
