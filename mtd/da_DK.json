@@ -273,7 +273,7 @@
     {
       "key": "date_end",
       "caption": "Løber kun indtil ",
-      "type": "Datetime"
+      "type": "Unknown"
     },
     {
       "key": "max_police_building",
@@ -1819,6 +1819,11 @@
       "id": 84,
       "caption": "Mors dag-missioner 2024",
       "key": "AWARD_MOTHERS_DAY_MISSIONS_2024"
+    },
+    {
+      "id": 85,
+      "caption": "Alliancens udfordring maj 2024",
+      "key": "AWARD_ALLIANCE_CHALLENGE_MAY_2024"
     }
   ],
   "filter_types": [
