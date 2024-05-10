@@ -1741,6 +1741,11 @@
       "id": 72,
       "caption": "얼라이언스 챌린지 2024년 4월",
       "key": "AWARD_ALLIANCE_CHALLENGE_APR_2024"
+    },
+    {
+      "id": 73,
+      "caption": "얼라이언스 챌린지 2024년 5월",
+      "key": "AWARD_ALLIANCE_CHALLENGE_MAY_2024"
     }
   ],
   "filter_types": [
