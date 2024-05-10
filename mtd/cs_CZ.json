@@ -228,7 +228,7 @@
     {
       "key": "date_end",
       "caption": "Probíhá pouze do ",
-      "type": "Unknown"
+      "type": "Datetime"
     },
     {
       "key": "need_gwgefahrgut_chance",
