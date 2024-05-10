@@ -1755,6 +1755,11 @@
       "id": 76,
       "caption": "マザーズデー ミッション 2024",
       "key": "AWARD_MOTHERS_DAY_MISSIONS_2024"
+    },
+    {
+      "id": 77,
+      "caption": "アライアンス・チャレンジ 2024年5月",
+      "key": "AWARD_ALLIANCE_CHALLENGE_MAY_2024"
     }
   ],
   "filter_types": [
