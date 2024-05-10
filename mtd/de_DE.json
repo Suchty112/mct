@@ -2219,6 +2219,11 @@
       "id": 96,
       "caption": "Muttertag-Einsätze 2024",
       "key": "AWARD_MOTHERS_DAY_MISSIONS_2024"
+    },
+    {
+      "id": 97,
+      "caption": "Verbands-Herausforderung Mai 2024",
+      "key": "AWARD_ALLIANCE_CHALLENGE_MAY_2024"
     }
   ],
   "filter_types": [
