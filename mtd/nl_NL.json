@@ -198,7 +198,7 @@
     {
       "key": "date_end",
       "caption": "Eind datum",
-      "type": "Unknown"
+      "type": "Datetime"
     },
     {
       "key": "need_gwa",
