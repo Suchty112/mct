@@ -1742,6 +1742,11 @@
       "id": 80,
       "caption": "Wyzwanie sojuszu kwiecień 2024 r.",
       "key": "AWARD_ALLIANCE_CHALLENGE_APR_2024"
+    },
+    {
+      "id": 81,
+      "caption": "Wyzwanie sojuszu maj 2024 r.",
+      "key": "AWARD_ALLIANCE_CHALLENGE_MAY_2024"
     }
   ],
   "filter_types": [
