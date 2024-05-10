@@ -243,7 +243,7 @@
     {
       "key": "date_end",
       "caption": "Runs only up until ",
-      "type": "Datetime"
+      "type": "Unknown"
     },
     {
       "key": "possible_patient_gender",
@@ -1804,6 +1804,11 @@
       "id": 79,
       "caption": "Mother's-Day missions 2024",
       "key": "AWARD_MOTHERS_DAY_MISSIONS_2024"
+    },
+    {
+      "id": 80,
+      "caption": "Alliance Challenge May 2024",
+      "key": "AWARD_ALLIANCE_CHALLENGE_MAY_2024"
     }
   ],
   "filter_types": [
