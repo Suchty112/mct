@@ -96,14 +96,9 @@
       "type": "Integer"
     },
     {
-      "key": "allow_rw_instead_of_lf",
-      "caption": "Tungredningsbil kan erstatte Brannbil",
-      "type": "Boolean"
-    },
-    {
-      "key": "allow_dlk_instead_of_lf",
-      "caption": "Stigebil kan erstatte Brannbil",
-      "type": "Boolean"
+      "key": "need_oneof_fire_engine_or_rescue_or_ladder",
+      "caption": "Nødvendige brannbiler, tungredningsbiler eller stigebiler",
+      "type": "Integer"
     },
     {
       "key": "need_elw1",
@@ -153,6 +148,11 @@
     {
       "key": "need_gwgefahrgut",
       "caption": "Nødvendige CBRNe enheter",
+      "type": "Integer"
+    },
+    {
+      "key": "need_oneof_fire_engine_or_rescue",
+      "caption": "Nødvendige brannbiler eller tungredningsbiler",
       "type": "Integer"
     },
     {
@@ -326,9 +326,9 @@
       "type": "Integer"
     },
     {
-      "key": "allow_swat_instead_of_police",
-      "caption": "Politi med våpentrening kan erstatte Politi",
-      "type": "Boolean"
+      "key": "need_oneof_police_patrol_or_swat",
+      "caption": "Nødvendige politibiler eller delta kjøretøyer",
+      "type": "Integer"
     },
     {
       "key": "followup_missions",
@@ -626,18 +626,13 @@
       "type": "Integer"
     },
     {
-      "key": "allow_arff_instead_of_lf",
-      "caption": "Tillat flyplassbrannbiler i stedet for brannbiler",
-      "type": "Boolean"
-    },
-    {
-      "key": "allow_riv_instead_of_lf",
-      "caption": "Tillat RIV i stedet for brannbiler",
-      "type": "Boolean"
-    },
-    {
       "key": "airport_count",
       "caption": "Nødvendige flyplassutvidelser",
+      "type": "Integer"
+    },
+    {
+      "key": "need_oneof_fire_engine_or_airport_fire_engine_or_airport_fire_engine_large",
+      "caption": "Nødvendige brannbiler, fremskuttenheter eller flyplassbrannbiler",
       "type": "Integer"
     },
     {
@@ -648,6 +643,11 @@
     {
       "key": "need_arff",
       "caption": "Nødvendige flyplassbrannbiler",
+      "type": "Integer"
+    },
+    {
+      "key": "need_oneof_fire_engine_or_airport_fire_engine_large",
+      "caption": "Nødvendige brannbiler eller flyplassbrannbiler",
       "type": "Integer"
     },
     {
@@ -698,6 +698,46 @@
     {
       "key": "need_damage_control",
       "caption": "Nøvendig RVR enhet",
+      "type": "Integer"
+    },
+    {
+      "key": "technical_aid_count",
+      "caption": "Sivilforsvarets stasjon",
+      "type": "Integer"
+    },
+    {
+      "key": "technical_aid_support_count",
+      "caption": "Påkrevd MFE Utvidelse",
+      "type": "Integer"
+    },
+    {
+      "key": "need_technical_aid",
+      "caption": "Nødvendige Mannskapstransport",
+      "type": "Integer"
+    },
+    {
+      "key": "need_technical_aid_atv",
+      "caption": "Nødvendige ATV (Samfunnssikkerhet)",
+      "type": "Integer"
+    },
+    {
+      "key": "need_technical_aid_command",
+      "caption": "Nødvendige Innsatsleder Samfunnssikkerhet",
+      "type": "Integer"
+    },
+    {
+      "key": "decontamination_count",
+      "caption": "Påkrevd MFE Utvidelse",
+      "type": "Integer"
+    },
+    {
+      "key": "technical_aid_support_aid",
+      "caption": null,
+      "type": "Integer"
+    },
+    {
+      "key": "need_decontamination_personnel",
+      "caption": "Nødvendige Mobil renseenhet",
       "type": "Integer"
     }
   ],
@@ -1065,7 +1105,8 @@
     "cuffs",
     "glasses",
     "flood",
-    "soccer"
+    "soccer",
+    "tornado"
   ],
   "building_types": [
     {
@@ -1554,6 +1595,25 @@
       "id": 32,
       "caption": "Politibåthavn",
       "key": "BUILDING_TYPE_POLICE_BOAT_DOCK"
+    },
+    {
+      "id": 33,
+      "caption": "Samfunnssikkerhet",
+      "key": "BUILDING_TYPE_TECHNICAL_AID",
+      "extensions": [
+        {
+          "id": 0,
+          "caption": "Sivilforsvarets Brannmannskaper Utvidelse"
+        },
+        {
+          "id": 1,
+          "caption": "MFE Utvidelse"
+        },
+        {
+          "id": 2,
+          "caption": "MRE Utvidelse"
+        }
+      ]
     }
   ],
   "awards": [
@@ -1981,7 +2041,7 @@
     },
     {
       "key": "technical_aid_missions",
-      "caption": "Technical Aid Missions"
+      "caption": "Sivilforsvarets oppdrag"
     },
     {
       "key": "swat_missions",
@@ -4412,6 +4472,34 @@
     {
       "id": 605,
       "caption": "Brann i rørledning"
+    },
+    {
+      "id": 606,
+      "caption": "Redningsoperasjon etter jordskjelvet"
+    },
+    {
+      "id": 607,
+      "caption": "Hjelp til evakuering ved flom"
+    },
+    {
+      "id": 608,
+      "caption": "Begrensning av skogbrann"
+    },
+    {
+      "id": 609,
+      "caption": "Opprydding av kjemikaliesøl"
+    },
+    {
+      "id": 610,
+      "caption": "Vindstorm i landsbyen"
+    },
+    {
+      "id": 611,
+      "caption": "Avsporing av en vogn med radioaktive produkter"
+    },
+    {
+      "id": 612,
+      "caption": "Radioaktive lekkasjer i et kjernekraftverk"
     }
   ]
 }
