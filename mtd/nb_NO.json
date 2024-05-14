@@ -731,11 +731,6 @@
       "type": "Integer"
     },
     {
-      "key": "technical_aid_support_aid",
-      "caption": null,
-      "type": "Integer"
-    },
-    {
       "key": "need_decontamination_personnel",
       "caption": "Nødvendige Mobil renseenhet",
       "type": "Integer"
