@@ -579,6 +579,11 @@
       "key": "need_mobile_shelter",
       "caption": "Wymagany namiot pneumatyczny",
       "type": "Integer"
+    },
+    {
+      "key": "expansion_mission_only",
+      "caption": "Może być jedynie rozszerzeniem innej misji",
+      "type": "Boolean"
     }
   ],
   "pois": [
@@ -1747,6 +1752,11 @@
       "id": 81,
       "caption": "Wyzwanie sojuszu maj 2024 r.",
       "key": "AWARD_ALLIANCE_CHALLENGE_MAY_2024"
+    },
+    {
+      "id": 82,
+      "caption": "Misje na Dzień Matki 2024",
+      "key": "AWARD_MOTHERS_DAY_MISSIONS_2024"
     }
   ],
   "filter_types": [
@@ -4763,6 +4773,30 @@
     {
       "id": 740,
       "caption": "Usuwanie skutków powodzi rzecznych"
+    },
+    {
+      "id": 741,
+      "caption": "Osoba poślizgnęła się na roztopionej czekoladzie"
+    },
+    {
+      "id": 742,
+      "caption": "Płonący bukiet"
+    },
+    {
+      "id": 743,
+      "caption": "Pożar świeczki w sypialni"
+    },
+    {
+      "id": 744,
+      "caption": "Płonące ciasto w piekarniku"
+    },
+    {
+      "id": 745,
+      "caption": "Płonąca kuchnia"
+    },
+    {
+      "id": 746,
+      "caption": "Kradzież czekolady"
     }
   ]
 }
