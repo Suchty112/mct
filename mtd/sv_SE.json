@@ -1873,6 +1873,11 @@
       "id": 80,
       "caption": "Alliansutmaning maj 2024",
       "key": "AWARD_ALLIANCE_CHALLENGE_MAY_2024"
+    },
+    {
+      "id": 81,
+      "caption": "Mors dag uppdrag 2024",
+      "key": "AWARD_MOTHERS_DAY_MISSIONS_2024"
     }
   ],
   "filter_types": [
