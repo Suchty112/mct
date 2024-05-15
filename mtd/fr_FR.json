@@ -814,6 +814,11 @@
       "key": "need_swat_helicopter",
       "caption": "Requis SA 330 PUMA",
       "type": "Integer"
+    },
+    {
+      "key": "expansion_mission_only",
+      "caption": "Ne peut être qu'une mission d'expansion d'une autre mission",
+      "type": "Boolean"
     }
   ],
   "pois": [
@@ -2092,6 +2097,11 @@
       "id": 82,
       "caption": "Défi de l'Alliance mai 2024",
       "key": "AWARD_ALLIANCE_CHALLENGE_MAY_2024"
+    },
+    {
+      "id": 83,
+      "caption": "Missions pour la fête des mères 2024",
+      "key": "AWARD_MOTHERS_DAY_MISSIONS_2024"
     }
   ],
   "filter_types": [
@@ -5132,6 +5142,30 @@
     {
       "id": 746,
       "caption": "Sauvetage en espace confiné"
+    },
+    {
+      "id": 747,
+      "caption": "Une personne a glissé sur du chocolat fondu"
+    },
+    {
+      "id": 748,
+      "caption": "Bouquet brûlant"
+    },
+    {
+      "id": 749,
+      "caption": "Incendie d'une bougie dans une chambre à coucher"
+    },
+    {
+      "id": 750,
+      "caption": "Gâteau brûlant dans le four"
+    },
+    {
+      "id": 751,
+      "caption": "Cuisine en feu"
+    },
+    {
+      "id": 752,
+      "caption": "Vol de chocolat"
     }
   ]
 }
