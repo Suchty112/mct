@@ -106,14 +106,9 @@
       "type": "Integer"
     },
     {
-      "key": "allow_rw_instead_of_lf",
-      "caption": "Paloauton voi korvata raskaalla pelastusautolla",
-      "type": "Boolean"
-    },
-    {
-      "key": "allow_dlk_instead_of_lf",
-      "caption": "Paloauton voi korvata nostolava-autolla",
-      "type": "Boolean"
+      "key": "need_oneof_fire_engine_or_rescue_or_ladder",
+      "caption": "Vaaditut paloautot, raskaat pelastusautot tai nostolava-autot",
+      "type": "Integer"
     },
     {
       "key": "need_elw1_chance",
@@ -159,6 +154,11 @@
       "key": "date_start",
       "caption": "Toiminnassa vain tästä alkaen:",
       "type": "Datetime"
+    },
+    {
+      "key": "need_oneof_fire_engine_or_rescue",
+      "caption": "Vaaditut paloautot tai raskaat pelastusautot",
+      "type": "Integer"
     },
     {
       "key": "need_elw2",
@@ -441,8 +441,8 @@
       "type": "Unknown"
     },
     {
-      "key": "need_lf_chance",
-      "caption": "Todennäköisyys, että pyydetään johtoautoa",
+      "key": "need_oneof_fire_engine_or_ladder",
+      "caption": "Vaaditut paloautot tai nostolava-autot",
       "type": "Integer"
     },
     {
@@ -556,9 +556,9 @@
       "type": "Integer"
     },
     {
-      "key": "allow_riv_instead_of_lf",
-      "caption": "RIV Lentokenttäkärkiauto voi korvata paloautot",
-      "type": "Boolean"
+      "key": "need_oneof_fire_engine_or_airport_fire_engine",
+      "caption": "Vaaditut paloautot tai RIV lentokenttäpaloautot",
+      "type": "Integer"
     },
     {
       "key": "airport_2_count",
@@ -586,9 +586,14 @@
       "type": "Integer"
     },
     {
-      "key": "allow_arff_instead_of_lf",
-      "caption": "ARFF Lentokenttäpaloauto voi korvata paloautot",
-      "type": "Boolean"
+      "key": "need_oneof_fire_engine_or_airport_fire_engine_or_engine_large",
+      "caption": "Vaaditut paloautot, RIV lentokenttäpaloautot tai ARFF lentokenttäpaloautot",
+      "type": "Integer"
+    },
+    {
+      "key": "need_oneof_fire_engine_or_airport_fire_engine_large",
+      "caption": "Vaaditut paloautot tai ARFF lentokenttäpaloautot",
+      "type": "Integer"
     },
     {
       "key": "water_damage_pump_value",
