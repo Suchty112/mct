@@ -91,14 +91,9 @@
       "type": "Integer"
     },
     {
-      "key": "allow_rw_instead_of_lf",
-      "caption": "구조공작차(MRU) 은(는) 소방차 (으)로 대체할 수 있습니다",
-      "type": "Boolean"
-    },
-    {
-      "key": "allow_dlk_instead_of_lf",
-      "caption": "고가 사다리(TL) 은(는) 소방차 (으)로 대체할 수 있습니다",
-      "type": "Boolean"
+      "key": "need_oneof_fire_engine_or_rescue_or_ladder",
+      "caption": "소방차, 대형 구조차 또는 플랫폼 트럭이 필요합니다",
+      "type": "Integer"
     },
     {
       "key": "need_elw1",
@@ -153,6 +148,11 @@
     {
       "key": "need_gwgefahrgut",
       "caption": "필요한 생화학 차량",
+      "type": "Integer"
+    },
+    {
+      "key": "need_oneof_fire_engine_or_rescue",
+      "caption": "소방차 또는 대형 구조 차량 필요",
       "type": "Integer"
     },
     {
@@ -401,9 +401,9 @@
       "type": "Integer"
     },
     {
-      "key": "allow_streifenwagen_instead_of_riot_police_van",
-      "caption": "순찰차는 진압 경찰 그룹 차량을 대체할 수 있습니다",
-      "type": "Boolean"
+      "key": "need_oneof_police_patrol_or_riot_police_crew",
+      "caption": "필수 경찰 차량 또는 기동대 차량",
+      "type": "Integer"
     },
     {
       "key": "personal_min_polizei",
@@ -506,18 +506,13 @@
       "type": "Integer"
     },
     {
-      "key": "allow_arff_instead_of_lf",
-      "caption": "항공기 구조용고성능 소방차 로 소방차 대체 가능",
-      "type": "Boolean"
-    },
-    {
-      "key": "allow_riv_instead_of_lf",
-      "caption": "신속 개입 차량 로 소방차 대체 가능",
-      "type": "Boolean"
-    },
-    {
       "key": "airport_count",
       "caption": "공항 연장",
+      "type": "Integer"
+    },
+    {
+      "key": "need_oneof_fire_engine_or_airport_fire_engine_or_engine_large",
+      "caption": "필수 소방차, 공항 소방차 또는 대형 공항 소방차",
       "type": "Integer"
     },
     {
@@ -543,6 +538,11 @@
     {
       "key": "need_piercing_nozzle",
       "caption": "필수 스팅어 HRET",
+      "type": "Integer"
+    },
+    {
+      "key": "need_oneof_fire_engine_or_airport_fire_engine_large",
+      "caption": "필수 소방차 또는 대형 공항 소방차",
       "type": "Integer"
     },
     {
