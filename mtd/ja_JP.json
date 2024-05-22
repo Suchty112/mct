@@ -91,14 +91,9 @@
       "type": "Integer"
     },
     {
-      "key": "allow_rw_instead_of_lf",
-      "caption": "大型救助ユニット（MRU) は、消防車 を置き換えることができます",
-      "type": "Boolean"
-    },
-    {
-      "key": "allow_dlk_instead_of_lf",
-      "caption": "ターンテーブルはしご（TL) は、消防車 を置き換えることができます",
-      "type": "Boolean"
+      "key": "need_oneof_fire_engine_or_rescue_or_ladder",
+      "caption": "消防車、大型レスキュー車またはプラットホームトラックが必要",
+      "type": "Integer"
     },
     {
       "key": "need_elw1",
@@ -153,6 +148,11 @@
     {
       "key": "need_gwgefahrgut",
       "caption": "危険物取扱車両が必要",
+      "type": "Integer"
+    },
+    {
+      "key": "need_oneof_fire_engine_or_rescue",
+      "caption": "消防車または大型救助車が必要",
       "type": "Integer"
     },
     {
@@ -396,9 +396,9 @@
       "type": "Integer"
     },
     {
-      "key": "allow_streifenwagen_instead_of_riot_police_van",
-      "caption": "パトロールカーは、機動隊車両に置き換えることができます。",
-      "type": "Boolean"
+      "key": "need_oneof_police_patrol_or_riot_police_crew",
+      "caption": "必要な警察車両または機動隊車両",
+      "type": "Integer"
     },
     {
       "key": "personal_min_polizei",
@@ -501,13 +501,13 @@
       "type": "Integer"
     },
     {
-      "key": "allow_arff_instead_of_lf",
-      "caption": "空港用消防車は消防車を代替できる",
-      "type": "Boolean"
-    },
-    {
       "key": "airport_count",
       "caption": "空港の増設が必要",
+      "type": "Integer"
+    },
+    {
+      "key": "need_oneof_fire_engine_or_airport_fire_engine_large",
+      "caption": "必要な消防車または大型空港消防車",
       "type": "Integer"
     },
     {
@@ -516,9 +516,9 @@
       "type": "Integer"
     },
     {
-      "key": "allow_riv_instead_of_lf",
-      "caption": "緊急介入車は消防車を代替できる",
-      "type": "Boolean"
+      "key": "need_oneof_fire_engine_or_airport_fire_engine_or_engine_large",
+      "caption": "消防車、空港消防車、大型空港消防車が必要",
+      "type": "Integer"
     },
     {
       "key": "need_riv",
