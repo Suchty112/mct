@@ -116,14 +116,9 @@
       "type": "Integer"
     },
     {
-      "key": "allow_rw_instead_of_lf",
-      "caption": "VSR peut remplacer le Fourgon d’incendie",
-      "type": "Boolean"
-    },
-    {
-      "key": "allow_dlk_instead_of_lf",
-      "caption": "EPA peut remplacer le Fourgon d’incendie",
-      "type": "Boolean"
+      "key": "need_oneof_fire_engine_or_rescue_or_ladder",
+      "caption": "Fourgons d’incendie, véhicules de secours routier ou moyens elévateur aérien requis",
+      "type": "Integer"
     },
     {
       "key": "need_gwl2wasser",
@@ -193,6 +188,11 @@
     {
       "key": "need_gwgefahrgut",
       "caption": "Véhicules risques technologiques requis",
+      "type": "Integer"
+    },
+    {
+      "key": "need_oneof_fire_engine_or_rescue",
+      "caption": "Fourgons d’incendie ou véhicules de secours routier requis",
       "type": "Integer"
     },
     {
@@ -351,6 +351,11 @@
       "type": "Integer"
     },
     {
+      "key": "need_oneof_fire_engine_or_ladder",
+      "caption": "Fourgons d’incendie ou moyens elévateur aérien requis",
+      "type": "Integer"
+    },
+    {
       "key": "possible_prisoner_min",
       "caption": null,
       "type": "Integer"
@@ -501,14 +506,9 @@
       "type": "Integer"
     },
     {
-      "key": "need_riot_police",
-      "caption": "VR nécessaire",
+      "key": "need_oneof_police_patrol_or_riot_police_crew",
+      "caption": "Voitures de police ou VR",
       "type": "Integer"
-    },
-    {
-      "key": "allow_streifenwagen_instead_of_riot_police_van",
-      "caption": "Véhicule de patrouille peut remplacer le VR",
-      "type": "Boolean"
     },
     {
       "key": "need_riot_police_command",
@@ -518,6 +518,11 @@
     {
       "key": "need_riot_police_equipment",
       "caption": "RAM nécessaire",
+      "type": "Integer"
+    },
+    {
+      "key": "need_riot_police",
+      "caption": "VR nécessaire",
       "type": "Integer"
     },
     {
@@ -616,14 +621,9 @@
       "type": "Unknown"
     },
     {
-      "key": "allow_arff_instead_of_lf",
-      "caption": "VIM peut remplacer un engin pompe",
-      "type": "Boolean"
-    },
-    {
-      "key": "allow_riv_instead_of_lf",
-      "caption": "VIRP peut remplacer un engin pompe",
-      "type": "Boolean"
+      "key": "need_oneof_fire_engine_or_airport_fire_engine_or_engine_large",
+      "caption": "Fourgons d’incendie, VIRP ou VIM",
+      "type": "Integer"
     },
     {
       "key": "airport_count",
@@ -638,6 +638,11 @@
     {
       "key": "need_rettungstreppe",
       "caption": "Moyen d'Accès en Hauteur requis",
+      "type": "Integer"
+    },
+    {
+      "key": "need_oneof_fire_engine_or_airport_fire_engine_large",
+      "caption": "Fourgons d’incendie ou VIM ",
       "type": "Integer"
     },
     {
@@ -814,6 +819,11 @@
       "key": "need_swat_helicopter",
       "caption": "Requis SA 330 PUMA",
       "type": "Integer"
+    },
+    {
+      "key": "allow_rw_instead_of_lf",
+      "caption": "VSR peut remplacer le Fourgon d’incendie",
+      "type": "Boolean"
     },
     {
       "key": "expansion_mission_only",
