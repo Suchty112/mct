@@ -51,6 +51,11 @@
       "type": "Unknown"
     },
     {
+      "key": "date_start",
+      "caption": "Start datum",
+      "type": "Datetime"
+    },
+    {
       "key": "need_lf",
       "caption": "Benodigde tankautospuiten",
       "type": "Integer"
@@ -319,11 +324,6 @@
       "key": "possible_prisoner",
       "caption": "Maximaal aantal gevangenen",
       "type": "Integer"
-    },
-    {
-      "key": "date_start",
-      "caption": "Start datum",
-      "type": "Datetime"
     },
     {
       "key": "bereitschaftspolizei_count",
