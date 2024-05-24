@@ -821,11 +821,6 @@
       "type": "Integer"
     },
     {
-      "key": "allow_rw_instead_of_lf",
-      "caption": "VSR peut remplacer le Fourgon d’incendie",
-      "type": "Boolean"
-    },
-    {
       "key": "expansion_mission_only",
       "caption": "Ne peut être qu'une mission d'expansion d'une autre mission",
       "type": "Boolean"
