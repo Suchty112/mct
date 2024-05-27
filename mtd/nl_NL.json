@@ -51,24 +51,29 @@
       "type": "Unknown"
     },
     {
-      "key": "date_start",
-      "caption": "Start datum",
-      "type": "Datetime"
-    },
-    {
       "key": "need_lf",
       "caption": "Benodigde tankautospuiten",
       "type": "Integer"
     },
     {
-      "key": "expansion_missions",
-      "caption": "Uitbreidingsmogelijkheid",
-      "type": "Unknown"
+      "key": "need_gwl2wasser",
+      "caption": "Benodigde slangenwagens",
+      "type": "Integer"
+    },
+    {
+      "key": "need_gwl2wasser_chance",
+      "caption": "Slangenwagen benodigd waarschijnlijkheid",
+      "type": "Integer"
     },
     {
       "key": "mission_generation_types",
       "caption": "Incident keuze",
       "type": "Set"
+    },
+    {
+      "key": "expansion_missions",
+      "caption": "Uitbreidingsmogelijkheid",
+      "type": "Unknown"
     },
     {
       "key": "police_count",
@@ -114,16 +119,6 @@
       "key": "allow_rw_instead_of_lf",
       "caption": "HV kan worden ingezet als Tankautospuiten",
       "type": "Boolean"
-    },
-    {
-      "key": "need_gwl2wasser",
-      "caption": "Benodigde slangenwagens",
-      "type": "Integer"
-    },
-    {
-      "key": "need_gwl2wasser_chance",
-      "caption": "Slangenwagen benodigd waarschijnlijkheid",
-      "type": "Integer"
     },
     {
       "key": "alternate_value_overlay_requirements",
@@ -179,6 +174,11 @@
       "key": "need_elw2_chance",
       "caption": "HOVD benodigd waarschijnlijkheid",
       "type": "Integer"
+    },
+    {
+      "key": "date_start",
+      "caption": "Start datum",
+      "type": "Datetime"
     },
     {
       "key": "brandmeldeanlage_possible",
