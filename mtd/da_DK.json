@@ -1824,6 +1824,11 @@
       "id": 85,
       "caption": "Alliancens udfordring maj 2024",
       "key": "AWARD_ALLIANCE_CHALLENGE_MAY_2024"
+    },
+    {
+      "id": 86,
+      "caption": "Fars dag 2024",
+      "key": "AWARD_FATHERS_DAY_MISSIONS_2024"
     }
   ],
   "filter_types": [
@@ -4252,6 +4257,38 @@
     {
       "id": 593,
       "caption": "Brand i rørledning"
+    },
+    {
+      "id": 594,
+      "caption": "Person trådte på glasskår"
+    },
+    {
+      "id": 595,
+      "caption": "Brand forårsaget af grill"
+    },
+    {
+      "id": 596,
+      "caption": "Brændende campingtelt"
+    },
+    {
+      "id": 597,
+      "caption": "Far forsvandt"
+    },
+    {
+      "id": 598,
+      "caption": "Picnickurv stjålet"
+    },
+    {
+      "id": 599,
+      "caption": "Øltønder lækket"
+    },
+    {
+      "id": 600,
+      "caption": "Støjforurening på grund af fars dag-fest"
+    },
+    {
+      "id": 601,
+      "caption": "Fulde mennesker forsøger at skubbe køer omkuld"
     }
   ]
 }
