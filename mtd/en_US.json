@@ -2264,6 +2264,16 @@
       "id": 81,
       "caption": "Alliance Challenge May 2024",
       "key": "AWARD_ALLIANCE_CHALLENGE_MAY_2024"
+    },
+    {
+      "id": 82,
+      "caption": "Father's day 2024",
+      "key": "AWARD_FATHERS_DAY_MISSIONS_2024"
+    },
+    {
+      "id": 83,
+      "caption": "9th Anniversary",
+      "key": "AWARD_NINE_YEARS"
     }
   ],
   "filter_types": [
@@ -6164,6 +6174,18 @@
     {
       "id": 961,
       "caption": "Fishing boat in distress"
+    },
+    {
+      "id": 962,
+      "caption": "Accident during making Father's Day gift"
+    },
+    {
+      "id": 963,
+      "caption": "Child injured while making Father's Day breakfast"
+    },
+    {
+      "id": 964,
+      "caption": "Beer barrels leaking"
     }
   ]
 }
