@@ -2003,6 +2003,11 @@
       "id": 97,
       "caption": "Alliantie Uitdaging Mei 2024",
       "key": "AWARD_ALLIANCE_CHALLENGE_MAY_2024"
+    },
+    {
+      "id": 98,
+      "caption": "Vaderdag 2024",
+      "key": "AWARD_FATHERS_DAY_MISSIONS_2024"
     }
   ],
   "filter_types": [
