@@ -1760,6 +1760,11 @@
       "id": 77,
       "caption": "アライアンス・チャレンジ 2024年5月",
       "key": "AWARD_ALLIANCE_CHALLENGE_MAY_2024"
+    },
+    {
+      "id": 78,
+      "caption": "2024年父の日",
+      "key": "AWARD_FATHERS_DAY_MISSIONS_2024"
     }
   ],
   "filter_types": [
@@ -3924,6 +3929,18 @@
     {
       "id": 527,
       "caption": "パイプライン火災"
+    },
+    {
+      "id": 528,
+      "caption": "父の日のプレゼント作成中の事故"
+    },
+    {
+      "id": 529,
+      "caption": "父の日の朝食作りで子どもが負傷"
+    },
+    {
+      "id": 530,
+      "caption": "ビール樽の水漏れ"
     }
   ]
 }
