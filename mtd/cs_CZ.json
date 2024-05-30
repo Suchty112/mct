@@ -1927,6 +1927,11 @@
       "id": 84,
       "caption": "Alianční výzva květen 2024",
       "key": "AWARD_ALLIANCE_CHALLENGE_MAY_2024"
+    },
+    {
+      "id": 85,
+      "caption": "Den otců 2024",
+      "key": "AWARD_FATHERS_DAY_MISSIONS_2024"
     }
   ],
   "filter_types": [
@@ -4387,6 +4392,18 @@
     {
       "id": 601,
       "caption": "Požár potrubí"
+    },
+    {
+      "id": 602,
+      "caption": "Nehoda při výrobě dárku ke Dni otců"
+    },
+    {
+      "id": 603,
+      "caption": "Zranění dítěte při přípravě snídaně ke Dni otců"
+    },
+    {
+      "id": 604,
+      "caption": "Unikly sudy s pivem"
     }
   ]
 }
