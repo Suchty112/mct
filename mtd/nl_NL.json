@@ -166,6 +166,16 @@
       "type": "Unknown"
     },
     {
+      "key": "need_gwa",
+      "caption": "Benodigde Adembeschermingsvoertuigen",
+      "type": "Integer"
+    },
+    {
+      "key": "need_gwa_chance",
+      "caption": "Adembeschermingsvoertuig benodigd waarschijnlijkheid",
+      "type": "Integer"
+    },
+    {
       "key": "need_elw2",
       "caption": "Benodigde HOVD's",
       "type": "Integer"
@@ -176,9 +186,9 @@
       "type": "Integer"
     },
     {
-      "key": "date_start",
-      "caption": "Start datum",
-      "type": "Datetime"
+      "key": "transport_need_quote",
+      "caption": "Waarschijnlijkheid dat een patiënt getransporteerd moet worden",
+      "type": "Integer"
     },
     {
       "key": "brandmeldeanlage_possible",
@@ -196,24 +206,14 @@
       "type": "Integer"
     },
     {
-      "key": "transport_need_quote",
-      "caption": "Waarschijnlijkheid dat een patiënt getransporteerd moet worden",
-      "type": "Integer"
+      "key": "date_start",
+      "caption": "Start datum",
+      "type": "Datetime"
     },
     {
       "key": "date_end",
       "caption": "Eind datum",
       "type": "Datetime"
-    },
-    {
-      "key": "need_gwa",
-      "caption": "Benodigde Adembeschermingsvoertuigen",
-      "type": "Integer"
-    },
-    {
-      "key": "need_gwa_chance",
-      "caption": "Adembeschermingsvoertuig benodigd waarschijnlijkheid",
-      "type": "Integer"
     },
     {
       "key": "need_elw3",
