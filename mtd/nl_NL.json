@@ -206,9 +206,9 @@
       "type": "Integer"
     },
     {
-      "key": "date_start",
-      "caption": "Start datum",
-      "type": "Datetime"
+      "key": "possible_patient_min",
+      "caption": "Minimaal aantal patiënten",
+      "type": "Integer"
     },
     {
       "key": "date_end",
@@ -266,11 +266,6 @@
       "type": "Integer"
     },
     {
-      "key": "possible_patient_min",
-      "caption": "Minimaal aantal patiënten",
-      "type": "Integer"
-    },
-    {
       "key": "need_mass_casualty_advanced",
       "caption": "Benodigde GGB",
       "type": "Integer"
@@ -324,6 +319,11 @@
       "key": "possible_prisoner",
       "caption": "Maximaal aantal gevangenen",
       "type": "Integer"
+    },
+    {
+      "key": "date_start",
+      "caption": "Start datum",
+      "type": "Datetime"
     },
     {
       "key": "bereitschaftspolizei_count",
