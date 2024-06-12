@@ -1482,7 +1482,7 @@
     },
     {
       "id": 17,
-      "caption": "Europa Fodbold Mesterskab 2021 Udmærkelse",
+      "caption": "Fodbold-Event 2021",
       "key": "AWARD_EM2021_MISSIONS"
     },
     {
@@ -1829,6 +1829,21 @@
       "id": 86,
       "caption": "Fars dag 2024",
       "key": "AWARD_FATHERS_DAY_MISSIONS_2024"
+    },
+    {
+      "id": 87,
+      "caption": "Fodboldsamler 2024",
+      "key": "AWARD_EM2024_COLLECTION"
+    },
+    {
+      "id": 88,
+      "caption": "Fodbold-Event 2024",
+      "key": "AWARD_EM2024_MISSIONS"
+    },
+    {
+      "id": 89,
+      "caption": "Alliancens udfordring juni 2024",
+      "key": "AWARD_ALLIANCE_CHALLENGE_JUN_2024"
     }
   ],
   "filter_types": [
@@ -4289,6 +4304,62 @@
     {
       "id": 601,
       "caption": "Fulde mennesker forsøger at skubbe køer omkuld"
+    },
+    {
+      "id": 602,
+      "caption": "Pust fodbold op"
+    },
+    {
+      "id": 603,
+      "caption": "Teamets bus parkeret i en zone med stopforbud"
+    },
+    {
+      "id": 604,
+      "caption": "Trussel efter dykning"
+    },
+    {
+      "id": 605,
+      "caption": "Skade efter at have ramt bar"
+    },
+    {
+      "id": 606,
+      "caption": "Målet faldt ned"
+    },
+    {
+      "id": 607,
+      "caption": "Stjålet trofæ"
+    },
+    {
+      "id": 608,
+      "caption": "Forfrysninger fra issprøjt"
+    },
+    {
+      "id": 609,
+      "caption": "Ondt i halsen efter at have fejret"
+    },
+    {
+      "id": 610,
+      "caption": "Mangler anførerbind"
+    },
+    {
+      "id": 611,
+      "caption": "Brændende hjørneflag"
+    },
+    {
+      "id": 612,
+      "caption": "Tilhængere med fyrværkeri på tribunen"
+    },
+    {
+      "id": 613,
+      "caption": "Fodboldspiller gled i brusebad"
+    },
+    {
+      "id": 614,
+      "caption": "Panik på tribunen"
+    },
+    {
+      "id": 615,
+      "caption": "Brand på stadion"
     }
   ]
 }
