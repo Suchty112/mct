@@ -2274,6 +2274,11 @@
       "id": 83,
       "caption": "9th Anniversary",
       "key": "AWARD_NINE_YEARS"
+    },
+    {
+      "id": 84,
+      "caption": "Alliance Challenge June 2024",
+      "key": "AWARD_ALLIANCE_CHALLENGE_JUN_2024"
     }
   ],
   "filter_types": [
