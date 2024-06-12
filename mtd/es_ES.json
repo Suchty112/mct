@@ -1082,7 +1082,8 @@
     "snowy",
     "cruiseship",
     "flood",
-    "cuffs"
+    "cuffs",
+    "stadium"
   ],
   "building_types": [
     {
@@ -1663,7 +1664,7 @@
     },
     {
       "id": 16,
-      "caption": "Premio del Campeonato Europeo de Fútbol 2021",
+      "caption": "Evento futbolístico 2021",
       "key": "AWARD_EM2021_MISSIONS"
     },
     {
@@ -1980,6 +1981,21 @@
       "id": 79,
       "caption": "Desafío de la Alianza Mayo 2024",
       "key": "AWARD_ALLIANCE_CHALLENGE_MAY_2024"
+    },
+    {
+      "id": 80,
+      "caption": "Evento futbolístico 2024",
+      "key": "AWARD_EM2024_MISSIONS"
+    },
+    {
+      "id": 81,
+      "caption": "Coleccionista de fútbol 2024",
+      "key": "AWARD_EM2024_COLLECTION"
+    },
+    {
+      "id": 82,
+      "caption": "Desafío de la Alianza Junio de 2024",
+      "key": "AWARD_ALLIANCE_CHALLENGE_JUN_2024"
     }
   ],
   "filter_types": [
@@ -4280,6 +4296,22 @@
     {
       "id": 561,
       "caption": "Incendio en una tubería"
+    },
+    {
+      "id": 562,
+      "caption": "Hinchas con fuegos artificiales en la grada"
+    },
+    {
+      "id": 563,
+      "caption": "Futbolista resbala en la ducha"
+    },
+    {
+      "id": 564,
+      "caption": "Pánico en las gradas"
+    },
+    {
+      "id": 565,
+      "caption": "Incendio en el estadio"
     }
   ]
 }
