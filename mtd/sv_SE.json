@@ -1556,7 +1556,7 @@
     },
     {
       "id": 17,
-      "caption": "Fotbolls-EM 2021",
+      "caption": "Fotbollsevenemang 2021",
       "key": "AWARD_EM2021_MISSIONS"
     },
     {
@@ -1878,6 +1878,11 @@
       "id": 81,
       "caption": "Mors dag uppdrag 2024",
       "key": "AWARD_MOTHERS_DAY_MISSIONS_2024"
+    },
+    {
+      "id": 82,
+      "caption": "Alliansutmaning juni 2024",
+      "key": "AWARD_ALLIANCE_CHALLENGE_JUN_2024"
     }
   ],
   "filter_types": [
