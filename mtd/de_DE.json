@@ -879,6 +879,71 @@
       "key": "need_police_horse",
       "caption": "Benötigte Polizeipferde",
       "type": "Integer"
+    },
+    {
+      "key": "groups",
+      "caption": "Eingeschränkte Fahrzeugtypen",
+      "type": "Unknown"
+    },
+    {
+      "key": "mountain_value",
+      "caption": null,
+      "type": "Integer"
+    },
+    {
+      "key": "mountain_rescue_count",
+      "caption": "Voraussetzung an Bergrettungswachen",
+      "type": "Integer"
+    },
+    {
+      "key": "mountain_height_rescue_count",
+      "caption": "Benötigte Höhenrettungs-Erweiterungen",
+      "type": "Integer"
+    },
+    {
+      "key": "need_mountain_height_rescue",
+      "caption": "Benötigte Höhenrettung (Bergrettung)",
+      "type": "Integer"
+    },
+    {
+      "key": "second_patient_transfer_from",
+      "caption": "Übergabe möglich bei",
+      "type": "Unknown"
+    },
+    {
+      "key": "need_mountain",
+      "caption": "Benötigte Bergrettungsfahrzeuge",
+      "type": "Integer"
+    },
+    {
+      "key": "lift_count",
+      "caption": "Benötigte Windenrettungs-Erweiterungen",
+      "type": "Integer"
+    },
+    {
+      "key": "need_mountain_equipment",
+      "caption": "Benötigte GW Bergrettung",
+      "type": "Integer"
+    },
+    {
+      "key": "need_mountain_snow",
+      "caption": "Benötigte Schneefahrzeuge",
+      "type": "Integer"
+    },
+    {
+      "key": "need_lift",
+      "caption": "Benötigte Hubschrauber mit Winde",
+      "type": "Integer"
+    },
+    {
+      "key": "need_mountain_command",
+      "caption": "Benötigte ELW Bergrettung",
+      "type": "Integer"
+    },
+    {
+      "key": "personal_min_ambulance",
+      "caption": "Benötigte Minimum Rettungsdienstler",
+      "type": "Integer"
     }
   ],
   "pois": [
@@ -1109,6 +1174,10 @@
     {
       "id": 56,
       "caption": "Werksgelände"
+    },
+    {
+      "id": 57,
+      "caption": "Seilbahn"
     }
   ],
   "available_icons": [
@@ -1157,7 +1226,9 @@
     "autumn",
     "lightningStrike",
     "spring",
-    "xmas"
+    "xmas",
+    "hiking",
+    "cycling"
   ],
   "building_types": [
     {
@@ -1366,7 +1437,13 @@
     {
       "id": 5,
       "caption": "Rettungshubschrauber-Station",
-      "key": "BUILDING_TYPE_NOTARZTHUBSCHRAUBERLANDEPLATZ"
+      "key": "BUILDING_TYPE_NOTARZTHUBSCHRAUBERLANDEPLATZ",
+      "extensions": [
+        {
+          "id": 0,
+          "caption": "Windenrettung"
+        }
+      ]
     },
     {
       "id": 6,
@@ -1631,6 +1708,10 @@
         {
           "id": 0,
           "caption": "Außenlastbehälter"
+        },
+        {
+          "id": 1,
+          "caption": "Windenrettung"
         }
       ]
     },
@@ -1780,6 +1861,29 @@
         {
           "id": 5,
           "caption": "Reiterstaffel"
+        }
+      ]
+    },
+    {
+      "id": 25,
+      "caption": "Bergrettungswache",
+      "key": "BUILDING_TYPE_MOUNTAIN_RESCUE",
+      "extensions": [
+        {
+          "id": 0,
+          "caption": "Höhenrettung"
+        },
+        {
+          "id": 1,
+          "caption": "Drohneneinheit"
+        },
+        {
+          "id": 2,
+          "caption": "Rettungshundestaffel"
+        },
+        {
+          "id": 3,
+          "caption": "Rettungsdienst"
         }
       ]
     }
@@ -2224,6 +2328,21 @@
       "id": 97,
       "caption": "Verbands-Herausforderung Mai 2024",
       "key": "AWARD_ALLIANCE_CHALLENGE_MAY_2024"
+    },
+    {
+      "id": 98,
+      "caption": "Fußball-Event 2024",
+      "key": "AWARD_EM2024_MISSIONS"
+    },
+    {
+      "id": 99,
+      "caption": "Fußball-Sammler 2024",
+      "key": "AWARD_EM2024_COLLECTION"
+    },
+    {
+      "id": 100,
+      "caption": "Verbands-Herausforderung Juni 2024",
+      "key": "AWARD_ALLIANCE_CHALLENGE_JUN_2024"
     }
   ],
   "filter_types": [
@@ -2274,6 +2393,10 @@
     {
       "key": "swat_missions",
       "caption": "GIGN"
+    },
+    {
+      "key": "mountain_missions",
+      "caption": "Bergrettung"
     }
   ],
   "existing_mission_captions": [
@@ -5672,6 +5795,70 @@
     {
       "id": 848,
       "caption": "Einsturz Terminal"
+    },
+    {
+      "id": 849,
+      "caption": "EM Risikospiel Überwachung"
+    },
+    {
+      "id": 850,
+      "caption": "Großbrand im Stadion"
+    },
+    {
+      "id": 851,
+      "caption": "Sommermärchen geplatzt"
+    },
+    {
+      "id": 852,
+      "caption": "Schwalbe fliegt gegen Mauer"
+    },
+    {
+      "id": 853,
+      "caption": "Höhenrettung aus Gondel"
+    },
+    {
+      "id": 854,
+      "caption": "Abgestürzter Wanderer"
+    },
+    {
+      "id": 855,
+      "caption": "Rettung aus Felsspalte"
+    },
+    {
+      "id": 856,
+      "caption": "Blockierte Bergsteiger"
+    },
+    {
+      "id": 857,
+      "caption": "Gestürzter Mountainbiker"
+    },
+    {
+      "id": 858,
+      "caption": "Erschöpfte Wanderer"
+    },
+    {
+      "id": 859,
+      "caption": "Abgestürzter Kletterer"
+    },
+    {
+      "id": 860,
+      "caption": "Gleitschirmabsturz"
+    },
+    {
+      "id": 861,
+      "caption": "Personensuche nach Lawine"
+    },
+    {
+      "id": 862,
+      "caption": "Unterkühlung"
+    },
+    {
+      "id": 863,
+      "caption": "Hitzschlag"
+    },
+    {
+      "id": 864,
+      "caption": "Vermisstensuche im Gelände"
     }
   ]
 }
