@@ -1047,7 +1047,8 @@
     "glasses",
     "flood",
     "radiation",
-    "tornado"
+    "tornado",
+    "stadium"
   ],
   "building_types": [
     {
@@ -1714,7 +1715,7 @@
     },
     {
       "id": 17,
-      "caption": "Ricompensa per il Campionato europeo di calcio 2021",
+      "caption": "Evento di calcio 2021",
       "key": "AWARD_EM2021_MISSIONS"
     },
     {
@@ -2051,6 +2052,21 @@
       "id": 84,
       "caption": "Sfida dell'Alleanza maggio 2024",
       "key": "AWARD_ALLIANCE_CHALLENGE_MAY_2024"
+    },
+    {
+      "id": 85,
+      "caption": "Evento di calcio 2024",
+      "key": "AWARD_EM2024_MISSIONS"
+    },
+    {
+      "id": 86,
+      "caption": "Collezionista di calcio 2024",
+      "key": "AWARD_EM2024_COLLECTION"
+    },
+    {
+      "id": 87,
+      "caption": "Sfida dell'Alleanza giugno 2024",
+      "key": "AWARD_ALLIANCE_CHALLENGE_JUN_2024"
     }
   ],
   "filter_types": [
@@ -4867,6 +4883,22 @@
     {
       "id": 690,
       "caption": "Incendio di un oleodotto"
+    },
+    {
+      "id": 691,
+      "caption": "Sostenitori con fuochi d'artificio in tribuna"
+    },
+    {
+      "id": 692,
+      "caption": "Giocatore di calcio scivolato nella doccia"
+    },
+    {
+      "id": 693,
+      "caption": "Panico sugli spalti"
+    },
+    {
+      "id": 694,
+      "caption": "Incendio nello stadio"
     }
   ]
 }
