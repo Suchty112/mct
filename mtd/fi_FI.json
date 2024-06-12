@@ -1422,7 +1422,7 @@
     },
     {
       "id": 17,
-      "caption": "Jalkapallon EM-kisat 2021-palkinto",
+      "caption": "Jalkapallotapahtuma 2021",
       "key": "AWARD_EM2021_MISSIONS"
     },
     {
@@ -1744,6 +1744,11 @@
       "id": 81,
       "caption": "Alliance Challenge Toukokuu 2024",
       "key": "AWARD_ALLIANCE_CHALLENGE_MAY_2024"
+    },
+    {
+      "id": 82,
+      "caption": "Alliance Challenge kesäkuu 2024",
+      "key": "AWARD_ALLIANCE_CHALLENGE_JUN_2024"
     }
   ],
   "filter_types": [
