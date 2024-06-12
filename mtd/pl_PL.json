@@ -1425,7 +1425,7 @@
     },
     {
       "id": 16,
-      "caption": "Nagroda Mistrzostw Europy w Piłce Nożnej 2021",
+      "caption": "Wydarzenie piłkarskie 2021",
       "key": "AWARD_EM2021_MISSIONS"
     },
     {
@@ -1757,6 +1757,21 @@
       "id": 82,
       "caption": "Misje na Dzień Matki 2024",
       "key": "AWARD_MOTHERS_DAY_MISSIONS_2024"
+    },
+    {
+      "id": 83,
+      "caption": "Wydarzenie piłkarskie 2024",
+      "key": "AWARD_EM2024_MISSIONS"
+    },
+    {
+      "id": 84,
+      "caption": "Football Kolektor 2024",
+      "key": "AWARD_EM2024_COLLECTION"
+    },
+    {
+      "id": 85,
+      "caption": "Wyzwanie sojuszu czerwiec 2024 r.",
+      "key": "AWARD_ALLIANCE_CHALLENGE_JUN_2024"
     }
   ],
   "filter_types": [
@@ -4797,6 +4812,22 @@
     {
       "id": 746,
       "caption": "Kradzież czekolady"
+    },
+    {
+      "id": 747,
+      "caption": "Kibice z fajerwerkami na trybunie"
+    },
+    {
+      "id": 748,
+      "caption": "Piłkarz poślizgnął się pod prysznicem"
+    },
+    {
+      "id": 749,
+      "caption": "Panika na trybunach"
+    },
+    {
+      "id": 750,
+      "caption": "Pożar na stadionie"
     }
   ]
 }
