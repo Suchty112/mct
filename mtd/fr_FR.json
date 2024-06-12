@@ -1770,7 +1770,7 @@
     },
     {
       "id": 16,
-      "caption": "Récompense du Championnat d’Europe de football 2021",
+      "caption": "Evénement footballistique 2021",
       "key": "AWARD_EM2021_MISSIONS"
     },
     {
@@ -2107,6 +2107,21 @@
       "id": 83,
       "caption": "Missions pour la fête des mères 2024",
       "key": "AWARD_MOTHERS_DAY_MISSIONS_2024"
+    },
+    {
+      "id": 84,
+      "caption": "Evénement footballistique 2024",
+      "key": "AWARD_EM2024_MISSIONS"
+    },
+    {
+      "id": 85,
+      "caption": "Collectionneur de football 2024",
+      "key": "AWARD_EM2024_COLLECTION"
+    },
+    {
+      "id": 86,
+      "caption": "Défi de l'Alliance Juin 2024",
+      "key": "AWARD_ALLIANCE_CHALLENGE_JUN_2024"
     }
   ],
   "filter_types": [
@@ -5171,6 +5186,22 @@
     {
       "id": 752,
       "caption": "Vol de chocolat"
+    },
+    {
+      "id": 753,
+      "caption": "Envahissement de terrains par les supporter"
+    },
+    {
+      "id": 754,
+      "caption": "Vol de ballon de football"
+    },
+    {
+      "id": 755,
+      "caption": "Supporter alcoolisé"
+    },
+    {
+      "id": 756,
+      "caption": "Prise d otage( arbitres)"
     }
   ]
 }
