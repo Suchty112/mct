@@ -413,7 +413,7 @@
     {
       "key": "probability_modifier",
       "caption": null,
-      "type": "Unknown"
+      "type": "Integer"
     },
     {
       "key": "need_crew_carrier",
@@ -1048,7 +1048,8 @@
     "cruiseship",
     "radiation",
     "tramway",
-    "tornado"
+    "tornado",
+    "stadium"
   ],
   "building_types": [
     {
@@ -1590,7 +1591,7 @@
     },
     {
       "id": 17,
-      "caption": "Mistrovství Evropy ve fotbale 2021 Cena",
+      "caption": "Fotbalová událost 2021",
       "key": "AWARD_EM2021_MISSIONS"
     },
     {
@@ -1932,6 +1933,21 @@
       "id": 85,
       "caption": "Den otců 2024",
       "key": "AWARD_FATHERS_DAY_MISSIONS_2024"
+    },
+    {
+      "id": 86,
+      "caption": "Fotbalová událost 2024",
+      "key": "AWARD_EM2024_MISSIONS"
+    },
+    {
+      "id": 87,
+      "caption": "Fotbalový sběratel 2024",
+      "key": "AWARD_EM2024_COLLECTION"
+    },
+    {
+      "id": 88,
+      "caption": "Alianční výzva červen 2024",
+      "key": "AWARD_ALLIANCE_CHALLENGE_JUN_2024"
     }
   ],
   "filter_types": [
@@ -4404,6 +4420,22 @@
     {
       "id": 604,
       "caption": "Unikly sudy s pivem"
+    },
+    {
+      "id": 605,
+      "caption": "Příznivci s ohňostroji na stánku"
+    },
+    {
+      "id": 606,
+      "caption": "Fotbalista uklouzl ve sprše"
+    },
+    {
+      "id": 607,
+      "caption": "Panika na tribuně"
+    },
+    {
+      "id": 608,
+      "caption": "Požár na stadionu"
     }
   ]
 }
