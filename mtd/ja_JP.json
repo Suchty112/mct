@@ -1765,6 +1765,11 @@
       "id": 78,
       "caption": "2024年父の日",
       "key": "AWARD_FATHERS_DAY_MISSIONS_2024"
+    },
+    {
+      "id": 79,
+      "caption": "アライアンス・チャレンジ 2024年6月",
+      "key": "AWARD_ALLIANCE_CHALLENGE_JUN_2024"
     }
   ],
   "filter_types": [
