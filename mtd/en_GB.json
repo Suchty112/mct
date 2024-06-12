@@ -1151,7 +1151,8 @@
     "cruiseship",
     "cuffs",
     "glasses",
-    "flood"
+    "flood",
+    "stadium"
   ],
   "building_types": [
     {
@@ -2004,7 +2005,7 @@
     },
     {
       "id": 15,
-      "caption": "European Football Championship 2021 Award",
+      "caption": "Football Event 2021",
       "key": "AWARD_EM2021_MISSIONS"
     },
     {
@@ -2321,6 +2322,21 @@
       "id": 78,
       "caption": "Alliance Challenge May 2024",
       "key": "AWARD_ALLIANCE_CHALLENGE_MAY_2024"
+    },
+    {
+      "id": 79,
+      "caption": "Football Event 2024",
+      "key": "AWARD_EM2024_MISSIONS"
+    },
+    {
+      "id": 80,
+      "caption": "Football Collector 2024",
+      "key": "AWARD_EM2024_COLLECTION"
+    },
+    {
+      "id": 81,
+      "caption": "Alliance Challenge June 2024",
+      "key": "AWARD_ALLIANCE_CHALLENGE_JUN_2024"
     }
   ],
   "filter_types": [
@@ -5149,6 +5165,22 @@
     {
       "id": 693,
       "caption": "HCP Home Visit"
+    },
+    {
+      "id": 694,
+      "caption": "Supporters with fireworks on stand"
+    },
+    {
+      "id": 695,
+      "caption": "Soccer player slipped in shower"
+    },
+    {
+      "id": 696,
+      "caption": "Panic in stands"
+    },
+    {
+      "id": 697,
+      "caption": "Fire in the stadium"
     }
   ]
 }
