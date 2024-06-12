@@ -1641,7 +1641,7 @@
     },
     {
       "id": 24,
-      "caption": "Europees kampioenschap Voetbal 2021 - Award",
+      "caption": "Voetbal Event 2021",
       "key": "AWARD_EM2021_MISSIONS"
     },
     {
@@ -2008,6 +2008,21 @@
       "id": 98,
       "caption": "Vaderdag 2024",
       "key": "AWARD_FATHERS_DAY_MISSIONS_2024"
+    },
+    {
+      "id": 99,
+      "caption": "Voetbal Event 2024",
+      "key": "AWARD_EM2024_MISSIONS"
+    },
+    {
+      "id": 100,
+      "caption": "Voetbalverzamelaar 2024",
+      "key": "AWARD_EM2024_COLLECTION"
+    },
+    {
+      "id": 101,
+      "caption": "Alliantie Uitdaging Juni 2024",
+      "key": "AWARD_ALLIANCE_CHALLENGE_JUN_2024"
     }
   ],
   "filter_types": [
@@ -6392,6 +6407,22 @@
     {
       "id": 1082,
       "caption": "Bloemen gestolen"
+    },
+    {
+      "id": 1083,
+      "caption": "Brand in stadion"
+    },
+    {
+      "id": 1084,
+      "caption": "Supporters met vuurwerk op tribune"
+    },
+    {
+      "id": 1085,
+      "caption": "Voetballer uitgegleden in douche"
+    },
+    {
+      "id": 1086,
+      "caption": "Paniek op de tribune"
     }
   ]
 }
