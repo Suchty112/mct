@@ -969,7 +969,8 @@
     "cuffs",
     "cruiseship",
     "snowy",
-    "radiation"
+    "radiation",
+    "stadium"
   ],
   "building_types": [
     {
@@ -1477,7 +1478,7 @@
     },
     {
       "id": 16,
-      "caption": "Campeonato Europeu de Futebol 2020",
+      "caption": "Evento de futebol 2021",
       "key": "AWARD_EM2021_MISSIONS"
     },
     {
@@ -1809,6 +1810,21 @@
       "id": 82,
       "caption": "Desafio da Aliança maio de 2024",
       "key": "AWARD_ALLIANCE_CHALLENGE_MAY_2024"
+    },
+    {
+      "id": 83,
+      "caption": "Evento de futebol 2024",
+      "key": "AWARD_EM2024_MISSIONS"
+    },
+    {
+      "id": 84,
+      "caption": "Colecionador de Futebol 2024",
+      "key": "AWARD_EM2024_COLLECTION"
+    },
+    {
+      "id": 85,
+      "caption": "Desafio da Aliança junho de 2024",
+      "key": "AWARD_ALLIANCE_CHALLENGE_JUN_2024"
     }
   ],
   "filter_types": [
@@ -4169,6 +4185,22 @@
     {
       "id": 576,
       "caption": "Incêndio em oleoduto"
+    },
+    {
+      "id": 577,
+      "caption": "Adeptos com fogo de artifício na bancada"
+    },
+    {
+      "id": 578,
+      "caption": "Jogador de futebol escorregou no duche"
+    },
+    {
+      "id": 579,
+      "caption": "Pânico nas bancadas"
+    },
+    {
+      "id": 580,
+      "caption": "Incêndio no estádio"
     }
   ]
 }
