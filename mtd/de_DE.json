@@ -916,6 +916,11 @@
       "type": "Integer"
     },
     {
+      "key": "custom_spawn_area",
+      "caption": "Spezialeinsatzbereich",
+      "type": "Boolean"
+    },
+    {
       "key": "lift_count",
       "caption": "Benötigte Windenrettungs-Erweiterungen",
       "type": "Integer"
