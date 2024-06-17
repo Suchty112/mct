@@ -556,6 +556,11 @@
       "type": "Integer"
     },
     {
+      "key": "expansion_mission_only",
+      "caption": "Kan alleen een opschaling van een andere inzet zijn",
+      "type": "Boolean"
+    },
+    {
       "key": "need_boot",
       "caption": "Benodigde bootaanhanger (WOA of BA-RB)",
       "type": "Integer"
@@ -644,11 +649,6 @@
       "key": "need_wasserwerfer",
       "caption": "Benodigde Waterwerper",
       "type": "Integer"
-    },
-    {
-      "key": "expansion_mission_only",
-      "caption": "Kan alleen een opschaling van een andere inzet zijn",
-      "type": "Boolean"
     },
     {
       "key": "water_rescue_2_count",
@@ -2894,7 +2894,7 @@
     },
     {
       "id": 204,
-      "caption": "Verkeersongeval met gevaarlijke stoffen"
+      "caption": "Verkeersongeval met gevaarlijke stoffen (middel)"
     },
     {
       "id": 205,
