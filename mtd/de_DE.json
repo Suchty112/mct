@@ -927,7 +927,7 @@
     },
     {
       "key": "need_mountain_equipment",
-      "caption": "Benötigte GW Bergrettung",
+      "caption": "Benötigte GW-Bergrettung",
       "type": "Integer"
     },
     {
