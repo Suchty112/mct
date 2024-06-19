@@ -1772,6 +1772,11 @@
       "id": 85,
       "caption": "Wyzwanie sojuszu czerwiec 2024 r.",
       "key": "AWARD_ALLIANCE_CHALLENGE_JUN_2024"
+    },
+    {
+      "id": 86,
+      "caption": "Impreza letnia 2024",
+      "key": "AWARD_SUMMER_2024"
     }
   ],
   "filter_types": [
