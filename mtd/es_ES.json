@@ -1996,6 +1996,11 @@
       "id": 82,
       "caption": "Desafío de la Alianza Junio de 2024",
       "key": "AWARD_ALLIANCE_CHALLENGE_JUN_2024"
+    },
+    {
+      "id": 83,
+      "caption": "Evento de verano 2024",
+      "key": "AWARD_SUMMER_2024"
     }
   ],
   "filter_types": [
