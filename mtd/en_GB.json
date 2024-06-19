@@ -2337,6 +2337,11 @@
       "id": 81,
       "caption": "Alliance Challenge June 2024",
       "key": "AWARD_ALLIANCE_CHALLENGE_JUN_2024"
+    },
+    {
+      "id": 82,
+      "caption": "Summer Event 2024",
+      "key": "AWARD_SUMMER_2024"
     }
   ],
   "filter_types": [
