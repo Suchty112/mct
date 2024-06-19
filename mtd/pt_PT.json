@@ -1825,6 +1825,11 @@
       "id": 85,
       "caption": "Desafio da Aliança junho de 2024",
       "key": "AWARD_ALLIANCE_CHALLENGE_JUN_2024"
+    },
+    {
+      "id": 86,
+      "caption": "Evento de Verão 2024",
+      "key": "AWARD_SUMMER_2024"
     }
   ],
   "filter_types": [
