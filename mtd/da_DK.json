@@ -1844,6 +1844,11 @@
       "id": 89,
       "caption": "Alliancens udfordring juni 2024",
       "key": "AWARD_ALLIANCE_CHALLENGE_JUN_2024"
+    },
+    {
+      "id": 90,
+      "caption": "Sommerbegivenhed 2024",
+      "key": "AWARD_SUMMER_2024"
     }
   ],
   "filter_types": [
