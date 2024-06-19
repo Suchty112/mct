@@ -2348,6 +2348,11 @@
       "id": 100,
       "caption": "Verbands-Herausforderung Juni 2024",
       "key": "AWARD_ALLIANCE_CHALLENGE_JUN_2024"
+    },
+    {
+      "id": 101,
+      "caption": "Sommer-Einsätze 2024",
+      "key": "AWARD_SUMMER_2024"
     }
   ],
   "filter_types": [
