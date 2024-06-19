@@ -1751,6 +1751,11 @@
       "id": 74,
       "caption": "얼라이언스 챌린지 2024년 6월",
       "key": "AWARD_ALLIANCE_CHALLENGE_JUN_2024"
+    },
+    {
+      "id": 75,
+      "caption": "2024 여름 이벤트",
+      "key": "AWARD_SUMMER_2024"
     }
   ],
   "filter_types": [
