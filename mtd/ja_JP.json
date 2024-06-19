@@ -1770,6 +1770,11 @@
       "id": 79,
       "caption": "アライアンス・チャレンジ 2024年6月",
       "key": "AWARD_ALLIANCE_CHALLENGE_JUN_2024"
+    },
+    {
+      "id": 80,
+      "caption": "2024 夏のイベント",
+      "key": "AWARD_SUMMER_2024"
     }
   ],
   "filter_types": [
