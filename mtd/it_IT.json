@@ -2067,6 +2067,11 @@
       "id": 87,
       "caption": "Sfida dell'Alleanza giugno 2024",
       "key": "AWARD_ALLIANCE_CHALLENGE_JUN_2024"
+    },
+    {
+      "id": 88,
+      "caption": "Evento estivo 2024",
+      "key": "AWARD_SUMMER_2024"
     }
   ],
   "filter_types": [
