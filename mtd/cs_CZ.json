@@ -4441,6 +4441,34 @@
     {
       "id": 608,
       "caption": "Požár na stadionu"
+    },
+    {
+      "id": 609,
+      "caption": "Požár na letním táboře"
+    },
+    {
+      "id": 610,
+      "caption": "Porucha jízdy v zábavním parku"
+    },
+    {
+      "id": 611,
+      "caption": "Bitka na farmářském trhu"
+    },
+    {
+      "id": 612,
+      "caption": "Zranění na skluzavce v aquaparku"
+    },
+    {
+      "id": 613,
+      "caption": "Nehoda v autokině"
+    },
+    {
+      "id": 614,
+      "caption": "Požár v opuštěné pizerii"
+    },
+    {
+      "id": 615,
+      "caption": "Požár v recyklační továrně"
     }
   ]
 }
