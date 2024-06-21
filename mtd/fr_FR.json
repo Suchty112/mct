@@ -1161,7 +1161,8 @@
     "cruiseship",
     "snowy",
     "stadium",
-    "tornado"
+    "tornado",
+    "cuffs"
   ],
   "building_types": [
     {
@@ -5207,6 +5208,42 @@
     {
       "id": 756,
       "caption": "Prise d otage( arbitres)"
+    },
+    {
+      "id": 757,
+      "caption": "Incendie dans une pizerria desaffectée"
+    },
+    {
+      "id": 758,
+      "caption": "Incendie d’une usine spécialisée dans la transformation de déchets élastomères recyclés"
+    },
+    {
+      "id": 759,
+      "caption": "Dégagement de vapeur chimique dans une usine"
+    },
+    {
+      "id": 760,
+      "caption": "Vol dans un tabac presse"
+    },
+    {
+      "id": 761,
+      "caption": "Incendie au camp d'été"
+    },
+    {
+      "id": 762,
+      "caption": "Dysfonctionnement d'un manège dans un parc d'attractions"
+    },
+    {
+      "id": 763,
+      "caption": "Bagarre sur le marché des agriculteurs"
+    },
+    {
+      "id": 764,
+      "caption": "Blessure sur un toboggan de parc aquatique"
+    },
+    {
+      "id": 765,
+      "caption": "Accident au cinéma en plein air"
     }
   ]
 }
