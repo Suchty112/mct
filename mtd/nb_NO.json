@@ -4505,6 +4505,34 @@
     {
       "id": 612,
       "caption": "Radioaktive lekkasjer i et kjernekraftverk"
+    },
+    {
+      "id": 613,
+      "caption": "Brann på sommerleir"
+    },
+    {
+      "id": 614,
+      "caption": "Funksjonsfeil i fornøyelsespark"
+    },
+    {
+      "id": 615,
+      "caption": "Slagsmål på Bondens marked"
+    },
+    {
+      "id": 616,
+      "caption": "Skade i sklie i badeland"
+    },
+    {
+      "id": 617,
+      "caption": "Ulykke på drive-in kino"
+    },
+    {
+      "id": 618,
+      "caption": "Brann i en forlatt pizzeria"
+    },
+    {
+      "id": 619,
+      "caption": "Brann i en resirkuleringsfabrikk"
     }
   ]
 }
