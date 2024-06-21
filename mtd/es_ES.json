@@ -4317,6 +4317,34 @@
     {
       "id": 565,
       "caption": "Incendio en el estadio"
+    },
+    {
+      "id": 566,
+      "caption": "Incendio en un campamento de verano"
+    },
+    {
+      "id": 567,
+      "caption": "Avería en una atracción de parque de atracciones"
+    },
+    {
+      "id": 568,
+      "caption": "Pelea en el mercado"
+    },
+    {
+      "id": 569,
+      "caption": "Lesión en tobogán de parque acuático"
+    },
+    {
+      "id": 570,
+      "caption": "Accidente en un autocine"
+    },
+    {
+      "id": 571,
+      "caption": "Incendio en una pizzería abandonada"
+    },
+    {
+      "id": 572,
+      "caption": "Incendio en una fábrica de reciclaje"
     }
   ]
 }
