@@ -4833,6 +4833,34 @@
     {
       "id": 750,
       "caption": "Pożar na stadionie"
+    },
+    {
+      "id": 751,
+      "caption": "Pożar na letnim obozie"
+    },
+    {
+      "id": 752,
+      "caption": "Awaria przejażdżki w parku rozrywki"
+    },
+    {
+      "id": 753,
+      "caption": "Bójka na targu rolnym"
+    },
+    {
+      "id": 754,
+      "caption": "Uraz na zjeżdżalni w parku wodnym"
+    },
+    {
+      "id": 755,
+      "caption": "Wypadek w kinie samochodowym"
+    },
+    {
+      "id": 756,
+      "caption": "Pożar w opuszczonej pizzerii"
+    },
+    {
+      "id": 757,
+      "caption": "Pożar w zakładzie recyklingu"
     }
   ]
 }
