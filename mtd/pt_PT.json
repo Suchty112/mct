@@ -4206,6 +4206,34 @@
     {
       "id": 580,
       "caption": "Incêndio no estádio"
+    },
+    {
+      "id": 581,
+      "caption": "Incêndio na colónia de férias"
+    },
+    {
+      "id": 582,
+      "caption": "Avaria num parque de diversões"
+    },
+    {
+      "id": 583,
+      "caption": "Luta no mercado dos agricultores"
+    },
+    {
+      "id": 584,
+      "caption": "Ferimento num escorrega de um parque aquático"
+    },
+    {
+      "id": 585,
+      "caption": "Acidente num cinema drive-in"
+    },
+    {
+      "id": 586,
+      "caption": "Incêndio numa pizzaria abandonada"
+    },
+    {
+      "id": 587,
+      "caption": "Incêndio numa fábrica de reciclagem"
     }
   ]
 }
