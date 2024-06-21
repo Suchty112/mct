@@ -4655,6 +4655,26 @@
     {
       "id": 695,
       "caption": "Pipeline Fire"
+    },
+    {
+      "id": 696,
+      "caption": "Truck overturned due to ice"
+    },
+    {
+      "id": 697,
+      "caption": "Person burned by hot chocolate"
+    },
+    {
+      "id": 698,
+      "caption": "Person collapsed in ice"
+    },
+    {
+      "id": 699,
+      "caption": "Fire in an abandoned pizzeria"
+    },
+    {
+      "id": 700,
+      "caption": "Fire at a recycling factory"
     }
   ]
 }
