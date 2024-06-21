@@ -4304,6 +4304,34 @@
     {
       "id": 590,
       "caption": "Brand i rörledning"
+    },
+    {
+      "id": 591,
+      "caption": "Brand på sommarläger"
+    },
+    {
+      "id": 592,
+      "caption": "Fel på åktur i nöjespark"
+    },
+    {
+      "id": 593,
+      "caption": "Slagsmål på lantbruksmarknad"
+    },
+    {
+      "id": 594,
+      "caption": "Skada på rutschkana i vattenpark"
+    },
+    {
+      "id": 595,
+      "caption": "Olycka med drive-in-teater"
+    },
+    {
+      "id": 596,
+      "caption": "Brand i en övergiven pizzeria"
+    },
+    {
+      "id": 597,
+      "caption": "Brand i en återvinningsfabrik"
     }
   ]
 }
