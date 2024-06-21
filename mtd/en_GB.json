@@ -5186,6 +5186,34 @@
     {
       "id": 697,
       "caption": "Fire in the stadium"
+    },
+    {
+      "id": 698,
+      "caption": "Fire at Summer Camp"
+    },
+    {
+      "id": 699,
+      "caption": "Amusement Park Ride Malfunction"
+    },
+    {
+      "id": 700,
+      "caption": "Farmers Market Fight"
+    },
+    {
+      "id": 701,
+      "caption": "Waterpark Slide Injury"
+    },
+    {
+      "id": 702,
+      "caption": "Drive-in Theater Accident"
+    },
+    {
+      "id": 703,
+      "caption": "Fire in an abandoned pizzeria"
+    },
+    {
+      "id": 704,
+      "caption": "Fire at a recycling factory"
     }
   ]
 }
