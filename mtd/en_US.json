@@ -6196,6 +6196,34 @@
     {
       "id": 964,
       "caption": "Beer barrels leaking"
+    },
+    {
+      "id": 965,
+      "caption": "Fire at Summer Camp"
+    },
+    {
+      "id": 966,
+      "caption": "Amusement Park Ride Malfunction"
+    },
+    {
+      "id": 967,
+      "caption": "Farmers Market Fight"
+    },
+    {
+      "id": 968,
+      "caption": "Waterpark Slide Injury"
+    },
+    {
+      "id": 969,
+      "caption": "Drive-in Theater Accident"
+    },
+    {
+      "id": 970,
+      "caption": "Fire in an abandoned pizzeria"
+    },
+    {
+      "id": 971,
+      "caption": "Fire at a recycling factory"
     }
   ]
 }
