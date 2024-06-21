@@ -4365,6 +4365,34 @@
     {
       "id": 615,
       "caption": "Brand på stadion"
+    },
+    {
+      "id": 616,
+      "caption": "Brand på sommerlejr"
+    },
+    {
+      "id": 617,
+      "caption": "Funktionsfejl i forlystelsespark"
+    },
+    {
+      "id": 618,
+      "caption": "Slagsmål på landmændsmarked"
+    },
+    {
+      "id": 619,
+      "caption": "Skade på rutsjebane i vandland"
+    },
+    {
+      "id": 620,
+      "caption": "Ulykke i drive-in-biograf"
+    },
+    {
+      "id": 621,
+      "caption": "Brand i et forladt pizzeria"
+    },
+    {
+      "id": 622,
+      "caption": "Brand på en genbrugsfabrik"
     }
   ]
 }
