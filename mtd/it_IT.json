@@ -1048,7 +1048,8 @@
     "flood",
     "radiation",
     "tornado",
-    "stadium"
+    "stadium",
+    "cuffs"
   ],
   "building_types": [
     {
@@ -4904,6 +4905,34 @@
     {
       "id": 694,
       "caption": "Incendio nello stadio"
+    },
+    {
+      "id": 695,
+      "caption": "Incendio al campo estivo"
+    },
+    {
+      "id": 696,
+      "caption": "Malfunzionamento di una giostra del parco divertimenti"
+    },
+    {
+      "id": 697,
+      "caption": "Rissa al mercato contadino"
+    },
+    {
+      "id": 698,
+      "caption": "Infortunio allo scivolo del parco acquatico"
+    },
+    {
+      "id": 699,
+      "caption": "Incidente al cinema drive-in"
+    },
+    {
+      "id": 700,
+      "caption": "Incendio in una pizzeria abbandonata"
+    },
+    {
+      "id": 701,
+      "caption": "Incendio in una fabbrica di riciclaggio"
     }
   ]
 }
