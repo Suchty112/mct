@@ -261,11 +261,6 @@
       "type": "Symbol"
     },
     {
-      "key": "optional_event_mission",
-      "caption": "Mise akce:",
-      "type": "Boolean"
-    },
-    {
       "key": "need_oneof_fire_engine_or_rescue",
       "caption": "Požadované CAS nebo Technické automobily",
       "type": "Integer"
