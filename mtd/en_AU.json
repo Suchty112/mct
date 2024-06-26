@@ -221,11 +221,6 @@
       "type": "Integer"
     },
     {
-      "key": "optional_event_mission",
-      "caption": "Event mission:",
-      "type": "Boolean"
-    },
-    {
       "key": "task_tag",
       "caption": null,
       "type": "Symbol"
