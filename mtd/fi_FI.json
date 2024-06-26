@@ -336,11 +336,6 @@
       "type": "Integer"
     },
     {
-      "key": "optional_event_mission",
-      "caption": "Tapahtuman tehtävä:",
-      "type": "Boolean"
-    },
-    {
       "key": "possible_patient_gender",
       "caption": "Potilaan sukupuoli",
       "type": "String"
