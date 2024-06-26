@@ -246,11 +246,6 @@
       "type": "Unknown"
     },
     {
-      "key": "optional_event_mission",
-      "caption": "Eventoppdrag:",
-      "type": "Boolean"
-    },
-    {
       "key": "date_end",
       "caption": "Varer bare til ",
       "type": "Datetime"
