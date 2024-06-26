@@ -286,11 +286,6 @@
       "type": "Integer"
     },
     {
-      "key": "optional_event_mission",
-      "caption": "Evenemangsuppdrag:",
-      "type": "Boolean"
-    },
-    {
       "key": "max_police_building",
       "caption": "Högsta antal polisstationer",
       "type": "Integer"
