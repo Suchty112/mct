@@ -236,11 +236,6 @@
       "type": "Unknown"
     },
     {
-      "key": "optional_event_mission",
-      "caption": "이벤트 임무:",
-      "type": "Boolean"
-    },
-    {
       "key": "date_end",
       "caption": "다음 시기까지만 실행: ",
       "type": "Datetime"
