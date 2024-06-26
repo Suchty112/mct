@@ -231,11 +231,6 @@
       "type": "Unknown"
     },
     {
-      "key": "optional_event_mission",
-      "caption": "Missões de eventos:",
-      "type": "Boolean"
-    },
-    {
       "key": "date_end",
       "caption": "Ocorre até ",
       "type": "Datetime"
