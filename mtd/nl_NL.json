@@ -476,11 +476,6 @@
       "type": "Integer"
     },
     {
-      "key": "optional_event_mission",
-      "caption": "Event incidenten:",
-      "type": "Boolean"
-    },
-    {
       "key": "task_tag",
       "caption": null,
       "type": "Symbol"
