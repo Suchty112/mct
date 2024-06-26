@@ -266,11 +266,6 @@
       "type": "Unknown"
     },
     {
-      "key": "optional_event_mission",
-      "caption": "Begivenhedens mission:",
-      "type": "Boolean"
-    },
-    {
       "key": "date_end",
       "caption": "Løber kun indtil ",
       "type": "Datetime"
