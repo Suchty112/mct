@@ -306,11 +306,6 @@
       "type": "Integer"
     },
     {
-      "key": "optional_event_mission",
-      "caption": "Missions d'événement :",
-      "type": "Boolean"
-    },
-    {
       "key": "max_police_building",
       "caption": "Max. de postes de police",
       "type": "Integer"
