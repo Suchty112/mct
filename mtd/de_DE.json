@@ -391,11 +391,6 @@
       "type": "Boolean"
     },
     {
-      "key": "optional_event_mission",
-      "caption": "Eventeinsätze",
-      "type": "Boolean"
-    },
-    {
       "key": "water_damage_pump_value",
       "caption": "Wasser abzupumpen (in Litern)",
       "type": "Integer"
