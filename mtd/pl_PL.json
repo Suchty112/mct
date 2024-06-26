@@ -336,11 +336,6 @@
       "type": "Integer"
     },
     {
-      "key": "optional_event_mission",
-      "caption": "Misje zdarzeń:",
-      "type": "Boolean"
-    },
-    {
       "key": "max_police_building",
       "caption": "Maks. liczba posterunków policji",
       "type": "Integer"
