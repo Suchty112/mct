@@ -2348,6 +2348,11 @@
       "id": 101,
       "caption": "Sommer-Einsätze 2024",
       "key": "AWARD_SUMMER_2024"
+    },
+    {
+      "id": 102,
+      "caption": "11. Jubiläum!",
+      "key": "AWARD_ELEVEN_YEARS"
     }
   ],
   "filter_types": [
