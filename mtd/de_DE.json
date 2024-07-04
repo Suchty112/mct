@@ -944,6 +944,11 @@
       "key": "personal_min_ambulance",
       "caption": "Benötigte Minimum Rettungsdienstler",
       "type": "Integer"
+    },
+    {
+      "key": "need_mountain_atv",
+      "caption": "Benötigte ATV",
+      "type": "Integer"
     }
   ],
   "pois": [
@@ -5873,6 +5878,14 @@
     {
       "id": 865,
       "caption": "PKW blockiert Straßenbahn"
+    },
+    {
+      "id": 866,
+      "caption": "Großfeuer im Bergwald"
+    },
+    {
+      "id": 867,
+      "caption": "Personensuche nach Gerölllawine"
     }
   ]
 }
