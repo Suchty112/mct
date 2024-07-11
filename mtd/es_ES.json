@@ -352,7 +352,7 @@
     },
     {
       "key": "allow_ktw_instead_of_rtw",
-      "caption": "Ambulancia SVB puede sustituir Ambulancia",
+      "caption": "Ambulancia Convecional puede sustituir Ambulancia SVB",
       "type": "Boolean"
     },
     {
@@ -733,6 +733,16 @@
     {
       "key": "need_hose",
       "caption": "Se necesitan Remolque de equipos de bombeo",
+      "type": "Integer"
+    },
+    {
+      "key": "ktw_value",
+      "caption": null,
+      "type": "Integer"
+    },
+    {
+      "key": "critical_transport_value",
+      "caption": null,
       "type": "Integer"
     }
   ],
@@ -4344,6 +4354,14 @@
     {
       "id": 572,
       "caption": "Incendio en una fábrica de reciclaje"
+    },
+    {
+      "id": 573,
+      "caption": "Transporte de paciente"
+    },
+    {
+      "id": 574,
+      "caption": "Transporte crítico"
     }
   ]
 }
