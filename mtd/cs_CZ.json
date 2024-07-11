@@ -644,6 +644,21 @@
       "key": "need_technical_rescue",
       "caption": "Požadované technické kontejnery",
       "type": "Integer"
+    },
+    {
+      "key": "ktw_value",
+      "caption": null,
+      "type": "Integer"
+    },
+    {
+      "key": "allow_ktw_instead_of_rtw",
+      "caption": "Ambulantní přeprava může nahradit standardní ambulanci",
+      "type": "Boolean"
+    },
+    {
+      "key": "critical_transport_value",
+      "caption": null,
+      "type": "Integer"
     }
   ],
   "pois": [
@@ -4464,6 +4479,14 @@
     {
       "id": 615,
       "caption": "Požár v recyklační továrně"
+    },
+    {
+      "id": 616,
+      "caption": "Přeprava pacientů"
+    },
+    {
+      "id": 617,
+      "caption": "Urgentní přeprava"
     }
   ]
 }
