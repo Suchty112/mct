@@ -634,6 +634,21 @@
       "key": "need_k9_chance",
       "caption": "Probability of K-9 Units being required",
       "type": "Integer"
+    },
+    {
+      "key": "ktw_value",
+      "caption": null,
+      "type": "Integer"
+    },
+    {
+      "key": "allow_ktw_instead_of_rtw",
+      "caption": "Ambulance Transport can replace Ambulance",
+      "type": "Boolean"
+    },
+    {
+      "key": "critical_transport_value",
+      "caption": null,
+      "type": "Integer"
     }
   ],
   "pois": [
@@ -4670,6 +4685,14 @@
     {
       "id": 700,
       "caption": "Fire at a recycling factory"
+    },
+    {
+      "id": 701,
+      "caption": "Patient Transport"
+    },
+    {
+      "id": 702,
+      "caption": "Critical Transport"
     }
   ]
 }
