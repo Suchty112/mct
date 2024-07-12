@@ -2358,6 +2358,11 @@
       "id": 102,
       "caption": "11. Jubiläum!",
       "key": "AWARD_ELEVEN_YEARS"
+    },
+    {
+      "id": 103,
+      "caption": "Verbands-Herausforderung Juli 2024",
+      "key": "AWARD_ALLIANCE_CHALLENGE_JULY_2024"
     }
   ],
   "filter_types": [
@@ -5505,7 +5510,7 @@
     },
     {
       "id": 772,
-      "caption": "Gast trank vergiftete Getränke auf Jubiläumsfeier"
+      "caption": "Gast trank verdorbene Getränke auf Jubiläumsfeier"
     },
     {
       "id": 773,
