@@ -874,6 +874,10 @@
     {
       "id": 75,
       "caption": "놀이 공원"
+    },
+    {
+      "id": 76,
+      "caption": "마켓"
     }
   ],
   "available_icons": [
@@ -1755,6 +1759,11 @@
       "id": 75,
       "caption": "2024 여름 이벤트",
       "key": "AWARD_SUMMER_2024"
+    },
+    {
+      "id": 76,
+      "caption": "얼라이언스 챌린지 2024년 7월",
+      "key": "AWARD_ALLIANCE_CHALLENGE_JULY_2024"
     }
   ],
   "filter_types": [
