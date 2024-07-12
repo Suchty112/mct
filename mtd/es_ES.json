@@ -1050,6 +1050,10 @@
     {
       "id": 75,
       "caption": "Parque de atracciones"
+    },
+    {
+      "id": 76,
+      "caption": "Mercado"
     }
   ],
   "available_icons": [
@@ -2010,6 +2014,11 @@
       "id": 83,
       "caption": "Evento de verano 2024",
       "key": "AWARD_SUMMER_2024"
+    },
+    {
+      "id": 84,
+      "caption": "Desafío de la Alianza Julio de 2024",
+      "key": "AWARD_ALLIANCE_CHALLENGE_JULY_2024"
     }
   ],
   "filter_types": [
