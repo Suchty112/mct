@@ -837,6 +837,10 @@
     {
       "id": 63,
       "caption": "Park rozrywki"
+    },
+    {
+      "id": 64,
+      "caption": "Rynek"
     }
   ],
   "available_icons": [
@@ -1776,6 +1780,11 @@
       "id": 86,
       "caption": "Impreza letnia 2024",
       "key": "AWARD_SUMMER_2024"
+    },
+    {
+      "id": 87,
+      "caption": "Wyzwanie sojuszu lipiec 2024 r.",
+      "key": "AWARD_ALLIANCE_CHALLENGE_JULY_2024"
     }
   ],
   "filter_types": [
