@@ -1829,6 +1829,11 @@
       "id": 82,
       "caption": "Winter Event 2024",
       "key": "AWARD_WINTER_2024"
+    },
+    {
+      "id": 83,
+      "caption": "Alliance Challenge July 2024",
+      "key": "AWARD_ALLIANCE_CHALLENGE_JULY_2024"
     }
   ],
   "filter_types": [
