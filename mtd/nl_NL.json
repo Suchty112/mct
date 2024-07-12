@@ -2023,6 +2023,11 @@
       "id": 102,
       "caption": "Zomer Event 2024",
       "key": "AWARD_SUMMER_2024"
+    },
+    {
+      "id": 103,
+      "caption": "Alliantie Uitdaging Juli 2024",
+      "key": "AWARD_ALLIANCE_CHALLENGE_JULY_2024"
     }
   ],
   "filter_types": [
