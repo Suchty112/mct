@@ -1963,6 +1963,11 @@
       "id": 89,
       "caption": "Letní akce 2024",
       "key": "AWARD_SUMMER_2024"
+    },
+    {
+      "id": 90,
+      "caption": "Alianční výzva červenec 2024",
+      "key": "AWARD_ALLIANCE_CHALLENGE_JULY_2024"
     }
   ],
   "filter_types": [
