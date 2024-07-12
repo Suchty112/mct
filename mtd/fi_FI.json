@@ -908,6 +908,10 @@
     {
       "id": 72,
       "caption": "Huvipuisto"
+    },
+    {
+      "id": 73,
+      "caption": "Markkinat"
     }
   ],
   "available_icons": [
@@ -1753,6 +1757,11 @@
       "id": 83,
       "caption": "Kesätapahtuma 2024",
       "key": "AWARD_SUMMER_2024"
+    },
+    {
+      "id": 84,
+      "caption": "Alliance Challenge heinäkuu 2024",
+      "key": "AWARD_ALLIANCE_CHALLENGE_JULY_2024"
     }
   ],
   "filter_types": [
