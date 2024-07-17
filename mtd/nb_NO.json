@@ -2009,6 +2009,11 @@
       "id": 80,
       "caption": "Allianseutfordring juli 2024",
       "key": "AWARD_ALLIANCE_CHALLENGE_JULY_2024"
+    },
+    {
+      "id": 81,
+      "caption": "Solsikkeentusiast 2024",
+      "key": "AWARD_SUMMER_COLLECTION_2024"
     }
   ],
   "filter_types": [
