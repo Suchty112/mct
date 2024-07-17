@@ -2081,6 +2081,11 @@
       "id": 89,
       "caption": "Sfida dell'Alleanza luglio 2024",
       "key": "AWARD_ALLIANCE_CHALLENGE_JULY_2024"
+    },
+    {
+      "id": 90,
+      "caption": "Appassionato di girasoli 2024",
+      "key": "AWARD_SUMMER_COLLECTION_2024"
     }
   ],
   "filter_types": [
