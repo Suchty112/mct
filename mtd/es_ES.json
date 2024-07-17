@@ -2019,6 +2019,11 @@
       "id": 84,
       "caption": "Desafío de la Alianza Julio de 2024",
       "key": "AWARD_ALLIANCE_CHALLENGE_JULY_2024"
+    },
+    {
+      "id": 85,
+      "caption": "Aficionado al girasol 2024",
+      "key": "AWARD_SUMMER_COLLECTION_2024"
     }
   ],
   "filter_types": [
