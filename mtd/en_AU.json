@@ -1834,6 +1834,11 @@
       "id": 83,
       "caption": "Alliance Challenge July 2024",
       "key": "AWARD_ALLIANCE_CHALLENGE_JULY_2024"
+    },
+    {
+      "id": 84,
+      "caption": "\u003Cspan class=\"translation_missing localeapp\" title=\"translation missing: en_AU.award.winter_collection_2024\"\u003EWinter Collection 2024\u003C/span\u003E",
+      "key": "AWARD_WINTER_COLLECTION_2024"
     }
   ],
   "filter_types": [
