@@ -2028,6 +2028,11 @@
       "id": 103,
       "caption": "Alliantie Uitdaging Juli 2024",
       "key": "AWARD_ALLIANCE_CHALLENGE_JULY_2024"
+    },
+    {
+      "id": 104,
+      "caption": "Zonnebloem enthousiast 2024",
+      "key": "AWARD_SUMMER_COLLECTION_2024"
     }
   ],
   "filter_types": [
