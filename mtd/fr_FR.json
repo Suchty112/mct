@@ -819,6 +819,26 @@
       "key": "expansion_mission_only",
       "caption": "Ne peut être qu'une mission d'expansion d'une autre mission",
       "type": "Boolean"
+    },
+    {
+      "key": "criminal_investigation_count",
+      "caption": "Extension unités d'enquête criminelle",
+      "type": "Integer"
+    },
+    {
+      "key": "need_police_investigation",
+      "caption": "Requis véhicule d'identification criminelle",
+      "type": "Integer"
+    },
+    {
+      "key": "need_civil_patrol",
+      "caption": "Requis véhicule banalisé",
+      "type": "Integer"
+    },
+    {
+      "key": "need_rapid_patrol",
+      "caption": "Requis équipes d'intervention rapide",
+      "type": "Integer"
     }
   ],
   "pois": [
@@ -1352,6 +1372,10 @@
         {
           "id": 11,
           "caption": "Grande prison"
+        },
+        {
+          "id": 12,
+          "caption": "Unités d'enquête criminelle"
         }
       ]
     },
@@ -2136,6 +2160,11 @@
       "id": 88,
       "caption": "Défi de l'Alliance Juillet 2024",
       "key": "AWARD_ALLIANCE_CHALLENGE_JULY_2024"
+    },
+    {
+      "id": 89,
+      "caption": "L'amateur de tournesol 2024",
+      "key": "AWARD_SUMMER_COLLECTION_2024"
     }
   ],
   "filter_types": [
@@ -5252,6 +5281,50 @@
     {
       "id": 765,
       "caption": "Accident au cinéma en plein air"
+    },
+    {
+      "id": 766,
+      "caption": "Violence intrafamiliale"
+    },
+    {
+      "id": 767,
+      "caption": "Cambriolage, vol d'armes"
+    },
+    {
+      "id": 768,
+      "caption": "Découverte d'un cadavre"
+    },
+    {
+      "id": 769,
+      "caption": "Braquage dans un centre commercial"
+    },
+    {
+      "id": 770,
+      "caption": "Investigation d'un incendie criminel"
+    },
+    {
+      "id": 771,
+      "caption": "Braquage dans un Bar/Tabac"
+    },
+    {
+      "id": 772,
+      "caption": "Bagarre en boîte de nuit"
+    },
+    {
+      "id": 773,
+      "caption": "Interpellations au domicile"
+    },
+    {
+      "id": 774,
+      "caption": "Perquisition au domicile d'un suspect"
+    },
+    {
+      "id": 775,
+      "caption": "Interception d'une voiture roulant à vive allure sur autoroute"
+    },
+    {
+      "id": 776,
+      "caption": "Interception d'une moto à vive allure sur autoroute"
     }
   ]
 }
