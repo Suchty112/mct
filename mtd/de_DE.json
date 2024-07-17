@@ -2363,6 +2363,11 @@
       "id": 103,
       "caption": "Verbands-Herausforderung Juli 2024",
       "key": "AWARD_ALLIANCE_CHALLENGE_JULY_2024"
+    },
+    {
+      "id": 104,
+      "caption": "Sonnenblumen-Enthusiast 2024",
+      "key": "AWARD_SUMMER_COLLECTION_2024"
     }
   ],
   "filter_types": [
