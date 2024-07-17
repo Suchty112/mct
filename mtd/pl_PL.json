@@ -1785,6 +1785,11 @@
       "id": 87,
       "caption": "Wyzwanie sojuszu lipiec 2024 r.",
       "key": "AWARD_ALLIANCE_CHALLENGE_JULY_2024"
+    },
+    {
+      "id": 88,
+      "caption": "Entuzjasta słonecznika 2024",
+      "key": "AWARD_SUMMER_COLLECTION_2024"
     }
   ],
   "filter_types": [
