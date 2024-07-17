@@ -1834,6 +1834,11 @@
       "id": 87,
       "caption": "Desafio da Aliança julho de 2024",
       "key": "AWARD_ALLIANCE_CHALLENGE_JULY_2024"
+    },
+    {
+      "id": 88,
+      "caption": "Entusiasta do girassol 2024",
+      "key": "AWARD_SUMMER_COLLECTION_2024"
     }
   ],
   "filter_types": [
