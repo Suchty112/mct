@@ -566,6 +566,51 @@
       "type": "Integer"
     },
     {
+      "key": "ocean_value",
+      "caption": null,
+      "type": "Integer"
+    },
+    {
+      "key": "water_rescue_2_count",
+      "caption": "Benodigde aantal Waterreddingsposten",
+      "type": "Integer"
+    },
+    {
+      "key": "coastal_rescue_count",
+      "caption": "Benodigde Kustwacht haven(s)",
+      "type": "Integer"
+    },
+    {
+      "key": "coastal_rescue_small_count",
+      "caption": "Benodigde Boten Uitbreidingen",
+      "type": "Integer"
+    },
+    {
+      "key": "coastal_helicopter_count",
+      "caption": "Benodigde SAR Helikopter Hangar(s)",
+      "type": "Integer"
+    },
+    {
+      "key": "need_coastal_boat",
+      "caption": "Benodigde RB-K of RB-G",
+      "type": "Integer"
+    },
+    {
+      "key": "need_coastal_guard_boat",
+      "caption": "Benodigde KW-boot",
+      "type": "Integer"
+    },
+    {
+      "key": "need_coastal_helicopter",
+      "caption": "Benodigde SAR-heli(s)",
+      "type": "Integer"
+    },
+    {
+      "key": "groups",
+      "caption": "Beperkte voertuigtypes",
+      "type": "Unknown"
+    },
+    {
       "key": "fire_aviation_count",
       "caption": "Militaire Hangar",
       "type": "Integer"
@@ -603,6 +648,11 @@
     {
       "key": "mass_casualty_count",
       "caption": "Grootschalige Geneeskundige Bijstand Uitbreidingen",
+      "type": "Integer"
+    },
+    {
+      "key": "need_coastal_helicopter_chance",
+      "caption": "Kans dat een SAR-heli benodigd is",
       "type": "Integer"
     },
     {
@@ -646,11 +696,6 @@
       "type": "Integer"
     },
     {
-      "key": "water_rescue_2_count",
-      "caption": "Benodigde aantal Waterreddingsposten",
-      "type": "Integer"
-    },
-    {
       "key": "gw_wasserrettung_value",
       "caption": null,
       "type": "Integer"
@@ -659,11 +704,6 @@
       "key": "need_gwwasserrettung",
       "caption": "Benodigde strandvoertuigen (Quad, DAT-RB of KHV)",
       "type": "Integer"
-    },
-    {
-      "key": "groups",
-      "caption": "Beperkte voertuigtypes",
-      "type": "Unknown"
     },
     {
       "key": "subsequent_mission_only",
@@ -681,54 +721,14 @@
       "type": "Integer"
     },
     {
-      "key": "ocean_value",
-      "caption": null,
-      "type": "Integer"
-    },
-    {
-      "key": "coastal_rescue_small_count",
-      "caption": "Benodigde Boten Uitbreidingen",
-      "type": "Integer"
-    },
-    {
-      "key": "coastal_helicopter_count",
-      "caption": "Benodigde SAR Helikopter Hangar(s)",
-      "type": "Integer"
-    },
-    {
       "key": "second_patient_transfer_from",
       "caption": "Patiënt en gevangene overdracht na missie mogelijk aan",
       "type": "Unknown"
     },
     {
-      "key": "need_coastal_boat",
-      "caption": "Benodigde RB-K of RB-G",
-      "type": "Integer"
-    },
-    {
-      "key": "need_coastal_helicopter",
-      "caption": "Benodigde SAR-heli(s)",
-      "type": "Integer"
-    },
-    {
-      "key": "need_coastal_helicopter_chance",
-      "caption": "Kans dat een SAR-heli benodigd is",
-      "type": "Integer"
-    },
-    {
       "key": "custom_spawn_area",
       "caption": "Inzetgeneratie gebied instellen",
       "type": "Boolean"
-    },
-    {
-      "key": "coastal_rescue_count",
-      "caption": "Benodigde Kustwacht haven(s)",
-      "type": "Integer"
-    },
-    {
-      "key": "need_coastal_guard_boat",
-      "caption": "Benodigde KW-boot",
-      "type": "Integer"
     },
     {
       "key": "allow_traffic_car_instead_of_fustw",
@@ -2924,15 +2924,15 @@
     },
     {
       "id": 209,
-      "caption": "Aanvaring met vrachtschip en motorboot"
+      "caption": "Aanvaring vrachtschip met vlet (Grip 3)"
     },
     {
       "id": 210,
-      "caption": "Aanvaring met vrachtschip en motorboot"
+      "caption": "Aanvaring vrachtschip met kajuitboot (Grip 3)"
     },
     {
       "id": 211,
-      "caption": "Aanvaring met vrachtschip en motorboot"
+      "caption": "Aanvaring 2 vrachtschepen (Grip 4)"
     },
     {
       "id": 212,
@@ -4144,27 +4144,27 @@
     },
     {
       "id": 514,
-      "caption": "Aanvaring met vrachtschip en passagiersschip"
+      "caption": "Aanvaring vrachtschip met watertaxi (Grip 3)"
     },
     {
       "id": 515,
-      "caption": "Aanvaring met vrachtschip en passagiersschip"
+      "caption": "Aanvaring vrachtschip met waterbus (Grip 3)"
     },
     {
       "id": 516,
-      "caption": "Aanvaring met vrachtschip en passagiersschip"
+      "caption": "Aanvaring met rondvaartboot (Grip 3)"
     },
     {
       "id": 517,
-      "caption": "Aanvaring met vrachtschip en passagiersschip"
+      "caption": "Aanvaring met luxe jachtschip (Grip 4)"
     },
     {
       "id": 518,
-      "caption": "Aanvaring met vrachtschip en passagiersschip"
+      "caption": "Aanvaring vrachtschip met veerboot (Grip 4)"
     },
     {
       "id": 519,
-      "caption": "Aanvaring met vrachtschip en passagiersschip"
+      "caption": "Aanvaring vrachtschip met passagiersschip (Grip 4)"
     },
     {
       "id": 520,
