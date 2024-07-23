@@ -106,14 +106,14 @@
       "type": "Unknown"
     },
     {
-      "key": "allow_rw_instead_of_lf",
-      "caption": "Samochód pożarniczy może zostać zastąpiony przez Samochód ratownictwa technicznego",
-      "type": "Boolean"
+      "key": "need_oneof_fire_engine_or_rescue_or_ladder",
+      "caption": "Wymagane wozy strażackie, pojazdy ratownictwa technicznego, SH lub SD",
+      "type": "Integer"
     },
     {
-      "key": "allow_dlk_instead_of_lf",
-      "caption": "Samochód pożarniczy może zostać zastąpiony przez SH lub SD",
-      "type": "Boolean"
+      "key": "need_oneof_fire_engine_or_rescue",
+      "caption": "Wymagane wozy strażackie lub pojazdy ratownictwa technicznego",
+      "type": "Integer"
     },
     {
       "key": "need_elw1",
@@ -146,13 +146,8 @@
       "type": "Integer"
     },
     {
-      "key": "allow_traffic_car_instead_of_fustw",
-      "caption": "Radiowóz OPI może zostać zastąpiony przez Radiowóz wydziału ruchu drogowego",
-      "type": "Boolean"
-    },
-    {
-      "key": "need_streifenwagen",
-      "caption": "Wymagane radiowozy",
+      "key": "need_oneof_police_patrol_or_traffic_control",
+      "caption": "Wymagane radiowozy WRD lub radiowozy",
       "type": "Integer"
     },
     {
@@ -198,6 +193,11 @@
     {
       "key": "patient_allow_first_responder_full",
       "caption": "Pierwsi przybyli ratownicy mogą w pełni zaopiekować się pacjentami.",
+      "type": "Integer"
+    },
+    {
+      "key": "need_streifenwagen",
+      "caption": "Wymagane radiowozy",
       "type": "Integer"
     },
     {
@@ -404,6 +404,11 @@
       "key": "need_traffic_car",
       "caption": "Wymagane radiowozy WRD",
       "type": "Integer"
+    },
+    {
+      "key": "allow_traffic_car_instead_of_fustw",
+      "caption": "Radiowóz OPI może zostać zastąpiony przez Radiowóz wydziału ruchu drogowego",
+      "type": "Boolean"
     },
     {
       "key": "need_foam",
