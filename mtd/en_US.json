@@ -101,8 +101,8 @@
       "type": "Unknown"
     },
     {
-      "key": "need_oneof_fire_engine_or_fire_rescue_or_fire_ladder",
-      "caption": "Required Firetrucks, Heavy Rescues or Plattform Trucks",
+      "key": "need_oneof_fire_engine_or_rescue_or_ladder",
+      "caption": "Required Firetrucks, Heavy Rescue Vehicles or Platform Trucks",
       "type": "Integer"
     },
     {
@@ -116,8 +116,8 @@
       "type": "Integer"
     },
     {
-      "key": "need_oneof_fire_engine_or_fire_rescue",
-      "caption": "Required Firetrucks or Heavy Rescues",
+      "key": "need_oneof_fire_engine_or_rescue",
+      "caption": "Required Firetrucks or Heavy Rescue Vehicles",
       "type": "Integer"
     },
     {
@@ -316,8 +316,8 @@
       "type": "Integer"
     },
     {
-      "key": "need_oneof_police_patrol_or_police_swat",
-      "caption": "Required SWATs or Patrol Cars",
+      "key": "need_oneof_police_patrol_or_swat",
+      "caption": "Required Police Cars or Swat SUVs",
       "type": "Integer"
     },
     {
@@ -731,8 +731,8 @@
       "type": "Integer"
     },
     {
-      "key": "need_oneof_fire_engine_or_fire_ladder",
-      "caption": "Required Firetrucks or Plattform Trucks",
+      "key": "need_oneof_fire_engine_or_ladder",
+      "caption": "Required Firetrucks or Platform Trucks",
       "type": "Integer"
     },
     {
