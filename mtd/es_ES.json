@@ -91,14 +91,9 @@
       "type": "Integer"
     },
     {
-      "key": "allow_rw_instead_of_lf",
-      "caption": "FUV puede sustituir Camión de bomberos",
-      "type": "Boolean"
-    },
-    {
-      "key": "allow_dlk_instead_of_lf",
-      "caption": "FUV puede sustituir Camión de bomberos",
-      "type": "Boolean"
+      "key": "need_oneof_fire_engine_or_rescue_or_ladder",
+      "caption": "Se necesitan Camiones de Bomberos, Furgones de Útiles Varios o Camiones con Plataforma",
+      "type": "Integer"
     },
     {
       "key": "need_elw1",
@@ -153,6 +148,11 @@
     {
       "key": "need_gwgefahrgut",
       "caption": "Se necesitan vehículos de materiales peligrosos",
+      "type": "Integer"
+    },
+    {
+      "key": "need_oneof_fire_engine_or_rescue",
+      "caption": "Se necesitan Camiones de Bomberos o Furgones de Útiles Varios",
       "type": "Integer"
     },
     {
@@ -441,9 +441,9 @@
       "type": "Integer"
     },
     {
-      "key": "allow_streifenwagen_instead_of_riot_police_van",
-      "caption": "El coche patrulla puede reemplazar al vehículo Unidad de Intervención Policial",
-      "type": "Boolean"
+      "key": "need_oneof_police_patrol_or_riot_police_crew",
+      "caption": "Se necesitan Coches Patrulla o UIPs",
+      "type": "Integer"
     },
     {
       "key": "personal_min_polizei",
@@ -699,16 +699,6 @@
       "key": "need_swat_armored_vehicle",
       "caption": "Unidades GEO necesarias",
       "type": "Integer"
-    },
-    {
-      "key": "allow_arff_instead_of_lf",
-      "caption": "Los camiones ARFF pueden reemplazar a los camiones de bomberos",
-      "type": "Boolean"
-    },
-    {
-      "key": "allow_riv_instead_of_lf",
-      "caption": "Los camiones de bomberos pueden sustituir el Camión Autoextintor",
-      "type": "Boolean"
     },
     {
       "key": "minutes_value",
