@@ -116,9 +116,9 @@
       "type": "Unknown"
     },
     {
-      "key": "allow_rw_instead_of_lf",
-      "caption": "HV kan worden ingezet als Tankautospuiten",
-      "type": "Boolean"
+      "key": "need_oneof_fire_engine_or_rescue",
+      "caption": "Benodigde tankautospuiten of hulpverleningsvoertuigen",
+      "type": "Integer"
     },
     {
       "key": "alternate_value_overlay_requirements",
@@ -626,6 +626,11 @@
       "type": "Integer"
     },
     {
+      "key": "allow_rw_instead_of_lf",
+      "caption": "HV kan worden ingezet als Tankautospuiten",
+      "type": "Boolean"
+    },
+    {
       "key": "allow_arff_instead_of_lf",
       "caption": "Crashtender kan worden ingezet als Tankautospuiten",
       "type": "Boolean"
@@ -714,6 +719,11 @@
       "key": "followup_mission_only",
       "caption": "Kan alleen een verspreiding van een andere inzet zijn",
       "type": "Boolean"
+    },
+    {
+      "key": "need_oneof_wildfire_engine_or_airport_fire_engine",
+      "caption": "Benodigde Tankautospuiten (Terreinvaardig) of Crashtender",
+      "type": "Integer"
     },
     {
       "key": "need_police_horse_chance",
