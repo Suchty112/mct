@@ -721,11 +721,6 @@
       "type": "Boolean"
     },
     {
-      "key": "need_oneof_wildfire_engine_or_airport_fire_engine",
-      "caption": "Benodigde Tankautospuiten (Terreinvaardig) of Crashtender",
-      "type": "Integer"
-    },
-    {
       "key": "need_police_horse_chance",
       "caption": "Bereden Brigade benodigd waarschijnlijkheid",
       "type": "Integer"
