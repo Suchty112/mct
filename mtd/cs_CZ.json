@@ -4497,6 +4497,50 @@
     {
       "id": 617,
       "caption": "Urgentní přeprava"
+    },
+    {
+      "id": 618,
+      "caption": "Náhlé onemocnění v hledišti"
+    },
+    {
+      "id": 619,
+      "caption": "Úpal na venkovní akci"
+    },
+    {
+      "id": 620,
+      "caption": "Alergická reakce u stánku s jídlem"
+    },
+    {
+      "id": 621,
+      "caption": "Potřeba kontroly davu na zahajovacím ceremoniálu sportovní akce"
+    },
+    {
+      "id": 622,
+      "caption": "Podezřelý balíček nalezen u vstupu na sportovní stadion"
+    },
+    {
+      "id": 623,
+      "caption": "Sportovec uvězněn ve výtahu ve sportovním zařízení"
+    },
+    {
+      "id": 624,
+      "caption": "Dopravní nehoda zahrnující autobus s atlety"
+    },
+    {
+      "id": 625,
+      "caption": "Cyklistická nehoda během závodu"
+    },
+    {
+      "id": 626,
+      "caption": "Sportovec zraněn během gymnastické sestavy"
+    },
+    {
+      "id": 627,
+      "caption": "Záchrana z vody požadována na sportovní plachetní akci"
+    },
+    {
+      "id": 628,
+      "caption": "Porušení bezpečnosti u sportovního bazénu"
     }
   ]
 }
