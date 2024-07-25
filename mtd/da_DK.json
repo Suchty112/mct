@@ -4420,6 +4420,50 @@
     {
       "id": 623,
       "caption": "Intensiv Transport"
+    },
+    {
+      "id": 624,
+      "caption": "Pludselig sygdom på tilskuerpladserne"
+    },
+    {
+      "id": 625,
+      "caption": "Solstik på tilskuerpladserne"
+    },
+    {
+      "id": 626,
+      "caption": "Allergisk reaktion ved madbod"
+    },
+    {
+      "id": 627,
+      "caption": "Behov for crowd control ved sportens åbningsceremoni"
+    },
+    {
+      "id": 628,
+      "caption": "Mistænkelig pakke fundet ved sportsstadions indgang"
+    },
+    {
+      "id": 629,
+      "caption": "Atlet fanget i elevator på sportsanlæg"
+    },
+    {
+      "id": 630,
+      "caption": "Trafikuheld involverende atletbus"
+    },
+    {
+      "id": 631,
+      "caption": "Cykelulykke under løb"
+    },
+    {
+      "id": 632,
+      "caption": "Atlet skadet under gymnastikøvelse"
+    },
+    {
+      "id": 633,
+      "caption": "Vandredning nødvendig ved sportssejlads"
+    },
+    {
+      "id": 634,
+      "caption": "Sikkerhedsbrud ved sportsbassinet"
     }
   ]
 }
