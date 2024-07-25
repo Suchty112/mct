@@ -969,7 +969,8 @@
     "cruiseship",
     "snowy",
     "radiation",
-    "stadium"
+    "stadium",
+    "elevator"
   ],
   "building_types": [
     {
@@ -4243,6 +4244,50 @@
     {
       "id": 587,
       "caption": "Incêndio numa fábrica de reciclagem"
+    },
+    {
+      "id": 588,
+      "caption": "Doença súbita na arquibancada"
+    },
+    {
+      "id": 589,
+      "caption": "Insolação na bancada dos espectadores"
+    },
+    {
+      "id": 590,
+      "caption": "Reação alérgica em vendedor de alimentos"
+    },
+    {
+      "id": 591,
+      "caption": "Controle de multidão necessário na cerimônia de abertura esportiva"
+    },
+    {
+      "id": 592,
+      "caption": "Pacote suspeito encontrado na entrada do estádio esportivo"
+    },
+    {
+      "id": 593,
+      "caption": "Atleta preso no elevador da instalação esportiva"
+    },
+    {
+      "id": 594,
+      "caption": "Acidente de trânsito envolvendo ônibus de atletas"
+    },
+    {
+      "id": 595,
+      "caption": "Acidente de ciclismo durante a corrida"
+    },
+    {
+      "id": 596,
+      "caption": "Atleta ferido durante rotina de ginástica"
+    },
+    {
+      "id": 597,
+      "caption": "Resgate aquático necessário em evento de vela esportiva"
+    },
+    {
+      "id": 598,
+      "caption": "Violação de segurança na piscina esportiva"
     }
   ]
 }
