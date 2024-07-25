@@ -754,6 +754,11 @@
       "key": "minutes_value",
       "caption": null,
       "type": "Integer"
+    },
+    {
+      "key": "patient_allow_first_responder_full",
+      "caption": "Aanwezige hulpverleners kunnen de patiënten volledig verzorge",
+      "type": "Integer"
     }
   ],
   "pois": [
@@ -2043,6 +2048,11 @@
       "id": 104,
       "caption": "Zonnebloem enthousiast 2024",
       "key": "AWARD_SUMMER_COLLECTION_2024"
+    },
+    {
+      "id": 105,
+      "caption": "Race Event 2024",
+      "key": "AWARD_RACING_2024"
     }
   ],
   "filter_types": [
@@ -6443,6 +6453,50 @@
     {
       "id": 1086,
       "caption": "Paniek op de tribune"
+    },
+    {
+      "id": 1087,
+      "caption": "Zieke toeschouwer op de tribune"
+    },
+    {
+      "id": 1088,
+      "caption": "Zonnesteek bij buitenevenement"
+    },
+    {
+      "id": 1089,
+      "caption": "Allergische reactie bij een eetkraam"
+    },
+    {
+      "id": 1090,
+      "caption": "Controle bij de openingsceremonie van sport evenement"
+    },
+    {
+      "id": 1091,
+      "caption": "Verdacht pakket gevonden bij de ingang van het sportstadion"
+    },
+    {
+      "id": 1092,
+      "caption": "Atleet vast in lift"
+    },
+    {
+      "id": 1093,
+      "caption": "Verkeersongeval met sportersbus"
+    },
+    {
+      "id": 1094,
+      "caption": "Wielrenner ongeluk tijdens wedstrijd"
+    },
+    {
+      "id": 1095,
+      "caption": "Atleet gewond tijdens gymnastiekoefening"
+    },
+    {
+      "id": 1096,
+      "caption": "Waterredding vereist bij zeilevenement"
+    },
+    {
+      "id": 1097,
+      "caption": "Boze toeschouwer bij sportzwembad"
     }
   ]
 }
