@@ -4946,6 +4946,50 @@
     {
       "id": 701,
       "caption": "Incendio in una fabbrica di riciclaggio"
+    },
+    {
+      "id": 702,
+      "caption": "Malore improvviso tra gli spettatori"
+    },
+    {
+      "id": 703,
+      "caption": "Insolazione in tribuna spettatori"
+    },
+    {
+      "id": 704,
+      "caption": "Reazione allergica presso un venditore di cibo"
+    },
+    {
+      "id": 705,
+      "caption": "Controllo della folla necessario alla cerimonia di apertura sportiva"
+    },
+    {
+      "id": 706,
+      "caption": "Pacco sospetto trovato all'ingresso dello stadio sportivo"
+    },
+    {
+      "id": 707,
+      "caption": "Atleta intrappolato in ascensore presso l'impianto sportivo"
+    },
+    {
+      "id": 708,
+      "caption": "Incidente stradale che coinvolge la navetta degli atleti"
+    },
+    {
+      "id": 709,
+      "caption": "Incidente ciclistico durante la gara"
+    },
+    {
+      "id": 710,
+      "caption": "Atleta ferito durante una routine di ginnastica"
+    },
+    {
+      "id": 711,
+      "caption": "Salvataggio in acqua richiesto durante un evento di vela sportiva"
+    },
+    {
+      "id": 712,
+      "caption": "Violazione della sicurezza in piscina sportiva"
     }
   ]
 }
