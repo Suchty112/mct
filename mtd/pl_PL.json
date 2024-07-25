@@ -4879,6 +4879,50 @@
     {
       "id": 757,
       "caption": "Pożar w zakładzie recyklingu"
+    },
+    {
+      "id": 758,
+      "caption": "Nagła choroba na trybunach"
+    },
+    {
+      "id": 759,
+      "caption": "Udar słoneczny na trybunie"
+    },
+    {
+      "id": 760,
+      "caption": "Reakcja alergiczna u sprzedawcy żywności"
+    },
+    {
+      "id": 761,
+      "caption": "Potrzebna kontrola tłumu podczas ceremonii otwarcia zawodów sportowych"
+    },
+    {
+      "id": 762,
+      "caption": "Podejrzana paczka znaleziona przy wejściu na stadion sportowy"
+    },
+    {
+      "id": 763,
+      "caption": "Zawodnik uwięziony w windzie na obiekcie sportowym"
+    },
+    {
+      "id": 764,
+      "caption": "Wypadek drogowy z udziałem autobusu przewożącego zawodników"
+    },
+    {
+      "id": 765,
+      "caption": "Wypadek kolarski podczas wyścigu"
+    },
+    {
+      "id": 766,
+      "caption": "Zawodnik ranny podczas rutyny gimnastycznej"
+    },
+    {
+      "id": 767,
+      "caption": "Ratunek wodny wymagany podczas zawodów żeglarskich"
+    },
+    {
+      "id": 768,
+      "caption": "Naruszenie bezpieczeństwa na basenie sportowym"
     }
   ]
 }
