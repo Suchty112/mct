@@ -4703,6 +4703,50 @@
     {
       "id": 702,
       "caption": "Critical Transport"
+    },
+    {
+      "id": 703,
+      "caption": "Sudden illness in spectator stand"
+    },
+    {
+      "id": 704,
+      "caption": "Sunstroke at outdoor event"
+    },
+    {
+      "id": 705,
+      "caption": "Allergic reaction at food vendor"
+    },
+    {
+      "id": 706,
+      "caption": "Crowd control needed at sports opening ceremony"
+    },
+    {
+      "id": 707,
+      "caption": "Suspicious package found at sports stadium entrance"
+    },
+    {
+      "id": 708,
+      "caption": "Athlete Trapped in Elevator at Sport Facility"
+    },
+    {
+      "id": 709,
+      "caption": "Traffic Accident Involving Athlete Shuttle Bus"
+    },
+    {
+      "id": 710,
+      "caption": "Cycling accident during competition"
+    },
+    {
+      "id": 711,
+      "caption": "Athlete injured during gymnastics routine"
+    },
+    {
+      "id": 712,
+      "caption": "Water Rescue Required at Sport Sailing Event"
+    },
+    {
+      "id": 713,
+      "caption": "Angry fan at sports swimming pool"
     }
   ]
 }
