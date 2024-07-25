@@ -4366,6 +4366,50 @@
     {
       "id": 574,
       "caption": "Transporte crítico"
+    },
+    {
+      "id": 575,
+      "caption": "Enfermedad repentina en la grada"
+    },
+    {
+      "id": 576,
+      "caption": "Insolación en la tribuna de espectadores"
+    },
+    {
+      "id": 577,
+      "caption": "Reacción alérgica en el puesto de comida"
+    },
+    {
+      "id": 578,
+      "caption": "Se necesita control de multitudes en la ceremonia de apertura deportiva"
+    },
+    {
+      "id": 579,
+      "caption": "Paquete sospechoso encontrado en la entrada del estadio deportivo"
+    },
+    {
+      "id": 580,
+      "caption": "Atleta atrapado en el ascensor de la instalación deportiva"
+    },
+    {
+      "id": 581,
+      "caption": "Accidente de tráfico que involucra al autobús de atletas"
+    },
+    {
+      "id": 582,
+      "caption": "Accidente ciclista durante una carrera"
+    },
+    {
+      "id": 583,
+      "caption": "Atleta lesionado durante la rutina de gimnasia"
+    },
+    {
+      "id": 584,
+      "caption": "Se requiere rescate acuático en evento de vela deportiva"
+    },
+    {
+      "id": 585,
+      "caption": "Brecha de seguridad en la piscina deportiva"
     }
   ]
 }
