@@ -4345,6 +4345,50 @@
     {
       "id": 597,
       "caption": "Brand i en återvinningsfabrik"
+    },
+    {
+      "id": 598,
+      "caption": "Plötslig sjukdom på åskådarplats"
+    },
+    {
+      "id": 599,
+      "caption": "Solsting på åskådarläktare"
+    },
+    {
+      "id": 600,
+      "caption": "Allergisk reaktion vid matförsäljare"
+    },
+    {
+      "id": 601,
+      "caption": "Folkkontroll behövs vid sportens öppningsceremoni"
+    },
+    {
+      "id": 602,
+      "caption": "Misstänkt paket hittat vid sportstadions ingång"
+    },
+    {
+      "id": 603,
+      "caption": "Idrottare fast i hiss på sportanläggning"
+    },
+    {
+      "id": 604,
+      "caption": "Trafikolycka med idrottsbuss"
+    },
+    {
+      "id": 605,
+      "caption": "Cykelolycka under lopp"
+    },
+    {
+      "id": 606,
+      "caption": "Idrottare skadad under gymnastikrutin"
+    },
+    {
+      "id": 607,
+      "caption": "Vattenräddning behövs vid seglingsevenemang"
+    },
+    {
+      "id": 608,
+      "caption": "Säkerhetsbrott vid sportbassäng"
     }
   ]
 }
