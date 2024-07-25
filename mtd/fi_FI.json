@@ -952,7 +952,8 @@
     "cruiseship",
     "snowy",
     "cuffs",
-    "flood"
+    "flood",
+    "elevator"
   ],
   "building_types": [
     {
@@ -4275,6 +4276,50 @@
     {
       "id": 613,
       "caption": "432 Tulipalo kierrätystehtaassa"
+    },
+    {
+      "id": 614,
+      "caption": "Äkillinen sairaus katsomossa"
+    },
+    {
+      "id": 615,
+      "caption": "Auringonpistos katsomossa"
+    },
+    {
+      "id": 616,
+      "caption": "Allerginen reaktio ruokakojulla"
+    },
+    {
+      "id": 617,
+      "caption": "Joukonhallintaa tarvitaan urheilun avajaisseremoniassa"
+    },
+    {
+      "id": 618,
+      "caption": "Epäilyttävä paketti löydetty urheilustadionin sisäänkäynniltä"
+    },
+    {
+      "id": 619,
+      "caption": "Urheilija jumissa hississä urheilulaitoksessa"
+    },
+    {
+      "id": 620,
+      "caption": "Liikenneonnettomuus, johon liittyy urheilijakuljetusbussi"
+    },
+    {
+      "id": 621,
+      "caption": "Pyöräilyonnettomuus kilpailun aikana"
+    },
+    {
+      "id": 622,
+      "caption": "Urheilija loukkaantui voimistelurutiinin aikana"
+    },
+    {
+      "id": 623,
+      "caption": "Tarvitaan vesipelastusta urheilupurjehdustapahtumassa"
+    },
+    {
+      "id": 624,
+      "caption": "Turvarikkomus urheilu-uima-altaalla"
     }
   ]
 }
