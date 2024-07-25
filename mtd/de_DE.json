@@ -5896,6 +5896,50 @@
     {
       "id": 867,
       "caption": "Personensuche nach Gerölllawine"
+    },
+    {
+      "id": 868,
+      "caption": "Plötzliche Erkrankung auf der Zuschauertribüne"
+    },
+    {
+      "id": 869,
+      "caption": "Hitzschlag bei Sportveranstaltung im Freien"
+    },
+    {
+      "id": 870,
+      "caption": "Allergische Reaktion auf Essen"
+    },
+    {
+      "id": 871,
+      "caption": "Absicherung der Eröffnungsfeier einer Sportveranstaltung"
+    },
+    {
+      "id": 872,
+      "caption": "Verdächtiges Paket im Stadion"
+    },
+    {
+      "id": 873,
+      "caption": "Verkehrsunfall mit Shuttlebus"
+    },
+    {
+      "id": 874,
+      "caption": "Verkehrsunfall mit Rennrad"
+    },
+    {
+      "id": 875,
+      "caption": "Sportverletzung"
+    },
+    {
+      "id": 876,
+      "caption": "Wasserrettung bei Segelregatta"
+    },
+    {
+      "id": 877,
+      "caption": "Sportler im Aufzug gefangen"
+    },
+    {
+      "id": 878,
+      "caption": "Fan mit gefälschter Eintrittskarte"
     }
   ]
 }
