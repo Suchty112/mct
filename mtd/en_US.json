@@ -6237,6 +6237,50 @@
     {
       "id": 971,
       "caption": "Fire at a recycling factory"
+    },
+    {
+      "id": 972,
+      "caption": "Sudden illness in spectator stand"
+    },
+    {
+      "id": 973,
+      "caption": "Heat exhaustion at outdoor event"
+    },
+    {
+      "id": 974,
+      "caption": "Allergic reaction at food vendor"
+    },
+    {
+      "id": 975,
+      "caption": "Crowd control needed at sports opening ceremony"
+    },
+    {
+      "id": 976,
+      "caption": "Suspicious package found at sports stadium entrance"
+    },
+    {
+      "id": 977,
+      "caption": "Athlete Trapped in Elevator at Sport Facility"
+    },
+    {
+      "id": 978,
+      "caption": "Traffic Accident Involving Athlete Shuttle Bus"
+    },
+    {
+      "id": 979,
+      "caption": "Cycling accident during competition"
+    },
+    {
+      "id": 980,
+      "caption": "Athlete injured during gymnastics routine"
+    },
+    {
+      "id": 981,
+      "caption": "Water Rescue Required at Sport Sailing Event"
+    },
+    {
+      "id": 982,
+      "caption": "Angry fan at sports swimming pool"
     }
   ]
 }
