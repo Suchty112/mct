@@ -471,11 +471,6 @@
       "type": "Integer"
     },
     {
-      "key": "need_extension",
-      "caption": "Laajennuksella",
-      "type": "Unknown"
-    },
-    {
       "key": "ocean_value",
       "caption": null,
       "type": "Integer"
