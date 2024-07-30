@@ -694,6 +694,11 @@
       "key": "need_bracing",
       "caption": "Modulo Scarrabile Puntellamenti/Crolli richiesto",
       "type": "Integer"
+    },
+    {
+      "key": "critical_transport_value",
+      "caption": null,
+      "type": "Integer"
     }
   ],
   "pois": [
@@ -4990,6 +4995,10 @@
     {
       "id": 712,
       "caption": "Violazione della sicurezza in piscina sportiva"
+    },
+    {
+      "id": 713,
+      "caption": "Trasferimento Interospedaliero"
     }
   ]
 }
