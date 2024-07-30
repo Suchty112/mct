@@ -421,11 +421,6 @@
       "type": "Integer"
     },
     {
-      "key": "personal_min_feuerwehr",
-      "caption": "Gemiddeld minimaal aantal brandweerpersoneel",
-      "type": "Integer"
-    },
-    {
       "key": "polizeihubschrauber_count",
       "caption": "Minimaal politie helikopter standplaatsen",
       "type": "Integer"
@@ -753,6 +748,11 @@
     {
       "key": "patient_allow_first_responder_full",
       "caption": "Aanwezige hulpverleners kunnen de patiënten volledig verzorge",
+      "type": "Integer"
+    },
+    {
+      "key": "critical_transport_value",
+      "caption": null,
       "type": "Integer"
     }
   ],
@@ -6512,6 +6512,10 @@
     {
       "id": 1102,
       "caption": "Aanrijding drive-in Bioscoop"
+    },
+    {
+      "id": 1103,
+      "caption": "Interfacilitair Transport"
     }
   ]
 }
