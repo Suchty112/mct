@@ -734,6 +734,11 @@
       "key": "need_oneof_paramedic_or_paramedic_advanced",
       "caption": "Required RRV or Specialist Paramedic RRV",
       "type": "Integer"
+    },
+    {
+      "key": "critical_transport_value",
+      "caption": null,
+      "type": "Integer"
     }
   ],
   "pois": [
@@ -5267,6 +5272,10 @@
     {
       "id": 715,
       "caption": "Angry fan at sports swimming pool"
+    },
+    {
+      "id": 716,
+      "caption": "Interfacility Transfer - Critical Care"
     }
   ]
 }
