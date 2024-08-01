@@ -1769,6 +1769,11 @@
       "id": 77,
       "caption": "선플라워 매니아 2024",
       "key": "AWARD_SUMMER_COLLECTION_2024"
+    },
+    {
+      "id": 78,
+      "caption": "얼라이언스 챌린지 2024년 8월",
+      "key": "AWARD_ALLIANCE_CHALLENGE_AUG_2024"
     }
   ],
   "filter_types": [
