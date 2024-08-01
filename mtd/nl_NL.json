@@ -2048,6 +2048,11 @@
       "id": 105,
       "caption": "Race Event 2024",
       "key": "AWARD_RACING_2024"
+    },
+    {
+      "id": 106,
+      "caption": "Alliantie Uitdaging Augustus 2024",
+      "key": "AWARD_ALLIANCE_CHALLENGE_AUG_2024"
     }
   ],
   "filter_types": [
