@@ -2165,6 +2165,11 @@
       "id": 89,
       "caption": "L'amateur de tournesol 2024",
       "key": "AWARD_SUMMER_COLLECTION_2024"
+    },
+    {
+      "id": 90,
+      "caption": "Défi de l'Alliance Août 2024",
+      "key": "AWARD_ALLIANCE_CHALLENGE_AUG_2024"
     }
   ],
   "filter_types": [
