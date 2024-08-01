@@ -1788,6 +1788,11 @@
       "id": 82,
       "caption": "ひまわり愛好家 2024",
       "key": "AWARD_SUMMER_COLLECTION_2024"
+    },
+    {
+      "id": 83,
+      "caption": "アライアンス・チャレンジ 2024年8月",
+      "key": "AWARD_ALLIANCE_CHALLENGE_AUG_2024"
     }
   ],
   "filter_types": [
