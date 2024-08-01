@@ -1872,6 +1872,11 @@
       "id": 92,
       "caption": "Solsikke-entusiast 2024",
       "key": "AWARD_SUMMER_COLLECTION_2024"
+    },
+    {
+      "id": 93,
+      "caption": "Alliance Challenge august 2024",
+      "key": "AWARD_ALLIANCE_CHALLENGE_AUG_2024"
     }
   ],
   "filter_types": [
