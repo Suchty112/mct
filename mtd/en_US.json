@@ -2302,6 +2302,11 @@
       "id": 87,
       "caption": "Sunflower Enthusiast 2024",
       "key": "AWARD_SUMMER_COLLECTION_2024"
+    },
+    {
+      "id": 88,
+      "caption": "Alliance Challenge August 2024",
+      "key": "AWARD_ALLIANCE_CHALLENGE_AUG_2024"
     }
   ],
   "filter_types": [
