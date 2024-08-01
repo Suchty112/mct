@@ -1973,6 +1973,11 @@
       "id": 91,
       "caption": "Nadšenec do slunečnic 2024",
       "key": "AWARD_SUMMER_COLLECTION_2024"
+    },
+    {
+      "id": 92,
+      "caption": "Alianční výzva srpen 2024",
+      "key": "AWARD_ALLIANCE_CHALLENGE_AUG_2024"
     }
   ],
   "filter_types": [
