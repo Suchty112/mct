@@ -1839,6 +1839,11 @@
       "id": 84,
       "caption": "Snowman Enthusiast 2024",
       "key": "AWARD_WINTER_COLLECTION_2024"
+    },
+    {
+      "id": 85,
+      "caption": "Alliance Challenge August 2024",
+      "key": "AWARD_ALLIANCE_CHALLENGE_AUG_2024"
     }
   ],
   "filter_types": [
