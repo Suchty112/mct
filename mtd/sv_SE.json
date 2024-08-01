@@ -1901,6 +1901,11 @@
       "id": 85,
       "caption": "Solrosentusiast 2024",
       "key": "AWARD_SUMMER_COLLECTION_2024"
+    },
+    {
+      "id": 86,
+      "caption": "Alliansutmaning augusti 2024",
+      "key": "AWARD_ALLIANCE_CHALLENGE_AUG_2024"
     }
   ],
   "filter_types": [
