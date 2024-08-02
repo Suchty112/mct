@@ -421,6 +421,11 @@
       "type": "Integer"
     },
     {
+      "key": "personal_min_feuerwehr",
+      "caption": "Gemiddeld minimaal aantal brandweerpersoneel",
+      "type": "Integer"
+    },
+    {
       "key": "polizeihubschrauber_count",
       "caption": "Minimaal politie helikopter standplaatsen",
       "type": "Integer"
