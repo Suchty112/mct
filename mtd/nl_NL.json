@@ -421,11 +421,6 @@
       "type": "Integer"
     },
     {
-      "key": "personal_min_feuerwehr",
-      "caption": "Gemiddeld minimaal aantal brandweerpersoneel",
-      "type": "Integer"
-    },
-    {
       "key": "polizeihubschrauber_count",
       "caption": "Minimaal politie helikopter standplaatsen",
       "type": "Integer"
@@ -646,6 +641,11 @@
       "type": "Integer"
     },
     {
+      "key": "fire_support_count",
+      "caption": "Benodigde uitbreidingen schuimblussing",
+      "type": "Integer"
+    },
+    {
       "key": "need_elw_airport_chance",
       "caption": "AFO/OSC benodigd waarschijnlijkheid",
       "type": "Integer"
@@ -739,11 +739,6 @@
       "key": "allow_traffic_car_instead_of_fustw",
       "caption": "Signalisatievoertuigen kunnen worden ingezet als noodhulpvoertuigen",
       "type": "Boolean"
-    },
-    {
-      "key": "fire_support_count",
-      "caption": "Benodigde uitbreidingen schuimblussing",
-      "type": "Integer"
     },
     {
       "key": "minutes_value",
@@ -3673,27 +3668,27 @@
     },
     {
       "id": 390,
-      "caption": "Brand bij afvalverwerker"
+      "caption": "Brand bij afvalverwerker (Klein)"
     },
     {
       "id": 391,
-      "caption": "Brand bij afvalverwerker"
+      "caption": "Brand bij afvalverwerker (Middel)"
     },
     {
       "id": 392,
-      "caption": "Brand bij afvalverwerker"
+      "caption": "Brand bij afvalverwerker (Groot)"
     },
     {
       "id": 393,
-      "caption": "Brand bij afvalverwerker"
+      "caption": "Brand bij afvalverwerker (Zeer Groot)"
     },
     {
       "id": 394,
-      "caption": "Brand bij afvalverwerker"
+      "caption": "Brand bij afvalverwerker (Grip 1)"
     },
     {
       "id": 395,
-      "caption": "Brand bij afvalverwerker"
+      "caption": "Brand bij afvalverwerker (Grip 3)"
     },
     {
       "id": 396,
