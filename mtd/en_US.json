@@ -396,11 +396,6 @@
       "type": "Integer"
     },
     {
-      "key": "allow_ktw_instead_of_rtw",
-      "caption": "BLS ambulance can replace ALS ambulance",
-      "type": "Boolean"
-    },
-    {
       "key": "need_lf_chance",
       "caption": "Firetruck request probability",
       "type": "Integer"
@@ -504,6 +499,11 @@
       "key": "rth_need_quote",
       "caption": "Helicopter request chance",
       "type": "Integer"
+    },
+    {
+      "key": "allow_ktw_instead_of_rtw",
+      "caption": "BLS ambulance can replace ALS ambulance",
+      "type": "Boolean"
     },
     {
       "key": "personal_min_polizei",
