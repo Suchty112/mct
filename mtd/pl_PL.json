@@ -584,6 +584,16 @@
       "key": "expansion_mission_only",
       "caption": "Może być jedynie rozszerzeniem innej misji",
       "type": "Boolean"
+    },
+    {
+      "key": "ktw_value",
+      "caption": null,
+      "type": "Integer"
+    },
+    {
+      "key": "critical_transport_value",
+      "caption": null,
+      "type": "Integer"
     }
   ],
   "pois": [
@@ -4928,6 +4938,14 @@
     {
       "id": 768,
       "caption": "Naruszenie bezpieczeństwa na basenie sportowym"
+    },
+    {
+      "id": 769,
+      "caption": "Transport pacjenta"
+    },
+    {
+      "id": 770,
+      "caption": "Transport krytyczny"
     }
   ]
 }
