@@ -217,7 +217,7 @@
     },
     {
       "key": "allow_ktw_instead_of_rtw",
-      "caption": "一次救命処置車 は、救急車 を置き換えることができます",
+      "caption": "救急車輸送は標準的な救急車を置き換えることができます",
       "type": "Boolean"
     },
     {
@@ -563,6 +563,11 @@
     {
       "key": "need_damage_control",
       "caption": "必要なもの ダメージ・コントロール・ワゴン",
+      "type": "Integer"
+    },
+    {
+      "key": "critical_transport_value",
+      "caption": null,
       "type": "Integer"
     }
   ],
@@ -4041,6 +4046,10 @@
     {
       "id": 548,
       "caption": "スポーツプールでのセキュリティ違反"
+    },
+    {
+      "id": 549,
+      "caption": "重要な輸送機関"
     }
   ]
 }
