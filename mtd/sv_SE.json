@@ -669,6 +669,11 @@
       "key": "need_rw_chance",
       "caption": "Sannolikhet att Lastväxlare krävs",
       "type": "Integer"
+    },
+    {
+      "key": "critical_transport_value",
+      "caption": null,
+      "type": "Integer"
     }
   ],
   "pois": [
@@ -4394,6 +4399,10 @@
     {
       "id": 608,
       "caption": "Säkerhetsbrott vid sportbassäng"
+    },
+    {
+      "id": 609,
+      "caption": "Kritisk transport"
     }
   ]
 }
