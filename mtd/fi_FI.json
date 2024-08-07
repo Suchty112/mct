@@ -4285,7 +4285,7 @@
     },
     {
       "id": 613,
-      "caption": "432 Tulipalo kierrätystehtaassa"
+      "caption": "432 Kemikaalihöyryjen vapautuminen tehtaassa"
     },
     {
       "id": 614,
@@ -4338,6 +4338,10 @@
     {
       "id": 626,
       "caption": "793 Kriittinen potilassiirto"
+    },
+    {
+      "id": 627,
+      "caption": "443 Putkiston räjähdys"
     }
   ]
 }
