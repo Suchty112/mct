@@ -609,6 +609,16 @@
       "key": "minutes_value",
       "caption": null,
       "type": "Integer"
+    },
+    {
+      "key": "ktw_value",
+      "caption": null,
+      "type": "Integer"
+    },
+    {
+      "key": "critical_transport_value",
+      "caption": null,
+      "type": "Integer"
     }
   ],
   "pois": [
@@ -4320,6 +4330,14 @@
     {
       "id": 624,
       "caption": "Turvarikkomus urheilu-uima-altaalla"
+    },
+    {
+      "id": 625,
+      "caption": "707 Potilassiirto"
+    },
+    {
+      "id": 626,
+      "caption": "793 Kriittinen potilassiirto"
     }
   ]
 }
