@@ -624,6 +624,21 @@
       "key": "need_flood_equipment",
       "caption": "Atrelados de Intervenção em Intempéries necessários:",
       "type": "Integer"
+    },
+    {
+      "key": "ktw_value",
+      "caption": null,
+      "type": "Integer"
+    },
+    {
+      "key": "allow_ktw_instead_of_rtw",
+      "caption": "A ABTD pode substituir a Ambulâncias de Socorro",
+      "type": "Boolean"
+    },
+    {
+      "key": "critical_transport_value",
+      "caption": null,
+      "type": "Integer"
     }
   ],
   "pois": [
@@ -4293,6 +4308,14 @@
     {
       "id": 598,
       "caption": "Violação de segurança na piscina esportiva"
+    },
+    {
+      "id": 599,
+      "caption": "Transporte de pacientes"
+    },
+    {
+      "id": 600,
+      "caption": "Transferência entre instalações"
     }
   ]
 }
