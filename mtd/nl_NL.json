@@ -306,11 +306,6 @@
       "type": "Integer"
     },
     {
-      "key": "date_start",
-      "caption": "Start datum",
-      "type": "Datetime"
-    },
-    {
       "key": "patient_modus",
       "caption": null,
       "type": "Integer"
@@ -324,6 +319,11 @@
       "key": "possible_prisoner",
       "caption": "Maximaal aantal gevangenen",
       "type": "Integer"
+    },
+    {
+      "key": "date_start",
+      "caption": "Start datum",
+      "type": "Datetime"
     },
     {
       "key": "bereitschaftspolizei_count",
