@@ -659,6 +659,11 @@
       "key": "critical_transport_value",
       "caption": null,
       "type": "Integer"
+    },
+    {
+      "key": "minutes_value",
+      "caption": null,
+      "type": "Integer"
     }
   ],
   "pois": [
@@ -1059,7 +1064,8 @@
     "radiation",
     "tramway",
     "tornado",
-    "stadium"
+    "stadium",
+    "lightningStrike"
   ],
   "building_types": [
     {
@@ -4550,6 +4556,34 @@
     {
       "id": 629,
       "caption": "Výbuch potrubí"
+    },
+    {
+      "id": 630,
+      "caption": "Zřízení nouzového přístřeší"
+    },
+    {
+      "id": 631,
+      "caption": "Náhradní napájení z důvodu stavebních prací"
+    },
+    {
+      "id": 632,
+      "caption": "Záložní napájení nemocničního oddělení"
+    },
+    {
+      "id": 633,
+      "caption": "zemětřesení"
+    },
+    {
+      "id": 634,
+      "caption": "Uvolňování chemických výparů v továrně"
+    },
+    {
+      "id": 635,
+      "caption": "Nehoda při parasailingu"
+    },
+    {
+      "id": 636,
+      "caption": "Topící se surfař"
     }
   ]
 }
