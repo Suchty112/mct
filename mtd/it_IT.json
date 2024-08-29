@@ -699,6 +699,11 @@
       "key": "critical_transport_value",
       "caption": null,
       "type": "Integer"
+    },
+    {
+      "key": "need_game_warden_chance",
+      "caption": "Possibilità che sia richiesta una pattuglia della Forestale",
+      "type": "Integer"
     }
   ],
   "pois": [
@@ -5008,6 +5013,58 @@
     {
       "id": 714,
       "caption": "Esplosione di un gasdotto"
+    },
+    {
+      "id": 715,
+      "caption": "Incendio riserva naturale (PICCOLO)"
+    },
+    {
+      "id": 716,
+      "caption": "Incendio riserva naturale (MEDIO)"
+    },
+    {
+      "id": 717,
+      "caption": "Incendio riserva naturale (GRANDE)"
+    },
+    {
+      "id": 718,
+      "caption": "Incendio riserva naturale (GRANDISSIMO)"
+    },
+    {
+      "id": 719,
+      "caption": "Incendio macchia mediterranea"
+    },
+    {
+      "id": 720,
+      "caption": "Incendio in vegetazione impervia (PICCOLO)"
+    },
+    {
+      "id": 721,
+      "caption": "Incendio in vegetazione impervia (MEDIO)"
+    },
+    {
+      "id": 722,
+      "caption": "Incendio in vegetazione impervia (GRANDE)"
+    },
+    {
+      "id": 723,
+      "caption": "Incendio in vegetazione impervia (GRANDISSIMO)"
+    },
+    {
+      "id": 724,
+      "caption": "Incendio in un parco"
+    },
+    {
+      "id": 725,
+      "caption": "Incendio boschivo con abitazioni coinvolte (MEDIO)"
+    },
+    {
+      "id": 726,
+      "caption": "Incendio boschivo con abitazioni coinvolte (GRANDE)"
+    },
+    {
+      "id": 727,
+      "caption": "Incendio boschivo con abitazioni coinvolte (GRANDISSIMO)"
     }
   ]
 }
