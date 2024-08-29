@@ -954,6 +954,10 @@
     {
       "id": 77,
       "caption": "Marked"
+    },
+    {
+      "id": 78,
+      "caption": "Hangar"
     }
   ],
   "available_icons": [
@@ -4473,6 +4477,22 @@
     {
       "id": 635,
       "caption": "Eksplosion af rørledning"
+    },
+    {
+      "id": 636,
+      "caption": "Ulykke med kano"
+    },
+    {
+      "id": 637,
+      "caption": "Brand i en vedligeholdelseshangar i en lufthavn"
+    },
+    {
+      "id": 638,
+      "caption": "Oversvømmet metrostation"
+    },
+    {
+      "id": 639,
+      "caption": "Politiassistance til at dirigere trafikken"
     }
   ]
 }
