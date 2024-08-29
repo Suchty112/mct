@@ -988,6 +988,10 @@
     {
       "id": 77,
       "caption": "Marknad"
+    },
+    {
+      "id": 78,
+      "caption": "Hangar"
     }
   ],
   "available_icons": [
@@ -4407,6 +4411,22 @@
     {
       "id": 610,
       "caption": "Explosion i rörledning"
+    },
+    {
+      "id": 611,
+      "caption": "Olycka med kanot"
+    },
+    {
+      "id": 612,
+      "caption": "Brand i en underhållshangar på en flygplats"
+    },
+    {
+      "id": 613,
+      "caption": "Översvämmad tunnelbanestation"
+    },
+    {
+      "id": 614,
+      "caption": "Polisassistans som dirigerar trafiken"
     }
   ]
 }
