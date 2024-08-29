@@ -963,6 +963,10 @@
     {
       "id": 77,
       "caption": "Pipeline"
+    },
+    {
+      "id": 78,
+      "caption": "Hangar"
     }
   ],
   "available_icons": [
@@ -4760,6 +4764,22 @@
     {
       "id": 715,
       "caption": "Release of chemical vapor in a factory"
+    },
+    {
+      "id": 716,
+      "caption": "Canoeing accident"
+    },
+    {
+      "id": 717,
+      "caption": "Airport maintenance hangar fire"
+    },
+    {
+      "id": 718,
+      "caption": "Flooded subway station"
+    },
+    {
+      "id": 719,
+      "caption": "Police assistance directing traffic"
     }
   ]
 }
