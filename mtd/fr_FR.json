@@ -5374,6 +5374,26 @@
     {
       "id": 787,
       "caption": "Violation de la sécurité à la piscine sportive"
+    },
+    {
+      "id": 788,
+      "caption": "Accident de canoë-kayak"
+    },
+    {
+      "id": 789,
+      "caption": "Explosion suivie d'un incendie sur un puits de pétrole"
+    },
+    {
+      "id": 790,
+      "caption": "Destruction d'un nid de guêpes dans un environnement sensible"
+    },
+    {
+      "id": 791,
+      "caption": "Incendie dans un hangar de maintenance dans un aéroport"
+    },
+    {
+      "id": 792,
+      "caption": "Station de métro inondé"
     }
   ]
 }
