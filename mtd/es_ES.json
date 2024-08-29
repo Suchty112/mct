@@ -1044,6 +1044,10 @@
     {
       "id": 76,
       "caption": "Mercado"
+    },
+    {
+      "id": 77,
+      "caption": "Hangar"
     }
   ],
   "available_icons": [
@@ -4419,6 +4423,22 @@
     {
       "id": 586,
       "caption": "Explosión de una tubería"
+    },
+    {
+      "id": 587,
+      "caption": "Accidente de piragüismo"
+    },
+    {
+      "id": 588,
+      "caption": "Incendio en un hangar de mantenimiento de un aeropuerto"
+    },
+    {
+      "id": 589,
+      "caption": "Estación de metro inundada"
+    },
+    {
+      "id": 590,
+      "caption": "Ayuda policial para dirigir el tráfico"
     }
   ]
 }
