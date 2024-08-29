@@ -1186,6 +1186,10 @@
     {
       "id": 84,
       "caption": "Market"
+    },
+    {
+      "id": 85,
+      "caption": "Hangar"
     }
   ],
   "available_icons": [
@@ -6299,6 +6303,50 @@
     {
       "id": 984,
       "caption": "Release of chemical vapor in a factory"
+    },
+    {
+      "id": 985,
+      "caption": "Canoeing accident"
+    },
+    {
+      "id": 986,
+      "caption": "Airport maintenance hangar fire"
+    },
+    {
+      "id": 987,
+      "caption": "Flooded subway station"
+    },
+    {
+      "id": 988,
+      "caption": "Police assistance directing traffic"
+    },
+    {
+      "id": 989,
+      "caption": "Safeguarding of musical parade"
+    },
+    {
+      "id": 990,
+      "caption": "BBQ on fire"
+    },
+    {
+      "id": 991,
+      "caption": "Capsized boat on lake"
+    },
+    {
+      "id": 992,
+      "caption": "Lost hiker in forest"
+    },
+    {
+      "id": 993,
+      "caption": "Sunstroke at camping side"
+    },
+    {
+      "id": 994,
+      "caption": "Picnic basket on fire"
+    },
+    {
+      "id": 995,
+      "caption": "Drunk driver after Labor Day party"
     }
   ]
 }
