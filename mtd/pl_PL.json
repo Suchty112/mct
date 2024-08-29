@@ -4950,6 +4950,22 @@
     {
       "id": 771,
       "caption": "Eksplozja rurociągu"
+    },
+    {
+      "id": 772,
+      "caption": "Wypadek na kajaku"
+    },
+    {
+      "id": 773,
+      "caption": "Powódź na placu budowy"
+    },
+    {
+      "id": 774,
+      "caption": "Zalana stacja metra"
+    },
+    {
+      "id": 775,
+      "caption": "Pomoc policji w kierowaniu ruchem"
     }
   ]
 }
