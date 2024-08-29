@@ -945,6 +945,10 @@
     {
       "id": 75,
       "caption": "Parque de diversões"
+    },
+    {
+      "id": 76,
+      "caption": "Hangar"
     }
   ],
   "available_icons": [
@@ -4320,6 +4324,22 @@
     {
       "id": 601,
       "caption": "Explosão de condutas"
+    },
+    {
+      "id": 602,
+      "caption": "Acidente de canoagem"
+    },
+    {
+      "id": 603,
+      "caption": "Incêndio num hangar de manutenção num aeroporto"
+    },
+    {
+      "id": 604,
+      "caption": "Estação de metro inundada"
+    },
+    {
+      "id": 605,
+      "caption": "Assistência policial na orientação do tráfego"
     }
   ]
 }
