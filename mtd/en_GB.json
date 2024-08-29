@@ -1113,6 +1113,10 @@
     {
       "id": 92,
       "caption": "Market"
+    },
+    {
+      "id": 93,
+      "caption": "Hangar"
     }
   ],
   "available_icons": [
@@ -1156,7 +1160,8 @@
     "cuffs",
     "glasses",
     "flood",
-    "stadium"
+    "stadium",
+    "river"
   ],
   "building_types": [
     {
@@ -5285,6 +5290,22 @@
     {
       "id": 717,
       "caption": "Pipeline Explosion"
+    },
+    {
+      "id": 718,
+      "caption": "Canoeing accident"
+    },
+    {
+      "id": 719,
+      "caption": "Airport maintenance hangar fire"
+    },
+    {
+      "id": 720,
+      "caption": "Flooded subway station"
+    },
+    {
+      "id": 721,
+      "caption": "Police assistance directing traffic"
     }
   ]
 }
