@@ -86,14 +86,9 @@
       "type": "Integer"
     },
     {
-      "key": "allow_rw_instead_of_lf",
-      "caption": "VSAT pode substituir o Veículo de Combate a Incêndios:",
-      "type": "Boolean"
-    },
-    {
-      "key": "allow_dlk_instead_of_lf",
-      "caption": "VP pode substituir o Veículo de Combate a Incêndios:",
-      "type": "Boolean"
+      "key": "need_oneof_fire_engine_or_rescue_or_ladder",
+      "caption": "Veículos de combate a incêndios, veículos de socorro e assistência tácticos ou veículos-escada necessários",
+      "type": "Integer"
     },
     {
       "key": "date_start",
@@ -108,6 +103,11 @@
     {
       "key": "need_elw1_chance",
       "caption": "Probabilidade de requerer um Veículo de Comando Tático",
+      "type": "Integer"
+    },
+    {
+      "key": "need_oneof_fire_engine_or_rescue",
+      "caption": "Veículos de combate a incêndios ou veículos de socorro e assistência tácticos necessários",
       "type": "Integer"
     },
     {
