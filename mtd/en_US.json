@@ -41,6 +41,11 @@
       "type": "Integer"
     },
     {
+      "key": "mission_generation_types",
+      "caption": "Mission Type",
+      "type": "Set"
+    },
+    {
       "key": "filter_id",
       "caption": null,
       "type": "String"
@@ -49,11 +54,6 @@
       "key": "award",
       "caption": null,
       "type": "Unknown"
-    },
-    {
-      "key": "mission_generation_types",
-      "caption": "Mission Type",
-      "type": "Set"
     },
     {
       "key": "expansion_missions",
