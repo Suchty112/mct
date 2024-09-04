@@ -86,14 +86,9 @@
       "type": "Integer"
     },
     {
-      "key": "allow_rw_instead_of_lf",
-      "caption": "Lastväxlare kan användas istället för Brandbil",
-      "type": "Boolean"
-    },
-    {
-      "key": "allow_dlk_instead_of_lf",
-      "caption": "Lastväxlare kan användas istället för Brandbil",
-      "type": "Boolean"
+      "key": "need_oneof_fire_engine_or_rescue_or_ladder",
+      "caption": "Nödvändiga brandbilar, tunga räddningsfordon eller plattformstruckar",
+      "type": "Integer"
     },
     {
       "key": "need_elw1",
@@ -158,6 +153,11 @@
     {
       "key": "need_gwgefahrgut",
       "caption": "Nödvändiga Kemskyddsenhet",
+      "type": "Integer"
+    },
+    {
+      "key": "need_oneof_fire_engine_or_rescue",
+      "caption": "Nödvändiga brandbilar eller tunga räddningsfordon",
       "type": "Integer"
     },
     {
@@ -486,9 +486,9 @@
       "type": "Integer"
     },
     {
-      "key": "allow_swat_instead_of_police",
-      "caption": "Insatsfordon kan användas istället för Polis",
-      "type": "Boolean"
+      "key": "need_oneof_police_patrol_or_swat",
+      "caption": "Növändiga polisbilar eller utryckningsfordon",
+      "type": "Integer"
     },
     {
       "key": "nef_need_quote",
@@ -531,9 +531,9 @@
       "type": "Integer"
     },
     {
-      "key": "allow_traffic_car_instead_of_fustw",
-      "caption": "Traffic car can replace Police car",
-      "type": "Boolean"
+      "key": "need_oneof_police_patrol_or_traffic_control",
+      "caption": "Nödvändiga polisbilar eller trafikpolisbilar",
+      "type": "Integer"
     },
     {
       "key": "ocean_value",
@@ -606,9 +606,9 @@
       "type": "Integer"
     },
     {
-      "key": "allow_piercing_nozzle_instead_of_arff",
-      "caption": "Vattenskärare kan användas istället för Haveribil",
-      "type": "Boolean"
+      "key": "need_oneof_airport_fire_engine_large_or_piercing_nozzle",
+      "caption": "Növändiga haverbilar eller vattenskärare",
+      "type": "Integer"
     },
     {
       "key": "need_riv",
@@ -674,6 +674,11 @@
       "key": "critical_transport_value",
       "caption": null,
       "type": "Integer"
+    },
+    {
+      "key": "allow_piercing_nozzle_instead_of_arff",
+      "caption": "Vattenskärare kan användas istället för Haveribil",
+      "type": "Boolean"
     }
   ],
   "pois": [
