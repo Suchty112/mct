@@ -2023,6 +2023,11 @@
       "id": 86,
       "caption": "Desafío de la Alianza Agosto de 2024",
       "key": "AWARD_ALLIANCE_CHALLENGE_AUG_2024"
+    },
+    {
+      "id": 87,
+      "caption": "Desafío de la Alianza Septiembre de 2024",
+      "key": "AWARD_ALLIANCE_CHALLENGE_SEP_2024"
     }
   ],
   "filter_types": [
