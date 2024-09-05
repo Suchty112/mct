@@ -116,6 +116,11 @@
       "type": "Unknown"
     },
     {
+      "key": "date_start",
+      "caption": "Start datum",
+      "type": "Datetime"
+    },
+    {
       "key": "need_oneof_fire_engine_or_rescue",
       "caption": "Benodigde tankautospuiten of hulpverleningsvoertuigen",
       "type": "Integer"
@@ -319,11 +324,6 @@
       "key": "possible_prisoner",
       "caption": "Maximaal aantal gevangenen",
       "type": "Integer"
-    },
-    {
-      "key": "date_start",
-      "caption": "Start datum",
-      "type": "Datetime"
     },
     {
       "key": "bereitschaftspolizei_count",
@@ -2053,6 +2053,11 @@
       "id": 106,
       "caption": "Alliantie Uitdaging Augustus 2024",
       "key": "AWARD_ALLIANCE_CHALLENGE_AUG_2024"
+    },
+    {
+      "id": 107,
+      "caption": "Alliantie Uitdaging September 2024",
+      "key": "AWARD_ALLIANCE_CHALLENGE_SEP_2024"
     }
   ],
   "filter_types": [
