@@ -2373,6 +2373,11 @@
       "id": 105,
       "caption": "Verbands-Herausforderung August 2024",
       "key": "AWARD_ALLIANCE_CHALLENGE_AUG_2024"
+    },
+    {
+      "id": 106,
+      "caption": "Verbands-Herausforderung September 2024",
+      "key": "AWARD_ALLIANCE_CHALLENGE_SEP_2024"
     }
   ],
   "filter_types": [
