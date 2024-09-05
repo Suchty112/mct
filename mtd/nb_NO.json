@@ -2023,6 +2023,11 @@
       "id": 82,
       "caption": "Alliance Challenge August 2024",
       "key": "AWARD_ALLIANCE_CHALLENGE_AUG_2024"
+    },
+    {
+      "id": 83,
+      "caption": "Alliance Challenge september 2024",
+      "key": "AWARD_ALLIANCE_CHALLENGE_SEP_2024"
     }
   ],
   "filter_types": [
