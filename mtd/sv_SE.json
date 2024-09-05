@@ -674,11 +674,6 @@
       "key": "critical_transport_value",
       "caption": null,
       "type": "Integer"
-    },
-    {
-      "key": "allow_piercing_nozzle_instead_of_arff",
-      "caption": "Vattenskärare kan användas istället för Haveribil",
-      "type": "Boolean"
     }
   ],
   "pois": [
@@ -1920,6 +1915,11 @@
       "id": 86,
       "caption": "Alliansutmaning augusti 2024",
       "key": "AWARD_ALLIANCE_CHALLENGE_AUG_2024"
+    },
+    {
+      "id": 87,
+      "caption": "Alliansutmaning september 2024",
+      "key": "AWARD_ALLIANCE_CHALLENGE_SEP_2024"
     }
   ],
   "filter_types": [
