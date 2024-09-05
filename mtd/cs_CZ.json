@@ -1984,6 +1984,11 @@
       "id": 92,
       "caption": "Alianční výzva srpen 2024",
       "key": "AWARD_ALLIANCE_CHALLENGE_AUG_2024"
+    },
+    {
+      "id": 93,
+      "caption": "Alianční výzva září 2024",
+      "key": "AWARD_ALLIANCE_CHALLENGE_SEP_2024"
     }
   ],
   "filter_types": [
