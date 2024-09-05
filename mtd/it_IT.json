@@ -2101,6 +2101,11 @@
       "id": 91,
       "caption": "Sfida dell'Alleanza Agosto 2024",
       "key": "AWARD_ALLIANCE_CHALLENGE_AUG_2024"
+    },
+    {
+      "id": 92,
+      "caption": "Sfida dell'Alleanza settembre 2024",
+      "key": "AWARD_ALLIANCE_CHALLENGE_SEP_2024"
     }
   ],
   "filter_types": [
