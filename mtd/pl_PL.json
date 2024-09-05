@@ -1810,6 +1810,11 @@
       "id": 89,
       "caption": "Wyzwanie sojuszu sierpień 2024 r.",
       "key": "AWARD_ALLIANCE_CHALLENGE_AUG_2024"
+    },
+    {
+      "id": 90,
+      "caption": "Alliance Challenge, wrzesień 2024 r.",
+      "key": "AWARD_ALLIANCE_CHALLENGE_SEP_2024"
     }
   ],
   "filter_types": [
