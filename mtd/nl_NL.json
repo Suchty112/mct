@@ -116,14 +116,9 @@
       "type": "Unknown"
     },
     {
-      "key": "date_start",
-      "caption": "Start datum",
-      "type": "Datetime"
-    },
-    {
-      "key": "need_oneof_fire_engine_or_rescue",
-      "caption": "Benodigde tankautospuiten of hulpverleningsvoertuigen",
-      "type": "Integer"
+      "key": "allow_rw_instead_of_lf",
+      "caption": "HV kan worden ingezet als Tankautospuiten",
+      "type": "Boolean"
     },
     {
       "key": "alternate_value_overlay_requirements",
@@ -311,6 +306,11 @@
       "type": "Integer"
     },
     {
+      "key": "need_oneof_fire_engine_or_rescue",
+      "caption": "Benodigde tankautospuiten of hulpverleningsvoertuigen",
+      "type": "Integer"
+    },
+    {
       "key": "patient_modus",
       "caption": null,
       "type": "Integer"
@@ -324,6 +324,11 @@
       "key": "possible_prisoner",
       "caption": "Maximaal aantal gevangenen",
       "type": "Integer"
+    },
+    {
+      "key": "date_start",
+      "caption": "Start datum",
+      "type": "Datetime"
     },
     {
       "key": "bereitschaftspolizei_count",
@@ -619,11 +624,6 @@
       "key": "airport_count",
       "caption": "Benodigde Vliegtuigbrandbestrijding uitbreidingen",
       "type": "Integer"
-    },
-    {
-      "key": "allow_rw_instead_of_lf",
-      "caption": "HV kan worden ingezet als Tankautospuiten",
-      "type": "Boolean"
     },
     {
       "key": "allow_arff_instead_of_lf",
