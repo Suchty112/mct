@@ -1783,6 +1783,11 @@
       "id": 87,
       "caption": "Allianssin haaste huhtikuu 2024",
       "key": "AWARD_ALLIANCE_CHALLENGE_SEP_2024"
+    },
+    {
+      "id": 88,
+      "caption": "Syksyn virkamatkat 2024",
+      "key": "AWARD_AUTUMN_MISSIONS_2024"
     }
   ],
   "filter_types": [
