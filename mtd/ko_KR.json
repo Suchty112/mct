@@ -1784,6 +1784,11 @@
       "id": 79,
       "caption": "얼라이언스 챌린지 2024년 9월",
       "key": "AWARD_ALLIANCE_CHALLENGE_SEP_2024"
+    },
+    {
+      "id": 80,
+      "caption": "가을 임무 2024",
+      "key": "AWARD_AUTUMN_MISSIONS_2024"
     }
   ],
   "filter_types": [
