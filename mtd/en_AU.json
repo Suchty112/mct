@@ -1853,6 +1853,16 @@
       "id": 86,
       "caption": "Alliance Challenge September 2024",
       "key": "AWARD_ALLIANCE_CHALLENGE_SEP_2024"
+    },
+    {
+      "id": 87,
+      "caption": "5th Anniversary",
+      "key": "AWARD_FIVE_YEARS"
+    },
+    {
+      "id": 88,
+      "caption": "Spring Missions 2024",
+      "key": "AWARD_SPRING_MISSIONS_2024"
     }
   ],
   "filter_types": [
