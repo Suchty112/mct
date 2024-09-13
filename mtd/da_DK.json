@@ -1886,6 +1886,11 @@
       "id": 94,
       "caption": "Alliancens udfordring september 2024",
       "key": "AWARD_ALLIANCE_CHALLENGE_SEP_2024"
+    },
+    {
+      "id": 95,
+      "caption": "Efterårsmissioner 2024",
+      "key": "AWARD_AUTUMN_MISSIONS_2024"
     }
   ],
   "filter_types": [
