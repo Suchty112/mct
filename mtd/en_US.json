@@ -2316,6 +2316,11 @@
       "id": 89,
       "caption": "Alliance Challenge September 2024",
       "key": "AWARD_ALLIANCE_CHALLENGE_SEP_2024"
+    },
+    {
+      "id": 90,
+      "caption": "Fall Missions 2024",
+      "key": "AWARD_AUTUMN_MISSIONS_2024"
     }
   ],
   "filter_types": [
