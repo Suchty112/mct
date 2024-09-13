@@ -152,7 +152,12 @@
     },
     {
       "key": "additional_personnel_counts",
-      "caption": null,
+      "caption": {
+        "ambulance": "oder Rettungsdienstler",
+        "fire": "oder Feuerwehrleute",
+        "police": "oder Polizisten",
+        "thw": "oder THWler"
+      },
       "type": "Unknown"
     },
     {
@@ -2378,6 +2383,11 @@
       "id": 106,
       "caption": "Verbands-Herausforderung September 2024",
       "key": "AWARD_ALLIANCE_CHALLENGE_SEP_2024"
+    },
+    {
+      "id": 107,
+      "caption": "Herbstevent Einsätze 2024",
+      "key": "AWARD_AUTUMN_MISSIONS_2024"
     }
   ],
   "filter_types": [
