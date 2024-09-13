@@ -2058,6 +2058,11 @@
       "id": 107,
       "caption": "Alliantie Uitdaging September 2024",
       "key": "AWARD_ALLIANCE_CHALLENGE_SEP_2024"
+    },
+    {
+      "id": 108,
+      "caption": "Herfstevenement 2024",
+      "key": "AWARD_AUTUMN_MISSIONS_2024"
     }
   ],
   "filter_types": [
