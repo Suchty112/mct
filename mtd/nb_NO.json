@@ -729,6 +729,36 @@
       "key": "need_decontamination_personnel",
       "caption": "Nødvendige Mobil renseenhet",
       "type": "Integer"
+    },
+    {
+      "key": "search_and_rescue_count",
+      "caption": "Påkrevd USAR Utvidelse",
+      "type": "Integer"
+    },
+    {
+      "key": "technical_aid_dogs_count",
+      "caption": "Påkrevd Redningshunder utvidelse",
+      "type": "Integer"
+    },
+    {
+      "key": "need_search_and_rescue",
+      "caption": "Påkrevd USAR Enhet",
+      "type": "Integer"
+    },
+    {
+      "key": "need_technical_aid_dogs",
+      "caption": "Påkrevd Redningshunder",
+      "type": "Integer"
+    },
+    {
+      "key": "police_service_group_leader_count",
+      "caption": "Påkrevd Innsatsleder Politi utvidelse",
+      "type": "Integer"
+    },
+    {
+      "key": "need_police_service_group_leader",
+      "caption": "Påkrevd Innsatsleder Politi",
+      "type": "Integer"
     }
   ],
   "pois": [
@@ -1614,6 +1644,18 @@
         {
           "id": 2,
           "caption": "MRE Utvidelse"
+        },
+        {
+          "id": 3,
+          "caption": "USAR"
+        },
+        {
+          "id": 4,
+          "caption": "Redningshunder"
+        },
+        {
+          "id": 5,
+          "caption": "Frivillige redningsorganisasjoner"
         }
       ]
     }
@@ -4629,6 +4671,30 @@
     {
       "id": 635,
       "caption": "Politiassistanse ved dirigering av trafikk"
+    },
+    {
+      "id": 636,
+      "caption": "Savnet person i et åpent område"
+    },
+    {
+      "id": 637,
+      "caption": "Sammenrast tak på bygning"
+    },
+    {
+      "id": 638,
+      "caption": "Sammenrast butikktak"
+    },
+    {
+      "id": 639,
+      "caption": "Fortapt i skogen"
+    },
+    {
+      "id": 640,
+      "caption": "Leter etter en kriminell"
+    },
+    {
+      "id": 641,
+      "caption": "Person fanget i silo"
     }
   ]
 }
