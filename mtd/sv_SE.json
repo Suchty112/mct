@@ -4437,6 +4437,14 @@
     {
       "id": 614,
       "caption": "Polisassistans som dirigerar trafiken"
+    },
+    {
+      "id": 615,
+      "caption": "Anställd instängd i mejeriets frys"
+    },
+    {
+      "id": 616,
+      "caption": "Anställd instängd i kartonghanterare"
     }
   ]
 }
