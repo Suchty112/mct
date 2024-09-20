@@ -4976,6 +4976,14 @@
     {
       "id": 775,
       "caption": "Pomoc policji w kierowaniu ruchem"
+    },
+    {
+      "id": 776,
+      "caption": "Pracownik uwięziony w zamrażarce mleczarni"
+    },
+    {
+      "id": 777,
+      "caption": "Pracownik uwięziony w tekturowym bailerze"
     }
   ]
 }
