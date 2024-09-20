@@ -1141,6 +1141,10 @@
     {
       "id": 74,
       "caption": "Marché"
+    },
+    {
+      "id": 75,
+      "caption": "Workshop Atelier"
     }
   ],
   "available_icons": [
@@ -5404,6 +5408,10 @@
     {
       "id": 792,
       "caption": "Station de métro inondé"
+    },
+    {
+      "id": 793,
+      "caption": "Explosion dans un atelier d’encartouchage d’une dynamiterie"
     }
   ]
 }
