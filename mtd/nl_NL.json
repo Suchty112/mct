@@ -721,6 +721,16 @@
       "type": "Boolean"
     },
     {
+      "key": "traffic_police_count",
+      "caption": "LE Uitbreidingen",
+      "type": "Integer"
+    },
+    {
+      "key": "need_traffic_patrol",
+      "caption": "Benodigde SIV-P of DM-P",
+      "type": "Integer"
+    },
+    {
       "key": "need_police_horse_chance",
       "caption": "Bereden Brigade benodigd waarschijnlijkheid",
       "type": "Integer"
@@ -753,6 +763,36 @@
     {
       "key": "critical_transport_value",
       "caption": null,
+      "type": "Integer"
+    },
+    {
+      "key": "disaster_response_count",
+      "caption": "STH Uitbreidingen",
+      "type": "Integer"
+    },
+    {
+      "key": "search_and_rescue_count",
+      "caption": "USAR Uitbreidingen",
+      "type": "Integer"
+    },
+    {
+      "key": "need_disaster_response_equipment",
+      "caption": "Benodigde HVH-STH",
+      "type": "Integer"
+    },
+    {
+      "key": "need_search_and_rescue_equipment",
+      "caption": "Benodigde VW-USAR",
+      "type": "Integer"
+    },
+    {
+      "key": "need_rescue_dog_units",
+      "caption": "Benodigde DB–Speurhonden",
+      "type": "Integer"
+    },
+    {
+      "key": "need_search_and_rescue",
+      "caption": "Benodigde dienstvoertuigen USAR",
       "type": "Integer"
     }
   ],
@@ -6531,6 +6571,10 @@
     {
       "id": 1103,
       "caption": "Interfacilitair Transport"
+    },
+    {
+      "id": 1104,
+      "caption": "Aanrijding trein & betonmixer"
     }
   ]
 }
