@@ -488,7 +488,7 @@
     {
       "key": "probability_modifier",
       "caption": null,
-      "type": "Unknown"
+      "type": "Integer"
     },
     {
       "key": "possible_prisoner_min",
