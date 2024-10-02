@@ -11,6 +11,11 @@
       "type": "String"
     },
     {
+      "key": "mission_generation_types",
+      "caption": "Catégories de mission",
+      "type": "Set"
+    },
+    {
       "key": "fire_value",
       "caption": null,
       "type": "Integer"
@@ -194,11 +199,6 @@
       "key": "need_oneof_fire_engine_or_rescue",
       "caption": "Fourgons d’incendie ou véhicules de secours routier requis",
       "type": "Integer"
-    },
-    {
-      "key": "mission_generation_types",
-      "caption": "Catégories de mission",
-      "type": "Set"
     },
     {
       "key": "possible_patient_min",
