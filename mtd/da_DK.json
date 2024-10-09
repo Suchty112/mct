@@ -1891,6 +1891,11 @@
       "id": 95,
       "caption": "Efterårsmissioner 2024",
       "key": "AWARD_AUTUMN_MISSIONS_2024"
+    },
+    {
+      "id": 96,
+      "caption": "Alliancens udfordring Oktober 2024",
+      "key": "AWARD_ALLIANCE_CHALLENGE_OCT_2024"
     }
   ],
   "filter_types": [
@@ -4510,7 +4515,7 @@
     },
     {
       "id": 641,
-      "caption": "Medarbejder fanget i papkasse"
+      "caption": "Person fastklemt i pap pressemaskine"
     }
   ]
 }
