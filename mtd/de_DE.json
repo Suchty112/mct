@@ -2388,6 +2388,11 @@
       "id": 107,
       "caption": "Herbstevent Einsätze 2024",
       "key": "AWARD_AUTUMN_MISSIONS_2024"
+    },
+    {
+      "id": 108,
+      "caption": "Verbands-Herausforderung Oktober 2024",
+      "key": "AWARD_ALLIANCE_CHALLENGE_OCT_2024"
     }
   ],
   "filter_types": [
