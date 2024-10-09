@@ -1820,6 +1820,11 @@
       "id": 91,
       "caption": "Jesienne misje 2024",
       "key": "AWARD_AUTUMN_MISSIONS_2024"
+    },
+    {
+      "id": 92,
+      "caption": "Alliance Challenge, Październik 2024 r.",
+      "key": "AWARD_ALLIANCE_CHALLENGE_OCT_2024"
     }
   ],
   "filter_types": [
