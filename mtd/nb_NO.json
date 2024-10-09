@@ -2075,6 +2075,11 @@
       "id": 84,
       "caption": "Høstens oppdrag 2024",
       "key": "AWARD_AUTUMN_MISSIONS_2024"
+    },
+    {
+      "id": 85,
+      "caption": "Alliance Challenge Oktober 2024",
+      "key": "AWARD_ALLIANCE_CHALLENGE_OCT_2024"
     }
   ],
   "filter_types": [
