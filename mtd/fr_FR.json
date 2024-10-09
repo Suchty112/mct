@@ -2184,6 +2184,11 @@
       "id": 92,
       "caption": "Missions d'automne 2024",
       "key": "AWARD_AUTUMN_MISSIONS_2024"
+    },
+    {
+      "id": 93,
+      "caption": "Défi de l'Alliance Octobre 2024",
+      "key": "AWARD_ALLIANCE_CHALLENGE_OCT_2024"
     }
   ],
   "filter_types": [
