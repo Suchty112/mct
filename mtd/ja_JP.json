@@ -1809,6 +1809,11 @@
       "id": 85,
       "caption": "2024年秋のミッション",
       "key": "AWARD_AUTUMN_MISSIONS_2024"
+    },
+    {
+      "id": 86,
+      "caption": "アライアンス・チャレンジ 2024年10月",
+      "key": "AWARD_ALLIANCE_CHALLENGE_OCT_2024"
     }
   ],
   "filter_types": [
