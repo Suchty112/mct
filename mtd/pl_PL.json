@@ -1825,6 +1825,11 @@
       "id": 92,
       "caption": "Alliance Challenge, Październik 2024 r.",
       "key": "AWARD_ALLIANCE_CHALLENGE_OCT_2024"
+    },
+    {
+      "id": 93,
+      "caption": "Halloween 2024",
+      "key": "AWARD_HALLOWEEN_2024"
     }
   ],
   "filter_types": [
