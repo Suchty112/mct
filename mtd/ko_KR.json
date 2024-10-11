@@ -1794,6 +1794,11 @@
       "id": 81,
       "caption": "얼라이언스 챌린지 2024년 10월",
       "key": "AWARD_ALLIANCE_CHALLENGE_OCT_2024"
+    },
+    {
+      "id": 82,
+      "caption": "2024년 할로윈",
+      "key": "AWARD_HALLOWEEN_2024"
     }
   ],
   "filter_types": [
