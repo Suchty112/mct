@@ -1793,6 +1793,11 @@
       "id": 89,
       "caption": "Allianssin haaste Lokakuu 2024",
       "key": "AWARD_ALLIANCE_CHALLENGE_OCT_2024"
+    },
+    {
+      "id": 90,
+      "caption": "Halloween 2024",
+      "key": "AWARD_HALLOWEEN_2024"
     }
   ],
   "filter_types": [
