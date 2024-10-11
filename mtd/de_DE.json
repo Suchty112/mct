@@ -2393,6 +2393,11 @@
       "id": 108,
       "caption": "Verbands-Herausforderung Oktober 2024",
       "key": "AWARD_ALLIANCE_CHALLENGE_OCT_2024"
+    },
+    {
+      "id": 109,
+      "caption": "Halloween 2024",
+      "key": "AWARD_HALLOWEEN_2024"
     }
   ],
   "filter_types": [
