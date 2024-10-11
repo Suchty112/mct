@@ -1814,6 +1814,11 @@
       "id": 86,
       "caption": "アライアンス・チャレンジ 2024年10月",
       "key": "AWARD_ALLIANCE_CHALLENGE_OCT_2024"
+    },
+    {
+      "id": 87,
+      "caption": "2024年のハロウィーン",
+      "key": "AWARD_HALLOWEEN_2024"
     }
   ],
   "filter_types": [
