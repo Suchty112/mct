@@ -2080,6 +2080,11 @@
       "id": 85,
       "caption": "Alliance Challenge Oktober 2024",
       "key": "AWARD_ALLIANCE_CHALLENGE_OCT_2024"
+    },
+    {
+      "id": 86,
+      "caption": "Halloween 2024",
+      "key": "AWARD_HALLOWEEN_2024"
     }
   ],
   "filter_types": [
@@ -4707,7 +4712,7 @@
     },
     {
       "id": 643,
-      "caption": "Ansatt fanget i pappkoker"
+      "caption": "Ansatt fanget i papppresse"
     }
   ]
 }
