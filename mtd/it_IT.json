@@ -2121,6 +2121,11 @@
       "id": 95,
       "caption": "Halloween 2024",
       "key": "AWARD_HALLOWEEN_2024"
+    },
+    {
+      "id": 96,
+      "caption": "Zucche trovate 2024",
+      "key": "AWARD_HALLOWEEN_HUNT_2024"
     }
   ],
   "filter_types": [
@@ -5085,6 +5090,58 @@
     {
       "id": 727,
       "caption": "Incendio boschivo con abitazioni coinvolte (GRANDISSIMO)"
+    },
+    {
+      "id": 728,
+      "caption": "Incendio in un ospedale abbandonato"
+    },
+    {
+      "id": 729,
+      "caption": "Incendio in una fabbrica di batterie al litio"
+    },
+    {
+      "id": 730,
+      "caption": "Lacerazione alla mano causata da un'affettatrice malfunzionante"
+    },
+    {
+      "id": 731,
+      "caption": "Esplosione di un forno in un supermercato"
+    },
+    {
+      "id": 732,
+      "caption": "Macellaio ferito da un malfunzionamento della sega a nastro"
+    },
+    {
+      "id": 733,
+      "caption": "Dipendente scivolato su un salmone caduto"
+    },
+    {
+      "id": 734,
+      "caption": "Mano trafitta da osso di pesce gatto affilato"
+    },
+    {
+      "id": 735,
+      "caption": "Ustioni causate da malfunzionamento della macchina per la cottura a vapore dei frutti di mare"
+    },
+    {
+      "id": 736,
+      "caption": "Piede schiacciato a causa del ribaltamento del carrello dei prodotti alimentari"
+    },
+    {
+      "id": 737,
+      "caption": "Cliente gravemente costipato nella toilette del supermercato"
+    },
+    {
+      "id": 738,
+      "caption": "Rissa tra cassieri nella sala relax"
+    },
+    {
+      "id": 739,
+      "caption": "Gruppo di vagabondi squarcia le gomme di un'auto nel parcheggio"
+    },
+    {
+      "id": 740,
+      "caption": "Dipendente licenziato versa prodotti chimici per la pulizia"
     }
   ]
 }
