@@ -2043,6 +2043,11 @@
       "id": 90,
       "caption": "Halloween 2024",
       "key": "AWARD_HALLOWEEN_2024"
+    },
+    {
+      "id": 91,
+      "caption": "Calabazas encontradas 2024",
+      "key": "AWARD_HALLOWEEN_HUNT_2024"
     }
   ],
   "filter_types": [
@@ -4467,6 +4472,58 @@
     {
       "id": 592,
       "caption": "Empleado Atrapado en Embaladora de Cartón"
+    },
+    {
+      "id": 593,
+      "caption": "Incendio en un hospital abandonado"
+    },
+    {
+      "id": 594,
+      "caption": "Incendio en una fábrica de baterías de litio"
+    },
+    {
+      "id": 595,
+      "caption": "Laceración en la mano causada por un mal funcionamiento de una cortadora de carne"
+    },
+    {
+      "id": 596,
+      "caption": "Explosión de un horno de panadería en un supermercado"
+    },
+    {
+      "id": 597,
+      "caption": "Un carnicero herido por el mal funcionamiento de una sierra de cinta"
+    },
+    {
+      "id": 598,
+      "caption": "Empleado resbala con salmón caído"
+    },
+    {
+      "id": 599,
+      "caption": "Mano perforada por hueso afilado de siluro"
+    },
+    {
+      "id": 600,
+      "caption": "Quemaduras causadas por el mal funcionamiento de un vaporizador de marisco"
+    },
+    {
+      "id": 601,
+      "caption": "Pie aplastado por vuelco de carro de verduras"
+    },
+    {
+      "id": 602,
+      "caption": "Cliente gravemente estreñido en el baño del supermercado"
+    },
+    {
+      "id": 603,
+      "caption": "Pelea entre cajeras en la sala de descanso"
+    },
+    {
+      "id": 604,
+      "caption": "Un grupo de vagabundos raja las ruedas de un coche en el aparcamiento"
+    },
+    {
+      "id": 605,
+      "caption": "Empleado despedido derrama productos químicos de limpieza"
     }
   ]
 }
