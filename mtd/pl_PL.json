@@ -1830,6 +1830,11 @@
       "id": 93,
       "caption": "Halloween 2024",
       "key": "AWARD_HALLOWEEN_2024"
+    },
+    {
+      "id": 94,
+      "caption": "Znalezione dynie 2024",
+      "key": "AWARD_HALLOWEEN_HUNT_2024"
     }
   ],
   "filter_types": [
@@ -4994,6 +4999,58 @@
     {
       "id": 777,
       "caption": "Pracownik uwięziony w belownicy do tektury"
+    },
+    {
+      "id": 778,
+      "caption": "Pożar w opuszczonym szpitalu"
+    },
+    {
+      "id": 779,
+      "caption": "Pożar w fabryce produkującej baterie litowe"
+    },
+    {
+      "id": 780,
+      "caption": "Rana szarpana dłoni spowodowana nieprawidłowym działaniem krajalnicy do mięsa"
+    },
+    {
+      "id": 781,
+      "caption": "Eksplozja pieca piekarniczego w supermarkecie"
+    },
+    {
+      "id": 782,
+      "caption": "Rzeźnik ranny w wyniku awarii piły taśmowej"
+    },
+    {
+      "id": 783,
+      "caption": "Pracownik poślizgnął się na upuszczonym łososiu"
+    },
+    {
+      "id": 784,
+      "caption": "Ręka przebita ostrą kością suma"
+    },
+    {
+      "id": 785,
+      "caption": "Poparzenia spowodowane awarią parowaru do owoców morza"
+    },
+    {
+      "id": 786,
+      "caption": "Zmiażdżona stopa w wyniku przewrócenia się wózka z produktami"
+    },
+    {
+      "id": 787,
+      "caption": "Klient z poważnymi zaparciami w toalecie supermarketu"
+    },
+    {
+      "id": 788,
+      "caption": "Bójka kasjerów w pokoju socjalnym"
+    },
+    {
+      "id": 789,
+      "caption": "Grupa włóczęgów rozcięła opony na parkingu"
+    },
+    {
+      "id": 790,
+      "caption": "Zwolniony pracownik rozlewa środki czyszczące"
     }
   ]
 }
