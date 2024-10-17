@@ -2085,6 +2085,11 @@
       "id": 86,
       "caption": "Halloween 2024",
       "key": "AWARD_HALLOWEEN_2024"
+    },
+    {
+      "id": 87,
+      "caption": "Gresskar funnet 2024",
+      "key": "AWARD_HALLOWEEN_HUNT_2024"
     }
   ],
   "filter_types": [
@@ -4713,6 +4718,58 @@
     {
       "id": 643,
       "caption": "Ansatt fanget i papppresse"
+    },
+    {
+      "id": 644,
+      "caption": "Brann i et nedlagt sykehus"
+    },
+    {
+      "id": 645,
+      "caption": "Brann i en fabrikk som produserer litiumbatterier"
+    },
+    {
+      "id": 646,
+      "caption": "Flengesår i hånden forårsaket av en defekt kjøttskjæremaskin"
+    },
+    {
+      "id": 647,
+      "caption": "Eksplosjon i bakerovn i supermarked"
+    },
+    {
+      "id": 648,
+      "caption": "Slakter skadet av feil på båndsagmaskin"
+    },
+    {
+      "id": 649,
+      "caption": "Ansatt skled på laks som falt ned"
+    },
+    {
+      "id": 650,
+      "caption": "Hånd gjennomboret av skarpt steinbitbein"
+    },
+    {
+      "id": 651,
+      "caption": "Brannsår forårsaket av funksjonsfeil i dampbåt for sjømat"
+    },
+    {
+      "id": 652,
+      "caption": "Knust fot forårsaket av at frukt- og grøntvogn tippet over"
+    },
+    {
+      "id": 653,
+      "caption": "Kunde fikk alvorlig forstoppelse på toalettet i supermarked"
+    },
+    {
+      "id": 654,
+      "caption": "Kassererslagsmål i pauserommet"
+    },
+    {
+      "id": 655,
+      "caption": "En gruppe omstreifere skjærer opp bildekk på parkeringsplass"
+    },
+    {
+      "id": 656,
+      "caption": "Avskjediget ansatt søler rengjøringskjemikalier"
     }
   ]
 }
