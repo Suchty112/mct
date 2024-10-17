@@ -2194,6 +2194,11 @@
       "id": 94,
       "caption": "Halloween 2024",
       "key": "AWARD_HALLOWEEN_2024"
+    },
+    {
+      "id": 95,
+      "caption": "Citrouilles trouvées 2024",
+      "key": "AWARD_HALLOWEEN_HUNT_2024"
     }
   ],
   "filter_types": [
@@ -5422,6 +5427,38 @@
     {
       "id": 793,
       "caption": "Explosion dans un atelier d’encartouchage d’une dynamiterie"
+    },
+    {
+      "id": 794,
+      "caption": "Perquisition dans un camp de gens du voyage"
+    },
+    {
+      "id": 795,
+      "caption": "Incendie dans un hôpital désaffecté"
+    },
+    {
+      "id": 796,
+      "caption": "Collision entre deux tramway"
+    },
+    {
+      "id": 797,
+      "caption": "Prises d'otages dans une mairie"
+    },
+    {
+      "id": 798,
+      "caption": "Incendie dans un fast-food"
+    },
+    {
+      "id": 799,
+      "caption": "Feu dans un bâtiment d’expédition de marchandises"
+    },
+    {
+      "id": 800,
+      "caption": "Plaie par Arme Blanche"
+    },
+    {
+      "id": 801,
+      "caption": "Accident entre un bus et un tramway"
     }
   ]
 }
