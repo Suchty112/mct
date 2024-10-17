@@ -1798,6 +1798,11 @@
       "id": 90,
       "caption": "Halloween 2024",
       "key": "AWARD_HALLOWEEN_2024"
+    },
+    {
+      "id": 91,
+      "caption": "Löydetyt kurpitsat 2024",
+      "key": "AWARD_HALLOWEEN_HUNT_2024"
     }
   ],
   "filter_types": [
@@ -4386,6 +4391,58 @@
     {
       "id": 633,
       "caption": "486 Työntekijä jäänyt loukkuun pahvilaatikkoon"
+    },
+    {
+      "id": 634,
+      "caption": "402 Tulipalo hylätyssä sairaalassa"
+    },
+    {
+      "id": 635,
+      "caption": "452 Tulipalo litiumparistoja valmistavassa tehtaassa"
+    },
+    {
+      "id": 636,
+      "caption": "744 Toimintahäiriöinen lihanleikkuri aiheutti käsivamman"
+    },
+    {
+      "id": 637,
+      "caption": "443 Leipomouunin räjähdys supermarketissa"
+    },
+    {
+      "id": 638,
+      "caption": "744 Teurastaja loukkaantui vannesahakoneen toimintahäiriön vuoksi."
+    },
+    {
+      "id": 639,
+      "caption": "747 Työntekijä liukastui pudonneen lohen päälle"
+    },
+    {
+      "id": 640,
+      "caption": "770 Terävä kissakalan luu lävisti käden"
+    },
+    {
+      "id": 641,
+      "caption": "754 Merenelävien höyrystimen toimintahäiriö aiheutti palovammoja"
+    },
+    {
+      "id": 642,
+      "caption": "747 Tuotekärryn kaatuminen aiheutti jalkamurskan"
+    },
+    {
+      "id": 643,
+      "caption": "770 Asiakas sai vakavan ummetuksen supermarketin vessassa"
+    },
+    {
+      "id": 644,
+      "caption": "033 Ryhmä kulkureita viiltää auton renkaita parkkipaikalla"
+    },
+    {
+      "id": 645,
+      "caption": "032 Kassalla tappelu taukohuoneessa"
+    },
+    {
+      "id": 646,
+      "caption": "747 Potkut saanut työntekijä kaatoi siivouskemikaaleja"
     }
   ]
 }
