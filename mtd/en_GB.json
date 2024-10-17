@@ -2391,6 +2391,11 @@
       "id": 90,
       "caption": "Halloween 2024",
       "key": "AWARD_HALLOWEEN_2024"
+    },
+    {
+      "id": 91,
+      "caption": "Halloween Hunt 2024",
+      "key": "AWARD_HALLOWEEN_HUNT_2024"
     }
   ],
   "filter_types": [
@@ -5335,6 +5340,58 @@
     {
       "id": 722,
       "caption": "People missing after canoeing accident"
+    },
+    {
+      "id": 723,
+      "caption": "Hand Laceration Caused By Malfunctioning Deli Slicer"
+    },
+    {
+      "id": 724,
+      "caption": "Bakery Oven Explosion In Supermarket"
+    },
+    {
+      "id": 725,
+      "caption": "Butcher Injured By Bandsaw Machine Malfunction"
+    },
+    {
+      "id": 726,
+      "caption": "Employee Slipped On Dropped Salmon"
+    },
+    {
+      "id": 727,
+      "caption": "Hand Pierced By Sharp Catfish Bone"
+    },
+    {
+      "id": 728,
+      "caption": "Burns Caused By Seafood Steamer Malfunction"
+    },
+    {
+      "id": 729,
+      "caption": "Crushed Foot Caused By Produce Cart Tip Over"
+    },
+    {
+      "id": 730,
+      "caption": "Customer Severly Constipated In Supermarket Restroom"
+    },
+    {
+      "id": 731,
+      "caption": "Cashier Brawl in Break Room"
+    },
+    {
+      "id": 732,
+      "caption": "Group Of Vagrants Slash Car Tires In Supermarket Parking Lot"
+    },
+    {
+      "id": 733,
+      "caption": "Fired Employee Spills Cleaning Chemicals"
+    },
+    {
+      "id": 734,
+      "caption": "Fire in a lithium battery manufacturing factory"
+    },
+    {
+      "id": 735,
+      "caption": "Fire in an abandoned hospital"
     }
   ]
 }
