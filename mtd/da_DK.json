@@ -1901,6 +1901,11 @@
       "id": 97,
       "caption": "Halloween 2024",
       "key": "AWARD_HALLOWEEN_2024"
+    },
+    {
+      "id": 98,
+      "caption": "Græskar fundet 2024",
+      "key": "AWARD_HALLOWEEN_HUNT_2024"
     }
   ],
   "filter_types": [
@@ -4521,6 +4526,58 @@
     {
       "id": 641,
       "caption": "Person fastklemt i pap pressemaskine"
+    },
+    {
+      "id": 642,
+      "caption": "Brand i et forladt hospital"
+    },
+    {
+      "id": 643,
+      "caption": "Brand i en fabrik, der fremstiller litiumbatterier"
+    },
+    {
+      "id": 644,
+      "caption": "Snitsår i hånden forårsaget af en dårligt fungerende kødhakker"
+    },
+    {
+      "id": 645,
+      "caption": "Eksplosion i bageriovn i supermarked"
+    },
+    {
+      "id": 646,
+      "caption": "Slagter skadet af fejl på båndsavsmaskine"
+    },
+    {
+      "id": 647,
+      "caption": "Medarbejder gled på tabt laks"
+    },
+    {
+      "id": 648,
+      "caption": "Hånd gennemboret af skarp havkatknogle"
+    },
+    {
+      "id": 649,
+      "caption": "Forbrændinger forårsaget af fejl i dampkoger til fisk og skaldyr"
+    },
+    {
+      "id": 650,
+      "caption": "Knust fod forårsaget af produktvogn, der væltede"
+    },
+    {
+      "id": 651,
+      "caption": "Kunde fik alvorlig forstoppelse på supermarkedets toilet"
+    },
+    {
+      "id": 652,
+      "caption": "Kassererslagsmål i pauserummet"
+    },
+    {
+      "id": 653,
+      "caption": "Gruppe af vagabonder skærer bildæk op på parkeringsplads"
+    },
+    {
+      "id": 654,
+      "caption": "Fyret medarbejder spilder rengøringskemikalier"
     }
   ]
 }
