@@ -1935,6 +1935,11 @@
       "id": 90,
       "caption": "Halloween 2024",
       "key": "AWARD_HALLOWEEN_2024"
+    },
+    {
+      "id": 91,
+      "caption": "Hittade pumpor 2024",
+      "key": "AWARD_HALLOWEEN_HUNT_2024"
     }
   ],
   "filter_types": [
@@ -4455,6 +4460,58 @@
     {
       "id": 616,
       "caption": "Anställd instängd i kartonghanterare"
+    },
+    {
+      "id": 617,
+      "caption": "Brand i ett övergivet sjukhus"
+    },
+    {
+      "id": 618,
+      "caption": "Brand i en fabrik för tillverkning av litiumbatterier"
+    },
+    {
+      "id": 619,
+      "caption": "Skärsår i handen orsakat av felaktig köttskärare"
+    },
+    {
+      "id": 620,
+      "caption": "Explosion i bageriugn i stormarknad"
+    },
+    {
+      "id": 621,
+      "caption": "Slaktare skadad av fel på bandsågsmaskin"
+    },
+    {
+      "id": 622,
+      "caption": "Anställd halkade på tappad lax"
+    },
+    {
+      "id": 623,
+      "caption": "Hand genomborrad av vasst ben från havskatt"
+    },
+    {
+      "id": 624,
+      "caption": "Brännskador orsakade av funktionsfel i ångkokare för fisk och skaldjur"
+    },
+    {
+      "id": 625,
+      "caption": "Krossad fot orsakad av att frukt- och gröntvagn välte"
+    },
+    {
+      "id": 626,
+      "caption": "Kund allvarligt förstoppad på stormarknadstoalett"
+    },
+    {
+      "id": 627,
+      "caption": "Kassörska bråkar i pausrummet"
+    },
+    {
+      "id": 628,
+      "caption": "Grupp av lösdrivare skär sönder bildäck på parkeringsplats"
+    },
+    {
+      "id": 629,
+      "caption": "Avskedad anställd spiller rengöringskemikalier"
     }
   ]
 }
