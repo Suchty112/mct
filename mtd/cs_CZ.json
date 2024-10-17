@@ -2004,6 +2004,11 @@
       "id": 96,
       "caption": "Halloween 2024",
       "key": "AWARD_HALLOWEEN_2024"
+    },
+    {
+      "id": 97,
+      "caption": "Halloweenský lov 2024",
+      "key": "AWARD_HALLOWEEN_HUNT_2024"
     }
   ],
   "filter_types": [
@@ -4612,6 +4617,58 @@
     {
       "id": 638,
       "caption": "Zaměstnanec uvězněný v zásobníku na lepenku"
+    },
+    {
+      "id": 639,
+      "caption": "Požár v opuštěné nemocnici"
+    },
+    {
+      "id": 640,
+      "caption": "Požár v továrně na lithiové baterie"
+    },
+    {
+      "id": 641,
+      "caption": "Poranění ruky způsobené nefunkčním kráječem masa"
+    },
+    {
+      "id": 642,
+      "caption": "Výbuch pekařské trouby v supermarketu"
+    },
+    {
+      "id": 643,
+      "caption": "Řezník zraněný při poruše pásové pily"
+    },
+    {
+      "id": 644,
+      "caption": "Zaměstnanec uklouzl na upuštěném lososu"
+    },
+    {
+      "id": 645,
+      "caption": "Ruka propíchnutá ostrou sumčí kostí"
+    },
+    {
+      "id": 646,
+      "caption": "Popáleniny způsobené poruchou pařáku na mořské plody"
+    },
+    {
+      "id": 647,
+      "caption": "Rozdrcená noha způsobená převrácením vozíku s produkty"
+    },
+    {
+      "id": 648,
+      "caption": "Zákazník s vážnou zácpou na toaletě v supermarketu"
+    },
+    {
+      "id": 649,
+      "caption": "Rvačka pokladních v odpočívárně"
+    },
+    {
+      "id": 650,
+      "caption": "Skupina vandalů prořezala pneumatiky na parkovišti"
+    },
+    {
+      "id": 651,
+      "caption": "Propuštěný zaměstnanec rozlil čisticí prostředky"
     }
   ]
 }
