@@ -191,11 +191,6 @@
       "type": "Integer"
     },
     {
-      "key": "brandmeldeanlage_possible",
-      "caption": null,
-      "type": "Boolean"
-    },
-    {
       "key": "need_rw",
       "caption": "Benodigde hulpverleningsvoertuigen",
       "type": "Integer"
@@ -209,6 +204,11 @@
       "key": "possible_patient_min",
       "caption": "Minimaal aantal patiënten",
       "type": "Integer"
+    },
+    {
+      "key": "brandmeldeanlage_possible",
+      "caption": null,
+      "type": "Boolean"
     },
     {
       "key": "date_end",
@@ -2265,7 +2265,7 @@
     },
     {
       "id": 23,
-      "caption": "Brand in cafetaria"
+      "caption": "Brand in cafetaria (Klein)"
     },
     {
       "id": 24,
@@ -2693,11 +2693,11 @@
     },
     {
       "id": 130,
-      "caption": "Brand in cafetaria"
+      "caption": "Brand in cafetaria (Middel)"
     },
     {
       "id": 131,
-      "caption": "Brand in cafetaria"
+      "caption": "Brand in cafetaria (Groot)"
     },
     {
       "id": 132,
@@ -3613,11 +3613,11 @@
     },
     {
       "id": 360,
-      "caption": "Brand in bovenwoning"
+      "caption": "Brand in bovenwoning (Klein)"
     },
     {
       "id": 361,
-      "caption": "Brand in bovenwoning"
+      "caption": "Brand in bovenwoning (Middel)"
     },
     {
       "id": 362,
