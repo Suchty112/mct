@@ -954,6 +954,36 @@
       "key": "need_mountain_atv",
       "caption": "Benötigte ATV",
       "type": "Integer"
+    },
+    {
+      "key": "ocean_value",
+      "caption": null,
+      "type": "Integer"
+    },
+    {
+      "key": "coastal_rescue_count",
+      "caption": "Voraussetzung an Seenotrettungswachen",
+      "type": "Integer"
+    },
+    {
+      "key": "water_rescue_heliport_count",
+      "caption": "Voraussetzung an Hubschrauberstationen (Seenotrettung)",
+      "type": "Integer"
+    },
+    {
+      "key": "need_oneof_coastal_rescue_boat_or_boat_large",
+      "caption": "Benötigte Seenotrettungsboote oder Seenotrettungskreuzer",
+      "type": "Integer"
+    },
+    {
+      "key": "need_coastal_helicopter",
+      "caption": "Benötigte Hubschrauber (Seenotrettung)",
+      "type": "Integer"
+    },
+    {
+      "key": "need_coastal_boat_large",
+      "caption": "Benötigte Seenotrettungskreuzer",
+      "type": "Integer"
     }
   ],
   "pois": [
@@ -1238,7 +1268,8 @@
     "spring",
     "xmas",
     "hiking",
-    "cycling"
+    "cycling",
+    "boat"
   ],
   "building_types": [
     {
@@ -1896,6 +1927,35 @@
           "caption": "Rettungsdienst"
         }
       ]
+    },
+    {
+      "id": 26,
+      "caption": "Seenotrettungswache",
+      "key": "BUILDING_TYPE_COASTAL_RESCUE"
+    },
+    {
+      "id": 27,
+      "caption": "Schule für Seefahrt und Seenotrettung",
+      "key": "BUILDING_TYPE_WATER_RESCUE_SCHOOL",
+      "extensions": [
+        {
+          "id": 0,
+          "caption": "Weiterer Klassenraum"
+        },
+        {
+          "id": 1,
+          "caption": "Weiterer Klassenraum"
+        },
+        {
+          "id": 2,
+          "caption": "Weiterer Klassenraum"
+        }
+      ]
+    },
+    {
+      "id": 28,
+      "caption": "Hubschrauberstation (Seenotrettung)",
+      "key": "BUILDING_TYPE_WATER_RESCUE_HELIPORT"
     }
   ],
   "awards": [
@@ -5999,6 +6059,54 @@
     {
       "id": 884,
       "caption": "Verkehrsunfall mit Stadtbahn"
+    },
+    {
+      "id": 885,
+      "caption": "Suche nach vermisster Person"
+    },
+    {
+      "id": 886,
+      "caption": "Großangelegte Suche nach vermisster Besatzung"
+    },
+    {
+      "id": 887,
+      "caption": "Abschleppen eines manövrierunfähigen Kutters"
+    },
+    {
+      "id": 888,
+      "caption": "Rettung eines über Bord gegangenen Seglers"
+    },
+    {
+      "id": 889,
+      "caption": "Medizinische Erstversorgung eines erkrankten Fährpassagiers"
+    },
+    {
+      "id": 890,
+      "caption": "Freischleppen einer Segelyacht"
+    },
+    {
+      "id": 891,
+      "caption": "Rettung eines schwerverletzten Seglers"
+    },
+    {
+      "id": 892,
+      "caption": "Rettung eines beschädigten Segelbootes"
+    },
+    {
+      "id": 893,
+      "caption": "Befreiung der Fahrgäste einer aufgelaufenen Fähre"
+    },
+    {
+      "id": 894,
+      "caption": "Ausgebrannte Segelyacht"
+    },
+    {
+      "id": 895,
+      "caption": "Abschleppen eines defekten Wasserflugzeugs"
+    },
+    {
+      "id": 896,
+      "caption": "Verletzte auf Segelboot"
     }
   ]
 }
