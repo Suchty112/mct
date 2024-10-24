@@ -11,6 +11,11 @@
       "type": "String"
     },
     {
+      "key": "mission_generation_types",
+      "caption": "Incident keuze",
+      "type": "Set"
+    },
+    {
       "key": "fire_value",
       "caption": null,
       "type": "Integer"
@@ -64,11 +69,6 @@
       "key": "need_gwl2wasser_chance",
       "caption": "Slangenwagen benodigd waarschijnlijkheid",
       "type": "Integer"
-    },
-    {
-      "key": "mission_generation_types",
-      "caption": "Incident keuze",
-      "type": "Set"
     },
     {
       "key": "expansion_missions",
@@ -246,6 +246,11 @@
       "type": "Integer"
     },
     {
+      "key": "date_start",
+      "caption": "Start datum",
+      "type": "Datetime"
+    },
+    {
       "key": "foam_needed",
       "caption": "SVM benodigd",
       "type": "Integer"
@@ -324,11 +329,6 @@
       "key": "possible_prisoner",
       "caption": "Maximaal aantal gevangenen",
       "type": "Integer"
-    },
-    {
-      "key": "date_start",
-      "caption": "Start datum",
-      "type": "Datetime"
     },
     {
       "key": "bereitschaftspolizei_count",
@@ -3725,7 +3725,7 @@
     },
     {
       "id": 388,
-      "caption": "Bouwvakker van hoogte gevallen"
+      "caption": "Bouwvakker van hoogte gevallen (Spoed)"
     },
     {
       "id": 389,
