@@ -11,6 +11,11 @@
       "type": "String"
     },
     {
+      "key": "mission_generation_types",
+      "caption": "Rodzaj misji",
+      "type": "Set"
+    },
+    {
       "key": "fire_value",
       "caption": null,
       "type": "Integer"
@@ -94,11 +99,6 @@
       "key": "transport_need_quote",
       "caption": "Szansa, że potrzebny będzie transport pacjenta",
       "type": "Integer"
-    },
-    {
-      "key": "mission_generation_types",
-      "caption": "Rodzaj misji",
-      "type": "Set"
     },
     {
       "key": "additive_value_overlays",
