@@ -11,6 +11,11 @@
       "type": "String"
     },
     {
+      "key": "mission_generation_types",
+      "caption": "Mission type",
+      "type": "Set"
+    },
+    {
       "key": "fire_value",
       "caption": null,
       "type": "Integer"
@@ -329,11 +334,6 @@
       "key": "need_rw_chance",
       "caption": "Probability of Major Rescue or SES Rescue being required",
       "type": "Integer"
-    },
-    {
-      "key": "mission_generation_types",
-      "caption": "Mission type",
-      "type": "Set"
     },
     {
       "key": "additive_value_overlays",
