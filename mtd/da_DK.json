@@ -11,6 +11,11 @@
       "type": "String"
     },
     {
+      "key": "mission_generation_types",
+      "caption": "Missionstype",
+      "type": "Set"
+    },
+    {
       "key": "fire_value",
       "caption": null,
       "type": "Integer"
@@ -104,11 +109,6 @@
       "key": "need_oneof_fire_engine_or_rescue_or_ladder",
       "caption": "Påkrævet brandbil, stigevogn eller redningsvogn",
       "type": "Integer"
-    },
-    {
-      "key": "mission_generation_types",
-      "caption": "Missionstype",
-      "type": "Set"
     },
     {
       "key": "need_elw1",
