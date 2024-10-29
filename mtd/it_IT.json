@@ -216,6 +216,11 @@
       "type": "Integer"
     },
     {
+      "key": "additive_value_overlays",
+      "caption": null,
+      "type": "Unknown"
+    },
+    {
       "key": "police_value",
       "caption": null,
       "type": "Integer"
@@ -279,11 +284,6 @@
       "key": "patient_modus",
       "caption": null,
       "type": "Integer"
-    },
-    {
-      "key": "additive_value_overlays",
-      "caption": null,
-      "type": "Unknown"
     },
     {
       "key": "need_gwl2wasser_chance",
@@ -703,6 +703,31 @@
     {
       "key": "need_game_warden_chance",
       "caption": "Possibilità che sia richiesta una pattuglia della Forestale",
+      "type": "Integer"
+    },
+    {
+      "key": "criminal_investigation_count",
+      "caption": "Richieste Sezione Investigativa",
+      "type": "Integer"
+    },
+    {
+      "key": "need_police_investigation",
+      "caption": "Richieste Squadra Anticrimine",
+      "type": "Integer"
+    },
+    {
+      "key": "need_criminal_investigation",
+      "caption": "Richieste Unità Investigazioni Scientifiche",
+      "type": "Integer"
+    },
+    {
+      "key": "fire_investigation_count",
+      "caption": "Richieste Nucleo Investigativo Antincendi",
+      "type": "Integer"
+    },
+    {
+      "key": "need_fire_investigation",
+      "caption": "Richieste Unità N.I.A.",
       "type": "Integer"
     }
   ],
@@ -1125,6 +1150,14 @@
         {
           "id": 13,
           "caption": "Piazzola Modulo Scarrabile"
+        },
+        {
+          "id": 14,
+          "caption": "Nucleo Investigativo Antincendi"
+        },
+        {
+          "id": 15,
+          "caption": "Ulteriori Nucleo Investigativo Antincendi Spazi dell'unità"
         }
       ]
     },
@@ -1329,6 +1362,14 @@
         {
           "id": 15,
           "caption": "Grande prigione"
+        },
+        {
+          "id": 16,
+          "caption": "Sezione Investigativa"
+        },
+        {
+          "id": 17,
+          "caption": "Ulteriori Sezione Investigativa Spazi dell'unità"
         }
       ]
     },
@@ -5142,6 +5183,22 @@
     {
       "id": 740,
       "caption": "Dipendente licenziato versa prodotti chimici per la pulizia"
+    },
+    {
+      "id": 741,
+      "caption": "Rinvenimento Cadavere"
+    },
+    {
+      "id": 742,
+      "caption": "Valutazione del danno ambientale post-incendio"
+    },
+    {
+      "id": 743,
+      "caption": "Ricerca Prove in Casa"
+    },
+    {
+      "id": 744,
+      "caption": "Sospetto incendio doloso"
     }
   ]
 }
