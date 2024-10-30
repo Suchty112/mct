@@ -6107,6 +6107,14 @@
     {
       "id": 896,
       "caption": "Verletzte auf Segelboot"
+    },
+    {
+      "id": 897,
+      "caption": "Patientenübernahme von Ambulanzflug"
+    },
+    {
+      "id": 898,
+      "caption": "Rauchentwicklung in Produktionshallen"
     }
   ]
 }
