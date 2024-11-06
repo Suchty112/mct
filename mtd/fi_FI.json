@@ -1803,6 +1803,11 @@
       "id": 91,
       "caption": "Löydetyt kurpitsat 2024",
       "key": "AWARD_HALLOWEEN_HUNT_2024"
+    },
+    {
+      "id": 92,
+      "caption": "Allianssin haaste Marraskuu 2024",
+      "key": "AWARD_ALLIANCE_CHALLENGE_NOV_2024"
     }
   ],
   "filter_types": [
@@ -4406,19 +4411,19 @@
     },
     {
       "id": 637,
-      "caption": "443 Leipomouunin räjähdys supermarketissa"
+      "caption": "442 Leipomouunin räjähdys supermarketissa"
     },
     {
       "id": 638,
-      "caption": "744 Teurastaja loukkaantui vannesahakoneen toimintahäiriön vuoksi."
+      "caption": "744 Lihamyyjä loukkaantui lihanleikkauskoneen toimintahäiriön vuoksi."
     },
     {
       "id": 639,
-      "caption": "747 Työntekijä liukastui pudonneen lohen päälle"
+      "caption": "745 Työntekijä liukastui pudonneen lohen päälle"
     },
     {
       "id": 640,
-      "caption": "770 Terävä kissakalan luu lävisti käden"
+      "caption": "744 Terävä luu lävisti käden"
     },
     {
       "id": 641,
@@ -4430,7 +4435,7 @@
     },
     {
       "id": 643,
-      "caption": "770 Asiakas sai vakavan ummetuksen supermarketin vessassa"
+      "caption": "781 Vatsakipu supermarketin vessassa"
     },
     {
       "id": 644,
