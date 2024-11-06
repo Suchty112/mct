@@ -1956,7 +1956,7 @@
     },
     {
       "id": 79,
-      "caption": "Snoep Verzameld",
+      "caption": "Snoep Verzamelaar 2023",
       "key": "AWARD_SINTERKLAAS_COLLECTION_2023"
     },
     {
@@ -2118,6 +2118,21 @@
       "id": 111,
       "caption": "Pompoenenjager 2024",
       "key": "AWARD_HALLOWEEN_HUNT_2024"
+    },
+    {
+      "id": 112,
+      "caption": "Sinterklaas Award 2024",
+      "key": "AWARD_SINTERKLAAS_2024"
+    },
+    {
+      "id": 113,
+      "caption": "Snoep Verzamelaar 2024",
+      "key": "AWARD_SINTERKLAAS_COLLECTION_2024"
+    },
+    {
+      "id": 114,
+      "caption": "Alliantie Uitdaging November 2024",
+      "key": "AWARD_ALLIANCE_CHALLENGE_NOV_2024"
     }
   ],
   "filter_types": [
