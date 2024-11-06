@@ -2090,6 +2090,11 @@
       "id": 87,
       "caption": "Gresskar funnet 2024",
       "key": "AWARD_HALLOWEEN_HUNT_2024"
+    },
+    {
+      "id": 88,
+      "caption": "Alliance Challenge November 2024",
+      "key": "AWARD_ALLIANCE_CHALLENGE_NOV_2024"
     }
   ],
   "filter_types": [
