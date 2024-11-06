@@ -1906,6 +1906,11 @@
       "id": 98,
       "caption": "Græskar fundet 2024",
       "key": "AWARD_HALLOWEEN_HUNT_2024"
+    },
+    {
+      "id": 99,
+      "caption": "Alliancens udfordring november 2024",
+      "key": "AWARD_ALLIANCE_CHALLENGE_NOV_2024"
     }
   ],
   "filter_types": [
