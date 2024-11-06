@@ -1835,6 +1835,16 @@
       "id": 94,
       "caption": "Znalezione dynie 2024",
       "key": "AWARD_HALLOWEEN_HUNT_2024"
+    },
+    {
+      "id": 95,
+      "caption": "5 Rocznica",
+      "key": "AWARD_FIVE_YEARS"
+    },
+    {
+      "id": 96,
+      "caption": "Wyzwanie sojuszu listopad 2024 r.",
+      "key": "AWARD_ALLIANCE_CHALLENGE_NOV_2024"
     }
   ],
   "filter_types": [
