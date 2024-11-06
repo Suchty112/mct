@@ -1940,6 +1940,16 @@
       "id": 91,
       "caption": "Hittade pumpor 2024",
       "key": "AWARD_HALLOWEEN_HUNT_2024"
+    },
+    {
+      "id": 95,
+      "caption": "5-årsjubileum",
+      "key": null
+    },
+    {
+      "id": 96,
+      "caption": "Alliansutmaning november 2024",
+      "key": null
     }
   ],
   "filter_types": [
