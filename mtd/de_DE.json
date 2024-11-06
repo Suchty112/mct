@@ -2463,6 +2463,11 @@
       "id": 110,
       "caption": "Kürbisjagd 2024",
       "key": "AWARD_HALLOWEEN_HUNT_2024"
+    },
+    {
+      "id": 111,
+      "caption": "Verbands-Herausforderung November 2024",
+      "key": "AWARD_ALLIANCE_CHALLENGE_NOV_2024"
     }
   ],
   "filter_types": [
