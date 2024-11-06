@@ -1804,6 +1804,11 @@
       "id": 83,
       "caption": "2024 발견한 호박",
       "key": "AWARD_HALLOWEEN_HUNT_2024"
+    },
+    {
+      "id": 84,
+      "caption": "얼라이언스 챌린지 2024년 11월",
+      "key": "AWARD_ALLIANCE_CHALLENGE_NOV_2024"
     }
   ],
   "filter_types": [
