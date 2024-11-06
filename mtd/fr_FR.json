@@ -2199,6 +2199,11 @@
       "id": 95,
       "caption": "Citrouilles trouvées 2024",
       "key": "AWARD_HALLOWEEN_HUNT_2024"
+    },
+    {
+      "id": 96,
+      "caption": "Défi de l'Alliance novembre 2024",
+      "key": "AWARD_ALLIANCE_CHALLENGE_NOV_2024"
     }
   ],
   "filter_types": [
