@@ -1824,6 +1824,11 @@
       "id": 88,
       "caption": "2024 カボチャ発見",
       "key": "AWARD_HALLOWEEN_HUNT_2024"
+    },
+    {
+      "id": 89,
+      "caption": "アライアンス・チャレンジ 2024年11月",
+      "key": "AWARD_ALLIANCE_CHALLENGE_NOV_2024"
     }
   ],
   "filter_types": [
