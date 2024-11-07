@@ -216,6 +216,11 @@
       "type": "Datetime"
     },
     {
+      "key": "date_start",
+      "caption": "Start datum",
+      "type": "Datetime"
+    },
+    {
       "key": "need_elw3",
       "caption": "Benodigde Commandowagen",
       "type": "Integer"
@@ -244,11 +249,6 @@
       "key": "need_gwgefahrgut_chance",
       "caption": "Aantal Adviseurs Gevaarlijke Stoffen benodigd waarschijnlijkheid",
       "type": "Integer"
-    },
-    {
-      "key": "date_start",
-      "caption": "Start datum",
-      "type": "Datetime"
     },
     {
       "key": "foam_needed",
