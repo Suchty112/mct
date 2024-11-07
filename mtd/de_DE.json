@@ -984,6 +984,16 @@
       "key": "need_coastal_boat_large",
       "caption": "Benötigte Seenotrettungskreuzer",
       "type": "Integer"
+    },
+    {
+      "key": "heavy_rescue_count",
+      "caption": "Fachgruppe SB",
+      "type": "Integer"
+    },
+    {
+      "key": "need_heavy_rescue",
+      "caption": "Benötigte MzGW SB",
+      "type": "Integer"
     }
   ],
   "pois": [
@@ -6120,6 +6130,14 @@
     {
       "id": 898,
       "caption": "Rauchentwicklung in Produktionshallen"
+    },
+    {
+      "id": 899,
+      "caption": "Sporthalle eingestürzt"
+    },
+    {
+      "id": 900,
+      "caption": "Verdächtiges Fahrzeug"
     }
   ]
 }
