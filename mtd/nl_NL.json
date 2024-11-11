@@ -216,11 +216,6 @@
       "type": "Datetime"
     },
     {
-      "key": "date_start",
-      "caption": "Start datum",
-      "type": "Datetime"
-    },
-    {
       "key": "need_elw3",
       "caption": "Benodigde Commandowagen",
       "type": "Integer"
@@ -249,6 +244,11 @@
       "key": "need_gwgefahrgut_chance",
       "caption": "Aantal Adviseurs Gevaarlijke Stoffen benodigd waarschijnlijkheid",
       "type": "Integer"
+    },
+    {
+      "key": "date_start",
+      "caption": "Start datum",
+      "type": "Datetime"
     },
     {
       "key": "foam_needed",
@@ -2304,7 +2304,7 @@
     },
     {
       "id": 29,
-      "caption": "Brand in werkplaats"
+      "caption": "Brand in werkplaats (Groot)"
     },
     {
       "id": 30,
@@ -3136,11 +3136,11 @@
     },
     {
       "id": 237,
-      "caption": "Brand in werkplaats"
+      "caption": "Brand in werkplaats (Middel)"
     },
     {
       "id": 238,
-      "caption": "Brand in werkplaats"
+      "caption": "Brand in werkplaats (Klein)"
     },
     {
       "id": 239,
