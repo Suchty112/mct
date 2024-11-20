@@ -687,7 +687,7 @@
     },
     {
       "key": "werkfeuerwehr_count",
-      "caption": "Vorraussetzung an Werkfeuerwehren",
+      "caption": "Voraussetzung an Werkfeuerwehren",
       "type": "Integer"
     },
     {
