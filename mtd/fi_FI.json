@@ -11,6 +11,11 @@
       "type": "String"
     },
     {
+      "key": "mission_generation_types",
+      "caption": "Tehtävän tyyppi",
+      "type": "Set"
+    },
+    {
       "key": "fire_value",
       "caption": null,
       "type": "Integer"
@@ -164,11 +169,6 @@
       "key": "need_elw2",
       "caption": "Vaaditut johtokeskusautot",
       "type": "Integer"
-    },
-    {
-      "key": "mission_generation_types",
-      "caption": "Tehtävän tyyppi",
-      "type": "Set"
     },
     {
       "key": "additive_value_overlays",
