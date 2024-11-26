@@ -11,6 +11,11 @@
       "type": "String"
     },
     {
+      "key": "mission_generation_types",
+      "caption": "ミッションタイプ",
+      "type": "Set"
+    },
+    {
       "key": "fire_value",
       "caption": null,
       "type": "Integer"
@@ -159,11 +164,6 @@
       "key": "date_start",
       "caption": "以下の内容から走る",
       "type": "Datetime"
-    },
-    {
-      "key": "mission_generation_types",
-      "caption": "ミッションタイプ",
-      "type": "Set"
     },
     {
       "key": "additive_value_overlays",
