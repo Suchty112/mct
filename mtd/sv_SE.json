@@ -11,6 +11,11 @@
       "type": "String"
     },
     {
+      "key": "mission_generation_types",
+      "caption": "Uppdragstyp",
+      "type": "Set"
+    },
+    {
       "key": "fire_value",
       "caption": null,
       "type": "Integer"
@@ -129,11 +134,6 @@
       "key": "water_needed",
       "caption": "Kräver vatten",
       "type": "Integer"
-    },
-    {
-      "key": "mission_generation_types",
-      "caption": "Uppdragstyp",
-      "type": "Set"
     },
     {
       "key": "additive_value_overlays",
