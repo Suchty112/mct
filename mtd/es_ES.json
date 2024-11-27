@@ -2058,6 +2058,11 @@
       "id": 93,
       "caption": "Desafío de la Alianza Noviembre de 2024",
       "key": "AWARD_ALLIANCE_CHALLENGE_NOV_2024"
+    },
+    {
+      "id": 94,
+      "caption": "Misiones de Navidad 2024",
+      "key": "AWARD_CHRISTMAS_2024"
     }
   ],
   "filter_types": [
