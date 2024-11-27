@@ -1845,6 +1845,11 @@
       "id": 96,
       "caption": "Wyzwanie sojuszu listopad 2024 r.",
       "key": "AWARD_ALLIANCE_CHALLENGE_NOV_2024"
+    },
+    {
+      "id": 97,
+      "caption": "Misje świąteczne 2024",
+      "key": "AWARD_CHRISTMAS_2024"
     }
   ],
   "filter_types": [
