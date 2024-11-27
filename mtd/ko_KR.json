@@ -1809,6 +1809,11 @@
       "id": 84,
       "caption": "얼라이언스 챌린지 2024년 11월",
       "key": "AWARD_ALLIANCE_CHALLENGE_NOV_2024"
+    },
+    {
+      "id": 85,
+      "caption": "2024크리스마스 임무",
+      "key": "AWARD_CHRISTMAS_2024"
     }
   ],
   "filter_types": [
