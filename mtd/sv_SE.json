@@ -1942,14 +1942,19 @@
       "key": "AWARD_HALLOWEEN_HUNT_2024"
     },
     {
-      "id": 95,
+      "id": 92,
       "caption": "5-årsjubileum",
-      "key": null
+      "key": "AWARD_FIVE_YEARS"
     },
     {
-      "id": 96,
+      "id": 93,
       "caption": "Alliansutmaning november 2024",
-      "key": null
+      "key": "AWARD_ALLIANCE_CHALLENGE_NOV_2024"
+    },
+    {
+      "id": 94,
+      "caption": "Juluppdrag 2024",
+      "key": "AWARD_CHRISTMAS_2024"
     }
   ],
   "filter_types": [
