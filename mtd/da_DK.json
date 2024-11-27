@@ -1911,6 +1911,11 @@
       "id": 99,
       "caption": "Alliancens udfordring november 2024",
       "key": "AWARD_ALLIANCE_CHALLENGE_NOV_2024"
+    },
+    {
+      "id": 100,
+      "caption": "Julemissioner 2024",
+      "key": "AWARD_CHRISTMAS_2024"
     }
   ],
   "filter_types": [
