@@ -2095,6 +2095,11 @@
       "id": 88,
       "caption": "Alliance Challenge November 2024",
       "key": "AWARD_ALLIANCE_CHALLENGE_NOV_2024"
+    },
+    {
+      "id": 89,
+      "caption": "Juleoppdrag 2024",
+      "key": "AWARD_CHRISTMAS_2024"
     }
   ],
   "filter_types": [
