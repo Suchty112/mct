@@ -2177,6 +2177,11 @@
       "id": 98,
       "caption": "Sfida dell'Alleanza novembre 2024",
       "key": "AWARD_ALLIANCE_CHALLENGE_NOV_2024"
+    },
+    {
+      "id": 99,
+      "caption": "Missioni di Natale 2024",
+      "key": "AWARD_CHRISTMAS_2024"
     }
   ],
   "filter_types": [
