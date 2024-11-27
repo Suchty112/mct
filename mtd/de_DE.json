@@ -2478,6 +2478,11 @@
       "id": 111,
       "caption": "Verbands-Herausforderung November 2024",
       "key": "AWARD_ALLIANCE_CHALLENGE_NOV_2024"
+    },
+    {
+      "id": 112,
+      "caption": "Weihnachtliche Einsätze 2024",
+      "key": "AWARD_CHRISTMAS_2024"
     }
   ],
   "filter_types": [
