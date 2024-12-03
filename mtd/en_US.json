@@ -1190,6 +1190,10 @@
     {
       "id": 85,
       "caption": "Hangar"
+    },
+    {
+      "id": 86,
+      "caption": "Swamp"
     }
   ],
   "available_icons": [
@@ -1474,6 +1478,10 @@
         {
           "id": 21,
           "caption": "Tow Trucks Extension"
+        },
+        {
+          "id": 22,
+          "caption": "Police Water Rescue"
         }
       ]
     },
@@ -6447,6 +6455,38 @@
     {
       "id": 1010,
       "caption": "Fire in an abandoned hospital"
+    },
+    {
+      "id": 1011,
+      "caption": "Missing Person near water"
+    },
+    {
+      "id": 1012,
+      "caption": "Searching for a drowned person in a lake"
+    },
+    {
+      "id": 1013,
+      "caption": "Police Search"
+    },
+    {
+      "id": 1014,
+      "caption": "Escaped Prisoner trapped in Swamp"
+    },
+    {
+      "id": 1015,
+      "caption": "Bridge collapse Traps Prisoner Transport in River"
+    },
+    {
+      "id": 1016,
+      "caption": "Fleeing Suspect jumps off Bridge"
+    },
+    {
+      "id": 1017,
+      "caption": "Suspect trapped in flooded Basement"
+    },
+    {
+      "id": 1018,
+      "caption": "Hijacked Plane crash lands into Water"
     }
   ]
 }
