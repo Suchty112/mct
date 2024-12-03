@@ -11,6 +11,11 @@
       "type": "String"
     },
     {
+      "key": "mission_generation_types",
+      "caption": "Tipo de Missão",
+      "type": "Set"
+    },
+    {
       "key": "fire_value",
       "caption": null,
       "type": "Integer"
@@ -174,11 +179,6 @@
       "key": "need_gwgefahrgut_chance",
       "caption": "Probablidade de requerer 1 Veículo de Proteção Multiriscos e Ambiente",
       "type": "Integer"
-    },
-    {
-      "key": "mission_generation_types",
-      "caption": "Tipo de Missão",
-      "type": "Set"
     },
     {
       "key": "additive_value_overlays",
