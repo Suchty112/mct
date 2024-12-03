@@ -11,6 +11,11 @@
       "type": "String"
     },
     {
+      "key": "mission_generation_types",
+      "caption": "Oppdragstype",
+      "type": "Set"
+    },
+    {
       "key": "fire_value",
       "caption": null,
       "type": "Integer"
@@ -159,11 +164,6 @@
       "key": "date_start",
       "caption": "Varer bare fra",
       "type": "Datetime"
-    },
-    {
-      "key": "mission_generation_types",
-      "caption": "Oppdragstype",
-      "type": "Set"
     },
     {
       "key": "alternate_value_overlay_requirements",
