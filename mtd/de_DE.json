@@ -1228,6 +1228,10 @@
     {
       "id": 57,
       "caption": "Seilbahn"
+    },
+    {
+      "id": 58,
+      "caption": "Brücke"
     }
   ],
   "available_icons": [
@@ -1279,7 +1283,8 @@
     "xmas",
     "hiking",
     "cycling",
-    "boat"
+    "boat",
+    "bridge"
   ],
   "building_types": [
     {
@@ -6143,6 +6148,18 @@
     {
       "id": 900,
       "caption": "Verdächtiges Fahrzeug"
+    },
+    {
+      "id": 901,
+      "caption": "Brand in Weihnachtsbäckerei"
+    },
+    {
+      "id": 902,
+      "caption": "Brückeneinsturz (klein)"
+    },
+    {
+      "id": 903,
+      "caption": "Brückeneinsturz (groß)"
     }
   ]
 }
