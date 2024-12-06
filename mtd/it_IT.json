@@ -311,6 +311,11 @@
       "type": "Integer"
     },
     {
+      "key": "max_municipal_police_replacing_fustw",
+      "caption": "Quantità massima di Veicoli Della Polizia Locale che possono sostituire le Auto Di Pattuglia",
+      "type": "Integer"
+    },
+    {
       "key": "personal_min_feuerwehr",
       "caption": "Vigili del Fuoco richiesti",
       "type": "Integer"
@@ -651,13 +656,33 @@
       "type": "Integer"
     },
     {
-      "key": "technical_aid_count",
-      "caption": "Sedi Protezione Civile Necessarie",
+      "key": "search_and_rescue_count",
+      "caption": "Estensione USAR",
       "type": "Integer"
     },
     {
       "key": "disaster_response_count",
       "caption": "Estensioni Movimento Terra",
+      "type": "Integer"
+    },
+    {
+      "key": "need_rescue_dog_units",
+      "caption": "Unità Cinofile Ricerca e Soccorso richieste",
+      "type": "Integer"
+    },
+    {
+      "key": "need_disaster_response_clearing",
+      "caption": "Escavatore Piccolo richiesto",
+      "type": "Integer"
+    },
+    {
+      "key": "need_disaster_response_clearing_large",
+      "caption": "Scavatore su Rimorchio",
+      "type": "Integer"
+    },
+    {
+      "key": "technical_aid_count",
+      "caption": "Sedi Protezione Civile Necessarie",
       "type": "Integer"
     },
     {
@@ -668,16 +693,6 @@
     {
       "key": "need_flood_equipment",
       "caption": "Modulo Scarrabile HCP richiesto",
-      "type": "Integer"
-    },
-    {
-      "key": "search_and_rescue_count",
-      "caption": "Estensione USAR",
-      "type": "Integer"
-    },
-    {
-      "key": "need_rescue_dog_units",
-      "caption": "Unità Cinofile Ricerca e Soccorso richieste",
       "type": "Integer"
     },
     {
@@ -5197,7 +5212,7 @@
     },
     {
       "id": 740,
-      "caption": "Dipendente licenziato versa prodotti chimici per la pulizia"
+      "caption": "Crollo degli alloggi"
     },
     {
       "id": 741,
