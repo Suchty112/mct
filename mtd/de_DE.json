@@ -994,6 +994,16 @@
       "key": "need_heavy_rescue",
       "caption": "Benötigte MzGW SB",
       "type": "Integer"
+    },
+    {
+      "key": "railway_fire_count",
+      "caption": "Benötigte Bahnrettungs-Erweiterungen",
+      "type": "Integer"
+    },
+    {
+      "key": "need_railway_fire",
+      "caption": "Benötigte Bahnrettungsfahrzeuge",
+      "type": "Integer"
     }
   ],
   "pois": [
@@ -1232,6 +1242,10 @@
     {
       "id": 58,
       "caption": "Brücke"
+    },
+    {
+      "id": 59,
+      "caption": "U-Bahn Station"
     }
   ],
   "available_icons": [
@@ -1239,6 +1253,7 @@
     "sawmill",
     "caraccident",
     "oil",
+    "tramway",
     "blast",
     "bar_cocktail",
     "medicalstore",
@@ -1271,7 +1286,6 @@
     "hotairbaloon",
     "snowy",
     "mobilephonetower",
-    "tramway",
     "radiation",
     "cannabis",
     "glasses",
@@ -1391,6 +1405,10 @@
         {
           "id": 24,
           "caption": "Anhänger-Stellplatz"
+        },
+        {
+          "id": 25,
+          "caption": "Bahnrettung"
         }
       ]
     },
@@ -6160,6 +6178,34 @@
     {
       "id": 903,
       "caption": "Brückeneinsturz (groß)"
+    },
+    {
+      "id": 904,
+      "caption": "Person unter Zug"
+    },
+    {
+      "id": 905,
+      "caption": "Rangierunfall"
+    },
+    {
+      "id": 906,
+      "caption": "Personensuche bei Schnellfahrstrecke"
+    },
+    {
+      "id": 907,
+      "caption": "Eingleisen einer U-Bahn"
+    },
+    {
+      "id": 908,
+      "caption": "Verkehrsunfall mit Straßenbahn"
+    },
+    {
+      "id": 909,
+      "caption": "Straßenbahn entgleist"
+    },
+    {
+      "id": 910,
+      "caption": "Personenzug entgleist"
     }
   ]
 }
