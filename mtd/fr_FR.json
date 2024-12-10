@@ -2209,6 +2209,11 @@
       "id": 97,
       "caption": "Missions de Noël 2024",
       "key": "AWARD_CHRISTMAS_2024"
+    },
+    {
+      "id": 98,
+      "caption": "5e Anniversaire",
+      "key": "AWARD_FIVE_YEARS"
     }
   ],
   "filter_types": [
