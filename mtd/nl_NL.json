@@ -2138,6 +2138,16 @@
       "id": 115,
       "caption": "Kerstmis 2024",
       "key": "AWARD_CHRISTMAS_2024"
+    },
+    {
+      "id": 116,
+      "caption": "Kerstverzamelaar 2024",
+      "key": "AWARD_CHRISTMAS_COLLECTION_2024"
+    },
+    {
+      "id": 117,
+      "caption": "Alliantie Uitdaging December 2024",
+      "key": "AWARD_ALLIANCE_CHALLENGE_DEC_2024"
     }
   ],
   "filter_types": [
