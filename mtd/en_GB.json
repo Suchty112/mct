@@ -2406,6 +2406,16 @@
       "id": 93,
       "caption": "Christmas Missions 2024",
       "key": "AWARD_CHRISTMAS_2024"
+    },
+    {
+      "id": 94,
+      "caption": "Christmas Collector 2024",
+      "key": "AWARD_CHRISTMAS_COLLECTION_2024"
+    },
+    {
+      "id": 95,
+      "caption": "Alliance Challenge December 2024",
+      "key": "AWARD_ALLIANCE_CHALLENGE_DEC_2024"
     }
   ],
   "filter_types": [
