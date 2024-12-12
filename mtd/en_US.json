@@ -357,7 +357,7 @@
     },
     {
       "key": "wasserrettung_count",
-      "caption": "Requirements for Water Rescue station",
+      "caption": "Requirements for Water Rescue Extension",
       "type": "Integer"
     },
     {
@@ -1256,7 +1256,7 @@
         },
         {
           "id": 2,
-          "caption": "Water Rescue Expansion"
+          "caption": "Water Rescue Extension"
         },
         {
           "id": 3,
@@ -2359,6 +2359,16 @@
       "id": 96,
       "caption": "Christmas Missions 2024",
       "key": "AWARD_CHRISTMAS_2024"
+    },
+    {
+      "id": 97,
+      "caption": "Christmas Collector 2024",
+      "key": "AWARD_CHRISTMAS_COLLECTION_2024"
+    },
+    {
+      "id": 98,
+      "caption": "Alliance Challenge December 2024",
+      "key": "AWARD_ALLIANCE_CHALLENGE_DEC_2024"
     }
   ],
   "filter_types": [
