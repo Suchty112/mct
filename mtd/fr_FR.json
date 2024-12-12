@@ -2214,6 +2214,16 @@
       "id": 98,
       "caption": "5e Anniversaire",
       "key": "AWARD_FIVE_YEARS"
+    },
+    {
+      "id": 99,
+      "caption": "Collectionneur de Noël 2024",
+      "key": "AWARD_CHRISTMAS_COLLECTION_2024"
+    },
+    {
+      "id": 100,
+      "caption": "Défi de l'Alliance Décembre 2024",
+      "key": "AWARD_ALLIANCE_CHALLENGE_DEC_2024"
     }
   ],
   "filter_types": [
