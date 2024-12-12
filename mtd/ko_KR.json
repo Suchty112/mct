@@ -1814,6 +1814,16 @@
       "id": 85,
       "caption": "2024크리스마스 임무",
       "key": "AWARD_CHRISTMAS_2024"
+    },
+    {
+      "id": 86,
+      "caption": "크리스마스 컬렉터 2024",
+      "key": "AWARD_CHRISTMAS_COLLECTION_2024"
+    },
+    {
+      "id": 87,
+      "caption": "얼라이언스 챌린지 2024년 12월",
+      "key": "AWARD_ALLIANCE_CHALLENGE_DEC_2024"
     }
   ],
   "filter_types": [
