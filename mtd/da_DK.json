@@ -1916,6 +1916,16 @@
       "id": 100,
       "caption": "Julemissioner 2024",
       "key": "AWARD_CHRISTMAS_2024"
+    },
+    {
+      "id": 101,
+      "caption": "Julesamler 2024",
+      "key": "AWARD_CHRISTMAS_COLLECTION_2024"
+    },
+    {
+      "id": 102,
+      "caption": "Alliancens udfordring december 2024",
+      "key": "AWARD_ALLIANCE_CHALLENGE_DEC_2024"
     }
   ],
   "filter_types": [
