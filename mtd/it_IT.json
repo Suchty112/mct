@@ -2197,6 +2197,16 @@
       "id": 99,
       "caption": "Missioni di Natale 2024",
       "key": "AWARD_CHRISTMAS_2024"
+    },
+    {
+      "id": 100,
+      "caption": "Collezionista di Natale 2024",
+      "key": "AWARD_CHRISTMAS_COLLECTION_2024"
+    },
+    {
+      "id": 101,
+      "caption": "Sfida dell'Alleanza Dicembre 2024",
+      "key": "AWARD_ALLIANCE_CHALLENGE_DEC_2024"
     }
   ],
   "filter_types": [
