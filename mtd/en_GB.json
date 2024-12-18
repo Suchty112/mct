@@ -2416,6 +2416,16 @@
       "id": 95,
       "caption": "Alliance Challenge December 2024",
       "key": "AWARD_ALLIANCE_CHALLENGE_DEC_2024"
+    },
+    {
+      "id": 96,
+      "caption": "New Year 2024",
+      "key": "AWARD_NEWYEAR_2024"
+    },
+    {
+      "id": 97,
+      "caption": "Winter Event 2025",
+      "key": "AWARD_WINTER_2025"
     }
   ],
   "filter_types": [
@@ -5412,6 +5422,18 @@
     {
       "id": 735,
       "caption": "Fire in an abandoned hospital"
+    },
+    {
+      "id": 736,
+      "caption": "Customer steals lottery tickets"
+    },
+    {
+      "id": 737,
+      "caption": "Internal Theft at Auto Parts Store"
+    },
+    {
+      "id": 738,
+      "caption": "Lawyer caught padding cases"
     }
   ]
 }
