@@ -1824,6 +1824,16 @@
       "id": 87,
       "caption": "얼라이언스 챌린지 2024년 12월",
       "key": "AWARD_ALLIANCE_CHALLENGE_DEC_2024"
+    },
+    {
+      "id": 88,
+      "caption": "2024 신년 임무",
+      "key": "AWARD_NEWYEAR_2024"
+    },
+    {
+      "id": 89,
+      "caption": "2025 겨울 이벤트 여름 이벤트",
+      "key": "AWARD_WINTER_2025"
     }
   ],
   "filter_types": [
@@ -4136,6 +4146,18 @@
     {
       "id": 564,
       "caption": "해고된 직원이 청소용 화학 물질 유출"
+    },
+    {
+      "id": 565,
+      "caption": "고객이 복권을 훔치다"
+    },
+    {
+      "id": 566,
+      "caption": "자동차 부품 매장 내부 절도"
+    },
+    {
+      "id": 567,
+      "caption": "사건 조작으로 적발된 변호사"
     }
   ]
 }
