@@ -2369,6 +2369,16 @@
       "id": 98,
       "caption": "Alliance Challenge December 2024",
       "key": "AWARD_ALLIANCE_CHALLENGE_DEC_2024"
+    },
+    {
+      "id": 99,
+      "caption": "New Year 2024",
+      "key": "AWARD_NEWYEAR_2024"
+    },
+    {
+      "id": 100,
+      "caption": "Winter Event 2025",
+      "key": "AWARD_WINTER_2025"
     }
   ],
   "filter_types": [
@@ -6513,6 +6523,22 @@
     {
       "id": 1022,
       "caption": "Elves Protesting"
+    },
+    {
+      "id": 1023,
+      "caption": "Customer steals lottery tickets"
+    },
+    {
+      "id": 1024,
+      "caption": "Lawyer caught padding cases"
+    },
+    {
+      "id": 1025,
+      "caption": "Illegal firearms found in gun store raid"
+    },
+    {
+      "id": 1026,
+      "caption": "Internal Theft at Auto Parts Store"
     }
   ]
 }
