@@ -644,6 +644,11 @@
       "key": "critical_transport_value",
       "caption": null,
       "type": "Integer"
+    },
+    {
+      "key": "minutes_value",
+      "caption": null,
+      "type": "Integer"
     }
   ],
   "pois": [
@@ -1926,6 +1931,16 @@
       "id": 102,
       "caption": "Alliancens udfordring december 2024",
       "key": "AWARD_ALLIANCE_CHALLENGE_DEC_2024"
+    },
+    {
+      "id": 103,
+      "caption": "Nytårs 2024",
+      "key": "AWARD_NEWYEAR_2024"
+    },
+    {
+      "id": 104,
+      "caption": "Vinterbegivenhed 2025",
+      "key": "AWARD_WINTER_2025"
     }
   ],
   "filter_types": [
@@ -4598,6 +4613,18 @@
     {
       "id": 654,
       "caption": "Fyret medarbejder spilder rengøringskemikalier"
+    },
+    {
+      "id": 655,
+      "caption": "Kunde stjæler lodsedler"
+    },
+    {
+      "id": 656,
+      "caption": "Internt tyveri i butik med bildele"
+    },
+    {
+      "id": 657,
+      "caption": "Advokat taget i at manipulere med sager"
     }
   ]
 }
