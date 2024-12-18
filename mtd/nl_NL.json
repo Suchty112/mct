@@ -2148,6 +2148,16 @@
       "id": 117,
       "caption": "Alliantie Uitdaging December 2024",
       "key": "AWARD_ALLIANCE_CHALLENGE_DEC_2024"
+    },
+    {
+      "id": 118,
+      "caption": "Nieuw Jaar 2024",
+      "key": "AWARD_NEWYEAR_2024"
+    },
+    {
+      "id": 119,
+      "caption": "Winter Event 2025",
+      "key": "AWARD_WINTER_2025"
     }
   ],
   "filter_types": [
@@ -6624,6 +6634,18 @@
     {
       "id": 1105,
       "caption": "Gevecht om de lelijkste kersttrui"
+    },
+    {
+      "id": 1106,
+      "caption": "Customer steals lottery tickets"
+    },
+    {
+      "id": 1107,
+      "caption": "Diefstal bij auto-onderdelenwinkel"
+    },
+    {
+      "id": 1108,
+      "caption": "Advocaat betrapt op manipuleren van rechtzaak"
     }
   ]
 }
