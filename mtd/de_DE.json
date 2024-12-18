@@ -2521,6 +2521,16 @@
       "id": 115,
       "caption": "Verbands-Herausforderung Dezember 2024",
       "key": "AWARD_ALLIANCE_CHALLENGE_DEC_2024"
+    },
+    {
+      "id": 116,
+      "caption": "Neujahr 2024",
+      "key": "AWARD_NEWYEAR_2024"
+    },
+    {
+      "id": 117,
+      "caption": "Winter-Einsätze 2025",
+      "key": "AWARD_WINTER_2025"
     }
   ],
   "filter_types": [
