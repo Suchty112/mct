@@ -1844,6 +1844,16 @@
       "id": 92,
       "caption": "アライアンス・チャレンジ 2024年12月",
       "key": "AWARD_ALLIANCE_CHALLENGE_DEC_2024"
+    },
+    {
+      "id": 93,
+      "caption": "2024 新年",
+      "key": "AWARD_NEWYEAR_2024"
+    },
+    {
+      "id": 94,
+      "caption": "2025 冬のイベント",
+      "key": "AWARD_WINTER_2025"
     }
   ],
   "filter_types": [
@@ -4176,6 +4186,18 @@
     {
       "id": 569,
       "caption": "解雇された従業員が洗浄剤をこぼす"
+    },
+    {
+      "id": 570,
+      "caption": "客が宝くじを盗む"
+    },
+    {
+      "id": 571,
+      "caption": "自動車部品店での内部窃盗"
+    },
+    {
+      "id": 572,
+      "caption": "事件操作で捕まった弁護士"
     }
   ]
 }
