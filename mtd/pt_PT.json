@@ -1909,6 +1909,16 @@
       "id": 98,
       "caption": "Desafio da Aliança dezembro de 2024",
       "key": "AWARD_ALLIANCE_CHALLENGE_DEC_2024"
+    },
+    {
+      "id": 99,
+      "caption": "Ano Novo 2024",
+      "key": "AWARD_NEWYEAR_2024"
+    },
+    {
+      "id": 100,
+      "caption": "Evento de Inverno 2025",
+      "key": "AWARD_WINTER_2025"
     }
   ],
   "filter_types": [
@@ -4445,6 +4455,18 @@
     {
       "id": 620,
       "caption": "Empregado despedido derrama produtos químicos de limpeza"
+    },
+    {
+      "id": 621,
+      "caption": "Cliente rouba bilhetes de lotaria"
+    },
+    {
+      "id": 622,
+      "caption": "Furto interno em loja de peças de automóvel"
+    },
+    {
+      "id": 623,
+      "caption": "Advogado apanhado a manipular processos"
     }
   ]
 }
