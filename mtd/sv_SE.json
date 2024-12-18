@@ -1965,6 +1965,16 @@
       "id": 96,
       "caption": "Alliansutmaning december 2024",
       "key": "AWARD_ALLIANCE_CHALLENGE_DEC_2024"
+    },
+    {
+      "id": 97,
+      "caption": "Nytt år 2024",
+      "key": "AWARD_NEWYEAR_2024"
+    },
+    {
+      "id": 98,
+      "caption": "Vinterevenemang 2025",
+      "key": "AWARD_WINTER_2025"
     }
   ],
   "filter_types": [
@@ -4537,6 +4547,18 @@
     {
       "id": 629,
       "caption": "Avskedad anställd spiller rengöringskemikalier"
+    },
+    {
+      "id": 630,
+      "caption": "Kund stjäl lotter"
+    },
+    {
+      "id": 631,
+      "caption": "Intern stöld i bilreservdelsbutik"
+    },
+    {
+      "id": 632,
+      "caption": "Advokat fångad manipulerar fall"
     }
   ]
 }
