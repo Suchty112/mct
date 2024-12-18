@@ -2110,6 +2110,16 @@
       "id": 91,
       "caption": "Alliance Challenge desember 2024",
       "key": "AWARD_ALLIANCE_CHALLENGE_DEC_2024"
+    },
+    {
+      "id": 92,
+      "caption": "Nyttårs 2024",
+      "key": "AWARD_NEWYEAR_2024"
+    },
+    {
+      "id": 93,
+      "caption": "Vinterarrangement 2025",
+      "key": "AWARD_WINTER_2025"
     }
   ],
   "filter_types": [
@@ -4790,6 +4800,18 @@
     {
       "id": 656,
       "caption": "Avskjediget ansatt søler rengjøringskjemikalier"
+    },
+    {
+      "id": 657,
+      "caption": "Kunde stjeler lodd"
+    },
+    {
+      "id": 658,
+      "caption": "Internt tyveri i bildelerbutikk"
+    },
+    {
+      "id": 659,
+      "caption": "Advokat tatt i å manipulere saker"
     }
   ]
 }
