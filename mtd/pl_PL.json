@@ -1860,6 +1860,16 @@
       "id": 99,
       "caption": "Wyzwanie sojuszu grudzień 2024 r.",
       "key": "AWARD_ALLIANCE_CHALLENGE_DEC_2024"
+    },
+    {
+      "id": 100,
+      "caption": "Nowy Rok 2024",
+      "key": "AWARD_NEWYEAR_2024"
+    },
+    {
+      "id": 101,
+      "caption": "Impreza zimowa 2025",
+      "key": "AWARD_WINTER_2025"
     }
   ],
   "filter_types": [
@@ -5076,6 +5086,18 @@
     {
       "id": 790,
       "caption": "Zwolniony pracownik rozlewa środki czyszczące"
+    },
+    {
+      "id": 791,
+      "caption": "Klient kradnie losy na loterię"
+    },
+    {
+      "id": 792,
+      "caption": "Kradzież wewnętrzna w sklepie z częściami samochodowymi"
+    },
+    {
+      "id": 793,
+      "caption": "Prawnik przyłapany na manipulowaniu sprawami"
     }
   ]
 }
