@@ -1823,6 +1823,16 @@
       "id": 95,
       "caption": "Allianssin haaste Joulukuu 2024",
       "key": "AWARD_ALLIANCE_CHALLENGE_DEC_2024"
+    },
+    {
+      "id": 96,
+      "caption": "Uudenvuoden 2024",
+      "key": "AWARD_NEWYEAR_2024"
+    },
+    {
+      "id": 97,
+      "caption": "Talvi tapahtuma 2025",
+      "key": "AWARD_WINTER_2025"
     }
   ],
   "filter_types": [
@@ -4463,6 +4473,18 @@
     {
       "id": 646,
       "caption": "747 Potkut saanut työntekijä kaatoi siivouskemikaaleja"
+    },
+    {
+      "id": 647,
+      "caption": "12 Asiakas varastaa lottokuponkeja"
+    },
+    {
+      "id": 648,
+      "caption": "12 Sisäinen varkaus varaosaliikkeessä"
+    },
+    {
+      "id": 649,
+      "caption": "34 Asianajaja jäi kiinni tapausten manipuloinnista"
     }
   ]
 }
