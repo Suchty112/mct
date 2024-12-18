@@ -2207,6 +2207,16 @@
       "id": 101,
       "caption": "Sfida dell'Alleanza Dicembre 2024",
       "key": "AWARD_ALLIANCE_CHALLENGE_DEC_2024"
+    },
+    {
+      "id": 102,
+      "caption": "Anno Nuovo 2024",
+      "key": "AWARD_NEWYEAR_2024"
+    },
+    {
+      "id": 103,
+      "caption": "Evento invernale 2025",
+      "key": "AWARD_WINTER_2025"
     }
   ],
   "filter_types": [
@@ -5239,6 +5249,14 @@
     {
       "id": 744,
       "caption": "Sospetto incendio doloso"
+    },
+    {
+      "id": 745,
+      "caption": "Crollo della miniera"
+    },
+    {
+      "id": 746,
+      "caption": "Tetto del negozio crollato"
     }
   ]
 }
