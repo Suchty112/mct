@@ -2224,6 +2224,16 @@
       "id": 100,
       "caption": "Défi de l'Alliance Décembre 2024",
       "key": "AWARD_ALLIANCE_CHALLENGE_DEC_2024"
+    },
+    {
+      "id": 101,
+      "caption": "Nouvelle Année 2024",
+      "key": "AWARD_NEWYEAR_2024"
+    },
+    {
+      "id": 102,
+      "caption": "Événement d'hiver 2025",
+      "key": "AWARD_WINTER_2025"
     }
   ],
   "filter_types": [
@@ -5484,6 +5494,18 @@
     {
       "id": 801,
       "caption": "Accident entre un bus et un tramway"
+    },
+    {
+      "id": 802,
+      "caption": "Inondation sur le tarmac de l'aéroport"
+    },
+    {
+      "id": 803,
+      "caption": "Incendie dans une usine de fabrication de batteries lithium"
+    },
+    {
+      "id": 804,
+      "caption": "Convoi d'un chef d'état attaqué"
     }
   ]
 }
