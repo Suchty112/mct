@@ -616,11 +616,6 @@
       "type": "Boolean"
     },
     {
-      "key": "need_swat_armored_vehicle",
-      "caption": "Required SWAT Armoured Vehicles",
-      "type": "Integer"
-    },
-    {
       "key": "personal_min_feuerwehr",
       "caption": "Average min . Fire Personnel",
       "type": "Integer"
@@ -758,6 +753,11 @@
     {
       "key": "need_brush_air_command",
       "caption": "Required Wildland Lead Planes",
+      "type": "Integer"
+    },
+    {
+      "key": "need_swat_armored_vehicle",
+      "caption": "Required SWAT Armoured Vehicles",
       "type": "Integer"
     },
     {
