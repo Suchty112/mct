@@ -2106,6 +2106,11 @@
       "id": 103,
       "caption": "Zimní akce 2025",
       "key": "AWARD_WINTER_2025"
+    },
+    {
+      "id": 104,
+      "caption": "5. výročí",
+      "key": "AWARD_FIVE_YEARS"
     }
   ],
   "filter_types": [
