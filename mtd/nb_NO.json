@@ -2120,6 +2120,11 @@
       "id": 93,
       "caption": "Vinterarrangement 2025",
       "key": "AWARD_WINTER_2025"
+    },
+    {
+      "id": 94,
+      "caption": "5-årsjubileum",
+      "key": "AWARD_FIVE_YEARS"
     }
   ],
   "filter_types": [
