@@ -1941,6 +1941,11 @@
       "id": 104,
       "caption": "Vinterbegivenhed 2025",
       "key": "AWARD_WINTER_2025"
+    },
+    {
+      "id": 105,
+      "caption": "5 års jubilæum",
+      "key": "AWARD_FIVE_YEARS"
     }
   ],
   "filter_types": [
