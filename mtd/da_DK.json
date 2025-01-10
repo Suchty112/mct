@@ -1946,6 +1946,11 @@
       "id": 105,
       "caption": "5 års jubilæum",
       "key": "AWARD_FIVE_YEARS"
+    },
+    {
+      "id": 106,
+      "caption": "Alliance Challenge januar 2025",
+      "key": "AWARD_ALLIANCE_CHALLENGE_JAN_2025"
     }
   ],
   "filter_types": [
@@ -4630,6 +4635,18 @@
     {
       "id": 657,
       "caption": "Advokat taget i at manipulere med sager"
+    },
+    {
+      "id": 658,
+      "caption": "Ulykke med sneplov"
+    },
+    {
+      "id": 659,
+      "caption": "Redning ved isfiskeri"
+    },
+    {
+      "id": 660,
+      "caption": "Frossent rør sprængt"
     }
   ]
 }
