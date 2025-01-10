@@ -2111,6 +2111,11 @@
       "id": 104,
       "caption": "5. výročí",
       "key": "AWARD_FIVE_YEARS"
+    },
+    {
+      "id": 105,
+      "caption": "Alianční výzva leden 2025",
+      "key": "AWARD_ALLIANCE_CHALLENGE_JAN_2025"
     }
   ],
   "filter_types": [
@@ -4827,6 +4832,18 @@
     {
       "id": 665,
       "caption": "Právník přistižen při manipulaci s případy"
+    },
+    {
+      "id": 666,
+      "caption": "Nehoda sněžného pluhu"
+    },
+    {
+      "id": 667,
+      "caption": "Záchrana při rybaření na ledu"
+    },
+    {
+      "id": 668,
+      "caption": "Prasknutí zamrzlého potrubí"
     }
   ]
 }
