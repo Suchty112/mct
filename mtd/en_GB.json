@@ -2426,6 +2426,11 @@
       "id": 97,
       "caption": "Winter Event 2025",
       "key": "AWARD_WINTER_2025"
+    },
+    {
+      "id": 98,
+      "caption": "Alliance Challenge January 2025",
+      "key": "AWARD_ALLIANCE_CHALLENGE_JAN_2025"
     }
   ],
   "filter_types": [
@@ -5434,6 +5439,18 @@
     {
       "id": 738,
       "caption": "Lawyer caught padding cases"
+    },
+    {
+      "id": 739,
+      "caption": "Snowplow Accident"
+    },
+    {
+      "id": 740,
+      "caption": "Ice Fishing Rescue"
+    },
+    {
+      "id": 741,
+      "caption": "Frozen Pipe Burst"
     }
   ]
 }
