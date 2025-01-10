@@ -1854,6 +1854,11 @@
       "id": 94,
       "caption": "2025 冬のイベント",
       "key": "AWARD_WINTER_2025"
+    },
+    {
+      "id": 95,
+      "caption": "アライアンス・チャレンジ 2025年1月",
+      "key": "AWARD_ALLIANCE_CHALLENGE_JAN_2025"
     }
   ],
   "filter_types": [
@@ -4198,6 +4203,18 @@
     {
       "id": 572,
       "caption": "事件操作で捕まった弁護士"
+    },
+    {
+      "id": 573,
+      "caption": "除雪車の事故"
+    },
+    {
+      "id": 574,
+      "caption": "アイスフィッシング・レスキュー"
+    },
+    {
+      "id": 575,
+      "caption": "凍結したパイプの破裂"
     }
   ]
 }
