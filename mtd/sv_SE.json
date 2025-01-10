@@ -1975,6 +1975,11 @@
       "id": 98,
       "caption": "Vinterevenemang 2025",
       "key": "AWARD_WINTER_2025"
+    },
+    {
+      "id": 99,
+      "caption": "Alliance Challenge Januari 2025",
+      "key": "AWARD_ALLIANCE_CHALLENGE_JAN_2025"
     }
   ],
   "filter_types": [
@@ -4559,6 +4564,18 @@
     {
       "id": 632,
       "caption": "Advokat fångad manipulerar fall"
+    },
+    {
+      "id": 633,
+      "caption": "Olycka med snöplog"
+    },
+    {
+      "id": 634,
+      "caption": "Räddning vid isfiske"
+    },
+    {
+      "id": 635,
+      "caption": "Fryst rör sprängt"
     }
   ]
 }
