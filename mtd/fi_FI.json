@@ -1833,6 +1833,11 @@
       "id": 97,
       "caption": "Talvi tapahtuma 2025",
       "key": "AWARD_WINTER_2025"
+    },
+    {
+      "id": 98,
+      "caption": "Allianssin haaste tammikuu 2025",
+      "key": "AWARD_ALLIANCE_CHALLENGE_JAN_2025"
     }
   ],
   "filter_types": [
@@ -4485,6 +4490,26 @@
     {
       "id": 649,
       "caption": "34 Päihtynyt henkilö ulkoiluttamassa lemmikkieläintä"
+    },
+    {
+      "id": 650,
+      "caption": "756 Lumihangesta makaamasta löydetty henkilö"
+    },
+    {
+      "id": 651,
+      "caption": "756 Alilämpöinen henkilö"
+    },
+    {
+      "id": 652,
+      "caption": "203 Lumenaura onnettomuus"
+    },
+    {
+      "id": 653,
+      "caption": "756 Jääkalastus Pelastus"
+    },
+    {
+      "id": 654,
+      "caption": "461 Jäätynyt putki puhkesi"
     }
   ]
 }
