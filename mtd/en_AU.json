@@ -1917,6 +1917,11 @@
       "id": 97,
       "caption": "Summer Event 2025",
       "key": "AWARD_SUMMER_2025"
+    },
+    {
+      "id": 98,
+      "caption": "Alliance Challenge January 2025",
+      "key": "AWARD_ALLIANCE_CHALLENGE_JAN_2025"
     }
   ],
   "filter_types": [
