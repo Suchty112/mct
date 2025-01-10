@@ -2234,6 +2234,11 @@
       "id": 102,
       "caption": "Événement d'hiver 2025",
       "key": "AWARD_WINTER_2025"
+    },
+    {
+      "id": 103,
+      "caption": "Défi de l'Alliance Janvier 2025",
+      "key": "AWARD_ALLIANCE_CHALLENGE_JAN_2025"
     }
   ],
   "filter_types": [
@@ -5506,6 +5511,18 @@
     {
       "id": 804,
       "caption": "Convoi d'un chef d'état attaqué"
+    },
+    {
+      "id": 805,
+      "caption": "Accident de chasse-neige"
+    },
+    {
+      "id": 806,
+      "caption": "Sauvetage d'un pêcheur sur glace"
+    },
+    {
+      "id": 807,
+      "caption": "Éclatement d'un tuyau gelé"
     }
   ]
 }
