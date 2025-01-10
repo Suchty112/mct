@@ -2083,6 +2083,11 @@
       "id": 98,
       "caption": "Evento de invierno 2025",
       "key": "AWARD_WINTER_2025"
+    },
+    {
+      "id": 99,
+      "caption": "Reto de la Alianza Enero 2025",
+      "key": "AWARD_ALLIANCE_CHALLENGE_JAN_2025"
     }
   ],
   "filter_types": [
@@ -4571,6 +4576,18 @@
     {
       "id": 608,
       "caption": "Pillan a un abogado manipulando casos"
+    },
+    {
+      "id": 609,
+      "caption": "Accidente de quitanieves"
+    },
+    {
+      "id": 610,
+      "caption": "Rescate en pesca en hielo"
+    },
+    {
+      "id": 611,
+      "caption": "Rotura de tubería congelada"
     }
   ]
 }
