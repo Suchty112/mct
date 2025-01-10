@@ -2158,6 +2158,11 @@
       "id": 119,
       "caption": "Winter Event 2025",
       "key": "AWARD_WINTER_2025"
+    },
+    {
+      "id": 120,
+      "caption": "Team Uitdaging Januari 2025",
+      "key": "AWARD_ALLIANCE_CHALLENGE_JAN_2025"
     }
   ],
   "filter_types": [
