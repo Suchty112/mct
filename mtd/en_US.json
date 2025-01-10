@@ -2379,6 +2379,11 @@
       "id": 100,
       "caption": "Winter Event 2025",
       "key": "AWARD_WINTER_2025"
+    },
+    {
+      "id": 101,
+      "caption": "Alliance Challenge January 2025",
+      "key": "AWARD_ALLIANCE_CHALLENGE_JAN_2025"
     }
   ],
   "filter_types": [
@@ -6506,7 +6511,7 @@
     },
     {
       "id": 1018,
-      "caption": "Hijacked Plane crash lands into Water"
+      "caption": "Pilot Distress - Plane crash lands into Water"
     },
     {
       "id": 1019,
@@ -6538,6 +6543,18 @@
     },
     {
       "id": 1026,
+      "caption": "Snowplow Accident"
+    },
+    {
+      "id": 1027,
+      "caption": "Ice Fishing Rescue"
+    },
+    {
+      "id": 1028,
+      "caption": "Frozen Pipe Burst"
+    },
+    {
+      "id": 1029,
       "caption": "Internal Theft at Auto Parts Store"
     }
   ]
