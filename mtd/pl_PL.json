@@ -1870,6 +1870,11 @@
       "id": 101,
       "caption": "Impreza zimowa 2025",
       "key": "AWARD_WINTER_2025"
+    },
+    {
+      "id": 102,
+      "caption": "Wyzwanie sojuszu styczeń 2025 r",
+      "key": "AWARD_ALLIANCE_CHALLENGE_JAN_2025"
     }
   ],
   "filter_types": [
@@ -5098,6 +5103,18 @@
     {
       "id": 793,
       "caption": "Prawnik przyłapany na manipulowaniu sprawami"
+    },
+    {
+      "id": 794,
+      "caption": "Wypadek pługa śnieżnego"
+    },
+    {
+      "id": 795,
+      "caption": "Ratownictwo podlodowe"
+    },
+    {
+      "id": 796,
+      "caption": "Pęknięcie zamarzniętej rury"
     }
   ]
 }
