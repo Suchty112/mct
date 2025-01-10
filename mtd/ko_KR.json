@@ -1834,6 +1834,11 @@
       "id": 89,
       "caption": "2025 겨울 이벤트 여름 이벤트",
       "key": "AWARD_WINTER_2025"
+    },
+    {
+      "id": 90,
+      "caption": "얼라이언스 챌린지 2025년 1월",
+      "key": "AWARD_ALLIANCE_CHALLENGE_JAN_2025"
     }
   ],
   "filter_types": [
@@ -4158,6 +4163,18 @@
     {
       "id": 567,
       "caption": "사건 조작으로 적발된 변호사"
+    },
+    {
+      "id": 568,
+      "caption": "제설기 사고"
+    },
+    {
+      "id": 569,
+      "caption": "얼음 낚시 구조"
+    },
+    {
+      "id": 570,
+      "caption": "동파된 파이프 파열"
     }
   ]
 }
