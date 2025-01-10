@@ -1919,6 +1919,11 @@
       "id": 100,
       "caption": "Evento de Inverno 2025",
       "key": "AWARD_WINTER_2025"
+    },
+    {
+      "id": 101,
+      "caption": "Desafio da Aliança janeiro de 2025",
+      "key": "AWARD_ALLIANCE_CHALLENGE_JAN_2025"
     }
   ],
   "filter_types": [
@@ -4467,6 +4472,18 @@
     {
       "id": 623,
       "caption": "Advogado apanhado a manipular processos"
+    },
+    {
+      "id": 624,
+      "caption": "Acidente com limpa-neve"
+    },
+    {
+      "id": 625,
+      "caption": "Salvamento de pesca no gelo"
+    },
+    {
+      "id": 626,
+      "caption": "Rebentamento de cano congelado"
     }
   ]
 }
