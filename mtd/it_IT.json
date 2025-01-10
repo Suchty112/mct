@@ -62,7 +62,7 @@
     },
     {
       "key": "need_oneof_police_patrol_or_municipal_police_crew",
-      "caption": "Veicoli Della Polizia o Pattuglie richiesto",
+      "caption": null,
       "type": "Integer"
     },
     {
@@ -2217,6 +2217,11 @@
       "id": 103,
       "caption": "Evento invernale 2025",
       "key": "AWARD_WINTER_2025"
+    },
+    {
+      "id": 104,
+      "caption": "Sfida dell'Alleanza gennaio 2025",
+      "key": "AWARD_ALLIANCE_CHALLENGE_JAN_2025"
     }
   ],
   "filter_types": [
@@ -5257,6 +5262,18 @@
     {
       "id": 746,
       "caption": "Tetto del negozio crollato"
+    },
+    {
+      "id": 747,
+      "caption": "Incidente con lo spazzaneve"
+    },
+    {
+      "id": 748,
+      "caption": "Soccorso per la pesca sul ghiaccio"
+    },
+    {
+      "id": 749,
+      "caption": "Scoppio di un tubo congelato"
     }
   ]
 }
