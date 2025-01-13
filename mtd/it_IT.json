@@ -62,7 +62,7 @@
     },
     {
       "key": "need_oneof_police_patrol_or_municipal_police_crew",
-      "caption": null,
+      "caption": "Veicoli Della Polizia o Pattuglie richiesto",
       "type": "Integer"
     },
     {
