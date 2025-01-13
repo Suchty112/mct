@@ -6314,7 +6314,7 @@
     },
     {
       "id": 1024,
-      "caption": "Benodige Signalisatie Eenheden"
+      "caption": "Auto met pech op vluchtstrook"
     },
     {
       "id": 1025,
@@ -6651,6 +6651,22 @@
     {
       "id": 1108,
       "caption": "Advocaat betrapt op manipuleren van rechtzaak"
+    },
+    {
+      "id": 1109,
+      "caption": "Ongeval met sneeuwploeg"
+    },
+    {
+      "id": 1110,
+      "caption": "Redding bij ijsvissen"
+    },
+    {
+      "id": 1111,
+      "caption": "Babbeltruc"
+    },
+    {
+      "id": 1112,
+      "caption": "Bevroren pijp barst"
     }
   ]
 }
