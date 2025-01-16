@@ -61,8 +61,8 @@
       "type": "Integer"
     },
     {
-      "key": "need_oneof_police_patrol_or_municipal_police_crew",
-      "caption": "Veicoli Della Polizia o Pattuglie richiesto",
+      "key": "need_oneof_police_patrol_or_municipal_police",
+      "caption": "Pattuglie o Veicoli della Polizia Locale richiesto",
       "type": "Integer"
     },
     {
@@ -178,6 +178,11 @@
     {
       "key": "need_oneof_fire_engine_or_rescue",
       "caption": "APS/ABP o Unità polisoccorso richiesto",
+      "type": "Integer"
+    },
+    {
+      "key": "max_municipal_police_replacing_fustw",
+      "caption": "Quantità massima di Veicoli Della Polizia Locale che possono sostituire le Auto Di Pattuglia",
       "type": "Integer"
     },
     {
@@ -308,11 +313,6 @@
     {
       "key": "need_gwwasserrettung",
       "caption": "Richiesto pickup SAF",
-      "type": "Integer"
-    },
-    {
-      "key": "max_municipal_police_replacing_fustw",
-      "caption": "Quantità massima di Veicoli Della Polizia Locale che possono sostituire le Auto Di Pattuglia",
       "type": "Integer"
     },
     {
@@ -611,6 +611,21 @@
       "type": "Integer"
     },
     {
+      "key": "need_arff",
+      "caption": "AIS/AISP Aeroportuali richiesti",
+      "type": "Integer"
+    },
+    {
+      "key": "allow_arff_instead_of_lf",
+      "caption": "Autopompa può essere sostituito da AIS/AISP Aeroportuale",
+      "type": "Boolean"
+    },
+    {
+      "key": "max_irff_replacing_arff",
+      "caption": "Gli AIS/AISP Industriali possono sostituire gli AIS/AISP Aeroportuali",
+      "type": "Integer"
+    },
+    {
       "key": "need_riv",
       "caption": "ARI Necessari",
       "type": "Integer"
@@ -648,11 +663,6 @@
     {
       "key": "need_rw_chance",
       "caption": "Possibilità che venga richiesto il Polisoccorso",
-      "type": "Integer"
-    },
-    {
-      "key": "need_arff",
-      "caption": "AIS/AISP Aeroportuali richiesti",
       "type": "Integer"
     },
     {
