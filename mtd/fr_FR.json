@@ -646,8 +646,8 @@
       "type": "Integer"
     },
     {
-      "key": "max_arff_replacing_riv",
-      "caption": "VIM peut remplacer un VIRP",
+      "key": "need_oneof_airport_fire_engine_or_engine_large",
+      "caption": "VIRP ou VIM requis",
       "type": "Integer"
     },
     {
@@ -658,6 +658,11 @@
     {
       "key": "need_airport_equipment",
       "caption": "VSA requis",
+      "type": "Integer"
+    },
+    {
+      "key": "max_arff_replacing_riv",
+      "caption": "VIM peut remplacer un VIRP",
       "type": "Integer"
     },
     {
@@ -5322,7 +5327,7 @@
     },
     {
       "id": 757,
-      "caption": "Incendie dans une pizerria desaffectée"
+      "caption": "Incendie dans une pizzeria désaffectée"
     },
     {
       "id": 758,
