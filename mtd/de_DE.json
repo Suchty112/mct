@@ -241,9 +241,9 @@
       "type": "Integer"
     },
     {
-      "key": "allow_rw_instead_of_lf",
-      "caption": "RW kann LF ersetzen",
-      "type": "Boolean"
+      "key": "need_oneof_fire_engine_or_rescue",
+      "caption": "Benötigte Löschfahrzeuge oder Rüstwagen",
+      "type": "Integer"
     },
     {
       "key": "need_gwmess",
@@ -356,13 +356,13 @@
       "type": "Integer"
     },
     {
-      "key": "allow_police_motorcycle_instead_of_fustw",
-      "caption": "Polizeimotorrad kann Streifenwagen ersetzen",
-      "type": "Boolean"
+      "key": "need_oneof_police_patrol_or_motorcycle",
+      "caption": "Benötigte Streifenwagen oder Polizeimotorräder",
+      "type": "Integer"
     },
     {
-      "key": "max_civil_patrol_replacing_fustw",
-      "caption": "Anzahl an Streifenwagen, welche durch Zivilstreifenwagen ersetzt werden können",
+      "key": "need_oneof_police_patrol_or_civil_patrol",
+      "caption": "Benötigte Streifenwagen oder Zivilstreifenwagen",
       "type": "Integer"
     },
     {
@@ -378,6 +378,16 @@
     {
       "key": "max_police_motorcycle_replacing_fustw",
       "caption": "Anzahl an Streifenwagen, welche durch Polizeimotorräder ersetzt werden können",
+      "type": "Integer"
+    },
+    {
+      "key": "max_civil_patrol_replacing_fustw",
+      "caption": "Anzahl an Streifenwagen, welche durch Zivilstreifenwagen ersetzt werden können",
+      "type": "Integer"
+    },
+    {
+      "key": "need_oneof_police_patrol_or_civil_patrol_or_motorcycle",
+      "caption": "Benötigte Streifenwagen oder Zivilstreifenwagen oder Polizeimotorrad",
       "type": "Integer"
     },
     {
@@ -406,13 +416,13 @@
       "type": "Integer"
     },
     {
-      "key": "allow_gwoil_instead_of_lf",
-      "caption": "GW-Öl kann LF ersetzen",
-      "type": "Boolean"
+      "key": "need_oneof_fire_engine_or_rescue_or_oil_equipment",
+      "caption": "Benötigte Löschfahrzeuge, Rüstwagen oder Gerätwagen Öl",
+      "type": "Integer"
     },
     {
-      "key": "need_streifenwagen_chance",
-      "caption": "Streifenwagen Anforderungswahrscheinlichkeit",
+      "key": "need_oneof_police_patrol_or_motorcycle_chance",
+      "caption": "Streifenwagen oder Polizeimotorrad Anforderungswahrscheinlichkeit",
       "type": "Integer"
     },
     {
@@ -681,6 +691,11 @@
       "type": "Integer"
     },
     {
+      "key": "allow_police_motorcycle_instead_of_fustw",
+      "caption": "Polizeimotorrad kann Streifenwagen ersetzen",
+      "type": "Boolean"
+    },
+    {
       "key": "expansion_mission_only",
       "caption": "Kann nur eine Ausbreitung eines anderen Einsatzes sein",
       "type": "Boolean"
@@ -809,6 +824,11 @@
       "key": "pump_mode",
       "caption": "Pumpeneinsatz",
       "type": "Symbol"
+    },
+    {
+      "key": "need_streifenwagen_chance",
+      "caption": "Streifenwagen Anforderungswahrscheinlichkeit",
+      "type": "Integer"
     },
     {
       "key": "subsequent_mission_only",
