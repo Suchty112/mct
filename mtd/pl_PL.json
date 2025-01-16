@@ -146,9 +146,14 @@
       "type": "Integer"
     },
     {
-      "key": "need_oneof_police_patrol_or_traffic_control",
-      "caption": "Wymagane radiowozy WRD lub radiowozy",
+      "key": "need_streifenwagen",
+      "caption": "Wymagane radiowozy",
       "type": "Integer"
+    },
+    {
+      "key": "allow_traffic_car_instead_of_fustw",
+      "caption": "Radiowóz OPI może zostać zastąpiony przez Radiowóz wydziału ruchu drogowego",
+      "type": "Boolean"
     },
     {
       "key": "max_municipal_police_replacing_fustw",
@@ -196,11 +201,6 @@
       "type": "Integer"
     },
     {
-      "key": "need_streifenwagen",
-      "caption": "Wymagane radiowozy",
-      "type": "Integer"
-    },
-    {
       "key": "police_value",
       "caption": null,
       "type": "Integer"
@@ -208,6 +208,16 @@
     {
       "key": "possible_prisoner",
       "caption": "Maksymalna liczba więźniów",
+      "type": "Integer"
+    },
+    {
+      "key": "need_oneof_police_patrol_or_municipal_police",
+      "caption": "Wymagane radiowozy lub Samochód SM",
+      "type": "Integer"
+    },
+    {
+      "key": "need_oneof_police_patrol_or_traffic_control",
+      "caption": "Wymagane radiowozy WRD lub radiowozy",
       "type": "Integer"
     },
     {
@@ -404,11 +414,6 @@
       "key": "need_traffic_car",
       "caption": "Wymagane radiowozy WRD",
       "type": "Integer"
-    },
-    {
-      "key": "allow_traffic_car_instead_of_fustw",
-      "caption": "Radiowóz OPI może zostać zastąpiony przez Radiowóz wydziału ruchu drogowego",
-      "type": "Boolean"
     },
     {
       "key": "need_foam",
