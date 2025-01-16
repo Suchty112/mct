@@ -571,13 +571,13 @@
       "type": "Integer"
     },
     {
-      "key": "max_arff_replacing_riv",
-      "caption": "ARFF Lentokenttäpaloauto voi korvata RIV Lentokenttäkärkiauto",
+      "key": "need_oneof_fire_engine_or_airport_fire_engine_or_engine_large",
+      "caption": "Vaaditut paloautot, RIV lentokenttäpaloautot tai ARFF lentokenttäpaloautot",
       "type": "Integer"
     },
     {
-      "key": "need_oneof_fire_engine_or_airport_fire_engine_or_engine_large",
-      "caption": "Vaaditut paloautot, RIV lentokenttäpaloautot tai ARFF lentokenttäpaloautot",
+      "key": "need_oneof_airport_fire_engine_or_engine_large",
+      "caption": "Vaaditut RIV lentokenttäpaloautot tai ARFF lentokenttäpaloautot",
       "type": "Integer"
     },
     {
