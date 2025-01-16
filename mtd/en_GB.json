@@ -606,13 +606,8 @@
       "type": "Integer"
     },
     {
-      "key": "need_riv",
-      "caption": "Required RIVs",
-      "type": "Integer"
-    },
-    {
-      "key": "max_arff_replacing_riv",
-      "caption": "Major Foam Tender can replace RIVs",
+      "key": "need_oneof_airport_fire_engine_or_engine_large",
+      "caption": "Required RIVs or Major Foam Tenders",
       "type": "Integer"
     },
     {
@@ -658,11 +653,6 @@
     {
       "key": "need_oneof_fire_engine_or_airport_fire_engine_or_engine_large",
       "caption": "Required Fire Engines, RIVs or Major Foam Tenders",
-      "type": "Integer"
-    },
-    {
-      "key": "need_oneof_airport_fire_engine_or_engine_large",
-      "caption": "Required RIVs or Major Foam Tenders",
       "type": "Integer"
     },
     {
