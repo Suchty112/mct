@@ -832,12 +832,12 @@
     },
     {
       "key": "possible_crashed_car_min",
-      "caption": "Minimum amount of crashed cars",
+      "caption": "Minimum amount of cars to tow",
       "type": "Integer"
     },
     {
       "key": "possible_crashed_car",
-      "caption": "Maximum amount of crashed cars",
+      "caption": "Maximum amount of cars to tow",
       "type": "Integer"
     },
     {
