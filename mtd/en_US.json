@@ -61,6 +61,11 @@
       "type": "Unknown"
     },
     {
+      "key": "crashed_car_icons",
+      "caption": null,
+      "type": "Unknown"
+    },
+    {
       "key": "additive_value_overlays",
       "caption": null,
       "type": "Unknown"
@@ -104,6 +109,11 @@
       "key": "need_oneof_fire_engine_or_rescue_or_ladder",
       "caption": "Required Firetrucks, Heavy Rescue Vehicles or Platform Trucks",
       "type": "Integer"
+    },
+    {
+      "key": "crashed_car_large_icons",
+      "caption": null,
+      "type": "Unknown"
     },
     {
       "key": "need_elw1",
@@ -844,6 +854,36 @@
       "key": "critical_transport_value",
       "caption": null,
       "type": "Integer"
+    },
+    {
+      "key": "tow_trucks_large_count",
+      "caption": "Required Rotator Truck Extension",
+      "type": "Integer"
+    },
+    {
+      "key": "need_oneof_fire_rescue_or_ladder",
+      "caption": "Required Heavy Rescue Vehicles or Plattform Trucks",
+      "type": "Integer"
+    },
+    {
+      "key": "possible_crashed_car_large",
+      "caption": "Maximum amount of trucks to tow",
+      "type": "Integer"
+    },
+    {
+      "key": "possible_crashed_car_large_min",
+      "caption": "Minimum amount of trucks to tow",
+      "type": "Integer"
+    },
+    {
+      "key": "technical_rescue_equipment_count",
+      "caption": "Required active Technical Rescue Equipments",
+      "type": "Integer"
+    },
+    {
+      "key": "need_technical_rescue",
+      "caption": "Required Technical Rescue Equipments",
+      "type": "Integer"
     }
   ],
   "pois": [
@@ -1194,6 +1234,10 @@
     {
       "id": 86,
       "caption": "Swamp"
+    },
+    {
+      "id": 87,
+      "caption": "Casino"
     }
   ],
   "available_icons": [
@@ -1881,7 +1925,53 @@
     {
       "id": 27,
       "caption": "Tow Truck Station",
-      "key": "BUILDING_TYPE_TOW_TRUCKS"
+      "key": "BUILDING_TYPE_TOW_TRUCKS",
+      "extensions": [
+        {
+          "id": 0,
+          "caption": "Vehicle Parking Lot"
+        },
+        {
+          "id": 1,
+          "caption": "Additional Vehicle Parking Lot Space"
+        },
+        {
+          "id": 2,
+          "caption": "Additional Vehicle Parking Lot Space"
+        },
+        {
+          "id": 3,
+          "caption": "Additional Vehicle Parking Lot Space"
+        },
+        {
+          "id": 4,
+          "caption": "Additional Vehicle Parking Lot Space"
+        },
+        {
+          "id": 5,
+          "caption": "Additional Vehicle Parking Lot Space"
+        },
+        {
+          "id": 6,
+          "caption": "Additional Vehicle Parking Lot Space"
+        },
+        {
+          "id": 7,
+          "caption": "Additional Vehicle Parking Lot Space"
+        },
+        {
+          "id": 8,
+          "caption": "Additional Vehicle Parking Lot Space"
+        },
+        {
+          "id": 9,
+          "caption": "Additional Vehicle Parking Lot Space"
+        },
+        {
+          "id": 10,
+          "caption": "Rotator Truck"
+        }
+      ]
     }
   ],
   "awards": [
@@ -6556,6 +6646,50 @@
     {
       "id": 1029,
       "caption": "Internal Theft at Auto Parts Store"
+    },
+    {
+      "id": 1030,
+      "caption": "Stolen Armored Truck Crashes into Casino"
+    },
+    {
+      "id": 1031,
+      "caption": "Double Tractor Trailer Broken Down on Highway"
+    },
+    {
+      "id": 1032,
+      "caption": "Intoxicated Construction Worker flips Cement Truck into ditch"
+    },
+    {
+      "id": 1033,
+      "caption": "Driver on Phone slams into Car Carrier Semi Transport on Highway"
+    },
+    {
+      "id": 1034,
+      "caption": "Charter Bus runs out of fuel"
+    },
+    {
+      "id": 1035,
+      "caption": "Semi-Truck Flipped in Ditch"
+    },
+    {
+      "id": 1036,
+      "caption": "Garbage Truck set on Fire"
+    },
+    {
+      "id": 1037,
+      "caption": "School Bus slams breaks down on County Road"
+    },
+    {
+      "id": 1038,
+      "caption": "Tow Truck runs out of Fuel"
+    },
+    {
+      "id": 1039,
+      "caption": "Passenger Train Crashes into Fire Truck stuck on Railroad Crossing"
+    },
+    {
+      "id": 1040,
+      "caption": "Highspeed Pursuit ends in Suspect crashing into Supermarket causing Water Main Break"
     }
   ]
 }
