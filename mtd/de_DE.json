@@ -1760,6 +1760,10 @@
         {
           "id": 9,
           "caption": "Reiterstaffel"
+        },
+        {
+          "id": 10,
+          "caption": "Sonderfahrzeug: Lautsprecherkraftwagen"
         }
       ]
     },
