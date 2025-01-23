@@ -794,6 +794,56 @@
       "key": "need_search_and_rescue",
       "caption": "Benodigde dienstvoertuigen USAR",
       "type": "Integer"
+    },
+    {
+      "key": "tow_trucks_count",
+      "caption": "Benodigde Berger Standplaatsen",
+      "type": "Integer"
+    },
+    {
+      "key": "possible_crashed_car_min",
+      "caption": "Minimaal aantal auto's om te slepen",
+      "type": "Integer"
+    },
+    {
+      "key": "possible_crashed_car",
+      "caption": "Maximaal aantal auto's om te slepen",
+      "type": "Integer"
+    },
+    {
+      "key": "crashed_car_icons",
+      "caption": null,
+      "type": "Unknown"
+    },
+    {
+      "key": "tow_trucks_large_count",
+      "caption": "Berger-G uitbreiding",
+      "type": "Integer"
+    },
+    {
+      "key": "need_oneof_fire_rescue_or_ladder",
+      "caption": "Benodigde hulpverleningsvoertuigen of redvoertuigen",
+      "type": "Integer"
+    },
+    {
+      "key": "possible_crashed_car_large",
+      "caption": "Maximaal aantal vrachtwagens om te slepen",
+      "type": "Integer"
+    },
+    {
+      "key": "possible_crashed_car_large_min",
+      "caption": "Minimaal aantal vrachtwagens om te slepen",
+      "type": "Integer"
+    },
+    {
+      "key": "crashed_car_large_icons",
+      "caption": null,
+      "type": "Unknown"
+    },
+    {
+      "key": "additive_value_overlays",
+      "caption": null,
+      "type": "Unknown"
     }
   ],
   "pois": [
@@ -1088,6 +1138,10 @@
     {
       "id": 72,
       "caption": "Nucleaire installatie"
+    },
+    {
+      "id": 73,
+      "caption": "Casino"
     }
   ],
   "available_icons": [
@@ -1368,6 +1422,14 @@
         {
           "id": 12,
           "caption": "LE - Dienst Infrastructuur"
+        },
+        {
+          "id": 13,
+          "caption": "Berger-K"
+        },
+        {
+          "id": 14,
+          "caption": "Berger-G"
         }
       ]
     },
@@ -1600,12 +1662,73 @@
     {
       "id": 22,
       "caption": "Steunpunt Rijkswaterstaat",
-      "key": "BUILDING_TYPE_TECHNICAL_AID"
+      "key": "BUILDING_TYPE_TECHNICAL_AID",
+      "extensions": [
+        {
+          "id": 0,
+          "caption": "Berger-K"
+        },
+        {
+          "id": 1,
+          "caption": "Berger-G"
+        }
+      ]
     },
     {
       "id": 23,
       "caption": "Militaire hangar",
       "key": "BUILDING_TYPE_FIRE_AVIATION_STATION"
+    },
+    {
+      "id": 24,
+      "caption": "Berger Standplaats",
+      "key": "BUILDING_TYPE_TOW_TRUCKS",
+      "extensions": [
+        {
+          "id": 0,
+          "caption": "Berger-G"
+        },
+        {
+          "id": 1,
+          "caption": "Parkeerplaats voor voertuigen"
+        },
+        {
+          "id": 2,
+          "caption": "Extra parkeerplaats voor voertuigen"
+        },
+        {
+          "id": 3,
+          "caption": "Extra parkeerplaats voor voertuigen"
+        },
+        {
+          "id": 4,
+          "caption": "Extra parkeerplaats voor voertuigen"
+        },
+        {
+          "id": 5,
+          "caption": "Extra parkeerplaats voor voertuigen"
+        },
+        {
+          "id": 6,
+          "caption": "Extra parkeerplaats voor voertuigen"
+        },
+        {
+          "id": 7,
+          "caption": "Extra parkeerplaats voor voertuigen"
+        },
+        {
+          "id": 8,
+          "caption": "Extra parkeerplaats voor voertuigen"
+        },
+        {
+          "id": 9,
+          "caption": "Extra parkeerplaats voor voertuigen"
+        },
+        {
+          "id": 10,
+          "caption": "Extra parkeerplaats voor voertuigen"
+        }
+      ]
     }
   ],
   "awards": [
@@ -6667,6 +6790,74 @@
     {
       "id": 1112,
       "caption": "Bevroren pijp barst"
+    },
+    {
+      "id": 1113,
+      "caption": "Voertuig Inbeslagname"
+    },
+    {
+      "id": 1114,
+      "caption": "Boze persoon bij voertuig inbeslagname"
+    },
+    {
+      "id": 1115,
+      "caption": "Defecte Auto op de snelweg"
+    },
+    {
+      "id": 1116,
+      "caption": "Auto zonder brandstof"
+    },
+    {
+      "id": 1117,
+      "caption": "Verlaten voertuig langs de weg"
+    },
+    {
+      "id": 1118,
+      "caption": "Lege band"
+    },
+    {
+      "id": 1119,
+      "caption": "Gestolen vrachtwagen botst in een casino"
+    },
+    {
+      "id": 1120,
+      "caption": "Dubbele trailer defect op snelweg"
+    },
+    {
+      "id": 1121,
+      "caption": "Dronken bouwvakker rijdt cementwagen in de greppel"
+    },
+    {
+      "id": 1122,
+      "caption": "Bestuurder op telefoon botst op vrachtwagen"
+    },
+    {
+      "id": 1123,
+      "caption": "touringsbus zonder brandstof"
+    },
+    {
+      "id": 1124,
+      "caption": "Vrachtwagen omgevallen in de greppel"
+    },
+    {
+      "id": 1125,
+      "caption": "Vuilniswagen aangestoken"
+    },
+    {
+      "id": 1126,
+      "caption": "Schoolbus kapot op provinciale weg"
+    },
+    {
+      "id": 1127,
+      "caption": "Sleepwagen zonder brandstof"
+    },
+    {
+      "id": 1128,
+      "caption": "Passagierstrein botst op brandweerwagen in een spoorwegovergang"
+    },
+    {
+      "id": 1129,
+      "caption": "Achtervolging eindigt met botstende verdachte in supermarkt, waterleiding breekt"
     }
   ]
 }
