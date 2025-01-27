@@ -877,7 +877,7 @@
     },
     {
       "key": "technical_rescue_equipment_count",
-      "caption": "Required active Technical Rescue Equipments",
+      "caption": "Required Technical Rescue Equipments",
       "type": "Integer"
     },
     {
