@@ -2286,6 +2286,11 @@
       "id": 120,
       "caption": "Team Uitdaging Januari 2025",
       "key": "AWARD_ALLIANCE_CHALLENGE_JAN_2025"
+    },
+    {
+      "id": 121,
+      "caption": "9 Jarig Jubileum!",
+      "key": "AWARD_NINE_YEARS"
     }
   ],
   "filter_types": [
