@@ -1924,6 +1924,11 @@
       "id": 101,
       "caption": "Desafio da Aliança janeiro de 2025",
       "key": "AWARD_ALLIANCE_CHALLENGE_JAN_2025"
+    },
+    {
+      "id": 102,
+      "caption": "5º aniversário",
+      "key": "AWARD_FIVE_YEARS"
     }
   ],
   "filter_types": [
