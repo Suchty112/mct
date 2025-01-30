@@ -1838,6 +1838,16 @@
       "id": 98,
       "caption": "Allianssin haaste tammikuu 2025",
       "key": "AWARD_ALLIANCE_CHALLENGE_JAN_2025"
+    },
+    {
+      "id": 99,
+      "caption": "Ystävänpäivä 2025",
+      "key": "AWARD_VALENTINES_MISSIONS_2025"
+    },
+    {
+      "id": 100,
+      "caption": "Sydämen metsästäjä 2025",
+      "key": "AWARD_VALENTINES_COLLECTION_2025"
     }
   ],
   "filter_types": [
@@ -4510,6 +4520,18 @@
     {
       "id": 654,
       "caption": "461 Jäätynyt putki puhkesi"
+    },
+    {
+      "id": 655,
+      "caption": "Kynttilänvalopiknik aiheuttaa maastopalon"
+    },
+    {
+      "id": 656,
+      "caption": "Kihlasormus varastettiin kosinnan aikana"
+    },
+    {
+      "id": 657,
+      "caption": "Henkilö jäi loukkuun jättimäisen nallen alle"
     }
   ]
 }
