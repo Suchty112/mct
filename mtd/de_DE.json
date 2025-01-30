@@ -1024,6 +1024,16 @@
       "key": "need_railway_fire",
       "caption": "Benötigte Bahnrettungsfahrzeuge",
       "type": "Integer"
+    },
+    {
+      "key": "police_speaker_count",
+      "caption": "Sonderfahrzeug: Lautsprecherkraftwagen",
+      "type": "Integer"
+    },
+    {
+      "key": "need_police_speaker",
+      "caption": "Benötigte LauKw",
+      "type": "Integer"
     }
   ],
   "pois": [
@@ -2560,6 +2570,16 @@
       "id": 118,
       "caption": "Verbands-Herausforderung Januar 2025",
       "key": "AWARD_ALLIANCE_CHALLENGE_JAN_2025"
+    },
+    {
+      "id": 119,
+      "caption": "Valentinstag 2025",
+      "key": "AWARD_VALENTINES_MISSIONS_2025"
+    },
+    {
+      "id": 120,
+      "caption": "Herzensbrecher 2025",
+      "key": "AWARD_VALENTINES_COLLECTION_2025"
     }
   ],
   "filter_types": [
@@ -6284,6 +6304,22 @@
     {
       "id": 916,
       "caption": "Brand auf altem Fabrikgelände"
+    },
+    {
+      "id": 917,
+      "caption": "Jahrestag vergessen"
+    },
+    {
+      "id": 918,
+      "caption": "Unterstützung bei Feuerwehr-Heiratsantrag"
+    },
+    {
+      "id": 919,
+      "caption": "Großfeuer durch umgefallene Kerzen"
+    },
+    {
+      "id": 920,
+      "caption": "Vergiftete Pralinen"
     }
   ]
 }
