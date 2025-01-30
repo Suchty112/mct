@@ -1922,6 +1922,11 @@
       "id": 98,
       "caption": "Alliance Challenge January 2025",
       "key": "AWARD_ALLIANCE_CHALLENGE_JAN_2025"
+    },
+    {
+      "id": 99,
+      "caption": "Valentine's Day 2025",
+      "key": "AWARD_VALENTINES_MISSIONS_2025"
     }
   ],
   "filter_types": [
@@ -4950,6 +4955,18 @@
     {
       "id": 743,
       "caption": "Waterpark Slide Injury"
+    },
+    {
+      "id": 744,
+      "caption": "Candle Light Picnic Starts Wildfire"
+    },
+    {
+      "id": 745,
+      "caption": "Engagement ring stolen during proposal"
+    },
+    {
+      "id": 746,
+      "caption": "Person trapped under giant teddy bear"
     }
   ]
 }
