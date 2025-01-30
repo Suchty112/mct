@@ -2474,6 +2474,16 @@
       "id": 101,
       "caption": "Alliance Challenge January 2025",
       "key": "AWARD_ALLIANCE_CHALLENGE_JAN_2025"
+    },
+    {
+      "id": 102,
+      "caption": "Valentine's Day 2025",
+      "key": "AWARD_VALENTINES_MISSIONS_2025"
+    },
+    {
+      "id": 103,
+      "caption": "Tender-Hearted 2025",
+      "key": "AWARD_VALENTINES_COLLECTION_2025"
     }
   ],
   "filter_types": [
@@ -6690,6 +6700,22 @@
     {
       "id": 1040,
       "caption": "Highspeed Pursuit ends in Suspect crashing into Supermarket causing Water Main Break"
+    },
+    {
+      "id": 1041,
+      "caption": "Candle Light Picnic Starts Wildfire"
+    },
+    {
+      "id": 1042,
+      "caption": "Engagement ring stolen during proposal"
+    },
+    {
+      "id": 1043,
+      "caption": "Person trapped under giant teddy bear"
+    },
+    {
+      "id": 1044,
+      "caption": "Cupid Strikes at the heart"
     }
   ]
 }
