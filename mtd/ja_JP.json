@@ -1859,6 +1859,16 @@
       "id": 95,
       "caption": "アライアンス・チャレンジ 2025年1月",
       "key": "AWARD_ALLIANCE_CHALLENGE_JAN_2025"
+    },
+    {
+      "id": 96,
+      "caption": "バレンタインデー 2025",
+      "key": "AWARD_VALENTINES_MISSIONS_2025"
+    },
+    {
+      "id": 97,
+      "caption": "ハートハンター 2025",
+      "key": "AWARD_VALENTINES_COLLECTION_2025"
     }
   ],
   "filter_types": [
@@ -4215,6 +4225,18 @@
     {
       "id": 575,
       "caption": "凍結したパイプの破裂"
+    },
+    {
+      "id": 576,
+      "caption": "キャンドル・ピクニックで山火事が発生"
+    },
+    {
+      "id": 577,
+      "caption": "プロポーズ中に盗まれた婚約指輪"
+    },
+    {
+      "id": 578,
+      "caption": "巨大テディベアの下敷きになった人"
     }
   ]
 }
