@@ -2116,6 +2116,16 @@
       "id": 105,
       "caption": "Alianční výzva leden 2025",
       "key": "AWARD_ALLIANCE_CHALLENGE_JAN_2025"
+    },
+    {
+      "id": 106,
+      "caption": "Den sv. Valentýna 2025",
+      "key": "AWARD_VALENTINES_MISSIONS_2025"
+    },
+    {
+      "id": 107,
+      "caption": "Lovec srdcí 2025",
+      "key": "AWARD_VALENTINES_COLLECTION_2025"
     }
   ],
   "filter_types": [
@@ -4844,6 +4854,18 @@
     {
       "id": 668,
       "caption": "Prasknutí zamrzlého potrubí"
+    },
+    {
+      "id": 669,
+      "caption": "Piknik při svíčkách vyvolal požár"
+    },
+    {
+      "id": 670,
+      "caption": "Krádež zásnubního prstenu při žádosti o ruku"
+    },
+    {
+      "id": 671,
+      "caption": "Osoba uvězněná pod obřím plyšovým medvědem"
     }
   ]
 }
