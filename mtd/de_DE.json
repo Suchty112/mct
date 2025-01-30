@@ -302,7 +302,7 @@
     },
     {
       "key": "need_streifenwagen",
-      "caption": "Benötigte Streifenwagen",
+      "caption": "Benötigte Funkstreifenwagen",
       "type": "Integer"
     },
     {
@@ -357,12 +357,12 @@
     },
     {
       "key": "need_oneof_police_patrol_or_motorcycle",
-      "caption": "Benötigte Streifenwagen oder Polizeimotorräder",
+      "caption": "Benötigte Funkstreifenwagen oder Polizeimotorräder",
       "type": "Integer"
     },
     {
       "key": "need_oneof_police_patrol_or_civil_patrol",
-      "caption": "Benötigte Streifenwagen oder Zivilstreifenwagen",
+      "caption": "Benötigte Funkstreifenwagen oder Zivilstreifenwagen",
       "type": "Integer"
     },
     {
@@ -377,17 +377,17 @@
     },
     {
       "key": "max_police_motorcycle_replacing_fustw",
-      "caption": "Anzahl an Streifenwagen, welche durch Polizeimotorräder ersetzt werden können",
+      "caption": "Anzahl an Funkstreifenwagen, welche durch Polizeimotorräder ersetzt werden können",
       "type": "Integer"
     },
     {
       "key": "max_civil_patrol_replacing_fustw",
-      "caption": "Anzahl an Streifenwagen, welche durch Zivilstreifenwagen ersetzt werden können",
+      "caption": "Anzahl an Funkstreifenwagen, welche durch Zivilstreifenwagen ersetzt werden können",
       "type": "Integer"
     },
     {
       "key": "need_oneof_police_patrol_or_civil_patrol_or_motorcycle",
-      "caption": "Benötigte Streifenwagen oder Zivilstreifenwagen oder Polizeimotorrad",
+      "caption": "Benötigte Funkstreifenwagen oder Zivilstreifenwagen oder Polizeimotorrad",
       "type": "Integer"
     },
     {
@@ -422,7 +422,7 @@
     },
     {
       "key": "need_oneof_police_patrol_or_motorcycle_chance",
-      "caption": "Streifenwagen oder Polizeimotorrad Anforderungswahrscheinlichkeit",
+      "caption": "Funkstreifenwagen oder Polizeimotorrad Anforderungswahrscheinlichkeit",
       "type": "Integer"
     },
     {
@@ -692,7 +692,7 @@
     },
     {
       "key": "allow_police_motorcycle_instead_of_fustw",
-      "caption": "Polizeimotorrad kann Streifenwagen ersetzen",
+      "caption": "Polizeimotorrad kann Funkstreifenwagen ersetzen",
       "type": "Boolean"
     },
     {
@@ -827,7 +827,7 @@
     },
     {
       "key": "need_streifenwagen_chance",
-      "caption": "Streifenwagen Anforderungswahrscheinlichkeit",
+      "caption": "Funkstreifenwagen Anforderungswahrscheinlichkeit",
       "type": "Integer"
     },
     {
