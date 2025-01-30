@@ -2088,6 +2088,16 @@
       "id": 99,
       "caption": "Reto de la Alianza Enero 2025",
       "key": "AWARD_ALLIANCE_CHALLENGE_JAN_2025"
+    },
+    {
+      "id": 100,
+      "caption": "San Valentín 2025",
+      "key": "AWARD_VALENTINES_MISSIONS_2025"
+    },
+    {
+      "id": 101,
+      "caption": "Cazador de corazones 2025",
+      "key": "AWARD_VALENTINES_COLLECTION_2025"
     }
   ],
   "filter_types": [
@@ -4588,6 +4598,18 @@
     {
       "id": 611,
       "caption": "Rotura de tubería congelada"
+    },
+    {
+      "id": 612,
+      "caption": "Un picnic a la luz de las velas provoca un incendio forestal"
+    },
+    {
+      "id": 613,
+      "caption": "Anillo de compromiso robado durante una pedida de mano"
+    },
+    {
+      "id": 614,
+      "caption": "Persona atrapada bajo un oso de peluche gigante"
     }
   ]
 }
