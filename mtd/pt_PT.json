@@ -1929,6 +1929,16 @@
       "id": 102,
       "caption": "5º aniversário",
       "key": "AWARD_FIVE_YEARS"
+    },
+    {
+      "id": 103,
+      "caption": "Dia de São Valentim 2025",
+      "key": "AWARD_VALENTINES_MISSIONS_2025"
+    },
+    {
+      "id": 104,
+      "caption": "Caçador de corações 2025",
+      "key": "AWARD_VALENTINES_COLLECTION_2025"
     }
   ],
   "filter_types": [
@@ -4489,6 +4499,18 @@
     {
       "id": 626,
       "caption": "Rebentamento de cano congelado"
+    },
+    {
+      "id": 627,
+      "caption": "Piquenique à luz de velas provoca um incêndio florestal"
+    },
+    {
+      "id": 628,
+      "caption": "Anel de noivado roubado durante pedido de casamento"
+    },
+    {
+      "id": 629,
+      "caption": "Pessoa presa debaixo de urso de peluche gigante"
     }
   ]
 }
