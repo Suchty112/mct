@@ -1880,6 +1880,16 @@
       "id": 102,
       "caption": "Wyzwanie sojuszu styczeń 2025 r",
       "key": "AWARD_ALLIANCE_CHALLENGE_JAN_2025"
+    },
+    {
+      "id": 103,
+      "caption": "Walentynki 2025",
+      "key": "AWARD_VALENTINES_MISSIONS_2025"
+    },
+    {
+      "id": 104,
+      "caption": "Łowca serc 2025",
+      "key": "AWARD_VALENTINES_COLLECTION_2025"
     }
   ],
   "filter_types": [
@@ -5120,6 +5130,18 @@
     {
       "id": 796,
       "caption": "Pęknięcie zamarzniętej rury"
+    },
+    {
+      "id": 797,
+      "caption": "Piknik przy świecach wywołuje pożar"
+    },
+    {
+      "id": 798,
+      "caption": "Pierścionek zaręczynowy skradziony podczas oświadczyn"
+    },
+    {
+      "id": 799,
+      "caption": "Osoba uwięziona pod gigantycznym pluszowym misiem"
     }
   ]
 }
