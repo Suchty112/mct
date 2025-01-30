@@ -2232,6 +2232,16 @@
       "id": 104,
       "caption": "Sfida dell'Alleanza gennaio 2025",
       "key": "AWARD_ALLIANCE_CHALLENGE_JAN_2025"
+    },
+    {
+      "id": 105,
+      "caption": "Giorno di San Valentino 2025",
+      "key": "AWARD_VALENTINES_MISSIONS_2025"
+    },
+    {
+      "id": 106,
+      "caption": "Cacciatore di cuori 2025",
+      "key": "AWARD_VALENTINES_COLLECTION_2025"
     }
   ],
   "filter_types": [
@@ -5284,6 +5294,18 @@
     {
       "id": 749,
       "caption": "Scoppio di un tubo congelato"
+    },
+    {
+      "id": 750,
+      "caption": "Un picnic a lume di candela provoca un incendio selvaggio"
+    },
+    {
+      "id": 751,
+      "caption": "Un picnic a lume di candela provoca un incendio selvaggio"
+    },
+    {
+      "id": 752,
+      "caption": "Persona intrappolata sotto un orsacchiotto gigante"
     }
   ]
 }
