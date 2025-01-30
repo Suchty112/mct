@@ -2291,6 +2291,16 @@
       "id": 121,
       "caption": "9 Jarig Jubileum!",
       "key": "AWARD_NINE_YEARS"
+    },
+    {
+      "id": 122,
+      "caption": "Valentijnsdag 2025",
+      "key": "AWARD_VALENTINES_MISSIONS_2025"
+    },
+    {
+      "id": 123,
+      "caption": "Romanticus 2025",
+      "key": "AWARD_VALENTINES_COLLECTION_2025"
     }
   ],
   "filter_types": [
@@ -6863,6 +6873,18 @@
     {
       "id": 1129,
       "caption": "Achtervolging eindigt met botstende verdachte in supermarkt, waterleiding breekt"
+    },
+    {
+      "id": 1130,
+      "caption": "Picknick met kaarslicht veroorzaakt bosbrand"
+    },
+    {
+      "id": 1131,
+      "caption": "Verlovingsring gestolen tijdens aanzoek"
+    },
+    {
+      "id": 1132,
+      "caption": "Persoon bekneld onder gigantische teddybeer"
     }
   ]
 }
