@@ -1980,6 +1980,16 @@
       "id": 99,
       "caption": "Alliance Challenge Januari 2025",
       "key": "AWARD_ALLIANCE_CHALLENGE_JAN_2025"
+    },
+    {
+      "id": 100,
+      "caption": "Alla hjärtans dag 2025",
+      "key": "AWARD_VALENTINES_MISSIONS_2025"
+    },
+    {
+      "id": 101,
+      "caption": "Hjärtjägare 2025",
+      "key": "AWARD_VALENTINES_COLLECTION_2025"
     }
   ],
   "filter_types": [
@@ -4576,6 +4586,18 @@
     {
       "id": 635,
       "caption": "Fryst rör sprängt"
+    },
+    {
+      "id": 636,
+      "caption": "Picknick med levande ljus startar skogsbrand"
+    },
+    {
+      "id": 637,
+      "caption": "Förlovningsring stulen under frieri"
+    },
+    {
+      "id": 638,
+      "caption": "Person instängd under gigantisk nallebjörn"
     }
   ]
 }
