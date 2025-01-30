@@ -1839,6 +1839,16 @@
       "id": 90,
       "caption": "얼라이언스 챌린지 2025년 1월",
       "key": "AWARD_ALLIANCE_CHALLENGE_JAN_2025"
+    },
+    {
+      "id": 91,
+      "caption": "밸런타인데이 2025",
+      "key": "AWARD_VALENTINES_MISSIONS_2025"
+    },
+    {
+      "id": 92,
+      "caption": "하트 헌터 2025",
+      "key": "AWARD_VALENTINES_COLLECTION_2025"
     }
   ],
   "filter_types": [
@@ -4175,6 +4185,18 @@
     {
       "id": 570,
       "caption": "동파된 파이프 파열"
+    },
+    {
+      "id": 571,
+      "caption": "촛불 피크닉이 산불로 번지다"
+    },
+    {
+      "id": 572,
+      "caption": "프로포즈 중 도난당한 약혼 반지"
+    },
+    {
+      "id": 573,
+      "caption": "거대한 곰 인형 밑에 갇힌 사람"
     }
   ]
 }
