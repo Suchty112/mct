@@ -1951,6 +1951,16 @@
       "id": 106,
       "caption": "Alliance Challenge januar 2025",
       "key": "AWARD_ALLIANCE_CHALLENGE_JAN_2025"
+    },
+    {
+      "id": 107,
+      "caption": "Valentinsdag 2025",
+      "key": "AWARD_VALENTINES_MISSIONS_2025"
+    },
+    {
+      "id": 108,
+      "caption": "Hjertebryder 2025",
+      "key": "AWARD_VALENTINES_COLLECTION_2025"
     }
   ],
   "filter_types": [
@@ -4647,6 +4657,18 @@
     {
       "id": 660,
       "caption": "Frossent rør sprængt"
+    },
+    {
+      "id": 661,
+      "caption": "Picnic med levende lys starter skovbrand"
+    },
+    {
+      "id": 662,
+      "caption": "Forlovelsesring stjålet under frieri"
+    },
+    {
+      "id": 663,
+      "caption": "Person fanget under kæmpe bamse"
     }
   ]
 }
