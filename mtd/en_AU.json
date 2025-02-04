@@ -654,6 +654,31 @@
       "key": "minutes_value",
       "caption": null,
       "type": "Integer"
+    },
+    {
+      "key": "fire_boat_dock_count",
+      "caption": "Required Fire Boat Dock",
+      "type": "Integer"
+    },
+    {
+      "key": "need_fire_boat",
+      "caption": "Required Fire Boat",
+      "type": "Integer"
+    },
+    {
+      "key": "police_boat_value",
+      "caption": null,
+      "type": "Integer"
+    },
+    {
+      "key": "police_boat_dock_count",
+      "caption": "Required Police Boat Docks",
+      "type": "Integer"
+    },
+    {
+      "key": "need_police_boat",
+      "caption": "Required Patrol Cutter",
+      "type": "Integer"
     }
   ],
   "pois": [
@@ -1435,6 +1460,16 @@
           "caption": "Additional classroom"
         }
       ]
+    },
+    {
+      "id": 26,
+      "caption": "Fire Boat Dock",
+      "key": "BUILDING_TYPE_FIRE_BOAT_DOCK"
+    },
+    {
+      "id": 27,
+      "caption": "Police Boat Dock",
+      "key": "BUILDING_TYPE_POLICE_BOAT_DOCK"
     }
   ],
   "awards": [
@@ -4967,6 +5002,46 @@
     {
       "id": 746,
       "caption": "Person trapped under giant teddy bear"
+    },
+    {
+      "id": 747,
+      "caption": "Tanker ship on fire"
+    },
+    {
+      "id": 748,
+      "caption": "Container ship fire"
+    },
+    {
+      "id": 749,
+      "caption": "Dock Crane Fire"
+    },
+    {
+      "id": 750,
+      "caption": "Boat leaking fuel"
+    },
+    {
+      "id": 751,
+      "caption": "Oil rig fire"
+    },
+    {
+      "id": 752,
+      "caption": "Suspicious boat"
+    },
+    {
+      "id": 753,
+      "caption": "Illegal immigration by water"
+    },
+    {
+      "id": 754,
+      "caption": "Fighting on a yacht"
+    },
+    {
+      "id": 755,
+      "caption": "Boat crash"
+    },
+    {
+      "id": 756,
+      "caption": "Drug smuggling by water"
     }
   ]
 }
