@@ -2098,6 +2098,11 @@
       "id": 101,
       "caption": "Cazador de corazones 2025",
       "key": "AWARD_VALENTINES_COLLECTION_2025"
+    },
+    {
+      "id": 102,
+      "caption": "Día del número de emergencias europeo 112 (2025)",
+      "key": "AWARD_EUROPEAN_112_DAY_2025"
     }
   ],
   "filter_types": [
