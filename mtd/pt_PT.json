@@ -1939,6 +1939,11 @@
       "id": 104,
       "caption": "Caçador de corações 2025",
       "key": "AWARD_VALENTINES_COLLECTION_2025"
+    },
+    {
+      "id": 105,
+      "caption": "Dia do Número Único Europeu de Emergência \"112\" 2025",
+      "key": "AWARD_EUROPEAN_112_DAY_2025"
     }
   ],
   "filter_types": [
