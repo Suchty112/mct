@@ -2126,6 +2126,11 @@
       "id": 107,
       "caption": "Lovec srdcí 2025",
       "key": "AWARD_VALENTINES_COLLECTION_2025"
+    },
+    {
+      "id": 108,
+      "caption": "Evropský den linky 112 2025",
+      "key": "AWARD_EUROPEAN_112_DAY_2025"
     }
   ],
   "filter_types": [
