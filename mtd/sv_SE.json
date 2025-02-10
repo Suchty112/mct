@@ -1990,6 +1990,11 @@
       "id": 101,
       "caption": "Hjärtjägare 2025",
       "key": "AWARD_VALENTINES_COLLECTION_2025"
+    },
+    {
+      "id": 102,
+      "caption": "Den europeiska 112-dagen (2025)",
+      "key": "AWARD_EUROPEAN_112_DAY_2025"
     }
   ],
   "filter_types": [
