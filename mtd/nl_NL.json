@@ -2301,6 +2301,11 @@
       "id": 123,
       "caption": "Romanticus 2025",
       "key": "AWARD_VALENTINES_COLLECTION_2025"
+    },
+    {
+      "id": 124,
+      "caption": "Europese 112-dag 2025",
+      "key": "AWARD_EUROPEAN_112_DAY_2025"
     }
   ],
   "filter_types": [
