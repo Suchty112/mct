@@ -2242,6 +2242,11 @@
       "id": 106,
       "caption": "Cacciatore di cuori 2025",
       "key": "AWARD_VALENTINES_COLLECTION_2025"
+    },
+    {
+      "id": 107,
+      "caption": "Giornata del Numero di Emergenza Unico Europeo 112 (2025)",
+      "key": "AWARD_EUROPEAN_112_DAY_2025"
     }
   ],
   "filter_types": [
