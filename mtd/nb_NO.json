@@ -2140,6 +2140,11 @@
       "id": 97,
       "caption": "Hjertejeger 2025",
       "key": "AWARD_VALENTINES_COLLECTION_2025"
+    },
+    {
+      "id": 98,
+      "caption": "Europeisk 112-dag (2025)",
+      "key": "AWARD_EUROPEAN_112_DAY_2025"
     }
   ],
   "filter_types": [
