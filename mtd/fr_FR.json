@@ -2258,6 +2258,11 @@
       "id": 105,
       "caption": "Chasseur de coeurs 2025",
       "key": "AWARD_VALENTINES_COLLECTION_2025"
+    },
+    {
+      "id": 106,
+      "caption": "La Journée européenne du 112 (2025)",
+      "key": "AWARD_EUROPEAN_112_DAY_2025"
     }
   ],
   "filter_types": [
