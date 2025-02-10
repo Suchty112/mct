@@ -1890,6 +1890,11 @@
       "id": 104,
       "caption": "Łowca serc 2025",
       "key": "AWARD_VALENTINES_COLLECTION_2025"
+    },
+    {
+      "id": 105,
+      "caption": "Europejski Dzień Numeru Alarmowego 112 (2025)",
+      "key": "AWARD_EUROPEAN_112_DAY_2025"
     }
   ],
   "filter_types": [
