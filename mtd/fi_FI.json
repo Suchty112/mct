@@ -1848,6 +1848,11 @@
       "id": 100,
       "caption": "Sydämen metsästäjä 2025",
       "key": "AWARD_VALENTINES_COLLECTION_2025"
+    },
+    {
+      "id": 101,
+      "caption": "Koko Euroopan hätänumero 112:n päivä (2025)",
+      "key": "AWARD_EUROPEAN_112_DAY_2025"
     }
   ],
   "filter_types": [
