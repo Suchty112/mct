@@ -619,6 +619,31 @@
       "key": "critical_transport_value",
       "caption": null,
       "type": "Integer"
+    },
+    {
+      "key": "fire_boat_dock_count",
+      "caption": "Pelastusvenelaitureita vaaditaan",
+      "type": "Integer"
+    },
+    {
+      "key": "need_fire_boat",
+      "caption": "Vaaditaan pelastusvene",
+      "type": "Integer"
+    },
+    {
+      "key": "wasserrettung_count",
+      "caption": "Vesipelastuslaajennuksia vaaditaan",
+      "type": "Integer"
+    },
+    {
+      "key": "need_gwtaucher",
+      "caption": "Vaaditaan Pelastussukellusauto",
+      "type": "Integer"
+    },
+    {
+      "key": "need_boot",
+      "caption": "Vaaditut alukset",
+      "type": "Integer"
     }
   ],
   "pois": [
@@ -1351,6 +1376,11 @@
           "caption": "Lisähelikopterihalli"
         }
       ]
+    },
+    {
+      "id": 25,
+      "caption": "Pelastusvenelaituri",
+      "key": "BUILDING_TYPE_FIRE_BOAT_DOCK"
     }
   ],
   "awards": [
@@ -4557,6 +4587,42 @@
     {
       "id": 662,
       "caption": "752 Hiilimonoksidimyrkytys koulussa"
+    },
+    {
+      "id": 663,
+      "caption": "413 Säiliöalus tulessa"
+    },
+    {
+      "id": 664,
+      "caption": "413 Konttialuksen tulipalo"
+    },
+    {
+      "id": 665,
+      "caption": "413 Vene vuotaa polttoainetta"
+    },
+    {
+      "id": 666,
+      "caption": "511 Auto veden alla"
+    },
+    {
+      "id": 667,
+      "caption": "411 Pieni vene fira"
+    },
+    {
+      "id": 668,
+      "caption": "413 Hukkuminen"
+    },
+    {
+      "id": 669,
+      "caption": "511 Uppoava vene"
+    },
+    {
+      "id": 670,
+      "caption": "511 Bussi joessa"
+    },
+    {
+      "id": 671,
+      "caption": "413 Oil Tanker on Fire in Ocean"
     }
   ]
 }
