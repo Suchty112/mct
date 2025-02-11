@@ -382,7 +382,7 @@
     },
     {
       "key": "valentinesday_count",
-      "caption": "Valentine level needed:",
+      "caption": "Valentine level needed",
       "type": "Integer"
     },
     {
