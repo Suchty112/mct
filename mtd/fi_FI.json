@@ -1883,6 +1883,11 @@
       "id": 101,
       "caption": "Koko Euroopan hätänumero 112:n päivä (2025)",
       "key": "AWARD_EUROPEAN_112_DAY_2025"
+    },
+    {
+      "id": 102,
+      "caption": "Allianssin haaste helmikuu 2025",
+      "key": "AWARD_ALLIANCE_CHALLENGE_FEB_2025"
     }
   ],
   "filter_types": [
