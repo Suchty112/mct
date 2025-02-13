@@ -1849,6 +1849,11 @@
       "id": 92,
       "caption": "하트 헌터 2025",
       "key": "AWARD_VALENTINES_COLLECTION_2025"
+    },
+    {
+      "id": 93,
+      "caption": "얼라이언스 챌린지 2025년 2월",
+      "key": "AWARD_ALLIANCE_CHALLENGE_FEB_2025"
     }
   ],
   "filter_types": [
