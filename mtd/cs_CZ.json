@@ -2131,6 +2131,11 @@
       "id": 108,
       "caption": "Evropský den linky 112 2025",
       "key": "AWARD_EUROPEAN_112_DAY_2025"
+    },
+    {
+      "id": 109,
+      "caption": "Alianční výzva únor 2025",
+      "key": "AWARD_ALLIANCE_CHALLENGE_FEB_2025"
     }
   ],
   "filter_types": [
@@ -4878,11 +4883,23 @@
     },
     {
       "id": 673,
-      "caption": "V jídle z bufetu byly nalezeny nepovolené látky"
+      "caption": "Odstranění rampouchů z mostu"
     },
     {
       "id": 674,
       "caption": "Otrava oxidem uhelnatým ve škole"
+    },
+    {
+      "id": 675,
+      "caption": "Aktivace systému eCall"
+    },
+    {
+      "id": 676,
+      "caption": "Osoba uštknutá jedovatým hadem"
+    },
+    {
+      "id": 677,
+      "caption": "Dělník v bezvědomí na lešení"
     }
   ]
 }
