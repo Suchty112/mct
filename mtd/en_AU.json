@@ -1982,6 +1982,11 @@
       "id": 99,
       "caption": "Valentine's Day 2025",
       "key": "AWARD_VALENTINES_MISSIONS_2025"
+    },
+    {
+      "id": 100,
+      "caption": "Alliance Challenge February 2025",
+      "key": "AWARD_ALLIANCE_CHALLENGE_FEB_2025"
     }
   ],
   "filter_types": [
