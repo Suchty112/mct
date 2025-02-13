@@ -318,7 +318,7 @@
     {
       "key": "patient_modus",
       "caption": null,
-      "type": "Integer"
+      "type": "Unknown"
     },
     {
       "key": "police_value",
@@ -2306,6 +2306,11 @@
       "id": 124,
       "caption": "Europese 112-dag 2025",
       "key": "AWARD_EUROPEAN_112_DAY_2025"
+    },
+    {
+      "id": 125,
+      "caption": "Team Uitdaging February 2025",
+      "key": "AWARD_ALLIANCE_CHALLENGE_FEB_2025"
     }
   ],
   "filter_types": [
@@ -6897,15 +6902,27 @@
     },
     {
       "id": 1134,
-      "caption": "Grap veroorzaakt hartaanval"
+      "caption": "Scootmobiel te water"
     },
     {
       "id": 1135,
-      "caption": "Illegale stoffen gevonden in buffet"
+      "caption": "Persoon onwel in hijskraan"
     },
     {
       "id": 1136,
       "caption": "Koolmonoxidevergiftiging in een school"
+    },
+    {
+      "id": 1137,
+      "caption": "Man over boord"
+    },
+    {
+      "id": 1138,
+      "caption": "Grap veroorzaakt hartaanval"
+    },
+    {
+      "id": 1139,
+      "caption": "Illegale stoffen gevonden in buffet"
     }
   ]
 }
