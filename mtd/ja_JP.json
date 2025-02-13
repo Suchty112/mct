@@ -1869,6 +1869,16 @@
       "id": 97,
       "caption": "ハートハンター 2025",
       "key": "AWARD_VALENTINES_COLLECTION_2025"
+    },
+    {
+      "id": 98,
+      "caption": "アライアンス・チャレンジ 2025年2月",
+      "key": "AWARD_ALLIANCE_CHALLENGE_FEB_2025"
+    },
+    {
+      "id": 99,
+      "caption": "5周年記念",
+      "key": "AWARD_FIVE_YEARS"
     }
   ],
   "filter_types": [
