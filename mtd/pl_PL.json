@@ -1895,6 +1895,11 @@
       "id": 105,
       "caption": "Europejski Dzień Numeru Alarmowego 112 (2025)",
       "key": "AWARD_EUROPEAN_112_DAY_2025"
+    },
+    {
+      "id": 106,
+      "caption": "Wyzwanie sojuszu luty 2025 r",
+      "key": "AWARD_ALLIANCE_CHALLENGE_FEB_2025"
     }
   ],
   "filter_types": [
