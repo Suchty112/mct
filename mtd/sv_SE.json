@@ -1978,7 +1978,7 @@
     },
     {
       "id": 99,
-      "caption": "Alliance Challenge Januari 2025",
+      "caption": "Alliansens utmaning januari 2025",
       "key": "AWARD_ALLIANCE_CHALLENGE_JAN_2025"
     },
     {
@@ -1995,6 +1995,11 @@
       "id": 102,
       "caption": "Den europeiska 112-dagen (2025)",
       "key": "AWARD_EUROPEAN_112_DAY_2025"
+    },
+    {
+      "id": 103,
+      "caption": "Alliansens utmaning februari 2025",
+      "key": "AWARD_ALLIANCE_CHALLENGE_FEB_2025"
     }
   ],
   "filter_types": [
