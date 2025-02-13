@@ -2484,6 +2484,11 @@
       "id": 103,
       "caption": "Tender-Hearted 2025",
       "key": "AWARD_VALENTINES_COLLECTION_2025"
+    },
+    {
+      "id": 104,
+      "caption": "Alliance Challenge February 2025",
+      "key": "AWARD_ALLIANCE_CHALLENGE_FEB_2025"
     }
   ],
   "filter_types": [
