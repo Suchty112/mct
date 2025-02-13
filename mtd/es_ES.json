@@ -2103,6 +2103,11 @@
       "id": 102,
       "caption": "Día del número de emergencias europeo 112 (2025)",
       "key": "AWARD_EUROPEAN_112_DAY_2025"
+    },
+    {
+      "id": 103,
+      "caption": "Reto de la Alianza Febrero 2025",
+      "key": "AWARD_ALLIANCE_CHALLENGE_FEB_2025"
     }
   ],
   "filter_types": [
