@@ -1276,6 +1276,10 @@
     {
       "id": 59,
       "caption": "U-Bahn Station"
+    },
+    {
+      "id": 60,
+      "caption": "Eisenbahntunnel"
     }
   ],
   "available_icons": [
