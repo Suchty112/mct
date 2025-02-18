@@ -336,6 +336,11 @@
       "type": "Integer"
     },
     {
+      "key": "minutes_value",
+      "caption": null,
+      "type": "Integer"
+    },
+    {
       "key": "commerce_police_count",
       "caption": "Richiesta caserma della Finanza",
       "type": "Integer"
@@ -378,6 +383,11 @@
     {
       "key": "need_swat_suv",
       "caption": "Richiesto Suv UOPI",
+      "type": "Integer"
+    },
+    {
+      "key": "need_swat_suv_chance",
+      "caption": "Possibilità che sia richiesta Suv UOPI",
       "type": "Integer"
     },
     {
@@ -656,14 +666,14 @@
       "type": "Integer"
     },
     {
-      "key": "minutes_value",
-      "caption": null,
-      "type": "Integer"
-    },
-    {
       "key": "need_rw_chance",
       "caption": "Possibilità che venga richiesto il Polisoccorso",
       "type": "Integer"
+    },
+    {
+      "key": "duration_text",
+      "caption": "Durata",
+      "type": "String"
     },
     {
       "key": "search_and_rescue_count",
@@ -753,6 +763,11 @@
     {
       "key": "need_fire_investigation",
       "caption": "Richieste Unità N.I.A.",
+      "type": "Integer"
+    },
+    {
+      "key": "police_investigation_count",
+      "caption": "Richiesta della Sezione Investigativa della Polizia",
       "type": "Integer"
     }
   ],
@@ -1577,7 +1592,13 @@
     {
       "id": 21,
       "caption": "Caserma della Finanza",
-      "key": "BUILDING_TYPE_COMMERCE_POLICE"
+      "key": "BUILDING_TYPE_COMMERCE_POLICE",
+      "extensions": [
+        {
+          "id": 0,
+          "caption": "Sezione Investigativa"
+        }
+      ]
     },
     {
       "id": 22,
@@ -1597,7 +1618,13 @@
     {
       "id": 25,
       "caption": "Ufficio Polizia Locale",
-      "key": "BUILDING_TYPE_MUNICIPAL_POLICE"
+      "key": "BUILDING_TYPE_MUNICIPAL_POLICE",
+      "extensions": [
+        {
+          "id": 0,
+          "caption": "Sezione Investigativa"
+        }
+      ]
     },
     {
       "id": 26,
