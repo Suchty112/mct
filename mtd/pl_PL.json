@@ -1900,6 +1900,16 @@
       "id": 106,
       "caption": "Wyzwanie sojuszu luty 2025 r",
       "key": "AWARD_ALLIANCE_CHALLENGE_FEB_2025"
+    },
+    {
+      "id": 107,
+      "caption": "Karnawał 2025",
+      "key": "AWARD_CARNIVAL_2025"
+    },
+    {
+      "id": 108,
+      "caption": "Wyzwanie sojuszu - marzec 2025 r.",
+      "key": "AWARD_ALLIANCE_CHALLENGE_MARCH_2025"
     }
   ],
   "filter_types": [
