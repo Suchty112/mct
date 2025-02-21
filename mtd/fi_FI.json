@@ -1888,6 +1888,11 @@
       "id": 102,
       "caption": "Allianssin haaste helmikuu 2025",
       "key": "AWARD_ALLIANCE_CHALLENGE_FEB_2025"
+    },
+    {
+      "id": 103,
+      "caption": "Allianssihaaste maaliskuu 2025",
+      "key": "AWARD_ALLIANCE_CHALLENGE_MARCH_2025"
     }
   ],
   "filter_types": [
