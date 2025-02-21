@@ -1879,6 +1879,11 @@
       "id": 99,
       "caption": "5周年記念",
       "key": "AWARD_FIVE_YEARS"
+    },
+    {
+      "id": 100,
+      "caption": "アライアンス・チャレンジ 2025年3月",
+      "key": "AWARD_ALLIANCE_CHALLENGE_MARCH_2025"
     }
   ],
   "filter_types": [
