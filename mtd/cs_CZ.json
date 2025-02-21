@@ -2136,6 +2136,16 @@
       "id": 109,
       "caption": "Alianční výzva únor 2025",
       "key": "AWARD_ALLIANCE_CHALLENGE_FEB_2025"
+    },
+    {
+      "id": 110,
+      "caption": "Karneval 2025",
+      "key": "AWARD_CARNIVAL_2025"
+    },
+    {
+      "id": 111,
+      "caption": "Alianční výzva březen 2025",
+      "key": "AWARD_ALLIANCE_CHALLENGE_MARCH_2025"
     }
   ],
   "filter_types": [
