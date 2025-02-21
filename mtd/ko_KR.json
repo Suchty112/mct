@@ -1854,6 +1854,16 @@
       "id": 93,
       "caption": "얼라이언스 챌린지 2025년 2월",
       "key": "AWARD_ALLIANCE_CHALLENGE_FEB_2025"
+    },
+    {
+      "id": 94,
+      "caption": "5주년 기념",
+      "key": "AWARD_FIVE_YEARS"
+    },
+    {
+      "id": 95,
+      "caption": "얼라이언스 챌린지 2025년 3월",
+      "key": "AWARD_ALLIANCE_CHALLENGE_MARCH_2025"
     }
   ],
   "filter_types": [
