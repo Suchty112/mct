@@ -1971,6 +1971,16 @@
       "id": 110,
       "caption": "Alliancens udfordring februar 2025",
       "key": "AWARD_ALLIANCE_CHALLENGE_FEB_2025"
+    },
+    {
+      "id": 111,
+      "caption": "Karneval 2025",
+      "key": "AWARD_CARNIVAL_2025"
+    },
+    {
+      "id": 112,
+      "caption": "Alliancens udfordring marts 2025",
+      "key": "AWARD_ALLIANCE_CHALLENGE_MARCH_2025"
     }
   ],
   "filter_types": [
