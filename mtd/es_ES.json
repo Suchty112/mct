@@ -2108,6 +2108,11 @@
       "id": 103,
       "caption": "Reto de la Alianza Febrero 2025",
       "key": "AWARD_ALLIANCE_CHALLENGE_FEB_2025"
+    },
+    {
+      "id": 104,
+      "caption": "Reto de la Alianza Marzo 2025",
+      "key": "AWARD_ALLIANCE_CHALLENGE_MARCH_2025"
     }
   ],
   "filter_types": [
