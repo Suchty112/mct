@@ -2594,6 +2594,16 @@
       "id": 122,
       "caption": "Verbands-Herausforderung Februar 2025",
       "key": "AWARD_ALLIANCE_CHALLENGE_FEB_2025"
+    },
+    {
+      "id": 123,
+      "caption": "Karneval 2025",
+      "key": "AWARD_CARNIVAL_2025"
+    },
+    {
+      "id": 124,
+      "caption": "Verbands-Herausforderung März 2025",
+      "key": "AWARD_ALLIANCE_CHALLENGE_MARCH_2025"
     }
   ],
   "filter_types": [
