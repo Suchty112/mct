@@ -844,6 +844,91 @@
       "key": "need_rapid_patrol",
       "caption": "Requis équipes d'intervention rapide",
       "type": "Integer"
+    },
+    {
+      "key": "mountain_value",
+      "caption": null,
+      "type": "Integer"
+    },
+    {
+      "key": "mountain_rescue_count",
+      "caption": "Required Gendarmerie haute montagne",
+      "type": "Integer"
+    },
+    {
+      "key": "need_mountain_height_rescue",
+      "caption": "VTT 4 X 4 requis",
+      "type": "Integer"
+    },
+    {
+      "key": "need_mountain_snow",
+      "caption": "Motoneige obligatoire",
+      "type": "Integer"
+    },
+    {
+      "key": "mountain_rescue_heliport_count",
+      "caption": "DAG requis",
+      "type": "Integer"
+    },
+    {
+      "key": "mountain_rescue_lift_count",
+      "caption": "Équipements de levage de secours en montagne requis",
+      "type": "Integer"
+    },
+    {
+      "key": "need_mountain_rescue_helicopter",
+      "caption": "Choucas EC145 requis",
+      "type": "Integer"
+    },
+    {
+      "key": "need_mountain_helicopter_rescue_lift",
+      "caption": "Ascenseurs de secours en montagne obligatoires",
+      "type": "Integer"
+    },
+    {
+      "key": "mountain_rescue_quad_count",
+      "caption": "Extension QUAD haute montagne requise",
+      "type": "Integer"
+    },
+    {
+      "key": "mountain_rescue_drone_count",
+      "caption": "Peloton requis du DAG - Extension UAV",
+      "type": "Integer"
+    },
+    {
+      "key": "mountain_rescue_dogs_count",
+      "caption": "Extension obligatoire des chiens de sauvetage",
+      "type": "Integer"
+    },
+    {
+      "key": "need_mountain_quad",
+      "caption": "QUAD requis",
+      "type": "Integer"
+    },
+    {
+      "key": "need_mountain_rescue_drone",
+      "caption": "Drone requis",
+      "type": "Integer"
+    },
+    {
+      "key": "need_mountain_rescue_dogs",
+      "caption": "Équipes cynophiles obligatories",
+      "type": "Integer"
+    },
+    {
+      "key": "helicopter_bucket_count",
+      "caption": "Équipements de godet porteur d'eau requis",
+      "type": "Integer"
+    },
+    {
+      "key": "need_mountain_helicopter_bucket",
+      "caption": "Godets porteur d'eau requis",
+      "type": "Integer"
+    },
+    {
+      "key": "need_mountain_police_helicopter",
+      "caption": "CHOUCAS PGHM requis",
+      "type": "Integer"
     }
   ],
   "pois": [
@@ -1450,6 +1535,10 @@
         {
           "id": 4,
           "caption": "Surveillance de plage"
+        },
+        {
+          "id": 5,
+          "caption": "Montagne de la police anti-émeute"
         }
       ]
     },
@@ -1736,6 +1825,32 @@
       "id": 29,
       "caption": "GIH",
       "key": "BUILDING_TYPE_SWAT_AIRPORT"
+    },
+    {
+      "id": 30,
+      "caption": "Gendarmerie haute montagne",
+      "key": "BUILDING_TYPE_MOUNTAIN_RESCUE",
+      "extensions": [
+        {
+          "id": 0,
+          "caption": "QUAD haute montagne"
+        },
+        {
+          "id": 1,
+          "caption": "Chiens de sauvetage (PGHM)"
+        }
+      ]
+    },
+    {
+      "id": 31,
+      "caption": "DAG",
+      "key": "BUILDING_TYPE_MOUNTAIN_RESCUE_HELIPORT",
+      "extensions": [
+        {
+          "id": 0,
+          "caption": "Peloton de DAG - Drone"
+        }
+      ]
     }
   ],
   "awards": [
@@ -5594,6 +5709,42 @@
     {
       "id": 815,
       "caption": "Une personne coincée sous un ours en peluche géant"
+    },
+    {
+      "id": 816,
+      "caption": "Accidents de ski"
+    },
+    {
+      "id": 817,
+      "caption": "Randonneurs bloqués au sommet d'une montagne"
+    },
+    {
+      "id": 818,
+      "caption": "Petite avalanche"
+    },
+    {
+      "id": 819,
+      "caption": "Chute de serac"
+    },
+    {
+      "id": 820,
+      "caption": "Randonneur en détresse à cause de mauvaises conditions météorologiques"
+    },
+    {
+      "id": 821,
+      "caption": "Avalanche de gravité moyenne"
+    },
+    {
+      "id": 822,
+      "caption": "Feu de forêt en haute montagne"
+    },
+    {
+      "id": 823,
+      "caption": "Incident pendant une chasse (Terrains escarpés ou instables)"
+    },
+    {
+      "id": 824,
+      "caption": "Le chien de secours s'est échappé et s'est égaré"
     }
   ]
 }
