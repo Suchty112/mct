@@ -66,6 +66,16 @@
       "type": "Unknown"
     },
     {
+      "key": "crashed_car_icons",
+      "caption": null,
+      "type": "Unknown"
+    },
+    {
+      "key": "additive_value_overlays",
+      "caption": null,
+      "type": "Unknown"
+    },
+    {
       "key": "need_lf",
       "caption": "Påkrævede brandbiler",
       "type": "Integer"
@@ -111,6 +121,11 @@
       "type": "Integer"
     },
     {
+      "key": "crashed_car_large_icons",
+      "caption": null,
+      "type": "Unknown"
+    },
+    {
       "key": "need_elw1",
       "caption": "Påkrævede Indsatsleder Brand-køretøj",
       "type": "Integer"
@@ -119,11 +134,6 @@
       "key": "need_elw1_chance",
       "caption": "Sandsynlighed for nødvendighed af Indsatsleder Brand",
       "type": "Integer"
-    },
-    {
-      "key": "additive_value_overlays",
-      "caption": null,
-      "type": "Unknown"
     },
     {
       "key": "brandmeldeanlage_possible",
@@ -648,6 +658,21 @@
     {
       "key": "minutes_value",
       "caption": null,
+      "type": "Integer"
+    },
+    {
+      "key": "tow_trucks_count",
+      "caption": "Påkrævet Vejhjælps Stationer",
+      "type": "Integer"
+    },
+    {
+      "key": "possible_crashed_car_min",
+      "caption": "Minimum antal biler til bugsering",
+      "type": "Integer"
+    },
+    {
+      "key": "possible_crashed_car",
+      "caption": "Maksimalt antal biler, der kan trækkes",
       "type": "Integer"
     }
   ],
@@ -1422,6 +1447,57 @@
         {
           "id": 4,
           "caption": "Yderligere Helikopter Hangar"
+        }
+      ]
+    },
+    {
+      "id": 26,
+      "caption": "Vejhjælps Station",
+      "key": "BUILDING_TYPE_TOW_TRUCKS",
+      "extensions": [
+        {
+          "id": 0,
+          "caption": "Parkeringsplads for køretøjer"
+        },
+        {
+          "id": 1,
+          "caption": "Ekstra parkeringsplads til køretøjer"
+        },
+        {
+          "id": 2,
+          "caption": "Ekstra parkeringsplads til køretøjer"
+        },
+        {
+          "id": 3,
+          "caption": "Ekstra parkeringsplads til køretøjer"
+        },
+        {
+          "id": 4,
+          "caption": "Ekstra parkeringsplads til køretøjer"
+        },
+        {
+          "id": 5,
+          "caption": "Ekstra parkeringsplads til køretøjer"
+        },
+        {
+          "id": 6,
+          "caption": "Ekstra parkeringsplads til køretøjer"
+        },
+        {
+          "id": 7,
+          "caption": "Ekstra parkeringsplads til køretøjer"
+        },
+        {
+          "id": 8,
+          "caption": "Ekstra parkeringsplads til køretøjer"
+        },
+        {
+          "id": 9,
+          "caption": "Ekstra parkeringsplads til køretøjer"
+        },
+        {
+          "id": 10,
+          "caption": "Sværvogns Udvidelse"
         }
       ]
     }
@@ -4701,6 +4777,50 @@
     {
       "id": 666,
       "caption": "Kulilteforgiftning på en skole"
+    },
+    {
+      "id": 667,
+      "caption": "Køretøjs Beslaglæggelse"
+    },
+    {
+      "id": 668,
+      "caption": "Køretøjs Beslaglæggelse Gået Galt"
+    },
+    {
+      "id": 669,
+      "caption": "Motorstop på vognbane"
+    },
+    {
+      "id": 670,
+      "caption": "Køretøj løbet tør for brændstof"
+    },
+    {
+      "id": 671,
+      "caption": "Forladt Køretøj på siden af vejen"
+    },
+    {
+      "id": 672,
+      "caption": "Brandbil kørt i grøft"
+    },
+    {
+      "id": 673,
+      "caption": "Brandbil påkørt port på stationen"
+    },
+    {
+      "id": 674,
+      "caption": "Udstødning Faldet Af"
+    },
+    {
+      "id": 675,
+      "caption": "Starthjælp"
+    },
+    {
+      "id": 676,
+      "caption": "Autohjælpsredder Påkørt Af Bil"
+    },
+    {
+      "id": 677,
+      "caption": "Punkteret Dæk"
     }
   ]
 }
