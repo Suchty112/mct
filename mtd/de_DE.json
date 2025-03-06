@@ -417,7 +417,7 @@
     },
     {
       "key": "need_oneof_fire_engine_or_rescue_or_oil_equipment",
-      "caption": "Benötigte Löschfahrzeuge, Rüstwagen oder Gerätwagen Öl",
+      "caption": "Benötigte Löschfahrzeuge, Rüstwagen oder Gerätewagen Öl",
       "type": "Integer"
     },
     {
