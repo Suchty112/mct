@@ -491,26 +491,6 @@
       "type": "Unknown"
     },
     {
-      "key": "event_currency",
-      "caption": "Crédits de l'événement",
-      "type": "Integer"
-    },
-    {
-      "key": "carnival_count",
-      "caption": "Niveau de carnaval requis:",
-      "type": "Integer"
-    },
-    {
-      "key": "season_event",
-      "caption": "Carnaval",
-      "type": "Symbol"
-    },
-    {
-      "key": "alliance_event_credits",
-      "caption": "Crédits de l'événement de l'Alliance",
-      "type": "Integer"
-    },
-    {
       "key": "riot_police_value",
       "caption": null,
       "type": "Integer"
