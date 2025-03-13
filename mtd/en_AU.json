@@ -5064,6 +5064,26 @@
     {
       "id": 759,
       "caption": "Carbon monoxide poisoning in a school"
+    },
+    {
+      "id": 760,
+      "caption": "Tree on fire"
+    },
+    {
+      "id": 761,
+      "caption": "Tree Stump on fire"
+    },
+    {
+      "id": 762,
+      "caption": "Fence fire"
+    },
+    {
+      "id": 763,
+      "caption": "Hedge fire"
+    },
+    {
+      "id": 764,
+      "caption": "RCR (road crash rescue)"
     }
   ]
 }
