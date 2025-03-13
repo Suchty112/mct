@@ -4543,6 +4543,26 @@
     {
       "id": 632,
       "caption": "Envenenamento por monóxido de carbono numa escola"
+    },
+    {
+      "id": 633,
+      "caption": "Árvore a arder"
+    },
+    {
+      "id": 634,
+      "caption": "Cepo de árvore a arder"
+    },
+    {
+      "id": 635,
+      "caption": "Fogo em cerca"
+    },
+    {
+      "id": 636,
+      "caption": "Incêndio em sebe"
+    },
+    {
+      "id": 637,
+      "caption": "Resgate em caso de acidente rodoviário"
     }
   ]
 }
