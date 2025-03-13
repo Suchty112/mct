@@ -4821,6 +4821,26 @@
     {
       "id": 677,
       "caption": "Punkteret Dæk"
+    },
+    {
+      "id": 678,
+      "caption": "Træ i brand"
+    },
+    {
+      "id": 679,
+      "caption": "Træstub i brand"
+    },
+    {
+      "id": 680,
+      "caption": "Brand i hegn"
+    },
+    {
+      "id": 681,
+      "caption": "Brand i hæk"
+    },
+    {
+      "id": 682,
+      "caption": "Redning ved trafikuheld"
     }
   ]
 }
