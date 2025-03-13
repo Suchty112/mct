@@ -5174,6 +5174,26 @@
     {
       "id": 802,
       "caption": "Zatrucie tlenkiem węgla w szkole"
+    },
+    {
+      "id": 803,
+      "caption": "Płonące drzewo"
+    },
+    {
+      "id": 804,
+      "caption": "Płonący pień drzewa"
+    },
+    {
+      "id": 805,
+      "caption": "Pożar ogrodzenia"
+    },
+    {
+      "id": 806,
+      "caption": "Pożar żywopłotu"
+    },
+    {
+      "id": 807,
+      "caption": "Ratownictwo w przypadku kolizji drogowej"
     }
   ]
 }
