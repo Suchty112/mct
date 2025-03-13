@@ -446,6 +446,11 @@
       "type": "Integer"
     },
     {
+      "key": "minutes_value",
+      "caption": null,
+      "type": "Integer"
+    },
+    {
       "key": "alternate_value_overlay_requirements",
       "caption": null,
       "type": "Unknown"
@@ -803,11 +808,6 @@
     {
       "key": "bomb_disposal_count",
       "caption": "Required Bomb Squad Extensions or Federal Police Stations",
-      "type": "Integer"
-    },
-    {
-      "key": "minutes_value",
-      "caption": null,
       "type": "Integer"
     },
     {
