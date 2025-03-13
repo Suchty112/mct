@@ -6738,6 +6738,22 @@
     {
       "id": 1047,
       "caption": "Carbon monoxide poisoning in a school"
+    },
+    {
+      "id": 1048,
+      "caption": "Tree on fire"
+    },
+    {
+      "id": 1049,
+      "caption": "Tree Stump on fire"
+    },
+    {
+      "id": 1050,
+      "caption": "Fence fire"
+    },
+    {
+      "id": 1051,
+      "caption": "Hedge fire"
     }
   ]
 }
