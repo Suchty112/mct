@@ -5365,6 +5365,26 @@
     {
       "id": 755,
       "caption": "Avvelenamento da monossido di carbonio in una scuola"
+    },
+    {
+      "id": 756,
+      "caption": "Incendio di un ristorante"
+    },
+    {
+      "id": 757,
+      "caption": "Incendio in azienda (Medio)"
+    },
+    {
+      "id": 758,
+      "caption": "Incendio in azienda (grande)"
+    },
+    {
+      "id": 759,
+      "caption": "Albero in fiamme"
+    },
+    {
+      "id": 760,
+      "caption": "Ceppo di albero in fiamme"
     }
   ]
 }
