@@ -4592,11 +4592,11 @@
     },
     {
       "id": 661,
-      "caption": "752 Buffet-ruoasta löytyi laittomia aineita"
+      "caption": "752 Noutopöytäruokailusta myrkytysoireita asiakkaille"
     },
     {
       "id": 662,
-      "caption": "752 Hiilimonoksidimyrkytys koulussa"
+      "caption": "452 Häkävaroitin hälyttänyt ja oppilaille oireita koulussa"
     },
     {
       "id": 663,
@@ -4633,6 +4633,10 @@
     {
       "id": 671,
       "caption": "413 Öljysäiliöalus palaa valtameressä"
+    },
+    {
+      "id": 672,
+      "caption": "702 Työntekijä tajuttomana rakennustelineillä"
     }
   ]
 }
