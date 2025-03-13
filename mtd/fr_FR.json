@@ -5749,6 +5749,18 @@
     {
       "id": 824,
       "caption": "Le chien de secours s'est échappé et s'est égaré"
+    },
+    {
+      "id": 825,
+      "caption": "Explosion d'une bombe à hydrogène"
+    },
+    {
+      "id": 826,
+      "caption": "Incendie d'un groupe électrogène de 60 KW"
+    },
+    {
+      "id": 827,
+      "caption": "Evacuation de squat"
     }
   ]
 }
