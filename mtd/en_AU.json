@@ -1972,6 +1972,11 @@
       "id": 101,
       "caption": "Alliance Challenge March 2025",
       "key": "AWARD_ALLIANCE_CHALLENGE_MARCH_2025"
+    },
+    {
+      "id": 106,
+      "caption": "St Patrick's Day 2025",
+      "key": null
     }
   ],
   "filter_types": [
@@ -5084,6 +5089,10 @@
     {
       "id": 764,
       "caption": "RCR (road crash rescue)"
+    },
+    {
+      "id": 765,
+      "caption": "Rookie Firefighter Uses The Q-Word"
     }
   ]
 }
