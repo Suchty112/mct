@@ -2494,6 +2494,11 @@
       "id": 105,
       "caption": "Alliance Challenge March 2025",
       "key": "AWARD_ALLIANCE_CHALLENGE_MARCH_2025"
+    },
+    {
+      "id": 106,
+      "caption": "St Patrick's Day 2025",
+      "key": "AWARD_ST_PATRICKS_2025"
     }
   ],
   "filter_types": [
@@ -6754,6 +6759,10 @@
     {
       "id": 1051,
       "caption": "Hedge fire"
+    },
+    {
+      "id": 1052,
+      "caption": "Rookie Firefighter Uses The Q-Word"
     }
   ]
 }
