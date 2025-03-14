@@ -2436,6 +2436,11 @@
       "id": 101,
       "caption": "Alliance Challenge March 2025",
       "key": "AWARD_ALLIANCE_CHALLENGE_MARCH_2025"
+    },
+    {
+      "id": 102,
+      "caption": "St Patrick's Day 2025",
+      "key": "AWARD_ST_PATRICKS_2025"
     }
   ],
   "filter_types": [
@@ -5495,23 +5500,11 @@
     },
     {
       "id": 751,
-      "caption": "Tree on fire"
-    },
-    {
-      "id": 752,
-      "caption": "Tree Stump on fire"
-    },
-    {
-      "id": 753,
       "caption": "Home Fire Safety Check"
     },
     {
-      "id": 754,
-      "caption": "Fence fire"
-    },
-    {
-      "id": 755,
-      "caption": "Hedge fire"
+      "id": 752,
+      "caption": "Rookie Firefighter Uses The Q-Word"
     }
   ]
 }
