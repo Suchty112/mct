@@ -391,6 +391,26 @@
       "type": "Integer"
     },
     {
+      "key": "alliance_event_credits",
+      "caption": "Alliance Event Credits",
+      "type": "Integer"
+    },
+    {
+      "key": "event_currency",
+      "caption": "Event Credits",
+      "type": "Integer"
+    },
+    {
+      "key": "season_event",
+      "caption": "St. Patrick's Day",
+      "type": "Symbol"
+    },
+    {
+      "key": "stpatricks_count",
+      "caption": "St. Patrick's level needed:",
+      "type": "Integer"
+    },
+    {
       "key": "need_kdow_orgl",
       "caption": "Required Paramedic Supervisor",
       "type": "Integer"
@@ -1974,9 +1994,9 @@
       "key": "AWARD_ALLIANCE_CHALLENGE_MARCH_2025"
     },
     {
-      "id": 106,
+      "id": 102,
       "caption": "St Patrick's Day 2025",
-      "key": null
+      "key": "AWARD_ST_PATRICKS_2025"
     }
   ],
   "filter_types": [
