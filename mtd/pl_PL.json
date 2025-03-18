@@ -71,6 +71,16 @@
       "type": "Unknown"
     },
     {
+      "key": "crashed_car_icons",
+      "caption": null,
+      "type": "Unknown"
+    },
+    {
+      "key": "additive_value_overlays",
+      "caption": null,
+      "type": "Unknown"
+    },
+    {
       "key": "need_lf",
       "caption": "Wymagane samochody pożarnicze",
       "type": "Integer"
@@ -101,14 +111,14 @@
       "type": "Integer"
     },
     {
-      "key": "additive_value_overlays",
-      "caption": null,
-      "type": "Unknown"
-    },
-    {
       "key": "need_oneof_fire_engine_or_rescue_or_ladder",
       "caption": "Wymagane wozy strażackie, pojazdy ratownictwa technicznego, SH lub SD",
       "type": "Integer"
+    },
+    {
+      "key": "crashed_car_large_icons",
+      "caption": null,
+      "type": "Unknown"
     },
     {
       "key": "need_oneof_fire_engine_or_rescue",
@@ -598,6 +608,36 @@
     {
       "key": "critical_transport_value",
       "caption": null,
+      "type": "Integer"
+    },
+    {
+      "key": "tow_trucks_count",
+      "caption": "Wymagana stacja pomocy drogowej",
+      "type": "Integer"
+    },
+    {
+      "key": "possible_crashed_car_min",
+      "caption": "Minimalna liczba samochodów do holowania",
+      "type": "Integer"
+    },
+    {
+      "key": "possible_crashed_car",
+      "caption": "Maksymalna liczba samochodów do holowania",
+      "type": "Integer"
+    },
+    {
+      "key": "tow_trucks_large_count",
+      "caption": "Wymagane rozbudowy dla Rotatora",
+      "type": "Integer"
+    },
+    {
+      "key": "possible_crashed_car_large_min",
+      "caption": "Minimalna liczba ciężarówek do holowania",
+      "type": "Integer"
+    },
+    {
+      "key": "possible_crashed_car_large",
+      "caption": "Maksymalna liczba holowanych ciężarówek",
       "type": "Integer"
     }
   ],
@@ -1171,6 +1211,10 @@
         {
           "id": 15,
           "caption": "Duże więzienie"
+        },
+        {
+          "id": 16,
+          "caption": "Samochody holownicze"
         }
       ]
     },
@@ -1373,6 +1417,57 @@
       "id": 24,
       "caption": "Stacja samolotów gaśniczych",
       "key": "BUILDING_TYPE_FIRE_AVIATION_STATION"
+    },
+    {
+      "id": 25,
+      "caption": "Pomoc drogowa",
+      "key": "BUILDING_TYPE_TOW_TRUCKS",
+      "extensions": [
+        {
+          "id": 0,
+          "caption": "Parking dla pojazdów"
+        },
+        {
+          "id": 1,
+          "caption": "Dodatkowe miejsce parkingowe dla pojazdów"
+        },
+        {
+          "id": 2,
+          "caption": "Dodatkowe miejsce parkingowe dla pojazdów"
+        },
+        {
+          "id": 3,
+          "caption": "Dodatkowe miejsce parkingowe dla pojazdów"
+        },
+        {
+          "id": 4,
+          "caption": "Dodatkowe miejsce parkingowe dla pojazdów"
+        },
+        {
+          "id": 5,
+          "caption": "Dodatkowe miejsce parkingowe dla pojazdów"
+        },
+        {
+          "id": 6,
+          "caption": "Dodatkowe miejsce parkingowe dla pojazdów"
+        },
+        {
+          "id": 7,
+          "caption": "Dodatkowe miejsce parkingowe dla pojazdów"
+        },
+        {
+          "id": 8,
+          "caption": "Dodatkowe miejsce parkingowe dla pojazdów"
+        },
+        {
+          "id": 9,
+          "caption": "Dodatkowe miejsce parkingowe dla pojazdów"
+        },
+        {
+          "id": 10,
+          "caption": "Rozbudowa dla rotatora"
+        }
+      ]
     }
   ],
   "awards": [
@@ -5194,6 +5289,50 @@
     {
       "id": 807,
       "caption": "Ratownictwo w przypadku kolizji drogowej"
+    },
+    {
+      "id": 808,
+      "caption": "Odholowanie pojazdu"
+    },
+    {
+      "id": 809,
+      "caption": "Wypadek podczas holowania pojazdu"
+    },
+    {
+      "id": 810,
+      "caption": "Unieruchomiony samochód na drodze"
+    },
+    {
+      "id": 811,
+      "caption": "Samochód bez paliwa"
+    },
+    {
+      "id": 812,
+      "caption": "Porzucony pojazd na poboczu drogi"
+    },
+    {
+      "id": 813,
+      "caption": "Wóz strażacki w rowie"
+    },
+    {
+      "id": 814,
+      "caption": "Wóz strażacki uderzył w bramę garażową"
+    },
+    {
+      "id": 815,
+      "caption": "Spalony wydech pojazdu"
+    },
+    {
+      "id": 816,
+      "caption": "Samochód nie może odpalić"
+    },
+    {
+      "id": 817,
+      "caption": "Pracownik pomocy drogowej uderzony przez samochód"
+    },
+    {
+      "id": 818,
+      "caption": "Przebita opona"
     }
   ]
 }
