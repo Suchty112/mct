@@ -749,6 +749,31 @@
       "key": "critical_transport_value",
       "caption": null,
       "type": "Integer"
+    },
+    {
+      "key": "mountain_value",
+      "caption": null,
+      "type": "Integer"
+    },
+    {
+      "key": "mountain_rescue_count",
+      "caption": "Required Mountain Rescue Station",
+      "type": "Integer"
+    },
+    {
+      "key": "need_oneof_mountain_atv_or_search_and_rescue_atv",
+      "caption": "Required Mountain Rescue 4x4 or SAR 4x4",
+      "type": "Integer"
+    },
+    {
+      "key": "need_rescue_dogs",
+      "caption": "Required Search Dog Units",
+      "type": "Integer"
+    },
+    {
+      "key": "need_atv_carrier",
+      "caption": "Required ATV Carriers",
+      "type": "Integer"
     }
   ],
   "pois": [
@@ -1127,6 +1152,18 @@
     {
       "id": 93,
       "caption": "Hangar"
+    },
+    {
+      "id": 94,
+      "caption": "Ravine"
+    },
+    {
+      "id": 95,
+      "caption": "Cave"
+    },
+    {
+      "id": 96,
+      "caption": "Mineshaft"
     }
   ],
   "available_icons": [
@@ -1891,7 +1928,7 @@
     },
     {
       "id": 29,
-      "caption": "Lifeboat College",
+      "caption": "Search and Rescue College",
       "key": "BUILDING_TYPE_WATER_RESCUE_SCHOOL",
       "extensions": [
         {
@@ -1954,6 +1991,11 @@
       "id": 32,
       "caption": "GP Surgery",
       "key": "BUILDING_TYPE_GENERAL_PRACTITIONER"
+    },
+    {
+      "id": 33,
+      "caption": "Mountain Rescue Station",
+      "key": "BUILDING_TYPE_MOUNTAIN_RESCUE"
     }
   ],
   "awards": [
@@ -5525,6 +5567,38 @@
     {
       "id": 752,
       "caption": "Rookie Firefighter Uses The Q-Word"
+    },
+    {
+      "id": 753,
+      "caption": "Belay Failure Whilst Abseiling"
+    },
+    {
+      "id": 754,
+      "caption": "Teenager Trapped in Small Cave Complex"
+    },
+    {
+      "id": 755,
+      "caption": "Fall Whilst Fell Running"
+    },
+    {
+      "id": 756,
+      "caption": "Overdue Hikers"
+    },
+    {
+      "id": 757,
+      "caption": "S.O.S Torch Signal Sighted on Moorland"
+    },
+    {
+      "id": 758,
+      "caption": "Cardiac Arrest on Hike"
+    },
+    {
+      "id": 759,
+      "caption": "Rockfall on Climbers"
+    },
+    {
+      "id": 760,
+      "caption": "Amateur Explorers Trapped in Abandoned Mineshaft"
     }
   ]
 }
