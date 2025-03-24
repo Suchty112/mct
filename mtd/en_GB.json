@@ -376,26 +376,6 @@
       "type": "Integer"
     },
     {
-      "key": "alliance_event_credits",
-      "caption": "Alliance Event Credits",
-      "type": "Integer"
-    },
-    {
-      "key": "event_currency",
-      "caption": "Event Credits",
-      "type": "Integer"
-    },
-    {
-      "key": "season_event",
-      "caption": "St. Patrick's Day",
-      "type": "Symbol"
-    },
-    {
-      "key": "stpatricks_count",
-      "caption": "St. Patrick's level needed:",
-      "type": "Integer"
-    },
-    {
       "key": "personal_min_polizei",
       "caption": "Average min . Police Personnel",
       "type": "Integer"
