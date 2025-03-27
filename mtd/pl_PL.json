@@ -2005,6 +2005,11 @@
       "id": 108,
       "caption": "Wyzwanie sojuszu - marzec 2025 r.",
       "key": "AWARD_ALLIANCE_CHALLENGE_MARCH_2025"
+    },
+    {
+      "id": 109,
+      "caption": "Misje Wiosennego wydarzenia 2025",
+      "key": "AWARD_SPRING_MISSIONS_2025"
     }
   ],
   "filter_types": [
