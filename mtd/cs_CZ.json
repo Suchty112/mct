@@ -2146,6 +2146,11 @@
       "id": 111,
       "caption": "Alianční výzva březen 2025",
       "key": "AWARD_ALLIANCE_CHALLENGE_MARCH_2025"
+    },
+    {
+      "id": 112,
+      "caption": "Mise v jarní akci 2025",
+      "key": "AWARD_SPRING_MISSIONS_2025"
     }
   ],
   "filter_types": [
