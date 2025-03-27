@@ -2005,6 +2005,11 @@
       "id": 104,
       "caption": "Alliansens utmaning mars 2025",
       "key": "AWARD_ALLIANCE_CHALLENGE_MARCH_2025"
+    },
+    {
+      "id": 105,
+      "caption": "Vårevenemangsuppdrag 2025",
+      "key": "AWARD_SPRING_MISSIONS_2025"
     }
   ],
   "filter_types": [
