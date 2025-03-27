@@ -884,6 +884,26 @@
       "key": "need_technical_rescue",
       "caption": "Required Technical Rescue Equipments",
       "type": "Integer"
+    },
+    {
+      "key": "fire_crane_equipment_count",
+      "caption": "Required Fire Crane Equipments",
+      "type": "Integer"
+    },
+    {
+      "key": "need_fwk",
+      "caption": "Required Fire Cranes",
+      "type": "Integer"
+    },
+    {
+      "key": "disaster_response_count",
+      "caption": "Disaster Response Extensions",
+      "type": "Integer"
+    },
+    {
+      "key": "need_light_supply",
+      "caption": "Required Light Tower Trailers",
+      "type": "Integer"
     }
   ],
   "pois": [
@@ -6763,6 +6783,18 @@
     {
       "id": 1052,
       "caption": "Rookie Firefighter Uses The Q-Word"
+    },
+    {
+      "id": 1053,
+      "caption": "Person Trapped in Deep Well"
+    },
+    {
+      "id": 1054,
+      "caption": "Runaway Diesel Locomotive Derailed"
+    },
+    {
+      "id": 1055,
+      "caption": "Massive Debris from Rockslide Stuck on Highway Trapping Drivers"
     }
   ]
 }
