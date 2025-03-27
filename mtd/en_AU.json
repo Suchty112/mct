@@ -1977,6 +1977,11 @@
       "id": 102,
       "caption": "St Patrick's Day 2025",
       "key": "AWARD_ST_PATRICKS_2025"
+    },
+    {
+      "id": 103,
+      "caption": "Autumn Missions 2025",
+      "key": "AWARD_AUTUMN_MISSIONS_2025"
     }
   ],
   "filter_types": [
