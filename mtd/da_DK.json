@@ -2057,6 +2057,11 @@
       "id": 112,
       "caption": "Alliancens udfordring marts 2025",
       "key": "AWARD_ALLIANCE_CHALLENGE_MARCH_2025"
+    },
+    {
+      "id": 113,
+      "caption": "Forårsmissioner 2025",
+      "key": "AWARD_SPRING_MISSIONS_2025"
     }
   ],
   "filter_types": [
