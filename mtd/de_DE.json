@@ -216,6 +216,11 @@
       "type": "Integer"
     },
     {
+      "key": "foam_needed",
+      "caption": "Sonderlöschmittelbedarf",
+      "type": "Integer"
+    },
+    {
       "key": "need_gwl2wasser_chance",
       "caption": "Schlauchwagen Anforderungswahrscheinlichkeit",
       "type": "Integer"
@@ -1443,6 +1448,14 @@
         {
           "id": 25,
           "caption": "Bahnrettung"
+        },
+        {
+          "id": 26,
+          "caption": "Abrollbehälter-Stellplatz"
+        },
+        {
+          "id": 27,
+          "caption": "Abrollbehälter-Stellplatz"
         }
       ]
     },
