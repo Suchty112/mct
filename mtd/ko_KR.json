@@ -1864,6 +1864,11 @@
       "id": 95,
       "caption": "얼라이언스 챌린지 2025년 3월",
       "key": "AWARD_ALLIANCE_CHALLENGE_MARCH_2025"
+    },
+    {
+      "id": 96,
+      "caption": "2025 봄 이벤트 임무",
+      "key": "AWARD_SPRING_MISSIONS_2025"
     }
   ],
   "filter_types": [
