@@ -1884,6 +1884,11 @@
       "id": 100,
       "caption": "アライアンス・チャレンジ 2025年3月",
       "key": "AWARD_ALLIANCE_CHALLENGE_MARCH_2025"
+    },
+    {
+      "id": 101,
+      "caption": "2025 春イベントのミッション",
+      "key": "AWARD_SPRING_MISSIONS_2025"
     }
   ],
   "filter_types": [
