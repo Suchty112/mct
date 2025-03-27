@@ -2617,6 +2617,11 @@
       "id": 124,
       "caption": "Verbands-Herausforderung März 2025",
       "key": "AWARD_ALLIANCE_CHALLENGE_MARCH_2025"
+    },
+    {
+      "id": 125,
+      "caption": "Frühlingsevent 2025",
+      "key": "AWARD_SPRING_MISSIONS_2025"
     }
   ],
   "filter_types": [
