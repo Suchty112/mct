@@ -2393,6 +2393,11 @@
       "id": 109,
       "caption": "Défi de l'Alliance mars 2025",
       "key": "AWARD_ALLIANCE_CHALLENGE_MARCH_2025"
+    },
+    {
+      "id": 110,
+      "caption": "Missions de l'Événement du printemps 2025",
+      "key": "AWARD_SPRING_MISSIONS_2025"
     }
   ],
   "filter_types": [
