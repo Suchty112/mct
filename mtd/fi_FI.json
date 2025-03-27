@@ -1893,6 +1893,11 @@
       "id": 103,
       "caption": "Allianssihaaste maaliskuu 2025",
       "key": "AWARD_ALLIANCE_CHALLENGE_MARCH_2025"
+    },
+    {
+      "id": 104,
+      "caption": "Kevättapahtuman tehtävät 2025",
+      "key": "AWARD_SPRING_MISSIONS_2025"
     }
   ],
   "filter_types": [
