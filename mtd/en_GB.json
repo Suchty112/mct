@@ -2483,6 +2483,11 @@
       "id": 102,
       "caption": "St Patrick's Day 2025",
       "key": "AWARD_ST_PATRICKS_2025"
+    },
+    {
+      "id": 103,
+      "caption": "Spring Missions 2025",
+      "key": "AWARD_SPRING_MISSIONS_2025"
     }
   ],
   "filter_types": [
