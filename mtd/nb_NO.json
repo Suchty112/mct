@@ -71,6 +71,16 @@
       "type": "Unknown"
     },
     {
+      "key": "crashed_car_icons",
+      "caption": null,
+      "type": "Unknown"
+    },
+    {
+      "key": "additive_value_overlays",
+      "caption": null,
+      "type": "Unknown"
+    },
+    {
       "key": "need_lf",
       "caption": "Nødvendige brannbiler",
       "type": "Integer"
@@ -104,6 +114,11 @@
       "key": "need_oneof_fire_engine_or_rescue_or_ladder",
       "caption": "Nødvendige brannbiler, tungredningsbiler eller stigebiler",
       "type": "Integer"
+    },
+    {
+      "key": "crashed_car_large_icons",
+      "caption": null,
+      "type": "Unknown"
     },
     {
       "key": "need_elw1",
@@ -299,11 +314,6 @@
       "key": "need_rw_chance",
       "caption": "Sannsynlighet for at tungredningsbil er nødvendig",
       "type": "Integer"
-    },
-    {
-      "key": "additive_value_overlays",
-      "caption": null,
-      "type": "Unknown"
     },
     {
       "key": "need_elw2",
@@ -758,6 +768,61 @@
     {
       "key": "need_police_service_group_leader",
       "caption": "Påkrevd Innsatsleder Politi",
+      "type": "Integer"
+    },
+    {
+      "key": "tow_trucks_count",
+      "caption": "Nødvendige Bilbergerstasjoner",
+      "type": "Integer"
+    },
+    {
+      "key": "possible_crashed_car_min",
+      "caption": "Minimum antall biler som skal taues",
+      "type": "Integer"
+    },
+    {
+      "key": "possible_crashed_car",
+      "caption": "Maksimalt antall biler som kan taues",
+      "type": "Integer"
+    },
+    {
+      "key": "tow_trucks_large_count",
+      "caption": "Nødvendige tungberger utvidelse",
+      "type": "Integer"
+    },
+    {
+      "key": "tow_trucks_support_count",
+      "caption": "Nødvendig forlengelse av støtte for tauebil",
+      "type": "Integer"
+    },
+    {
+      "key": "need_tow_trucks",
+      "caption": "Nødvendige Service Bil",
+      "type": "Integer"
+    },
+    {
+      "key": "need_air_cushion",
+      "caption": "Nødvendige Luftpute henger",
+      "type": "Integer"
+    },
+    {
+      "key": "need_crane",
+      "caption": "Nødvendige Rotator",
+      "type": "Integer"
+    },
+    {
+      "key": "possible_crashed_car_large_min",
+      "caption": "Minimum antall lastebiler som skal taues",
+      "type": "Integer"
+    },
+    {
+      "key": "possible_crashed_car_large",
+      "caption": "Maksimalt antall lastebiler som kan taues",
+      "type": "Integer"
+    },
+    {
+      "key": "need_road_block",
+      "caption": "Nødvendige TMA lastebil",
       "type": "Integer"
     }
   ],
@@ -1656,6 +1721,61 @@
         {
           "id": 5,
           "caption": "Frivillige redningsorganisasjoner"
+        }
+      ]
+    },
+    {
+      "id": 34,
+      "caption": "Bilbergerstasjon",
+      "key": "BUILDING_TYPE_TOW_TRUCKS",
+      "extensions": [
+        {
+          "id": 0,
+          "caption": "Parkeringsplass for kjøretøy"
+        },
+        {
+          "id": 1,
+          "caption": "Ekstra parkeringsplass for kjøretøy"
+        },
+        {
+          "id": 2,
+          "caption": "Ekstra parkeringsplass for kjøretøy"
+        },
+        {
+          "id": 3,
+          "caption": "Ekstra parkeringsplass for kjøretøy"
+        },
+        {
+          "id": 4,
+          "caption": "Ekstra parkeringsplass for kjøretøy"
+        },
+        {
+          "id": 5,
+          "caption": "Ekstra parkeringsplass for kjøretøy"
+        },
+        {
+          "id": 6,
+          "caption": "Ekstra parkeringsplass for kjøretøy"
+        },
+        {
+          "id": 7,
+          "caption": "Ekstra parkeringsplass for kjøretøy"
+        },
+        {
+          "id": 8,
+          "caption": "Ekstra parkeringsplass for kjøretøy"
+        },
+        {
+          "id": 9,
+          "caption": "Ekstra parkeringsplass for kjøretøy"
+        },
+        {
+          "id": 10,
+          "caption": "Tungberger Utvidelse"
+        },
+        {
+          "id": 11,
+          "caption": "Forlengelse for støtte for tauebil"
         }
       ]
     }
@@ -4908,6 +5028,54 @@
     {
       "id": 673,
       "caption": "Redning ved trafikkulykker"
+    },
+    {
+      "id": 674,
+      "caption": "Reposisjon av kjøretøy"
+    },
+    {
+      "id": 675,
+      "caption": "Tilbakelevering av kjøretøy som gikk galt"
+    },
+    {
+      "id": 676,
+      "caption": "Funksjonshemmet bil på veibanen"
+    },
+    {
+      "id": 677,
+      "caption": "Kjøretøy tom for drivstoff"
+    },
+    {
+      "id": 678,
+      "caption": "Forlatt kjøretøy langs veikanten"
+    },
+    {
+      "id": 679,
+      "caption": "Brannbil kjørt i grøft"
+    },
+    {
+      "id": 680,
+      "caption": "Eksos falt av"
+    },
+    {
+      "id": 681,
+      "caption": "Startproblemer"
+    },
+    {
+      "id": 682,
+      "caption": "Punktert dekk"
+    },
+    {
+      "id": 683,
+      "caption": "Ulykke med to kjøretøy på motorvei"
+    },
+    {
+      "id": 684,
+      "caption": "Sjåfør på telefon kjører inn i TMA-lastebil"
+    },
+    {
+      "id": 685,
+      "caption": "Dobbelt traktorhenger havarert på motorvei"
     }
   ]
 }
