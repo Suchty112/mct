@@ -1964,6 +1964,11 @@
       "id": 109,
       "caption": "Evento de Primavera 2025",
       "key": "AWARD_SPRING_MISSIONS_2025"
+    },
+    {
+      "id": 110,
+      "caption": "Desafio da Aliança abril de 2025",
+      "key": "AWARD_ALLIANCE_CHALLENGE_APR_2025"
     }
   ],
   "filter_types": [
