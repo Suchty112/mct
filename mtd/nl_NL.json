@@ -2326,6 +2326,11 @@
       "id": 128,
       "caption": "Lente-evenement 2025",
       "key": "AWARD_SPRING_MISSIONS_2025"
+    },
+    {
+      "id": 129,
+      "caption": "Team Uitdaging April 2025",
+      "key": "AWARD_ALLIANCE_CHALLENGE_APR_2025"
     }
   ],
   "filter_types": [
