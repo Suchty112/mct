@@ -1982,6 +1982,11 @@
       "id": 103,
       "caption": "Autumn Missions 2025",
       "key": "AWARD_AUTUMN_MISSIONS_2025"
+    },
+    {
+      "id": 104,
+      "caption": "Alliance Challenge April 2025",
+      "key": "AWARD_ALLIANCE_CHALLENGE_APR_2025"
     }
   ],
   "filter_types": [
