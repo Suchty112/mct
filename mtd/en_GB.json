@@ -2488,6 +2488,11 @@
       "id": 103,
       "caption": "Spring Missions 2025",
       "key": "AWARD_SPRING_MISSIONS_2025"
+    },
+    {
+      "id": 104,
+      "caption": "Alliance Challenge April 2025",
+      "key": "AWARD_ALLIANCE_CHALLENGE_APR_2025"
     }
   ],
   "filter_types": [
