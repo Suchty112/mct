@@ -2622,6 +2622,11 @@
       "id": 125,
       "caption": "Frühlingsevent 2025",
       "key": "AWARD_SPRING_MISSIONS_2025"
+    },
+    {
+      "id": 126,
+      "caption": "Verbands-Herausforderung April 2025",
+      "key": "AWARD_ALLIANCE_CHALLENGE_APR_2025"
     }
   ],
   "filter_types": [
