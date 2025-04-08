@@ -2015,6 +2015,16 @@
       "id": 110,
       "caption": "Wyzwanie sojuszu kwiecień 2025 r.",
       "key": "AWARD_ALLIANCE_CHALLENGE_APR_2025"
+    },
+    {
+      "id": 111,
+      "caption": "Poszukiwacz pisanek 2025",
+      "key": "AWARD_EASTER_COLLECTION_2025"
+    },
+    {
+      "id": 112,
+      "caption": "Misje króliczka wielkanocnego 2025",
+      "key": "AWARD_EASTER_MISSIONS_2025"
     }
   ],
   "filter_types": [
