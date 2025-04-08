@@ -2015,6 +2015,16 @@
       "id": 106,
       "caption": "Alliansens utmaning April 2025",
       "key": "AWARD_ALLIANCE_CHALLENGE_APR_2025"
+    },
+    {
+      "id": 107,
+      "caption": "Påskäggshittare 2025",
+      "key": "AWARD_EASTER_COLLECTION_2025"
+    },
+    {
+      "id": 108,
+      "caption": "Påskhareuppdrag 2025",
+      "key": "AWARD_EASTER_MISSIONS_2025"
     }
   ],
   "filter_types": [
