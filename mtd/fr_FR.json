@@ -2403,6 +2403,16 @@
       "id": 111,
       "caption": "Défi de l'Alliance Avril 2025",
       "key": "AWARD_ALLIANCE_CHALLENGE_APR_2025"
+    },
+    {
+      "id": 112,
+      "caption": "Dénicheur d’œufs de Pâques 2025",
+      "key": "AWARD_EASTER_COLLECTION_2025"
+    },
+    {
+      "id": 113,
+      "caption": "Missions du lapin de Pâques 2025",
+      "key": "AWARD_EASTER_MISSIONS_2025"
     }
   ],
   "filter_types": [
