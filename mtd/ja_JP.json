@@ -1894,6 +1894,16 @@
       "id": 102,
       "caption": "アライアンス・チャレンジ 2025年4月",
       "key": "AWARD_ALLIANCE_CHALLENGE_APR_2025"
+    },
+    {
+      "id": 103,
+      "caption": "2025裏技発見はお手の物",
+      "key": "AWARD_EASTER_COLLECTION_2025"
+    },
+    {
+      "id": 104,
+      "caption": "2025 イースターエッグ探し",
+      "key": "AWARD_EASTER_MISSIONS_2025"
     }
   ],
   "filter_types": [
