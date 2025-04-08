@@ -2299,6 +2299,16 @@
       "id": 112,
       "caption": "Sfida dell'Alleanza Aprile 2025",
       "key": "AWARD_ALLIANCE_CHALLENGE_APR_2025"
+    },
+    {
+      "id": 113,
+      "caption": "A caccia di uova di Pasqua 2025",
+      "key": "AWARD_EASTER_COLLECTION_2025"
+    },
+    {
+      "id": 114,
+      "caption": "Missioni dei coniglietti pasquali 2025",
+      "key": "AWARD_EASTER_MISSIONS_2025"
     }
   ],
   "filter_types": [
