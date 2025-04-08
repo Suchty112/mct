@@ -1987,6 +1987,16 @@
       "id": 104,
       "caption": "Alliance Challenge April 2025",
       "key": "AWARD_ALLIANCE_CHALLENGE_APR_2025"
+    },
+    {
+      "id": 105,
+      "caption": "Easter eggs finder 2025",
+      "key": "AWARD_EASTER_COLLECTION_2025"
+    },
+    {
+      "id": 106,
+      "caption": "Easter bunny missions 2025",
+      "key": "AWARD_EASTER_MISSIONS_2025"
     }
   ],
   "filter_types": [
