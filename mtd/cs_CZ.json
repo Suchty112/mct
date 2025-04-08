@@ -2156,6 +2156,16 @@
       "id": 113,
       "caption": "Alianční výzva duben 2025",
       "key": "AWARD_ALLIANCE_CHALLENGE_APR_2025"
+    },
+    {
+      "id": 114,
+      "caption": "Hledač překvapení 2025",
+      "key": "AWARD_EASTER_COLLECTION_2025"
+    },
+    {
+      "id": 115,
+      "caption": "Hledač velikonočních vajíček 2025",
+      "key": "AWARD_EASTER_MISSIONS_2025"
     }
   ],
   "filter_types": [
