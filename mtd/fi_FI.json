@@ -1903,6 +1903,16 @@
       "id": 105,
       "caption": "Allianssin haaste huhtikuu 2025",
       "key": "AWARD_ALLIANCE_CHALLENGE_APR_2025"
+    },
+    {
+      "id": 106,
+      "caption": "Pääsiäismunien löytäjä 2025",
+      "key": "AWARD_EASTER_COLLECTION_2025"
+    },
+    {
+      "id": 107,
+      "caption": "Pääsiäistehtävät 2025",
+      "key": "AWARD_EASTER_MISSIONS_2025"
     }
   ],
   "filter_types": [
