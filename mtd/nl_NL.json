@@ -681,6 +681,26 @@
       "type": "Integer"
     },
     {
+      "key": "event_currency",
+      "caption": "Event Credits",
+      "type": "Integer"
+    },
+    {
+      "key": "easter_count",
+      "caption": "Paasniveau nodig",
+      "type": "Integer"
+    },
+    {
+      "key": "season_event",
+      "caption": "Pasen",
+      "type": "Symbol"
+    },
+    {
+      "key": "alliance_event_credits",
+      "caption": "Verband Event Credits",
+      "type": "Integer"
+    },
+    {
       "key": "max_police_building",
       "caption": "Maximale aantal politiebureaus",
       "type": "Integer"
