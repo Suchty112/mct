@@ -261,6 +261,26 @@
       "type": "Symbol"
     },
     {
+      "key": "event_currency",
+      "caption": "Kredity události",
+      "type": "Integer"
+    },
+    {
+      "key": "easter_count",
+      "caption": "Potřebná úroveň Velikonoc",
+      "type": "Integer"
+    },
+    {
+      "key": "season_event",
+      "caption": "Velikonoce",
+      "type": "Symbol"
+    },
+    {
+      "key": "alliance_event_credits",
+      "caption": "Kredity událostí aliance",
+      "type": "Integer"
+    },
+    {
       "key": "need_oneof_fire_engine_or_rescue",
       "caption": "Požadované CAS nebo Technické automobily",
       "type": "Integer"
