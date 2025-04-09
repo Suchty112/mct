@@ -356,6 +356,26 @@
       "type": "Integer"
     },
     {
+      "key": "event_currency",
+      "caption": "Tapahtuman krediitit",
+      "type": "Integer"
+    },
+    {
+      "key": "easter_count",
+      "caption": "Tarvittava pääsiäisen taso",
+      "type": "Integer"
+    },
+    {
+      "key": "season_event",
+      "caption": "Pääsiäinen",
+      "type": "Symbol"
+    },
+    {
+      "key": "alliance_event_credits",
+      "caption": "Allianssin tapahtuman krediitit",
+      "type": "Integer"
+    },
+    {
       "key": "max_police_building",
       "caption": "Poliisiasemia enint.",
       "type": "Integer"
