@@ -241,6 +241,26 @@
       "type": "Datetime"
     },
     {
+      "key": "event_currency",
+      "caption": "イベントクレジット",
+      "type": "Integer"
+    },
+    {
+      "key": "easter_count",
+      "caption": "イースターレベル必要",
+      "type": "Integer"
+    },
+    {
+      "key": "season_event",
+      "caption": "イースター",
+      "type": "Symbol"
+    },
+    {
+      "key": "alliance_event_credits",
+      "caption": "アライアンス・イベント・クレジット",
+      "type": "Integer"
+    },
+    {
       "key": "max_police_building",
       "caption": "警察署最大",
       "type": "Integer"
