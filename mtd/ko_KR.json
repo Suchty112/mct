@@ -241,6 +241,26 @@
       "type": "Datetime"
     },
     {
+      "key": "event_currency",
+      "caption": "이벤트 크레딧",
+      "type": "Integer"
+    },
+    {
+      "key": "easter_count",
+      "caption": "부활절 레벨 필요",
+      "type": "Integer"
+    },
+    {
+      "key": "season_event",
+      "caption": "부활절",
+      "type": "Symbol"
+    },
+    {
+      "key": "alliance_event_credits",
+      "caption": "얼라이언스 이벤트 크레딧",
+      "type": "Integer"
+    },
+    {
       "key": "max_police_building",
       "caption": "최대 경찰서 수",
       "type": "Integer"
