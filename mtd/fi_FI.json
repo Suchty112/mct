@@ -1933,6 +1933,11 @@
       "id": 107,
       "caption": "Pääsiäistehtävät 2025",
       "key": "AWARD_EASTER_MISSIONS_2025"
+    },
+    {
+      "id": 108,
+      "caption": "5. vuosipäivä",
+      "key": "AWARD_FIVE_YEARS"
     }
   ],
   "filter_types": [
