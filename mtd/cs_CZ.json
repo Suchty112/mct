@@ -11,6 +11,11 @@
       "type": "String"
     },
     {
+      "key": "mission_generation_types",
+      "caption": "Typ mise",
+      "type": "Set"
+    },
+    {
       "key": "fire_value",
       "caption": null,
       "type": "Integer"
@@ -99,11 +104,6 @@
       "key": "additive_value_overlays",
       "caption": null,
       "type": "Unknown"
-    },
-    {
-      "key": "mission_generation_types",
-      "caption": "Typ mise",
-      "type": "Set"
     },
     {
       "key": "need_oneof_fire_engine_or_rescue_or_carrier",
@@ -2521,7 +2521,7 @@
     },
     {
       "id": 70,
-      "caption": "Velký požár v supermarketu"
+      "caption": "Nehoda lehkého letounu"
     },
     {
       "id": 71,
