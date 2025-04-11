@@ -4697,6 +4697,26 @@
     {
       "id": 622,
       "caption": "Rescate en accidente de tráfico"
+    },
+    {
+      "id": 623,
+      "caption": "Incendio en una autocaravana"
+    },
+    {
+      "id": 624,
+      "caption": "Incendio en un centro comercial"
+    },
+    {
+      "id": 625,
+      "caption": "Trabajador caído de un tejado, en parada cardiaca"
+    },
+    {
+      "id": 626,
+      "caption": "Incendio en una fábrica de huevos de chocolate"
+    },
+    {
+      "id": 627,
+      "caption": "Huelga de conejos de Pascua sin previo aviso"
     }
   ]
 }
