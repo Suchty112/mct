@@ -4603,6 +4603,26 @@
     {
       "id": 637,
       "caption": "Resgate em caso de acidente rodoviário"
+    },
+    {
+      "id": 638,
+      "caption": "Incêndio numa casa móvel"
+    },
+    {
+      "id": 639,
+      "caption": "Incêndio num centro comercial"
+    },
+    {
+      "id": 640,
+      "caption": "Trabalhador caiu de um telhado, em paragem cardíaca"
+    },
+    {
+      "id": 641,
+      "caption": "Incêndio na fábrica de ovos de chocolate"
+    },
+    {
+      "id": 642,
+      "caption": "Greve não anunciada de coelhinhos da Páscoa"
     }
   ]
 }
