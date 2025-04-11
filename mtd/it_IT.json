@@ -5425,6 +5425,26 @@
     {
       "id": 760,
       "caption": "Ceppo di albero in fiamme"
+    },
+    {
+      "id": 761,
+      "caption": "Incendio in una casa mobile"
+    },
+    {
+      "id": 762,
+      "caption": "Incendio in un centro commerciale"
+    },
+    {
+      "id": 763,
+      "caption": "Operaio caduto da un tetto, in arresto cardiaco"
+    },
+    {
+      "id": 764,
+      "caption": "Incendio in una fabbrica di uova di cioccolato"
+    },
+    {
+      "id": 765,
+      "caption": "Sciopero dei coniglietti di Pasqua non annunciato"
     }
   ]
 }
