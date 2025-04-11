@@ -774,6 +774,11 @@
       "key": "need_atv_carrier",
       "caption": "Required ATV Carriers",
       "type": "Integer"
+    },
+    {
+      "key": "need_k9_chance",
+      "caption": "Probability of Dog Support Units being required",
+      "type": "Integer"
     }
   ],
   "pois": [
@@ -5619,6 +5624,26 @@
     {
       "id": 760,
       "caption": "Amateur Explorers Trapped in Abandoned Mineshaft"
+    },
+    {
+      "id": 761,
+      "caption": "Dis-Masted Yacht Offshore"
+    },
+    {
+      "id": 762,
+      "caption": "Palliative Care Visit"
+    },
+    {
+      "id": 763,
+      "caption": "Personal Attack Alarm"
+    },
+    {
+      "id": 764,
+      "caption": "Fire in chocolate egg factory"
+    },
+    {
+      "id": 765,
+      "caption": "Unannounced Easter bunny strike"
     }
   ]
 }
