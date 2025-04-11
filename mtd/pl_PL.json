@@ -5373,6 +5373,26 @@
     {
       "id": 818,
       "caption": "Przebita opona"
+    },
+    {
+      "id": 819,
+      "caption": "Pożar w przyczepie stacjonarnej"
+    },
+    {
+      "id": 820,
+      "caption": "Pożar w centrum handlowym"
+    },
+    {
+      "id": 821,
+      "caption": "Pracownik spadł z dachu, zatrzymanie akcji serca"
+    },
+    {
+      "id": 822,
+      "caption": "Pożar w fabryce czekoladowych jajek"
+    },
+    {
+      "id": 823,
+      "caption": "Niezapowiedziany strajk zajączków wielkanocnych"
     }
   ]
 }
