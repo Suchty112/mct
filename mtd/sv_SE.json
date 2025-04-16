@@ -61,6 +61,16 @@
       "type": "Unknown"
     },
     {
+      "key": "crashed_car_icons",
+      "caption": null,
+      "type": "Unknown"
+    },
+    {
+      "key": "additive_value_overlays",
+      "caption": null,
+      "type": "Unknown"
+    },
+    {
       "key": "need_lf",
       "caption": "Nödvändiga släckbilar",
       "type": "Integer"
@@ -94,6 +104,11 @@
       "key": "need_oneof_fire_engine_or_rescue_or_ladder",
       "caption": "Nödvändiga brandbilar, tunga räddningsfordon eller plattformstruckar",
       "type": "Integer"
+    },
+    {
+      "key": "crashed_car_large_icons",
+      "caption": null,
+      "type": "Unknown"
     },
     {
       "key": "need_elw1",
@@ -134,11 +149,6 @@
       "key": "water_needed",
       "caption": "Kräver vatten",
       "type": "Integer"
-    },
-    {
-      "key": "additive_value_overlays",
-      "caption": null,
-      "type": "Unknown"
     },
     {
       "key": "police_count",
@@ -694,6 +704,21 @@
       "key": "critical_transport_value",
       "caption": null,
       "type": "Integer"
+    },
+    {
+      "key": "tow_trucks_count",
+      "caption": "Krävs Bärgningsstation",
+      "type": "Integer"
+    },
+    {
+      "key": "possible_crashed_car_min",
+      "caption": "Minsta antal bilar att bogsera",
+      "type": "Integer"
+    },
+    {
+      "key": "possible_crashed_car",
+      "caption": "Maximalt antal bilar att bogsera",
+      "type": "Integer"
     }
   ],
   "pois": [
@@ -1094,6 +1119,10 @@
         {
           "id": 7,
           "caption": "Stor brandstation"
+        },
+        {
+          "id": 8,
+          "caption": "Bärgningsbilar"
         }
       ]
     },
@@ -1274,6 +1303,10 @@
         {
           "id": 16,
           "caption": "Stort fängelse"
+        },
+        {
+          "id": 17,
+          "caption": "Bärgningsbilar"
         }
       ]
     },
@@ -1506,6 +1539,57 @@
         {
           "id": 3,
           "caption": "Ytterligare hangar för flygplan"
+        }
+      ]
+    },
+    {
+      "id": 27,
+      "caption": "Bärgningsstation",
+      "key": "BUILDING_TYPE_TOW_TRUCKS",
+      "extensions": [
+        {
+          "id": 0,
+          "caption": "Förlängning Rotator lastbil"
+        },
+        {
+          "id": 1,
+          "caption": "Parkeringsplats för fordon"
+        },
+        {
+          "id": 2,
+          "caption": "Ytterligare fordon Parkeringsplats Tomtutrymme"
+        },
+        {
+          "id": 3,
+          "caption": "Ytterligare fordon Parkeringsplats Tomtutrymme"
+        },
+        {
+          "id": 4,
+          "caption": "Ytterligare fordon Parkeringsplats Tomtutrymme"
+        },
+        {
+          "id": 5,
+          "caption": "Ytterligare fordon Parkeringsplats Tomtutrymme"
+        },
+        {
+          "id": 6,
+          "caption": "Ytterligare fordon Parkeringsplats Tomtutrymme"
+        },
+        {
+          "id": 7,
+          "caption": "Ytterligare fordon Parkeringsplats Tomtutrymme"
+        },
+        {
+          "id": 8,
+          "caption": "Ytterligare fordon Parkeringsplats Tomtutrymme"
+        },
+        {
+          "id": 9,
+          "caption": "Ytterligare fordon Parkeringsplats Tomtutrymme"
+        },
+        {
+          "id": 10,
+          "caption": "Ytterligare fordon Parkeringsplats Tomtutrymme"
         }
       ]
     }
@@ -4705,6 +4789,42 @@
     {
       "id": 651,
       "caption": "Oanmäld strejk för påskharen"
+    },
+    {
+      "id": 652,
+      "caption": "Återtagande av fordon"
+    },
+    {
+      "id": 653,
+      "caption": "Återtagande av fordon som gått snett"
+    },
+    {
+      "id": 654,
+      "caption": "Bilproblem på vägen"
+    },
+    {
+      "id": 655,
+      "caption": "Bilen fick slut på bensin"
+    },
+    {
+      "id": 656,
+      "caption": "Övergivet fordon på sidan av vägbanan"
+    },
+    {
+      "id": 657,
+      "caption": "Brandbil i diket"
+    },
+    {
+      "id": 658,
+      "caption": "Avgasröret har fallit av"
+    },
+    {
+      "id": 659,
+      "caption": "Fordonet kan inte starta"
+    },
+    {
+      "id": 660,
+      "caption": "Punkteret Dæk"
     }
   ]
 }
