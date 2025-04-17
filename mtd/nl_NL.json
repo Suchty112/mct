@@ -286,13 +286,38 @@
       "type": "Integer"
     },
     {
-      "key": "alliance_mission_sort_order",
-      "caption": null,
+      "key": "tow_trucks_count",
+      "caption": "Benodigde Berger Standplaatsen",
+      "type": "Integer"
+    },
+    {
+      "key": "tow_trucks_large_count",
+      "caption": "Berger-G uitbreiding",
+      "type": "Integer"
+    },
+    {
+      "key": "traffic_police_count",
+      "caption": "LE Uitbreidingen",
       "type": "Integer"
     },
     {
       "key": "need_traffic_unit",
       "caption": "Benodigde Signalisatie Voertuigen",
+      "type": "Integer"
+    },
+    {
+      "key": "possible_crashed_car_min",
+      "caption": "Minimaal aantal auto's om te slepen",
+      "type": "Integer"
+    },
+    {
+      "key": "possible_crashed_car",
+      "caption": "Maximaal aantal auto's om te slepen",
+      "type": "Integer"
+    },
+    {
+      "key": "possible_crashed_car_large",
+      "caption": "Maximaal aantal vrachtwagens om te slepen",
       "type": "Integer"
     },
     {
@@ -304,6 +329,11 @@
       "key": "allow_ktw_instead_of_rtw",
       "caption": "Zorgambulance kan worden ingezet als Ambulance",
       "type": "Boolean"
+    },
+    {
+      "key": "alliance_mission_sort_order",
+      "caption": null,
+      "type": "Integer"
     },
     {
       "key": "need_foam",
@@ -741,11 +771,6 @@
       "type": "Boolean"
     },
     {
-      "key": "traffic_police_count",
-      "caption": "LE Uitbreidingen",
-      "type": "Integer"
-    },
-    {
       "key": "need_traffic_patrol",
       "caption": "Benodigde SIV-P of DM-P",
       "type": "Integer"
@@ -816,38 +841,13 @@
       "type": "Integer"
     },
     {
-      "key": "tow_trucks_count",
-      "caption": "Benodigde Berger Standplaatsen",
-      "type": "Integer"
-    },
-    {
-      "key": "possible_crashed_car_min",
-      "caption": "Minimaal aantal auto's om te slepen",
-      "type": "Integer"
-    },
-    {
-      "key": "possible_crashed_car",
-      "caption": "Maximaal aantal auto's om te slepen",
-      "type": "Integer"
-    },
-    {
       "key": "crashed_car_icons",
       "caption": null,
       "type": "Unknown"
     },
     {
-      "key": "tow_trucks_large_count",
-      "caption": "Berger-G uitbreiding",
-      "type": "Integer"
-    },
-    {
       "key": "need_oneof_fire_rescue_or_ladder",
       "caption": "Benodigde hulpverleningsvoertuigen of redvoertuigen",
-      "type": "Integer"
-    },
-    {
-      "key": "possible_crashed_car_large",
-      "caption": "Maximaal aantal vrachtwagens om te slepen",
       "type": "Integer"
     },
     {
@@ -1169,11 +1169,11 @@
     "sawmill",
     "caraccident",
     "oil",
-    "blast",
     "elevator",
     "bar_cocktail",
     "medicalstore",
     "cat",
+    "blast",
     "theft",
     "baseball",
     "ambulance",
