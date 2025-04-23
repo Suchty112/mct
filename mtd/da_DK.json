@@ -286,26 +286,6 @@
       "type": "Datetime"
     },
     {
-      "key": "event_currency",
-      "caption": "Kreditter til begivenheder",
-      "type": "Integer"
-    },
-    {
-      "key": "easter_count",
-      "caption": "Påskeniveau nødvendigt",
-      "type": "Integer"
-    },
-    {
-      "key": "season_event",
-      "caption": "Påske",
-      "type": "Symbol"
-    },
-    {
-      "key": "alliance_event_credits",
-      "caption": "Alliance-event-kreditter",
-      "type": "Integer"
-    },
-    {
       "key": "max_police_building",
       "caption": "Maks. politistationer",
       "type": "Integer"
