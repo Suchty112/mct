@@ -356,26 +356,6 @@
       "type": "Integer"
     },
     {
-      "key": "event_currency",
-      "caption": "Kredyty na wydarzenia",
-      "type": "Integer"
-    },
-    {
-      "key": "easter_count",
-      "caption": "Wymagany poziom wielkanocny",
-      "type": "Integer"
-    },
-    {
-      "key": "season_event",
-      "caption": "Wielkanoc",
-      "type": "Symbol"
-    },
-    {
-      "key": "alliance_event_credits",
-      "caption": "Kredyty na wydarzenia sojuszu",
-      "type": "Integer"
-    },
-    {
       "key": "max_police_building",
       "caption": "Maks. liczba posterunków policji",
       "type": "Integer"
