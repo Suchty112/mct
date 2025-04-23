@@ -346,26 +346,6 @@
       "type": "Integer"
     },
     {
-      "key": "event_currency",
-      "caption": "Event Credits",
-      "type": "Integer"
-    },
-    {
-      "key": "easter_count",
-      "caption": "Easter level needed",
-      "type": "Integer"
-    },
-    {
-      "key": "season_event",
-      "caption": "Easter",
-      "type": "Symbol"
-    },
-    {
-      "key": "alliance_event_credits",
-      "caption": "Alliance Event Credits",
-      "type": "Integer"
-    },
-    {
       "key": "max_police_building",
       "caption": "Max. police stations",
       "type": "Integer"
