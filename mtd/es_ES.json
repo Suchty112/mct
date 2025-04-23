@@ -261,26 +261,6 @@
       "type": "Integer"
     },
     {
-      "key": "event_currency",
-      "caption": "Créditos del evento",
-      "type": "Integer"
-    },
-    {
-      "key": "easter_count",
-      "caption": "Nivel de Pascua necesario",
-      "type": "Integer"
-    },
-    {
-      "key": "season_event",
-      "caption": "Pascua",
-      "type": "Symbol"
-    },
-    {
-      "key": "alliance_event_credits",
-      "caption": "Créditos de eventos de la Alianza",
-      "type": "Integer"
-    },
-    {
       "key": "max_police_building",
       "caption": "Comisarías de policía máx.",
       "type": "Integer"
