@@ -646,26 +646,6 @@
       "type": "Integer"
     },
     {
-      "key": "event_currency",
-      "caption": "Event Credits",
-      "type": "Integer"
-    },
-    {
-      "key": "easter_count",
-      "caption": "Benötigtes Oster-Level",
-      "type": "Integer"
-    },
-    {
-      "key": "season_event",
-      "caption": "Ostern",
-      "type": "Symbol"
-    },
-    {
-      "key": "alliance_event_credits",
-      "caption": "Verband Event Credits",
-      "type": "Integer"
-    },
-    {
       "key": "need_gwtaucher_chance",
       "caption": "GW-Taucher Anforderungswahrscheinlichkeit",
       "type": "Integer"
