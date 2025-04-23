@@ -236,26 +236,6 @@
       "type": "Datetime"
     },
     {
-      "key": "event_currency",
-      "caption": "Créditos de eventos",
-      "type": "Integer"
-    },
-    {
-      "key": "easter_count",
-      "caption": "Nível de Páscoa necessário",
-      "type": "Integer"
-    },
-    {
-      "key": "season_event",
-      "caption": "Páscoa",
-      "type": "Symbol"
-    },
-    {
-      "key": "alliance_event_credits",
-      "caption": "Créditos de eventos da aliança",
-      "type": "Integer"
-    },
-    {
       "key": "max_police_building",
       "caption": "Máx. de Esquadras PSP/Postos GNR:",
       "type": "Integer"
