@@ -61,6 +61,16 @@
       "type": "Unknown"
     },
     {
+      "key": "crashed_car_icons",
+      "caption": null,
+      "type": "Unknown"
+    },
+    {
+      "key": "additive_value_overlays",
+      "caption": null,
+      "type": "Unknown"
+    },
+    {
       "key": "need_lf",
       "caption": "Se necesitan camiones de bomberos",
       "type": "Integer"
@@ -99,6 +109,11 @@
       "key": "need_oneof_fire_engine_or_rescue_or_ladder",
       "caption": "Se necesitan Camiones de Bomberos, Furgones de Útiles Varios o Camiones con Plataforma",
       "type": "Integer"
+    },
+    {
+      "key": "crashed_car_large_icons",
+      "caption": null,
+      "type": "Unknown"
     },
     {
       "key": "need_elw1",
@@ -164,11 +179,6 @@
       "key": "date_start",
       "caption": "Solo está disponible desde",
       "type": "Datetime"
-    },
-    {
-      "key": "additive_value_overlays",
-      "caption": null,
-      "type": "Unknown"
     },
     {
       "key": "possible_patient_min",
@@ -734,6 +744,21 @@
       "key": "critical_transport_value",
       "caption": null,
       "type": "Integer"
+    },
+    {
+      "key": "tow_trucks_count",
+      "caption": "Servicio de remolque requerido",
+      "type": "Integer"
+    },
+    {
+      "key": "possible_crashed_car_min",
+      "caption": "Cantidad mínima de coches para remolcar",
+      "type": "Integer"
+    },
+    {
+      "key": "possible_crashed_car",
+      "caption": "Número máximo de coches a remolcar",
+      "type": "Integer"
     }
   ],
   "pois": [
@@ -1133,6 +1158,10 @@
         {
           "id": 8,
           "caption": "Gran parque de bomberos"
+        },
+        {
+          "id": 9,
+          "caption": "Extensión remolque de vehículos"
         }
       ]
     },
@@ -1325,6 +1354,10 @@
         {
           "id": 19,
           "caption": "Gran prisión"
+        },
+        {
+          "id": 20,
+          "caption": "Extensión remolque de vehículos"
         }
       ]
     },
@@ -1596,6 +1629,57 @@
       "id": 29,
       "caption": "Puesto de Salvamento en Playas",
       "key": "BUILDING_TYPE_COASTAL_RESCUE_SMALL"
+    },
+    {
+      "id": 30,
+      "caption": "Estación de remolque",
+      "key": "BUILDING_TYPE_TOW_TRUCKS",
+      "extensions": [
+        {
+          "id": 0,
+          "caption": "Extensión de camión rotatorio"
+        },
+        {
+          "id": 1,
+          "caption": "Aparcamiento de vehículos"
+        },
+        {
+          "id": 2,
+          "caption": "Aparcamiento adicional para vehículos"
+        },
+        {
+          "id": 3,
+          "caption": "Aparcamiento adicional para vehículos"
+        },
+        {
+          "id": 4,
+          "caption": "Aparcamiento adicional para vehículos"
+        },
+        {
+          "id": 5,
+          "caption": "Aparcamiento adicional para vehículos"
+        },
+        {
+          "id": 6,
+          "caption": "Aparcamiento adicional para vehículos"
+        },
+        {
+          "id": 7,
+          "caption": "Aparcamiento adicional para vehículos"
+        },
+        {
+          "id": 8,
+          "caption": "Aparcamiento adicional para vehículos"
+        },
+        {
+          "id": 9,
+          "caption": "Aparcamiento adicional para vehículos"
+        },
+        {
+          "id": 10,
+          "caption": "Aparcamiento adicional para vehículos"
+        }
+      ]
     }
   ],
   "awards": [
@@ -4697,6 +4781,42 @@
     {
       "id": 627,
       "caption": "Huelga de conejos de Pascua sin previo aviso"
+    },
+    {
+      "id": 628,
+      "caption": "Reposesión del vehículo"
+    },
+    {
+      "id": 629,
+      "caption": "Reposesión de vehículo que sale mal"
+    },
+    {
+      "id": 630,
+      "caption": "Problemas del coche en la carretera"
+    },
+    {
+      "id": 631,
+      "caption": "El coche se queda sin gasolina"
+    },
+    {
+      "id": 632,
+      "caption": "Vehículo abandonado a un lado de la carretera"
+    },
+    {
+      "id": 633,
+      "caption": "Camión de bomberos en una zanja"
+    },
+    {
+      "id": 634,
+      "caption": "Escape caído"
+    },
+    {
+      "id": 635,
+      "caption": "El vehículo no puede arrancar"
+    },
+    {
+      "id": 636,
+      "caption": "Rueda pinchada"
     }
   ]
 }
