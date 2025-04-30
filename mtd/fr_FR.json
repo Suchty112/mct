@@ -722,7 +722,7 @@
     },
     {
       "key": "need_disaster_response_command",
-      "caption": "Commandants d'intervention en cas de catastrophe nécessaire",
+      "caption": "MaGec nécessaire",
       "type": "Integer"
     },
     {
