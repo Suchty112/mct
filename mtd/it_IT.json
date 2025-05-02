@@ -2309,6 +2309,16 @@
       "id": 114,
       "caption": "Missioni dei coniglietti pasquali 2025",
       "key": "AWARD_EASTER_MISSIONS_2025"
+    },
+    {
+      "id": 115,
+      "caption": "Mother's-Day missions 2025",
+      "key": "AWARD_MOTHERS_DAY_MISSIONS_2025"
+    },
+    {
+      "id": 116,
+      "caption": "Sfida dell'Alleanza maggio 2025",
+      "key": "AWARD_ALLIANCE_CHALLENGE_MAY_2025"
     }
   ],
   "filter_types": [
@@ -5425,6 +5435,10 @@
     {
       "id": 765,
       "caption": "Sciopero dei coniglietti di Pasqua non annunciato"
+    },
+    {
+      "id": 766,
+      "caption": "Barca a vela dis-alberata"
     }
   ]
 }
