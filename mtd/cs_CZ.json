@@ -2166,6 +2166,16 @@
       "id": 115,
       "caption": "Hledač velikonočních vajíček 2025",
       "key": "AWARD_EASTER_MISSIONS_2025"
+    },
+    {
+      "id": 116,
+      "caption": "Mise ke Dni matek 2025",
+      "key": "AWARD_MOTHERS_DAY_MISSIONS_2025"
+    },
+    {
+      "id": 117,
+      "caption": "Alianční výzva květen 2025",
+      "key": "AWARD_ALLIANCE_CHALLENGE_MAY_2025"
     }
   ],
   "filter_types": [
@@ -4950,6 +4960,10 @@
     {
       "id": 682,
       "caption": "Neohlášená stávka velikonočních zajíčků"
+    },
+    {
+      "id": 683,
+      "caption": "Srážka dvou vlaků"
     }
   ]
 }
