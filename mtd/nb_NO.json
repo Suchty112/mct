@@ -2295,6 +2295,11 @@
       "id": 104,
       "caption": "Påskeegg-jeger 2025",
       "key": "AWARD_EASTER_MISSIONS_2025"
+    },
+    {
+      "id": 105,
+      "caption": "Allianseutfordring mai 2025",
+      "key": "AWARD_ALLIANCE_CHALLENGE_MAY_2025"
     }
   ],
   "filter_types": [
@@ -5111,6 +5116,10 @@
     {
       "id": 690,
       "caption": "Uanmeldt påskehare-streik"
+    },
+    {
+      "id": 691,
+      "caption": "Tomastet seilbåt (innaskjærs)"
     }
   ]
 }
