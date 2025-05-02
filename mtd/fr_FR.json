@@ -2413,6 +2413,11 @@
       "id": 113,
       "caption": "Missions du lapin de Pâques 2025",
       "key": "AWARD_EASTER_MISSIONS_2025"
+    },
+    {
+      "id": 114,
+      "caption": "Défi de l'Alliance Mai 2025",
+      "key": "AWARD_ALLIANCE_CHALLENGE_MAY_2025"
     }
   ],
   "filter_types": [
@@ -5801,6 +5806,22 @@
     {
       "id": 832,
       "caption": "Grève inopinée des lapins de Pâques"
+    },
+    {
+      "id": 833,
+      "caption": "Evasion de prison"
+    },
+    {
+      "id": 834,
+      "caption": "Feu de bus GPL"
+    },
+    {
+      "id": 835,
+      "caption": "Effondrement de parking (petit)"
+    },
+    {
+      "id": 836,
+      "caption": "Feu de dépôt de bus GPL"
     }
   ]
 }
