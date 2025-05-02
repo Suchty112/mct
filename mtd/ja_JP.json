@@ -1904,6 +1904,16 @@
       "id": 104,
       "caption": "2025 イースターエッグ探し",
       "key": "AWARD_EASTER_MISSIONS_2025"
+    },
+    {
+      "id": 105,
+      "caption": "マザーズデー ミッション 2025",
+      "key": "AWARD_MOTHERS_DAY_MISSIONS_2025"
+    },
+    {
+      "id": 106,
+      "caption": "アライアンス・チャレンジ 2025年5月",
+      "key": "AWARD_ALLIANCE_CHALLENGE_MAY_2025"
     }
   ],
   "filter_types": [
@@ -4324,6 +4334,10 @@
     {
       "id": 591,
       "caption": "予告なしのイースター・バニー・ストライキ"
+    },
+    {
+      "id": 592,
+      "caption": "マストのない帆船（陸上）"
     }
   ]
 }
