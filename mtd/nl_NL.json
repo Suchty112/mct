@@ -2341,6 +2341,16 @@
       "id": 131,
       "caption": "Paashaas missies 2025",
       "key": "AWARD_EASTER_MISSIONS_2025"
+    },
+    {
+      "id": 132,
+      "caption": "Moederdag Inzetten 2025",
+      "key": "AWARD_MOTHERS_DAY_MISSIONS_2025"
+    },
+    {
+      "id": 133,
+      "caption": "Alliantie Uitdaging Mei 2025",
+      "key": "AWARD_ALLIANCE_CHALLENGE_MAY_2025"
     }
   ],
   "filter_types": [
