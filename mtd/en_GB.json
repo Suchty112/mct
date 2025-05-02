@@ -2508,6 +2508,11 @@
       "id": 106,
       "caption": "Easter bunny missions 2025",
       "key": "AWARD_EASTER_MISSIONS_2025"
+    },
+    {
+      "id": 107,
+      "caption": "Alliance Challenge May 2025",
+      "key": "AWARD_ALLIANCE_CHALLENGE_MAY_2025"
     }
   ],
   "filter_types": [
@@ -5624,6 +5629,10 @@
     {
       "id": 765,
       "caption": "Unannounced Easter bunny strike"
+    },
+    {
+      "id": 766,
+      "caption": "Dis-Masted sailing boat (inshore)"
     }
   ]
 }
