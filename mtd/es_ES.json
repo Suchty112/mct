@@ -2217,6 +2217,11 @@
       "id": 108,
       "caption": "Misiones del conejo de pascua 2025",
       "key": "AWARD_EASTER_MISSIONS_2025"
+    },
+    {
+      "id": 109,
+      "caption": "Reto de la Alianza Mayo 2025",
+      "key": "AWARD_ALLIANCE_CHALLENGE_MAY_2025"
     }
   ],
   "filter_types": [
@@ -4817,6 +4822,10 @@
     {
       "id": 636,
       "caption": "Rueda pinchada"
+    },
+    {
+      "id": 637,
+      "caption": "Velero sin mástil (costero)"
     }
   ]
 }
