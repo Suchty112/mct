@@ -2539,6 +2539,16 @@
       "id": 110,
       "caption": "Easter bunny missions 2025",
       "key": "AWARD_EASTER_MISSIONS_2025"
+    },
+    {
+      "id": 111,
+      "caption": "Mother's-Day missions 2025",
+      "key": "AWARD_MOTHERS_DAY_MISSIONS_2025"
+    },
+    {
+      "id": 112,
+      "caption": "Alliance Challenge May 2025",
+      "key": "AWARD_ALLIANCE_CHALLENGE_MAY_2025"
     }
   ],
   "filter_types": [
@@ -6831,6 +6841,10 @@
     {
       "id": 1059,
       "caption": "Worker fell from a roof, in cardiac arrest"
+    },
+    {
+      "id": 1060,
+      "caption": "Dis-Masted sailing boat (inshore)"
     }
   ]
 }
