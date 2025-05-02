@@ -2641,6 +2641,16 @@
       "id": 128,
       "caption": "Osterhasen-Einsätze 2025",
       "key": "AWARD_EASTER_MISSIONS_2025"
+    },
+    {
+      "id": 129,
+      "caption": "Muttertag-Einsätze 2025",
+      "key": "AWARD_MOTHERS_DAY_MISSIONS_2025"
+    },
+    {
+      "id": 130,
+      "caption": "Verbands-Herausforderung Mai 2025",
+      "key": "AWARD_ALLIANCE_CHALLENGE_MAY_2025"
     }
   ],
   "filter_types": [
