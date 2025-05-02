@@ -1979,6 +1979,11 @@
       "id": 112,
       "caption": "Ovos da Páscoa descobertos 2025",
       "key": "AWARD_EASTER_MISSIONS_2025"
+    },
+    {
+      "id": 113,
+      "caption": "Desafio da Aliança maio de 2025",
+      "key": "AWARD_ALLIANCE_CHALLENGE_MAY_2025"
     }
   ],
   "filter_types": [
@@ -4603,6 +4608,10 @@
     {
       "id": 642,
       "caption": "Greve não anunciada de coelhinhos da Páscoa"
+    },
+    {
+      "id": 643,
+      "caption": "Barco à vela sem mastro (costeiro)"
     }
   ]
 }
