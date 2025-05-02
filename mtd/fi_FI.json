@@ -1918,6 +1918,16 @@
       "id": 108,
       "caption": "5. vuosipäivä",
       "key": "AWARD_FIVE_YEARS"
+    },
+    {
+      "id": 109,
+      "caption": "Äitienpäivän tehtävät 2025",
+      "key": "AWARD_MOTHERS_DAY_MISSIONS_2025"
+    },
+    {
+      "id": 110,
+      "caption": "Allianssin haaste toukokuu 2025",
+      "key": "AWARD_ALLIANCE_CHALLENGE_MAY_2025"
     }
   ],
   "filter_types": [
@@ -4682,6 +4692,10 @@
     {
       "id": 677,
       "caption": "Pääsiäispupujen ennalta ilmoittamaton lakkoilu"
+    },
+    {
+      "id": 678,
+      "caption": "391 Mastoamaton purjevene (rannikolla)"
     }
   ]
 }
