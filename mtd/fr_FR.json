@@ -921,13 +921,13 @@
       "type": "Integer"
     },
     {
-      "key": "need_mountain_helicopter_bucket",
-      "caption": "Godets porteur d'eau requis",
+      "key": "need_mountain_police_helicopter",
+      "caption": "CHOUCAS PGHM requis",
       "type": "Integer"
     },
     {
-      "key": "need_mountain_police_helicopter",
-      "caption": "CHOUCAS PGHM requis",
+      "key": "need_mountain_helicopter_bucket",
+      "caption": "Godets porteur d'eau requis",
       "type": "Integer"
     }
   ],
