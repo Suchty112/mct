@@ -2114,6 +2114,11 @@
       "id": 109,
       "caption": "Alliansens utmaning maj 2025",
       "key": "AWARD_ALLIANCE_CHALLENGE_MAY_2025"
+    },
+    {
+      "id": 110,
+      "caption": "Mors dag uppdrag 2025",
+      "key": "AWARD_MOTHERS_DAY_MISSIONS_2025"
     }
   ],
   "filter_types": [
