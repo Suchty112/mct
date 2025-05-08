@@ -2651,6 +2651,11 @@
       "id": 130,
       "caption": "Verbands-Herausforderung Mai 2025",
       "key": "AWARD_ALLIANCE_CHALLENGE_MAY_2025"
+    },
+    {
+      "id": 131,
+      "caption": "Vatertagseinsätze 2025",
+      "key": "AWARD_FATHERS_DAY_MISSIONS_2025"
     }
   ],
   "filter_types": [
