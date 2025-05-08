@@ -2030,6 +2030,11 @@
       "id": 113,
       "caption": "Wyzwanie sojuszu maj 2025 r.",
       "key": "AWARD_ALLIANCE_CHALLENGE_MAY_2025"
+    },
+    {
+      "id": 114,
+      "caption": "Misje na Dzień Matki 2025",
+      "key": "AWARD_MOTHERS_DAY_MISSIONS_2025"
     }
   ],
   "filter_types": [
@@ -5381,7 +5386,7 @@
     },
     {
       "id": 824,
-      "caption": "Upadek na parkingu (mały)"
+      "caption": "Zawalenie się parkingu (małe)"
     }
   ]
 }
