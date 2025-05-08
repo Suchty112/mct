@@ -2418,6 +2418,11 @@
       "id": 114,
       "caption": "Défi de l'Alliance Mai 2025",
       "key": "AWARD_ALLIANCE_CHALLENGE_MAY_2025"
+    },
+    {
+      "id": 115,
+      "caption": "Missions pour la fête des mères 2025",
+      "key": "AWARD_MOTHERS_DAY_MISSIONS_2025"
     }
   ],
   "filter_types": [
