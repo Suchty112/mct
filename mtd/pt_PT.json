@@ -989,7 +989,8 @@
     "snowy",
     "radiation",
     "stadium",
-    "elevator"
+    "elevator",
+    "boat"
   ],
   "building_types": [
     {
@@ -4612,6 +4613,30 @@
     {
       "id": 643,
       "caption": "Barco à vela sem mastro (costeiro)"
+    },
+    {
+      "id": 644,
+      "caption": "Uma pessoa sofre um choque diabético"
+    },
+    {
+      "id": 645,
+      "caption": "Barco em chamas no mar"
+    },
+    {
+      "id": 646,
+      "caption": "Motociclo a andar demasiado depressa"
+    },
+    {
+      "id": 647,
+      "caption": "Criança caiu de uma árvore enquanto brincava"
+    },
+    {
+      "id": 648,
+      "caption": "Reboque estacionário em autoestrada"
+    },
+    {
+      "id": 649,
+      "caption": "Ciclista de montanha embateu numa árvore"
     }
   ]
 }
