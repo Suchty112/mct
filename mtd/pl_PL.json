@@ -5387,6 +5387,30 @@
     {
       "id": 824,
       "caption": "Zawalenie się parkingu (małe)"
+    },
+    {
+      "id": 825,
+      "caption": "Osoba doznała wstrząsu cukrzycowego"
+    },
+    {
+      "id": 826,
+      "caption": "Rana zadana ostrym narzędziem"
+    },
+    {
+      "id": 827,
+      "caption": "Motocykl jedzie zbyt szybko"
+    },
+    {
+      "id": 828,
+      "caption": "Dziecko spadło z drzewa podczas zabawy"
+    },
+    {
+      "id": 829,
+      "caption": "Przyczepa stoi na autostradzie"
+    },
+    {
+      "id": 830,
+      "caption": "Rowerzysta górski uderzył w drzewo"
     }
   ]
 }
