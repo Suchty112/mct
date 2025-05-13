@@ -1289,6 +1289,10 @@
     {
       "id": 61,
       "caption": "Zoo"
+    },
+    {
+      "id": 62,
+      "caption": "Kohlekraftwerk"
     }
   ],
   "available_icons": [
@@ -6440,6 +6444,10 @@
     {
       "id": 931,
       "caption": "Ausgefallene Pumpen in Kläranlage"
+    },
+    {
+      "id": 932,
+      "caption": "Großbrand im Bunker von Kohlekraftwerk"
     }
   ]
 }
