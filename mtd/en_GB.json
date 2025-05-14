@@ -697,7 +697,7 @@
     },
     {
       "key": "need_search_and_rescue",
-      "caption": "Required Operational Support Vans",
+      "caption": "Required Operational Support Vans or SAR Units",
       "type": "Integer"
     },
     {
