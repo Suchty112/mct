@@ -381,6 +381,16 @@
       "type": "Integer"
     },
     {
+      "key": "riot_police_count",
+      "caption": "Uro Politi Udvidelse påkrævet",
+      "type": "Integer"
+    },
+    {
+      "key": "need_riot_police",
+      "caption": "Påkrævet Gruppevogn",
+      "type": "Integer"
+    },
+    {
       "key": "fehlalarm_possible",
       "caption": null,
       "type": "Boolean"
@@ -456,18 +466,8 @@
       "type": "Integer"
     },
     {
-      "key": "riot_police_count",
-      "caption": "Uro Politi Udvidelse påkrævet",
-      "type": "Integer"
-    },
-    {
       "key": "detention_unit_count",
       "caption": "Fangetransport Udvidelse påkrævet",
-      "type": "Integer"
-    },
-    {
-      "key": "need_riot_police",
-      "caption": "Påkrævet Gruppevogn",
       "type": "Integer"
     },
     {
@@ -4910,7 +4910,7 @@
     },
     {
       "id": 692,
-      "caption": "Barn faldt ned fra træ under leg"
+      "caption": "Barn faldet ned fra træ under leg"
     },
     {
       "id": 693,
