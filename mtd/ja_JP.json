@@ -61,6 +61,16 @@
       "type": "Unknown"
     },
     {
+      "key": "crashed_car_icons",
+      "caption": null,
+      "type": "Unknown"
+    },
+    {
+      "key": "additive_value_overlays",
+      "caption": null,
+      "type": "Unknown"
+    },
+    {
       "key": "need_lf",
       "caption": "消防車が必要",
       "type": "Integer"
@@ -99,6 +109,11 @@
       "key": "need_oneof_fire_engine_or_rescue_or_ladder",
       "caption": "消防車、大型レスキュー車またはプラットホームトラックが必要",
       "type": "Integer"
+    },
+    {
+      "key": "crashed_car_large_icons",
+      "caption": null,
+      "type": "Unknown"
     },
     {
       "key": "need_elw1",
@@ -164,11 +179,6 @@
       "key": "date_start",
       "caption": "以下の内容から走る",
       "type": "Datetime"
-    },
-    {
-      "key": "additive_value_overlays",
-      "caption": null,
-      "type": "Unknown"
     },
     {
       "key": "possible_patient_min",
@@ -568,6 +578,21 @@
     {
       "key": "critical_transport_value",
       "caption": null,
+      "type": "Integer"
+    },
+    {
+      "key": "tow_trucks_count",
+      "caption": "必要なレッカーステーション",
+      "type": "Integer"
+    },
+    {
+      "key": "possible_crashed_car_min",
+      "caption": "最低牽引台数",
+      "type": "Integer"
+    },
+    {
+      "key": "possible_crashed_car",
+      "caption": "最大牽引台数",
       "type": "Integer"
     }
   ],
@@ -1387,6 +1412,57 @@
       "id": 26,
       "caption": "火災用ボートドック",
       "key": "BUILDING_TYPE_FIRE_BOAT_DOCK"
+    },
+    {
+      "id": 27,
+      "caption": "レッカーステーション",
+      "key": "BUILDING_TYPE_TOW_TRUCKS",
+      "extensions": [
+        {
+          "id": 0,
+          "caption": "自動車駐車場"
+        },
+        {
+          "id": 1,
+          "caption": "追加駐車場スペース"
+        },
+        {
+          "id": 2,
+          "caption": "追加駐車場スペース"
+        },
+        {
+          "id": 3,
+          "caption": "追加駐車場スペース"
+        },
+        {
+          "id": 4,
+          "caption": "追加駐車場スペース"
+        },
+        {
+          "id": 5,
+          "caption": "追加駐車場スペース"
+        },
+        {
+          "id": 6,
+          "caption": "追加駐車場スペース"
+        },
+        {
+          "id": 7,
+          "caption": "追加駐車場スペース"
+        },
+        {
+          "id": 8,
+          "caption": "追加駐車場スペース"
+        },
+        {
+          "id": 9,
+          "caption": "追加駐車場スペース"
+        },
+        {
+          "id": 10,
+          "caption": "ローテータトラックの拡張"
+        }
+      ]
     }
   ],
   "awards": [
@@ -4362,6 +4438,42 @@
     {
       "id": 598,
       "caption": "マウンテンバイクが木に激突"
+    },
+    {
+      "id": 599,
+      "caption": "自動車のリポセッション"
+    },
+    {
+      "id": 600,
+      "caption": "車両の返却が失敗しました"
+    },
+    {
+      "id": 601,
+      "caption": "路上での車のトラブル"
+    },
+    {
+      "id": 602,
+      "caption": "車のガス欠"
+    },
+    {
+      "id": 603,
+      "caption": "道路脇の放置車両"
+    },
+    {
+      "id": 604,
+      "caption": "溝の中の消防車"
+    },
+    {
+      "id": 605,
+      "caption": "排気管脱落"
+    },
+    {
+      "id": 606,
+      "caption": "車が動かない"
+    },
+    {
+      "id": 607,
+      "caption": "パンクしたタイヤ"
     }
   ]
 }
