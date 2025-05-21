@@ -844,6 +844,16 @@
       "key": "additive_value_overlays",
       "caption": null,
       "type": "Unknown"
+    },
+    {
+      "key": "military_police_count",
+      "caption": "Benodigde Kazerne defensie",
+      "type": "Integer"
+    },
+    {
+      "key": "need_military_police",
+      "caption": "Benodigde KMAR Eenheid",
+      "type": "Integer"
     }
   ],
   "pois": [
@@ -1142,6 +1152,10 @@
     {
       "id": 73,
       "caption": "Casino"
+    },
+    {
+      "id": 74,
+      "caption": "Grensovergang"
     }
   ],
   "available_icons": [
@@ -1430,6 +1444,10 @@
         {
           "id": 14,
           "caption": "Berger-G"
+        },
+        {
+          "id": 15,
+          "caption": "Team Explosieven Veiligheid"
         }
       ]
     },
@@ -1727,6 +1745,44 @@
         {
           "id": 10,
           "caption": "Extra parkeerplaats voor voertuigen"
+        }
+      ]
+    },
+    {
+      "id": 25,
+      "caption": "Kazerne defensie",
+      "key": "BUILDING_TYPE_MILITARY_POLICE",
+      "extensions": [
+        {
+          "id": 0,
+          "caption": "Mobiele Eenheid, Sectie"
+        },
+        {
+          "id": 1,
+          "caption": "Explosieven Opruimingsdienst Defensie"
+        },
+        {
+          "id": 2,
+          "caption": "Defensie Duikgroep"
+        }
+      ]
+    },
+    {
+      "id": 26,
+      "caption": "Militaire academie",
+      "key": "BUILDING_TYPE_MILITARY_POLICE_SCHOOL",
+      "extensions": [
+        {
+          "id": 0,
+          "caption": "Extra klaslokaal"
+        },
+        {
+          "id": 1,
+          "caption": "Extra klaslokaal"
+        },
+        {
+          "id": 2,
+          "caption": "Extra klaslokaal"
         }
       ]
     }
@@ -6987,6 +7043,38 @@
     {
       "id": 1145,
       "caption": "Brand in Bibliotheek"
+    },
+    {
+      "id": 1146,
+      "caption": "Assistentie luchthavenbeveiliging"
+    },
+    {
+      "id": 1147,
+      "caption": "Verdachte situatie"
+    },
+    {
+      "id": 1148,
+      "caption": "Grenscontrole"
+    },
+    {
+      "id": 1149,
+      "caption": "Militair onder invloed achter het stuur"
+    },
+    {
+      "id": 1150,
+      "caption": "Verdovende middelen aangetroffen in bagage"
+    },
+    {
+      "id": 1151,
+      "caption": "Verdacht vaartuig in de haven"
+    },
+    {
+      "id": 1152,
+      "caption": "Drugs aangetroffen in pakket"
+    },
+    {
+      "id": 1153,
+      "caption": "Militair betrokken bij verkeersongeluk"
     }
   ]
 }
