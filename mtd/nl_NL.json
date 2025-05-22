@@ -854,6 +854,11 @@
       "key": "need_military_police",
       "caption": "Benodigde KMAR Eenheid",
       "type": "Integer"
+    },
+    {
+      "key": "personal_min_feuerwehr",
+      "caption": "Gemiddeld minimaal aantal brandweerpersoneel",
+      "type": "Integer"
     }
   ],
   "pois": [
@@ -7075,6 +7080,10 @@
     {
       "id": 1153,
       "caption": "Militair betrokken bij verkeersongeluk"
+    },
+    {
+      "id": 1154,
+      "caption": "Brand in graandroger"
     }
   ]
 }
