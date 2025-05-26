@@ -904,6 +904,26 @@
       "key": "need_light_supply",
       "caption": "Required Light Tower Trailers",
       "type": "Integer"
+    },
+    {
+      "key": "police_drone_count",
+      "caption": "Required Police Drone Equipment",
+      "type": "Integer"
+    },
+    {
+      "key": "need_police_drone",
+      "caption": "Required Police Drones",
+      "type": "Integer"
+    },
+    {
+      "key": "need_atv_carrier",
+      "caption": "Required Police ATV Trailer",
+      "type": "Integer"
+    },
+    {
+      "key": "need_atv_carrier_chance",
+      "caption": "Probability of Police ATV Trailer being required",
+      "type": "Integer"
     }
   ],
   "pois": [
@@ -2599,6 +2619,10 @@
     {
       "key": "swat_missions",
       "caption": "GIGN"
+    },
+    {
+      "key": "tow_trucks_missions",
+      "caption": "Tow Trucks"
     }
   ],
   "existing_mission_captions": [
@@ -6861,6 +6885,26 @@
     {
       "id": 1064,
       "caption": "Child fell from tree while playing"
+    },
+    {
+      "id": 1065,
+      "caption": "Search for Suspect in Woods"
+    },
+    {
+      "id": 1066,
+      "caption": "Search for Multiple Suspects in Woods"
+    },
+    {
+      "id": 1067,
+      "caption": "Search for Armed Suspect in Woods"
+    },
+    {
+      "id": 1068,
+      "caption": "Search for Multiple Armed Suspects in Woods"
+    },
+    {
+      "id": 1069,
+      "caption": "Search for Hidden Drug Lab"
     }
   ]
 }
