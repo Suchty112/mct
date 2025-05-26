@@ -2226,6 +2226,10 @@
     {
       "key": "swat_missions",
       "caption": "GIGN"
+    },
+    {
+      "key": "tow_trucks_missions",
+      "caption": "Tow Trucks"
     }
   ],
   "existing_mission_captions": [
@@ -4971,7 +4975,7 @@
     },
     {
       "id": 685,
-      "caption": "Zranění ostrou zbraní"
+      "caption": "Tornádo"
     },
     {
       "id": 686,
