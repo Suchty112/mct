@@ -5831,6 +5831,22 @@
     {
       "id": 836,
       "caption": "Feu de dépôt de bus GPL"
+    },
+    {
+      "id": 837,
+      "caption": "Incendie dans un parc d’attractions"
+    },
+    {
+      "id": 838,
+      "caption": "Tremblements de terre - Échelle de Richter 5"
+    },
+    {
+      "id": 839,
+      "caption": "Explosion suivie d'un incendie dans le dégoudronneur d'une cokerie"
+    },
+    {
+      "id": 840,
+      "caption": "Personne prise au piège par la marée montante"
     }
   ]
 }
