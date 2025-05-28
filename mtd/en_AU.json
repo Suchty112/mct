@@ -1001,6 +1001,10 @@
     {
       "id": 79,
       "caption": "Amusement Park"
+    },
+    {
+      "id": 80,
+      "caption": "poi_type"
     }
   ],
   "available_icons": [
@@ -5163,6 +5167,14 @@
     {
       "id": 774,
       "caption": "Child fell from tree while playing"
+    },
+    {
+      "id": 775,
+      "caption": "Crane fell over on construction site"
+    },
+    {
+      "id": 776,
+      "caption": "Trees blocking the roads after heavy storm,"
     }
   ]
 }
