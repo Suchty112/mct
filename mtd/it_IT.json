@@ -2369,6 +2369,10 @@
     {
       "key": "swat_missions",
       "caption": "GIGN"
+    },
+    {
+      "key": "tow_trucks_missions",
+      "caption": "Tow Trucks"
     }
   ],
   "existing_mission_captions": [
