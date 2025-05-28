@@ -2137,6 +2137,10 @@
     {
       "key": "swat_missions",
       "caption": "GIGN"
+    },
+    {
+      "key": "tow_trucks_missions",
+      "caption": "Vejhjælp"
     }
   ],
   "existing_mission_captions": [
