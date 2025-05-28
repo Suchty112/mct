@@ -2350,6 +2350,10 @@
     {
       "key": "swat_missions",
       "caption": "GIGN"
+    },
+    {
+      "key": "tow_trucks_missions",
+      "caption": "Bergningsbil"
     }
   ],
   "existing_mission_captions": [
