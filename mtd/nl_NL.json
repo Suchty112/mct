@@ -756,6 +756,11 @@
       "type": "Integer"
     },
     {
+      "key": "need_lf_chance",
+      "caption": "Tankautospuit benodigd waarschijnlijkheid",
+      "type": "Integer"
+    },
+    {
       "key": "need_police_horse_chance",
       "caption": "Bereden Brigade benodigd waarschijnlijkheid",
       "type": "Integer"
