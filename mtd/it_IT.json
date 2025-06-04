@@ -769,6 +769,36 @@
       "key": "police_investigation_count",
       "caption": "Richiesta della Sezione Investigativa della Polizia",
       "type": "Integer"
+    },
+    {
+      "key": "mountain_value",
+      "caption": null,
+      "type": "Integer"
+    },
+    {
+      "key": "mountain_rescue_count",
+      "caption": "Richiesta Stazione Soccorso Alpino",
+      "type": "Integer"
+    },
+    {
+      "key": "need_mountain_command",
+      "caption": "AF/CCR Richiesto",
+      "type": "Integer"
+    },
+    {
+      "key": "need_mountain_command_chance",
+      "caption": "Probabilità che sia richiesto l'AF/CCR",
+      "type": "Integer"
+    },
+    {
+      "key": "mountain_drone_count",
+      "caption": "Drone richiesto",
+      "type": "Integer"
+    },
+    {
+      "key": "need_mountain_rescue_drone",
+      "caption": "Drone Richiesto",
+      "type": "Integer"
     }
   ],
   "pois": [
@@ -1083,6 +1113,26 @@
     {
       "id": 78,
       "caption": "Mercato"
+    },
+    {
+      "id": 79,
+      "caption": "Sentiero escursionistico"
+    },
+    {
+      "id": 80,
+      "caption": "Sentiero di montagna"
+    },
+    {
+      "id": 81,
+      "caption": "Falesia"
+    },
+    {
+      "id": 82,
+      "caption": "Via di arrampicata alpina"
+    },
+    {
+      "id": 83,
+      "caption": "Grotta"
     }
   ],
   "available_icons": [
@@ -1127,7 +1177,8 @@
     "radiation",
     "tornado",
     "stadium",
-    "cuffs"
+    "cuffs",
+    "hiking"
   ],
   "building_types": [
     {
@@ -1742,6 +1793,11 @@
           "caption": "Ricerca e Soccorso Urbano"
         }
       ]
+    },
+    {
+      "id": 31,
+      "caption": "Stazione Soccorso Alpino",
+      "key": "BUILDING_TYPE_MOUNTAIN_RESCUE"
     }
   ],
   "awards": [
@@ -5471,6 +5527,46 @@
     {
       "id": 772,
       "caption": "Ciclista di montagna ha colpito un albero"
+    },
+    {
+      "id": 773,
+      "caption": "Escursionista con distorsione alla caviglia"
+    },
+    {
+      "id": 774,
+      "caption": "Escursionista caduto in un burrone"
+    },
+    {
+      "id": 775,
+      "caption": "Arrampicatore colpito da una roccia in falesia"
+    },
+    {
+      "id": 776,
+      "caption": "Speleologo scivolato in grotta"
+    },
+    {
+      "id": 777,
+      "caption": "Speleologo intrappolato dopo un crollo"
+    },
+    {
+      "id": 778,
+      "caption": "Escursionista con Attacco di Panico in Grotta"
+    },
+    {
+      "id": 779,
+      "caption": "Escursionista Disperso nel Bosco"
+    },
+    {
+      "id": 780,
+      "caption": "Biker Caduto nel Bosco"
+    },
+    {
+      "id": 781,
+      "caption": "Arrampicatore Precipitato in Falesia"
+    },
+    {
+      "id": 782,
+      "caption": "Fungaiolo Caduto nel Bosco"
     }
   ]
 }
