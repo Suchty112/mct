@@ -912,7 +912,7 @@
     },
     {
       "key": "need_mountain_rescue_dogs",
-      "caption": "Équipes cynophiles obligatories",
+      "caption": "Équipes cynophiles obligatoires",
       "type": "Integer"
     },
     {
