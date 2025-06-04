@@ -582,12 +582,12 @@
     },
     {
       "key": "personnel_educations_count",
-      "caption": "Required Personnel Available",
+      "caption": "Personale Formato Necessario allo Spawn",
       "type": "Unknown"
     },
     {
       "key": "required_personnel_educations",
-      "caption": "Required Personnel",
+      "caption": "Personale Formato Richiesto in Missione",
       "type": "Unknown"
     },
     {
@@ -2373,6 +2373,10 @@
     {
       "key": "tow_trucks_missions",
       "caption": "Tow Trucks"
+    },
+    {
+      "key": "mountain_missions",
+      "caption": "Soccorso Alpino"
     }
   ],
   "existing_mission_captions": [
