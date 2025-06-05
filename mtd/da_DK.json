@@ -2092,6 +2092,11 @@
       "id": 119,
       "caption": "Fars dag 2025",
       "key": "AWARD_FATHERS_DAY_MISSIONS_2025"
+    },
+    {
+      "id": 120,
+      "caption": "Alliancens udfordring juni 2025",
+      "key": "AWARD_ALLIANCE_CHALLENGE_JUN_2025"
     }
   ],
   "filter_types": [
