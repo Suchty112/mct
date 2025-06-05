@@ -2176,6 +2176,16 @@
       "id": 117,
       "caption": "Alianční výzva květen 2025",
       "key": "AWARD_ALLIANCE_CHALLENGE_MAY_2025"
+    },
+    {
+      "id": 118,
+      "caption": "Den otců 2025",
+      "key": "AWARD_FATHERS_DAY_MISSIONS_2025"
+    },
+    {
+      "id": 119,
+      "caption": "Alianční výzva červen 2025",
+      "key": "AWARD_ALLIANCE_CHALLENGE_JUN_2025"
     }
   ],
   "filter_types": [
