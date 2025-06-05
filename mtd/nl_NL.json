@@ -2417,6 +2417,16 @@
       "id": 133,
       "caption": "Alliantie Uitdaging Mei 2025",
       "key": "AWARD_ALLIANCE_CHALLENGE_MAY_2025"
+    },
+    {
+      "id": 134,
+      "caption": "Vaderdag 2025",
+      "key": "AWARD_FATHERS_DAY_MISSIONS_2025"
+    },
+    {
+      "id": 135,
+      "caption": "Alliantie Uitdaging Juni 2025",
+      "key": "AWARD_ALLIANCE_CHALLENGE_JUN_2025"
     }
   ],
   "filter_types": [
