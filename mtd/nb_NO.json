@@ -2300,6 +2300,11 @@
       "id": 105,
       "caption": "Allianseutfordring mai 2025",
       "key": "AWARD_ALLIANCE_CHALLENGE_MAY_2025"
+    },
+    {
+      "id": 106,
+      "caption": "Allianseutfordring juni 2025",
+      "key": "AWARD_ALLIANCE_CHALLENGE_JUN_2025"
     }
   ],
   "filter_types": [
