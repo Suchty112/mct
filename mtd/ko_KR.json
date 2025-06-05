@@ -1889,6 +1889,11 @@
       "id": 100,
       "caption": "얼라이언스 챌린지 2025년 5월",
       "key": "AWARD_ALLIANCE_CHALLENGE_MAY_2025"
+    },
+    {
+      "id": 101,
+      "caption": "얼라이언스 챌린지 2025년 6월",
+      "key": "AWARD_ALLIANCE_CHALLENGE_JUN_2025"
     }
   ],
   "filter_types": [
