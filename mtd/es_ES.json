@@ -2222,6 +2222,11 @@
       "id": 109,
       "caption": "Reto de la Alianza Mayo 2025",
       "key": "AWARD_ALLIANCE_CHALLENGE_MAY_2025"
+    },
+    {
+      "id": 110,
+      "caption": "Reto de la Alianza Junio 2025",
+      "key": "AWARD_ALLIANCE_CHALLENGE_JUN_2025"
     }
   ],
   "filter_types": [
