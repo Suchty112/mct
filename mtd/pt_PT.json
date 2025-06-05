@@ -2069,6 +2069,11 @@
       "id": 113,
       "caption": "Desafio da Aliança maio de 2025",
       "key": "AWARD_ALLIANCE_CHALLENGE_MAY_2025"
+    },
+    {
+      "id": 114,
+      "caption": "Desafio da Aliança junho de 2025",
+      "key": "AWARD_ALLIANCE_CHALLENGE_JUN_2025"
     }
   ],
   "filter_types": [
