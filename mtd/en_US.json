@@ -2569,6 +2569,21 @@
       "id": 112,
       "caption": "Alliance Challenge May 2025",
       "key": "AWARD_ALLIANCE_CHALLENGE_MAY_2025"
+    },
+    {
+      "id": 113,
+      "caption": "Father's day 2025",
+      "key": "AWARD_FATHERS_DAY_MISSIONS_2025"
+    },
+    {
+      "id": 114,
+      "caption": "Alliance Challenge June 2025",
+      "key": "AWARD_ALLIANCE_CHALLENGE_JUN_2025"
+    },
+    {
+      "id": 115,
+      "caption": "10th Anniversary",
+      "key": "AWARD_TEN_YEARS"
     }
   ],
   "filter_types": [
