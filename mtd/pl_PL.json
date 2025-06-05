@@ -2035,6 +2035,11 @@
       "id": 114,
       "caption": "Misje na Dzień Matki 2025",
       "key": "AWARD_MOTHERS_DAY_MISSIONS_2025"
+    },
+    {
+      "id": 115,
+      "caption": "Wyzwanie sojuszu czerwiec 2025 r.",
+      "key": "AWARD_ALLIANCE_CHALLENGE_JUN_2025"
     }
   ],
   "filter_types": [
