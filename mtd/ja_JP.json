@@ -1990,6 +1990,16 @@
       "id": 106,
       "caption": "アライアンス・チャレンジ 2025年5月",
       "key": "AWARD_ALLIANCE_CHALLENGE_MAY_2025"
+    },
+    {
+      "id": 107,
+      "caption": "2025年父の日",
+      "key": "AWARD_FATHERS_DAY_MISSIONS_2025"
+    },
+    {
+      "id": 108,
+      "caption": "アライアンス・チャレンジ 2025年6月",
+      "key": "AWARD_ALLIANCE_CHALLENGE_JUN_2025"
     }
   ],
   "filter_types": [
