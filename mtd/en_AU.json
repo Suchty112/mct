@@ -2011,6 +2011,11 @@
       "id": 108,
       "caption": "Alliance Challenge May 2025",
       "key": "AWARD_ALLIANCE_CHALLENGE_MAY_2025"
+    },
+    {
+      "id": 109,
+      "caption": "Alliance Challenge June 2025",
+      "key": "AWARD_ALLIANCE_CHALLENGE_JUN_2025"
     }
   ],
   "filter_types": [
