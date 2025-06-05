@@ -1928,6 +1928,11 @@
       "id": 110,
       "caption": "Allianssin haaste toukokuu 2025",
       "key": "AWARD_ALLIANCE_CHALLENGE_MAY_2025"
+    },
+    {
+      "id": 111,
+      "caption": "Allianssin haaste kesäkuu 2025",
+      "key": "AWARD_ALLIANCE_CHALLENGE_JUN_2025"
     }
   ],
   "filter_types": [
