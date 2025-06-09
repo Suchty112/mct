@@ -676,13 +676,13 @@
       "type": "Integer"
     },
     {
-      "key": "need_elw_airport_chance",
-      "caption": "AFO/OSC benodigd waarschijnlijkheid",
+      "key": "mass_casualty_count",
+      "caption": "Grootschalige Geneeskundige Bijstand Uitbreidingen",
       "type": "Integer"
     },
     {
-      "key": "mass_casualty_count",
-      "caption": "Grootschalige Geneeskundige Bijstand Uitbreidingen",
+      "key": "need_elw_airport_chance",
+      "caption": "AFO/OSC benodigd waarschijnlijkheid",
       "type": "Integer"
     },
     {
@@ -1214,7 +1214,8 @@
     "olfass",
     "stabbing",
     "xmas",
-    "snowy"
+    "snowy",
+    "tractor"
   ],
   "building_types": [
     {
@@ -7107,6 +7108,10 @@
     {
       "id": 1154,
       "caption": "Brand in graandroger"
+    },
+    {
+      "id": 1155,
+      "caption": "Paard schopt dierenarts"
     }
   ]
 }
