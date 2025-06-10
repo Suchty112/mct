@@ -636,13 +636,13 @@
       "type": "Integer"
     },
     {
-      "key": "need_gwtaucher",
-      "caption": "Vaaditaan Pelastussukellusauto",
+      "key": "need_boot",
+      "caption": "Vaaditut alukset",
       "type": "Integer"
     },
     {
-      "key": "need_boot",
-      "caption": "Vaaditut alukset",
+      "key": "need_gwtaucher",
+      "caption": "Vaaditaan Pelastussukellusauto",
       "type": "Integer"
     }
   ],
@@ -4652,7 +4652,7 @@
     },
     {
       "id": 665,
-      "caption": "413 Vene vuotaa polttoainetta"
+      "caption": "474 Vene vuotaa polttoainetta"
     },
     {
       "id": 666,
@@ -4692,7 +4692,7 @@
     },
     {
       "id": 675,
-      "caption": "705 Työntekijä putosi katolta ja sai sydänpysähdyksen"
+      "caption": "741 Työntekijä putosi katolta ja sai sydänpysähdyksen"
     },
     {
       "id": 676,
