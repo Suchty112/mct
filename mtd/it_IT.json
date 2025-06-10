@@ -781,13 +781,13 @@
       "type": "Integer"
     },
     {
-      "key": "need_mountain_command",
-      "caption": "AF/CCR Richiesto",
+      "key": "need_oneof_mountain_command_or_fire_command_advanced",
+      "caption": "AF/CCR o AF/UCL o AF/UCL PC Richiesto",
       "type": "Integer"
     },
     {
-      "key": "need_mountain_command_chance",
-      "caption": "Probabilità che sia richiesto l'AF/CCR",
+      "key": "need_oneof_mountain_command_or_fire_command_advanced_chance",
+      "caption": "Probabilità che sia richiesto l' AF/CCR o AF/UCL o AF/UCL PC",
       "type": "Integer"
     },
     {
