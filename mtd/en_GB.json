@@ -71,6 +71,16 @@
       "type": "Unknown"
     },
     {
+      "key": "crashed_car_icons",
+      "caption": null,
+      "type": "Unknown"
+    },
+    {
+      "key": "additive_value_overlays",
+      "caption": null,
+      "type": "Unknown"
+    },
+    {
       "key": "need_lf",
       "caption": "Required Fire engines",
       "type": "Integer"
@@ -104,6 +114,11 @@
       "key": "need_oneof_fire_engine_or_rescue_or_ladder",
       "caption": "Required Fire Engines, Rescue Support Vehicles or Aerial Appliance Trucks",
       "type": "Integer"
+    },
+    {
+      "key": "crashed_car_large_icons",
+      "caption": null,
+      "type": "Unknown"
     },
     {
       "key": "poi_type",
@@ -229,11 +244,6 @@
       "key": "patient_allow_first_responder_full",
       "caption": "First responders can take full care of patients",
       "type": "Integer"
-    },
-    {
-      "key": "additive_value_overlays",
-      "caption": null,
-      "type": "Unknown"
     },
     {
       "key": "police_value",
@@ -758,6 +768,36 @@
     {
       "key": "need_k9_chance",
       "caption": "Probability of Dog Support Units being required",
+      "type": "Integer"
+    },
+    {
+      "key": "tow_trucks_count",
+      "caption": "Required Recovery Centres",
+      "type": "Integer"
+    },
+    {
+      "key": "possible_crashed_car_min",
+      "caption": "Minimum amount of cars to tow",
+      "type": "Integer"
+    },
+    {
+      "key": "possible_crashed_car",
+      "caption": "Maximum amount of cars to tow",
+      "type": "Integer"
+    },
+    {
+      "key": "tow_trucks_large_count",
+      "caption": "Required HGV Recovery Extension",
+      "type": "Integer"
+    },
+    {
+      "key": "possible_crashed_car_large_min",
+      "caption": "Minimum amount of trucks to tow",
+      "type": "Integer"
+    },
+    {
+      "key": "possible_crashed_car_large",
+      "caption": "Maximum amount of trucks to tow",
       "type": "Integer"
     }
   ],
@@ -1985,6 +2025,57 @@
       "id": 33,
       "caption": "Mountain Rescue Station",
       "key": "BUILDING_TYPE_MOUNTAIN_RESCUE"
+    },
+    {
+      "id": 34,
+      "caption": "Recovery Centre",
+      "key": "BUILDING_TYPE_TOW_TRUCKS",
+      "extensions": [
+        {
+          "id": 0,
+          "caption": "Vehicle Parking Lot"
+        },
+        {
+          "id": 1,
+          "caption": "Additional Vehicle Parking Lot Space"
+        },
+        {
+          "id": 2,
+          "caption": "Additional Vehicle Parking Lot Space"
+        },
+        {
+          "id": 3,
+          "caption": "Additional Vehicle Parking Lot Space"
+        },
+        {
+          "id": 4,
+          "caption": "Additional Vehicle Parking Lot Space"
+        },
+        {
+          "id": 5,
+          "caption": "Additional Vehicle Parking Lot Space"
+        },
+        {
+          "id": 6,
+          "caption": "Additional Vehicle Parking Lot Space"
+        },
+        {
+          "id": 7,
+          "caption": "Additional Vehicle Parking Lot Space"
+        },
+        {
+          "id": 8,
+          "caption": "Additional Vehicle Parking Lot Space"
+        },
+        {
+          "id": 9,
+          "caption": "Additional Vehicle Parking Lot Space"
+        },
+        {
+          "id": 10,
+          "caption": "HGV Recovery"
+        }
+      ]
     }
   ],
   "awards": [
@@ -2575,7 +2666,7 @@
     },
     {
       "key": "tow_trucks_missions",
-      "caption": "Tow Trucks"
+      "caption": "Recovery Vehicles "
     }
   ],
   "existing_mission_captions": [
@@ -5682,6 +5773,46 @@
     {
       "id": 775,
       "caption": "Trees blocking the roads after heavy storm,"
+    },
+    {
+      "id": 776,
+      "caption": "Car into telegraph pole"
+    },
+    {
+      "id": 777,
+      "caption": "RTC Car into telegraph pole (entrapment)"
+    },
+    {
+      "id": 778,
+      "caption": "Uninsured Heavy Goods Vehicle"
+    },
+    {
+      "id": 779,
+      "caption": "Stolen Car Located"
+    },
+    {
+      "id": 780,
+      "caption": "Stolen Moped Located"
+    },
+    {
+      "id": 781,
+      "caption": "Stolen Van Located"
+    },
+    {
+      "id": 782,
+      "caption": "Non-Injury RTC with Police Car (Recovery Required)"
+    },
+    {
+      "id": 783,
+      "caption": "S.59 Vehicle Seizure for Anti-Social Use"
+    },
+    {
+      "id": 784,
+      "caption": "Abandoned Car Obstructing Road"
+    },
+    {
+      "id": 785,
+      "caption": "Broken Down Car Obstructing Road"
     }
   ]
 }
