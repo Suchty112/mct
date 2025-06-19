@@ -2584,6 +2584,11 @@
       "id": 115,
       "caption": "10th Anniversary",
       "key": "AWARD_TEN_YEARS"
+    },
+    {
+      "id": 116,
+      "caption": "10th anniversary collection!",
+      "key": "AWARD_TEN_YEARS_COLLECTION"
     }
   ],
   "filter_types": [
