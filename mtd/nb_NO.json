@@ -2305,6 +2305,11 @@
       "id": 106,
       "caption": "Allianseutfordring juni 2025",
       "key": "AWARD_ALLIANCE_CHALLENGE_JUN_2025"
+    },
+    {
+      "id": 107,
+      "caption": "Sommerarrangement 2025",
+      "key": "AWARD_SUMMER_2025"
     }
   ],
   "filter_types": [
