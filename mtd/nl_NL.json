@@ -2428,6 +2428,11 @@
       "id": 135,
       "caption": "Alliantie Uitdaging Juni 2025",
       "key": "AWARD_ALLIANCE_CHALLENGE_JUN_2025"
+    },
+    {
+      "id": 136,
+      "caption": "Zomer Event 2025",
+      "key": "AWARD_SUMMER_2025"
     }
   ],
   "filter_types": [
