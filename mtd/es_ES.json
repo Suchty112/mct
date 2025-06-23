@@ -1730,7 +1730,7 @@
     },
     {
       "id": 11,
-      "caption": "Misiones de Año Nuevo ",
+      "caption": "Misiones de Año Nuevo",
       "key": "AWARD_NEW_YEARS"
     },
     {
@@ -2227,6 +2227,11 @@
       "id": 110,
       "caption": "Reto de la Alianza Junio 2025",
       "key": "AWARD_ALLIANCE_CHALLENGE_JUN_2025"
+    },
+    {
+      "id": 111,
+      "caption": "Evento de verano 2025",
+      "key": "AWARD_SUMMER_2025"
     }
   ],
   "filter_types": [
