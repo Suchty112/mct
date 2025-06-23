@@ -627,7 +627,7 @@
     },
     {
       "key": "min_pump_speed",
-      "caption": "Capacidade min. de bombagem ",
+      "caption": "Capacidade min. de bombagem",
       "type": "Integer"
     },
     {
@@ -2074,6 +2074,11 @@
       "id": 114,
       "caption": "Desafio da Aliança junho de 2025",
       "key": "AWARD_ALLIANCE_CHALLENGE_JUN_2025"
+    },
+    {
+      "id": 115,
+      "caption": "Evento de Verão 2025",
+      "key": "AWARD_SUMMER_2025"
     }
   ],
   "filter_types": [
