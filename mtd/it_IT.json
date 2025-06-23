@@ -1653,12 +1653,12 @@
     },
     {
       "id": 22,
-      "caption": "\u003Cspan class=\"translation_missing localeapp\" title=\"translation missing: it_IT.buildings.building_type.building_complex\"\u003EBuilding Complex\u003C/span\u003E",
+      "caption": "Complessi di edifici",
       "key": "BUILDING_TYPE_COMPLEX"
     },
     {
       "id": 23,
-      "caption": "\u003Cspan class=\"translation_missing localeapp\" title=\"translation missing: it_IT.buildings.building_type.building_complex\"\u003EBuilding Complex\u003C/span\u003E",
+      "caption": "Complessi di edifici",
       "key": "BUILDING_TYPE_COMPLEX_SMALL"
     },
     {
