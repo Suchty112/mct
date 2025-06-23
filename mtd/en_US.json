@@ -2589,6 +2589,11 @@
       "id": 116,
       "caption": "10th anniversary collection!",
       "key": "AWARD_TEN_YEARS_COLLECTION"
+    },
+    {
+      "id": 117,
+      "caption": "Summer Event 2025",
+      "key": "AWARD_SUMMER_2025"
     }
   ],
   "filter_types": [
