@@ -2613,6 +2613,11 @@
       "id": 108,
       "caption": "Alliance Challenge June 2025",
       "key": "AWARD_ALLIANCE_CHALLENGE_JUN_2025"
+    },
+    {
+      "id": 109,
+      "caption": "Summer Event 2025",
+      "key": "AWARD_SUMMER_2025"
     }
   ],
   "filter_types": [
@@ -2666,7 +2671,7 @@
     },
     {
       "key": "tow_trucks_missions",
-      "caption": "Recovery Vehicles "
+      "caption": "Recovery Vehicles"
     }
   ],
   "existing_mission_captions": [
