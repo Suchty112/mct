@@ -1317,12 +1317,12 @@
     },
     {
       "id": 21,
-      "caption": "\u003Cspan class=\"translation_missing localeapp\" title=\"translation missing: fi_FI.buildings.building_type.building_complex\"\u003EBuilding Complex\u003C/span\u003E",
+      "caption": "Rakennuskompleksit",
       "key": "BUILDING_TYPE_COMPLEX"
     },
     {
       "id": 22,
-      "caption": "\u003Cspan class=\"translation_missing localeapp\" title=\"translation missing: fi_FI.buildings.building_type.building_complex\"\u003EBuilding Complex\u003C/span\u003E",
+      "caption": "Rakennuskompleksit",
       "key": "BUILDING_TYPE_COMPLEX_SMALL"
     },
     {
