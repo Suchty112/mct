@@ -97,7 +97,7 @@
     },
     {
       "key": "possible_patient",
-      "caption": "  Potilaita enint.",
+      "caption": "Potilaita enint.",
       "type": "Integer"
     },
     {
@@ -1933,6 +1933,11 @@
       "id": 111,
       "caption": "Allianssin haaste kesäkuu 2025",
       "key": "AWARD_ALLIANCE_CHALLENGE_JUN_2025"
+    },
+    {
+      "id": 112,
+      "caption": "Kesätapahtuma 2025",
+      "key": "AWARD_SUMMER_2025"
     }
   ],
   "filter_types": [
