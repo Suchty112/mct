@@ -2665,6 +2665,11 @@
       "id": 132,
       "caption": "Verbands-Herausforderung Juni 2025",
       "key": "AWARD_ALLIANCE_CHALLENGE_JUN_2025"
+    },
+    {
+      "id": 133,
+      "caption": "Sommer-Einsätze 2025",
+      "key": "AWARD_SUMMER_2025"
     }
   ],
   "filter_types": [
