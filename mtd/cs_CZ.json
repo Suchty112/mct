@@ -2186,6 +2186,11 @@
       "id": 119,
       "caption": "Alianční výzva červen 2025",
       "key": "AWARD_ALLIANCE_CHALLENGE_JUN_2025"
+    },
+    {
+      "id": 120,
+      "caption": "Letní akce 2025",
+      "key": "AWARD_SUMMER_2025"
     }
   ],
   "filter_types": [
