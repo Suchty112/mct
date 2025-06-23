@@ -2000,6 +2000,11 @@
       "id": 108,
       "caption": "アライアンス・チャレンジ 2025年6月",
       "key": "AWARD_ALLIANCE_CHALLENGE_JUN_2025"
+    },
+    {
+      "id": 109,
+      "caption": "2025 夏のイベント",
+      "key": "AWARD_SUMMER_2025"
     }
   ],
   "filter_types": [
