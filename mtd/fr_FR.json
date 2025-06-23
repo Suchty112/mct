@@ -217,7 +217,7 @@
     },
     {
       "key": "date_end",
-      "caption": "N’est plus disponible après ",
+      "caption": "N’est plus disponible après",
       "type": "Datetime"
     },
     {
@@ -637,7 +637,7 @@
     },
     {
       "key": "need_oneof_fire_engine_or_airport_fire_engine_large",
-      "caption": "Fourgons d’incendie ou VIM ",
+      "caption": "Fourgons d’incendie ou VIM",
       "type": "Integer"
     },
     {
@@ -777,7 +777,7 @@
     },
     {
       "key": "swat_count",
-      "caption": "GIGN requis ",
+      "caption": "GIGN requis",
       "type": "Integer"
     },
     {
@@ -792,12 +792,12 @@
     },
     {
       "key": "need_swat_negotiation",
-      "caption": "VDN requis ",
+      "caption": "VDN requis",
       "type": "Integer"
     },
     {
       "key": "need_swat_ladder",
-      "caption": " Sherpa Light APC requis",
+      "caption": "Sherpa Light APC requis",
       "type": "Integer"
     },
     {
@@ -2428,6 +2428,11 @@
       "id": 116,
       "caption": "Défi de l'Alliance Juin 2025",
       "key": "AWARD_ALLIANCE_CHALLENGE_JUN_2025"
+    },
+    {
+      "id": 117,
+      "caption": "Événement d'été 2025",
+      "key": "AWARD_SUMMER_2025"
     }
   ],
   "filter_types": [
