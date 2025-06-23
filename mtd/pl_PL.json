@@ -2040,6 +2040,11 @@
       "id": 115,
       "caption": "Wyzwanie sojuszu czerwiec 2025 r.",
       "key": "AWARD_ALLIANCE_CHALLENGE_JUN_2025"
+    },
+    {
+      "id": 116,
+      "caption": "Impreza letnia 2025",
+      "key": "AWARD_SUMMER_2025"
     }
   ],
   "filter_types": [
