@@ -4738,27 +4738,27 @@
     },
     {
       "id": 650,
-      "caption": "Reposesión del vehículo"
+      "caption": "Retomada de veículo"
     },
     {
       "id": 651,
-      "caption": "Reposesión de vehículo que sale mal"
+      "caption": "A retoma do veículo correu mal"
     },
     {
       "id": 652,
-      "caption": "Problemas del coche en la carretera"
+      "caption": "Problemas com o carro na estrada"
     },
     {
       "id": 653,
-      "caption": "El coche se queda sin gasolina"
+      "caption": "O carro fica sem gasolina"
     },
     {
       "id": 654,
-      "caption": "Vehículo abandonado a un lado de la carretera"
+      "caption": "Veículo abandonado na berma da estrada"
     },
     {
       "id": 655,
-      "caption": "Camión de bomberos en una zanja"
+      "caption": "Caminhão de bombeiros caiu numa vala"
     },
     {
       "id": 656,
@@ -4766,11 +4766,11 @@
     },
     {
       "id": 657,
-      "caption": "El vehículo no puede arrancar"
+      "caption": "Veiculo não pode arrancar"
     },
     {
       "id": 658,
-      "caption": "Rueda pinchada"
+      "caption": "Pneu furado"
     }
   ]
 }
