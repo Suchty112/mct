@@ -2005,6 +2005,11 @@
       "id": 109,
       "caption": "2025 夏のイベント",
       "key": "AWARD_SUMMER_2025"
+    },
+    {
+      "id": 110,
+      "caption": "アライアンス・チャレンジ 2025年7月",
+      "key": "AWARD_ALLIANCE_CHALLENGE_JULY_2025"
     }
   ],
   "filter_types": [
