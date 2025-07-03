@@ -1938,6 +1938,11 @@
       "id": 112,
       "caption": "Kesätapahtuma 2025",
       "key": "AWARD_SUMMER_2025"
+    },
+    {
+      "id": 113,
+      "caption": "Alliance Challenge heinäkuu 2025",
+      "key": "AWARD_ALLIANCE_CHALLENGE_JULY_2025"
     }
   ],
   "filter_types": [
