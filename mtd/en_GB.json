@@ -2618,6 +2618,11 @@
       "id": 109,
       "caption": "Summer Event 2025",
       "key": "AWARD_SUMMER_2025"
+    },
+    {
+      "id": 110,
+      "caption": "Alliance Challenge July 2025",
+      "key": "AWARD_ALLIANCE_CHALLENGE_JULY_2025"
     }
   ],
   "filter_types": [
@@ -4609,7 +4614,7 @@
     },
     {
       "id": 483,
-      "caption": "Scolded by hot liquid"
+      "caption": "Scalded by hot liquid"
     },
     {
       "id": 484,
