@@ -2102,6 +2102,11 @@
       "id": 121,
       "caption": "Sommerbegivenhed 2025",
       "key": "AWARD_SUMMER_2025"
+    },
+    {
+      "id": 122,
+      "caption": "Alliancens udfordring juli 2025",
+      "key": "AWARD_ALLIANCE_CHALLENGE_JULY_2025"
     }
   ],
   "filter_types": [
