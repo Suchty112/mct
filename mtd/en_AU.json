@@ -2021,6 +2021,11 @@
       "id": 110,
       "caption": "Winter Event 2025",
       "key": "AWARD_WINTER_2025"
+    },
+    {
+      "id": 111,
+      "caption": "Alliance Challenge July 2025",
+      "key": "AWARD_ALLIANCE_CHALLENGE_JULY_2025"
     }
   ],
   "filter_types": [
