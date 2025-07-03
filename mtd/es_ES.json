@@ -2232,6 +2232,11 @@
       "id": 111,
       "caption": "Evento de verano 2025",
       "key": "AWARD_SUMMER_2025"
+    },
+    {
+      "id": 112,
+      "caption": "Desafío de la Alianza Julio de 2025",
+      "key": "AWARD_ALLIANCE_CHALLENGE_JULY_2025"
     }
   ],
   "filter_types": [
