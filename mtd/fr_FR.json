@@ -2433,6 +2433,11 @@
       "id": 117,
       "caption": "Événement d'été 2025",
       "key": "AWARD_SUMMER_2025"
+    },
+    {
+      "id": 118,
+      "caption": "Défi de l'Alliance Juillet 2025",
+      "key": "AWARD_ALLIANCE_CHALLENGE_JULY_2025"
     }
   ],
   "filter_types": [
