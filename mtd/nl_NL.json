@@ -2433,6 +2433,16 @@
       "id": 136,
       "caption": "Zomer Event 2025",
       "key": "AWARD_SUMMER_2025"
+    },
+    {
+      "id": 137,
+      "caption": "Alliantie Uitdaging Juli 2025",
+      "key": "AWARD_ALLIANCE_CHALLENGE_JULY_2025"
+    },
+    {
+      "id": 138,
+      "caption": "\u003Cspan class=\"translation_missing localeapp\" title=\"translation missing: nl_NL.award.racing_2025\"\u003ERacing 2025\u003C/span\u003E",
+      "key": "AWARD_RACING_2025"
     }
   ],
   "filter_types": [
