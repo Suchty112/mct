@@ -639,6 +639,51 @@
       "key": "possible_crashed_car_large",
       "caption": "Maksymalna liczba holowanych ciężarówek",
       "type": "Integer"
+    },
+    {
+      "key": "mountain_value",
+      "caption": null,
+      "type": "Integer"
+    },
+    {
+      "key": "mountain_rescue_count",
+      "caption": "Wymagany GOPR",
+      "type": "Integer"
+    },
+    {
+      "key": "need_mountain_rescue_dogs",
+      "caption": "Wymagany pies górski",
+      "type": "Integer"
+    },
+    {
+      "key": "need_mountain_height_rescue",
+      "caption": "Wymagany SUV",
+      "type": "Integer"
+    },
+    {
+      "key": "groups",
+      "caption": "Restricted Vehicle Types",
+      "type": "Unknown"
+    },
+    {
+      "key": "need_mountain_snow",
+      "caption": "Wymagany skuter śnieżny",
+      "type": "Integer"
+    },
+    {
+      "key": "need_mountain_atv",
+      "caption": "Wymagany ATV",
+      "type": "Integer"
+    },
+    {
+      "key": "second_patient_transfer_from",
+      "caption": "Patient and Prisoner Hand-off after mission possible to",
+      "type": "Unknown"
+    },
+    {
+      "key": "need_mountain_cave_command",
+      "caption": "Wymagane polecenie jaskini",
+      "type": "Integer"
     }
   ],
   "pois": [
@@ -901,6 +946,14 @@
     {
       "id": 64,
       "caption": "Rynek"
+    },
+    {
+      "id": 65,
+      "caption": "Jaskinia"
+    },
+    {
+      "id": 66,
+      "caption": "Stok narciarski"
     }
   ],
   "available_icons": [
@@ -952,7 +1005,8 @@
     "river",
     "snowy",
     "cuffs",
-    "cruiseship"
+    "cruiseship",
+    "hiking"
   ],
   "building_types": [
     {
@@ -1468,6 +1522,11 @@
           "caption": "Rozbudowa dla rotatora"
         }
       ]
+    },
+    {
+      "id": 26,
+      "caption": "GOPR",
+      "key": "BUILDING_TYPE_MOUNTAIN_RESCUE"
     }
   ],
   "awards": [
@@ -2045,6 +2104,11 @@
       "id": 116,
       "caption": "Impreza letnia 2025",
       "key": "AWARD_SUMMER_2025"
+    },
+    {
+      "id": 117,
+      "caption": "Wyzwanie sojuszu lipiec 2025 r.",
+      "key": "AWARD_ALLIANCE_CHALLENGE_JULY_2025"
     }
   ],
   "filter_types": [
@@ -5425,6 +5489,50 @@
     {
       "id": 830,
       "caption": "Rowerzysta górski uderzył w drzewo"
+    },
+    {
+      "id": 831,
+      "caption": "Pies ratowniczy uciekł i się zgubił."
+    },
+    {
+      "id": 832,
+      "caption": "Mała lawina"
+    },
+    {
+      "id": 833,
+      "caption": "Lawina o umiarkowanej sile"
+    },
+    {
+      "id": 834,
+      "caption": "Upadek seraka"
+    },
+    {
+      "id": 835,
+      "caption": "Wypadki na nartach"
+    },
+    {
+      "id": 836,
+      "caption": "Turyści utknęli na szczycie góry"
+    },
+    {
+      "id": 837,
+      "caption": "Turysta w niebezpieczeństwie z powodu złych warunków pogodowych"
+    },
+    {
+      "id": 838,
+      "caption": "Dziecko zgubiło się w lesie"
+    },
+    {
+      "id": 839,
+      "caption": "Speleolog poślizgnął się w jaskini"
+    },
+    {
+      "id": 840,
+      "caption": "Speleolog uwięziony po zawaleniu się"
+    },
+    {
+      "id": 841,
+      "caption": "Dziecko zgubiło się w jaskini"
     }
   ]
 }
