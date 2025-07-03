@@ -2670,6 +2670,21 @@
       "id": 133,
       "caption": "Sommer-Einsätze 2025",
       "key": "AWARD_SUMMER_2025"
+    },
+    {
+      "id": 134,
+      "caption": "Fußball-Event 2025",
+      "key": "AWARD_EM2025_MISSIONS"
+    },
+    {
+      "id": 135,
+      "caption": "Verbands-Herausforderung Juli 2025",
+      "key": "AWARD_ALLIANCE_CHALLENGE_JULY_2025"
+    },
+    {
+      "id": 136,
+      "caption": "12. Jubiläum!",
+      "key": "AWARD_TWELVE_YEARS"
     }
   ],
   "filter_types": [
