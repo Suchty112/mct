@@ -5862,6 +5862,34 @@
     {
       "id": 840,
       "caption": "Personne prise au piège par la marée montante"
+    },
+    {
+      "id": 841,
+      "caption": "Tempête de feu"
+    },
+    {
+      "id": 842,
+      "caption": "Rodéo urbain"
+    },
+    {
+      "id": 843,
+      "caption": "Crash d'un avion de ligne dans la forêt"
+    },
+    {
+      "id": 844,
+      "caption": "Feu d'usine de production de papier"
+    },
+    {
+      "id": 845,
+      "caption": "Constatation d'un squat"
+    },
+    {
+      "id": 846,
+      "caption": "Émission de matières radioactives en gare de triage"
+    },
+    {
+      "id": 847,
+      "caption": "Démantèlement d'un réseau de trafiquants d'arts"
     }
   ]
 }
