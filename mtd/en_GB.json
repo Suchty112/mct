@@ -541,11 +541,6 @@
       "type": "Integer"
     },
     {
-      "key": "need_gw_wasserrettung",
-      "caption": "Required 4x4 Vehicles",
-      "type": "Integer"
-    },
-    {
       "key": "wasserrettung_count",
       "caption": "Required Technical Rescue Extensions",
       "type": "Integer"
@@ -708,6 +703,11 @@
     {
       "key": "need_search_and_rescue",
       "caption": "Required Operational Support Vans or SAR Units",
+      "type": "Integer"
+    },
+    {
+      "key": "need_gw_wasserrettung",
+      "caption": "Required 4x4 Vehicles",
       "type": "Integer"
     },
     {
@@ -2902,11 +2902,11 @@
     },
     {
       "id": 55,
-      "caption": "Brawl"
+      "caption": "Fight in Progress"
     },
     {
       "id": 56,
-      "caption": "Rioter"
+      "caption": "Aggressive Person"
     },
     {
       "id": 57,
@@ -5494,7 +5494,7 @@
     },
     {
       "id": 703,
-      "caption": "Fire in an abandoned pizzeria"
+      "caption": "Fire in Derelict Shop"
     },
     {
       "id": 704,
@@ -5610,7 +5610,7 @@
     },
     {
       "id": 732,
-      "caption": "Group Of Vagrants Slash Car Tires In Supermarket Parking Lot"
+      "caption": "Multiple Persons Slashing Car Tyres"
     },
     {
       "id": 733,
