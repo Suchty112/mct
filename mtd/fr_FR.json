@@ -712,7 +712,7 @@
     },
     {
       "key": "technical_aid_count",
-      "caption": "Unités d'Instruction et d'Intervention de la Sécurité Civile nécessaire",
+      "caption": "Régimentes d'Instruction et d'Intervention de la Sécurité Civile nécessaire",
       "type": "Integer"
     },
     {
@@ -1781,7 +1781,7 @@
     },
     {
       "id": 27,
-      "caption": "U.I.I.S.C. - Unité d'Instruction et d'Intervention de la Sécurité Civile",
+      "caption": "R.I.I.S.C. - Régiment d'Instruction et d'Intervention de la Sécurité Civile",
       "key": "BUILDING_TYPE_TECHNICAL_AID",
       "extensions": [
         {
@@ -1794,7 +1794,7 @@
         },
         {
           "id": 2,
-          "caption": "FORMISC - Les Formations Militaires de la Sécurité Civile"
+          "caption": "BMSC - Brigade Militaire de la Sécurité Civile"
         },
         {
           "id": 3,
@@ -2483,7 +2483,7 @@
     },
     {
       "key": "technical_aid_missions",
-      "caption": "U.I.I.S.C."
+      "caption": "R.I.I.S.C."
     },
     {
       "key": "swat_missions",
