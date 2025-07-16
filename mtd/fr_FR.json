@@ -929,6 +929,71 @@
       "key": "need_mountain_helicopter_bucket",
       "caption": "Godets porteur d'eau requis",
       "type": "Integer"
+    },
+    {
+      "key": "container_count",
+      "caption": "Emplacements de cellules requis",
+      "type": "Integer"
+    },
+    {
+      "key": "need_breathing_protection_container",
+      "caption": "Requis CEREV",
+      "type": "Integer"
+    },
+    {
+      "key": "need_gwoil",
+      "caption": "Requis CEDEPOL",
+      "type": "Integer"
+    },
+    {
+      "key": "need_hose_container",
+      "caption": "Requis CEDEV",
+      "type": "Integer"
+    },
+    {
+      "key": "need_hazmat_container",
+      "caption": "Requis CMIC",
+      "type": "Integer"
+    },
+    {
+      "key": "need_lance_nozzle",
+      "caption": "Requis RLC",
+      "type": "Integer"
+    },
+    {
+      "key": "need_foam_container",
+      "caption": "Requis CEEM ",
+      "type": "Integer"
+    },
+    {
+      "key": "need_fire_command_container",
+      "caption": "Requis CEPC",
+      "type": "Integer"
+    },
+    {
+      "key": "need_road_rescue",
+      "caption": "Requis CESR",
+      "type": "Integer"
+    },
+    {
+      "key": "need_decontamination_personnel_container",
+      "caption": "Requis CMIR",
+      "type": "Integer"
+    },
+    {
+      "key": "need_mobile_shelter",
+      "caption": "Requis CETRAN",
+      "type": "Integer"
+    },
+    {
+      "key": "need_ventilation_trailer",
+      "caption": "Requis RMV",
+      "type": "Integer"
+    },
+    {
+      "key": "need_ambulance_command_container",
+      "caption": "Requis CENOVI",
+      "type": "Integer"
     }
   ],
   "pois": [
@@ -1314,6 +1379,74 @@
         {
           "id": 5,
           "caption": "Grande caserne de pompiers"
+        },
+        {
+          "id": 6,
+          "caption": "Emplacement pour cellule"
+        },
+        {
+          "id": 7,
+          "caption": "Emplacement pour cellule"
+        },
+        {
+          "id": 8,
+          "caption": "Emplacement pour cellule"
+        },
+        {
+          "id": 9,
+          "caption": "Emplacement pour cellule"
+        },
+        {
+          "id": 10,
+          "caption": "Emplacement pour cellule"
+        },
+        {
+          "id": 11,
+          "caption": "Emplacement pour cellule"
+        },
+        {
+          "id": 12,
+          "caption": "Emplacement pour cellule"
+        },
+        {
+          "id": 13,
+          "caption": "Emplacement pour cellule"
+        },
+        {
+          "id": 14,
+          "caption": "Emplacement pour cellule"
+        },
+        {
+          "id": 15,
+          "caption": "Emplacement pour cellule"
+        },
+        {
+          "id": 16,
+          "caption": "Emplacement pour cellule"
+        },
+        {
+          "id": 17,
+          "caption": "Emplacement pour cellule"
+        },
+        {
+          "id": 18,
+          "caption": "Emplacement pour cellule"
+        },
+        {
+          "id": 19,
+          "caption": "Emplacement pour cellule"
+        },
+        {
+          "id": 20,
+          "caption": "Emplacement pour cellule"
+        },
+        {
+          "id": 21,
+          "caption": "Supports de poudre et de dioxyde de carbone"
+        },
+        {
+          "id": 22,
+          "caption": "Unités de ventilation"
         }
       ]
     },
@@ -1803,6 +1936,26 @@
         {
           "id": 4,
           "caption": "Extension Forestière"
+        },
+        {
+          "id": 5,
+          "caption": "Emplacement de cellule supplémentaire"
+        },
+        {
+          "id": 6,
+          "caption": "Emplacement de cellule supplémentaire"
+        },
+        {
+          "id": 7,
+          "caption": "Emplacement de cellule supplémentaire"
+        },
+        {
+          "id": 8,
+          "caption": "Emplacement de cellule supplémentaire"
+        },
+        {
+          "id": 9,
+          "caption": "Emplacement de cellule supplémentaire"
         }
       ]
     },
@@ -2981,7 +3134,7 @@
     },
     {
       "id": 120,
-      "caption": "Feu de parking souterrain"
+      "caption": "Feu de parking dans un immeuble"
     },
     {
       "id": 121,
@@ -5890,6 +6043,94 @@
     {
       "id": 847,
       "caption": "Démantèlement d'un réseau de trafiquants d'arts"
+    },
+    {
+      "id": 848,
+      "caption": "Déversement de fût de produits chimiques suite à accident"
+    },
+    {
+      "id": 849,
+      "caption": "Incendie majeur dans un musée"
+    },
+    {
+      "id": 850,
+      "caption": "Marée noire"
+    },
+    {
+      "id": 851,
+      "caption": "Incendie dans une usine de fabrication de magnésium"
+    },
+    {
+      "id": 852,
+      "caption": "Incendie et explosion dans un entrepôt de propane"
+    },
+    {
+      "id": 853,
+      "caption": "Incendie dans une usine de fabrication de panneau photovoltaïque"
+    },
+    {
+      "id": 854,
+      "caption": "Assainissement de zones sinistrées par feu d’origine pétrolière ou chimique"
+    },
+    {
+      "id": 855,
+      "caption": "Dépollution préventive sur sites sensibles classés SEVESO seuil haut"
+    },
+    {
+      "id": 856,
+      "caption": "Accident multi-véhicules en zone confinée (tunnel)"
+    },
+    {
+      "id": 857,
+      "caption": "Accident VL/PL sur viaduc avec risque de chute"
+    },
+    {
+      "id": 858,
+      "caption": "Incendie électrique dans un data center"
+    },
+    {
+      "id": 859,
+      "caption": "Déversement de fût de produits radioactifs suite à accident"
+    },
+    {
+      "id": 860,
+      "caption": "Feu de parking souterrain public (petit)"
+    },
+    {
+      "id": 861,
+      "caption": "Déversement de polluants industriels dans la rivière"
+    },
+    {
+      "id": 862,
+      "caption": "Déversement de fût de produits radioactifs suite à accident"
+    },
+    {
+      "id": 863,
+      "caption": "Effondrement d’une maison (R+2)"
+    },
+    {
+      "id": 864,
+      "caption": "Feu de parking souterrain public (Grand)"
+    },
+    {
+      "id": 865,
+      "caption": "Incendie dans une usine de production de voitures électriques"
+    },
+    {
+      "id": 866,
+      "caption": "Effondrement partiel d’un bâtiment scolaire"
+    },
+    {
+      "id": 867,
+      "caption": "Effondrement d’un bâtiment scolaire"
+    },
+    {
+      "id": 868,
+      "caption": "Explosion dans un Tunnel de Métro"
+    },
+    {
+      "id": 869,
+      "caption": "Accident ferroviaire impliquant deux TGV"
     }
   ]
 }
