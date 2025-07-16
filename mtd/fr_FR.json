@@ -937,7 +937,7 @@
     },
     {
       "key": "need_breathing_protection_container",
-      "caption": "Requis CEREV",
+      "caption": "Requis CEAR",
       "type": "Integer"
     },
     {
