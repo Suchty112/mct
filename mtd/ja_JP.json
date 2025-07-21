@@ -281,6 +281,26 @@
       "type": "Integer"
     },
     {
+      "key": "alliance_event_credits",
+      "caption": "アライアンス・イベント・クレジット",
+      "type": "Integer"
+    },
+    {
+      "key": "event_currency",
+      "caption": "イベントクレジット",
+      "type": "Integer"
+    },
+    {
+      "key": "season_event",
+      "caption": "夏",
+      "type": "Symbol"
+    },
+    {
+      "key": "summer_count",
+      "caption": "夏のレベルが必要",
+      "type": "Integer"
+    },
+    {
       "key": "need_gwa",
       "caption": "空気充填照明車が必要",
       "type": "Integer"
