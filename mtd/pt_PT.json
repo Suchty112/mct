@@ -276,6 +276,26 @@
       "type": "Integer"
     },
     {
+      "key": "alliance_event_credits",
+      "caption": "Créditos de eventos da aliança",
+      "type": "Integer"
+    },
+    {
+      "key": "event_currency",
+      "caption": "Créditos de eventos",
+      "type": "Integer"
+    },
+    {
+      "key": "season_event",
+      "caption": "Verão",
+      "type": "Symbol"
+    },
+    {
+      "key": "summer_count",
+      "caption": "Nível de verão necessário",
+      "type": "Integer"
+    },
+    {
       "key": "need_gwa",
       "caption": "Unidades Autónomas de Ar Respirável necessárias:",
       "type": "Integer"
