@@ -471,6 +471,26 @@
       "type": "Integer"
     },
     {
+      "key": "alliance_event_credits",
+      "caption": "Alliance Event Credits",
+      "type": "Integer"
+    },
+    {
+      "key": "event_currency",
+      "caption": "Event Credits",
+      "type": "Integer"
+    },
+    {
+      "key": "season_event",
+      "caption": "Winter",
+      "type": "Symbol"
+    },
+    {
+      "key": "winter_count",
+      "caption": "Winter level needed",
+      "type": "Integer"
+    },
+    {
       "key": "fehlalarm_possible",
       "caption": null,
       "type": "Boolean"
