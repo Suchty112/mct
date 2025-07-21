@@ -401,6 +401,26 @@
       "type": "Integer"
     },
     {
+      "key": "alliance_event_credits",
+      "caption": "Crediti per eventi dell'Alleanza",
+      "type": "Integer"
+    },
+    {
+      "key": "event_currency",
+      "caption": "Crediti dell'evento",
+      "type": "Integer"
+    },
+    {
+      "key": "season_event",
+      "caption": "Estate",
+      "type": "Symbol"
+    },
+    {
+      "key": "summer_count",
+      "caption": "Livello estivo necessario",
+      "type": "Integer"
+    },
+    {
       "key": "ktw_value",
       "caption": null,
       "type": "Integer"
