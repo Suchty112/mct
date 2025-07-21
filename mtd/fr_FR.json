@@ -396,6 +396,26 @@
       "type": "Integer"
     },
     {
+      "key": "alliance_event_credits",
+      "caption": "Crédits de l'événement de l'Alliance",
+      "type": "Integer"
+    },
+    {
+      "key": "event_currency",
+      "caption": "Crédits de l'événement",
+      "type": "Integer"
+    },
+    {
+      "key": "season_event",
+      "caption": "Été",
+      "type": "Symbol"
+    },
+    {
+      "key": "summer_count",
+      "caption": "Niveau d'été requis",
+      "type": "Integer"
+    },
+    {
       "key": "polizeihubschrauber_count",
       "caption": "Min. Détachement Aérien de la Gendarmerie",
       "type": "Integer"
