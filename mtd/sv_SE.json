@@ -376,6 +376,26 @@
       "type": "Boolean"
     },
     {
+      "key": "alliance_event_credits",
+      "caption": "Credits för alliansens evenemang",
+      "type": "Integer"
+    },
+    {
+      "key": "event_currency",
+      "caption": "Händelsekreditering",
+      "type": "Integer"
+    },
+    {
+      "key": "season_event",
+      "caption": "Sommar",
+      "type": "Symbol"
+    },
+    {
+      "key": "summer_count",
+      "caption": "Sommarnivå behövs",
+      "type": "Integer"
+    },
+    {
       "key": "possible_patient_gender",
       "caption": "Möjligt patientkön",
       "type": "String"
