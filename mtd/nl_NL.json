@@ -884,6 +884,51 @@
       "key": "personal_min_feuerwehr",
       "caption": "Gemiddeld minimaal aantal brandweerpersoneel",
       "type": "Integer"
+    },
+    {
+      "key": "bomb_disposal_count",
+      "caption": "Benodigde EOD",
+      "type": "Integer"
+    },
+    {
+      "key": "bomb_disposal_patrol_count",
+      "caption": "Benodigde TEV",
+      "type": "Integer"
+    },
+    {
+      "key": "need_bomb_disposal",
+      "caption": "Benodigde EOD Eenheid",
+      "type": "Integer"
+    },
+    {
+      "key": "need_bomb_disposal_dogs",
+      "caption": "Benodigde DB-Explosievenhonden",
+      "type": "Integer"
+    },
+    {
+      "key": "need_bomb_disposal_patrol",
+      "caption": "Benodigde DB-TEV",
+      "type": "Integer"
+    },
+    {
+      "key": "need_bomb_disposal_robot",
+      "caption": "Benodigde RC-Explosievenrobot",
+      "type": "Integer"
+    },
+    {
+      "key": "bomb_disposal_diver_count",
+      "caption": "Benodigde DDG",
+      "type": "Integer"
+    },
+    {
+      "key": "need_bomb_disposal_diver",
+      "caption": "Benodigde DB-Explosieveduikers",
+      "type": "Integer"
+    },
+    {
+      "key": "need_bomb_disposal_boat",
+      "caption": "Benodigde BA-DDG",
+      "type": "Integer"
     }
   ],
   "pois": [
@@ -7167,6 +7212,42 @@
     {
       "id": 1160,
       "caption": "Brandende laadpaal"
+    },
+    {
+      "id": 1161,
+      "caption": "Verdachte situatie luchthaven"
+    },
+    {
+      "id": 1162,
+      "caption": "Verdacht pakket luchthaven"
+    },
+    {
+      "id": 1163,
+      "caption": "Explosie luchthaven"
+    },
+    {
+      "id": 1164,
+      "caption": "Bom uit WOII gevonden"
+    },
+    {
+      "id": 1165,
+      "caption": "Verdacht pakket bij voordeur"
+    },
+    {
+      "id": 1166,
+      "caption": "Diepzeemijn aangetroffen"
+    },
+    {
+      "id": 1167,
+      "caption": "Vermoeden van opslag grote partij illegaal vuurwerk"
+    },
+    {
+      "id": 1168,
+      "caption": "Explosie in woonwijk"
+    },
+    {
+      "id": 1169,
+      "caption": "Mogelijk explosief gevonden bij magneetvissen"
     }
   ]
 }
