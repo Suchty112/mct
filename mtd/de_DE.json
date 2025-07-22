@@ -1850,6 +1850,10 @@
         {
           "id": 5,
           "caption": "Betreuungs- und Verpflegungsdienst"
+        },
+        {
+          "id": 6,
+          "caption": "Technik und Sicherheit"
         }
       ]
     },
