@@ -922,7 +922,7 @@
     },
     {
       "key": "need_bomb_disposal_diver",
-      "caption": "Benodigde DB-Explosieveduikers",
+      "caption": "Benodigde DB-Explosievenduikers",
       "type": "Integer"
     },
     {
