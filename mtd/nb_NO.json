@@ -526,11 +526,6 @@
       "type": "Integer"
     },
     {
-      "key": "nef_need_quote",
-      "caption": "Sannsynlighet for NEF",
-      "type": "Integer"
-    },
-    {
       "key": "police_horse_count",
       "caption": "Krever politihest utvidelse",
       "type": "Integer"
