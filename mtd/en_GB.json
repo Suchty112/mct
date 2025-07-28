@@ -376,26 +376,6 @@
       "type": "Integer"
     },
     {
-      "key": "alliance_event_credits",
-      "caption": "Alliance Event Credits",
-      "type": "Integer"
-    },
-    {
-      "key": "event_currency",
-      "caption": "Event Credits",
-      "type": "Integer"
-    },
-    {
-      "key": "season_event",
-      "caption": "Summer",
-      "type": "Symbol"
-    },
-    {
-      "key": "summer_count",
-      "caption": "Summer level needed",
-      "type": "Integer"
-    },
-    {
       "key": "riot_police_count",
       "caption": "Required Riot Police Extensions",
       "type": "Integer"
@@ -561,11 +541,6 @@
       "type": "Integer"
     },
     {
-      "key": "need_gw_wasserrettung",
-      "caption": "Required 4x4 Vehicles",
-      "type": "Integer"
-    },
-    {
       "key": "wasserrettung_count",
       "caption": "Required Technical Rescue Extensions",
       "type": "Integer"
@@ -728,6 +703,11 @@
     {
       "key": "need_search_and_rescue",
       "caption": "Required Operational Support Vans or SAR Units",
+      "type": "Integer"
+    },
+    {
+      "key": "need_gw_wasserrettung",
+      "caption": "Required 4x4 Vehicles",
       "type": "Integer"
     },
     {
@@ -2922,11 +2902,11 @@
     },
     {
       "id": 55,
-      "caption": "Brawl"
+      "caption": "Fight in Progress"
     },
     {
       "id": 56,
-      "caption": "Rioter"
+      "caption": "Aggressive Person"
     },
     {
       "id": 57,
@@ -4634,7 +4614,7 @@
     },
     {
       "id": 483,
-      "caption": "Scolded by hot liquid"
+      "caption": "Scalded by hot liquid"
     },
     {
       "id": 484,
@@ -5514,7 +5494,7 @@
     },
     {
       "id": 703,
-      "caption": "Fire in an abandoned pizzeria"
+      "caption": "Fire in Derelict Shop"
     },
     {
       "id": 704,
@@ -5630,7 +5610,7 @@
     },
     {
       "id": 732,
-      "caption": "Group Of Vagrants Slash Car Tires In Supermarket Parking Lot"
+      "caption": "Multiple Persons Slashing Car Tyres"
     },
     {
       "id": 733,
@@ -5794,7 +5774,7 @@
     },
     {
       "id": 773,
-      "caption": "Delerium"
+      "caption": "Delirium"
     },
     {
       "id": 774,
@@ -5802,7 +5782,7 @@
     },
     {
       "id": 775,
-      "caption": "Trees blocking the roads after heavy storm,"
+      "caption": "Trees blocking the roads after heavy storm"
     },
     {
       "id": 776,
