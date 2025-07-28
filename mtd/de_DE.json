@@ -541,26 +541,6 @@
       "type": "Integer"
     },
     {
-      "key": "alliance_event_credits",
-      "caption": "Verband Event Credits",
-      "type": "Integer"
-    },
-    {
-      "key": "event_currency",
-      "caption": "Event Credits",
-      "type": "Integer"
-    },
-    {
-      "key": "season_event",
-      "caption": "Sommer",
-      "type": "Symbol"
-    },
-    {
-      "key": "summer_count",
-      "caption": "Benötigtes Sommer-Level",
-      "type": "Integer"
-    },
-    {
       "key": "need_thw_dle",
       "caption": "Anhänger Drucklufterzeugung",
       "type": "Integer"
