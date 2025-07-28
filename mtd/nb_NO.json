@@ -316,26 +316,6 @@
       "type": "Integer"
     },
     {
-      "key": "alliance_event_credits",
-      "caption": "Kreditter for alliansearrangementer",
-      "type": "Integer"
-    },
-    {
-      "key": "event_currency",
-      "caption": "Event Credits",
-      "type": "Integer"
-    },
-    {
-      "key": "season_event",
-      "caption": "Sommer",
-      "type": "Symbol"
-    },
-    {
-      "key": "summer_count",
-      "caption": "Behov for sommernivå",
-      "type": "Integer"
-    },
-    {
       "key": "need_elw2",
       "caption": "Innsatsstøttebil nødvendig",
       "type": "Integer"
