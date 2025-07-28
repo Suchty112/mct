@@ -401,26 +401,6 @@
       "type": "Integer"
     },
     {
-      "key": "alliance_event_credits",
-      "caption": "Kredyty na wydarzenia sojuszu",
-      "type": "Integer"
-    },
-    {
-      "key": "event_currency",
-      "caption": "Kredyty na wydarzenia",
-      "type": "Integer"
-    },
-    {
-      "key": "season_event",
-      "caption": "Lato",
-      "type": "Symbol"
-    },
-    {
-      "key": "summer_count",
-      "caption": "Wymagany poziom letni",
-      "type": "Integer"
-    },
-    {
       "key": "need_rw_chance",
       "caption": "Szanse, że potrzebny będzie samochód ratownictwa technicznego",
       "type": "Integer"
