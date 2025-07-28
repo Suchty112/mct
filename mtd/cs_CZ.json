@@ -321,26 +321,6 @@
       "type": "Integer"
     },
     {
-      "key": "alliance_event_credits",
-      "caption": "Kredity událostí aliance",
-      "type": "Integer"
-    },
-    {
-      "key": "event_currency",
-      "caption": "Kredity události",
-      "type": "Integer"
-    },
-    {
-      "key": "season_event",
-      "caption": "Léto",
-      "type": "Symbol"
-    },
-    {
-      "key": "summer_count",
-      "caption": "Potřebná letní úroveň",
-      "type": "Integer"
-    },
-    {
       "key": "need_gwa",
       "caption": "Požadované protiplynové automobily",
       "type": "Integer"
