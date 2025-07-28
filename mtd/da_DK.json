@@ -346,26 +346,6 @@
       "type": "Integer"
     },
     {
-      "key": "alliance_event_credits",
-      "caption": "Alliance-event-kreditter",
-      "type": "Integer"
-    },
-    {
-      "key": "event_currency",
-      "caption": "Kreditter til begivenheder",
-      "type": "Integer"
-    },
-    {
-      "key": "season_event",
-      "caption": "Sommer",
-      "type": "Symbol"
-    },
-    {
-      "key": "summer_count",
-      "caption": "Behov for sommerniveau",
-      "type": "Integer"
-    },
-    {
       "key": "wasser_value",
       "caption": null,
       "type": "Integer"
