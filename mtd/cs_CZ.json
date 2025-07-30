@@ -719,6 +719,61 @@
       "key": "need_crew_carrier_chance",
       "caption": "Pravděpodobnost, že bude potřeba DA",
       "type": "Integer"
+    },
+    {
+      "key": "mountain_value",
+      "caption": null,
+      "type": "Integer"
+    },
+    {
+      "key": "mountain_rescue_count",
+      "caption": "Nutná Horská záchranná stanice",
+      "type": "Integer"
+    },
+    {
+      "key": "need_mountain_snow",
+      "caption": "Požadovaný sněžný skútr",
+      "type": "Integer"
+    },
+    {
+      "key": "need_mountain_snow_trailer",
+      "caption": "Požadovaný přívěs na sníh",
+      "type": "Integer"
+    },
+    {
+      "key": "custom_spawn_area",
+      "caption": "Vlastní oblast pro snůšku misí",
+      "type": "Boolean"
+    },
+    {
+      "key": "need_mountain_atv",
+      "caption": "Povinná horská čtyřkolka",
+      "type": "Integer"
+    },
+    {
+      "key": "need_mountain_atv_trailer",
+      "caption": "Požadovaný přívěs na horskou čtyřkolku",
+      "type": "Integer"
+    },
+    {
+      "key": "need_mountain_rescue_dogs",
+      "caption": "Povinný horský pes",
+      "type": "Integer"
+    },
+    {
+      "key": "need_mountain_rescue",
+      "caption": "Nutný horský záchranný vůz",
+      "type": "Integer"
+    },
+    {
+      "key": "personnel_educations_count",
+      "caption": "Required Personnel Available",
+      "type": "Unknown"
+    },
+    {
+      "key": "required_personnel_educations",
+      "caption": "Required Personnel",
+      "type": "Unknown"
     }
   ],
   "pois": [
@@ -1085,6 +1140,18 @@
     {
       "id": 91,
       "caption": "Železniční depo"
+    },
+    {
+      "id": 92,
+      "caption": "Lanovka"
+    },
+    {
+      "id": 93,
+      "caption": "Skála"
+    },
+    {
+      "id": 94,
+      "caption": "Vodopád"
     }
   ],
   "available_icons": [
@@ -1128,7 +1195,8 @@
     "tramway",
     "tornado",
     "stadium",
-    "lightningStrike"
+    "lightningStrike",
+    "hiking"
   ],
   "building_types": [
     {
@@ -1594,6 +1662,11 @@
       "id": 25,
       "caption": "Stáje jízdní policie",
       "key": "BUILDING_TYPE_POLICE_HORSE"
+    },
+    {
+      "id": 26,
+      "caption": "Horská záchranná stanice",
+      "key": "BUILDING_TYPE_MOUNTAIN_RESCUE"
     }
   ],
   "awards": [
@@ -5036,6 +5109,42 @@
     {
       "id": 695,
       "caption": "Ochranné státní návštěvy"
+    },
+    {
+      "id": 696,
+      "caption": "Lyžařské nehody"
+    },
+    {
+      "id": 697,
+      "caption": "Turistické nehody"
+    },
+    {
+      "id": 698,
+      "caption": "Turista v nouzi kvůli špatnému počasí"
+    },
+    {
+      "id": 699,
+      "caption": "Lesní požár ve vysokých horách"
+    },
+    {
+      "id": 700,
+      "caption": "Oheň z pikniku ve vysokých horách"
+    },
+    {
+      "id": 701,
+      "caption": "Malá lavina"
+    },
+    {
+      "id": 702,
+      "caption": "Lavina střední závažnosti"
+    },
+    {
+      "id": 703,
+      "caption": "Záchranářský pes utekl a ztratil se"
+    },
+    {
+      "id": 704,
+      "caption": "Dítě uvízlo na skále."
     }
   ]
 }
