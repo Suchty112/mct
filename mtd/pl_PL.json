@@ -662,7 +662,7 @@
     },
     {
       "key": "groups",
-      "caption": "Restricted Vehicle Types",
+      "caption": "Ograniczone rodzaje pojazdów",
       "type": "Unknown"
     },
     {
@@ -677,7 +677,7 @@
     },
     {
       "key": "second_patient_transfer_from",
-      "caption": "Patient and Prisoner Hand-off after mission possible to",
+      "caption": "Przekazanie pacjenta/więźnia po misji możliwe do",
       "type": "Unknown"
     },
     {
