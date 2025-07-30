@@ -2323,6 +2323,10 @@
     {
       "key": "tow_trucks_missions",
       "caption": "Tow Trucks"
+    },
+    {
+      "key": "mountain_missions",
+      "caption": "Horská záchranná"
     }
   ],
   "existing_mission_captions": [
