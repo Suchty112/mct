@@ -2488,6 +2488,11 @@
       "id": 138,
       "caption": "Race Event 2025",
       "key": "AWARD_RACING_2025"
+    },
+    {
+      "id": 139,
+      "caption": "Alliantie Uitdaging Augustus 2025",
+      "key": "AWARD_ALLIANCE_CHALLENGE_AUGUST_2025"
     }
   ],
   "filter_types": [
