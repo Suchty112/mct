@@ -2109,6 +2109,11 @@
       "id": 117,
       "caption": "Wyzwanie sojuszu lipiec 2025 r.",
       "key": "AWARD_ALLIANCE_CHALLENGE_JULY_2025"
+    },
+    {
+      "id": 118,
+      "caption": "Wyzwanie sojuszu sierpień 2025 r.",
+      "key": "AWARD_ALLIANCE_CHALLENGE_AUGUST_2025"
     }
   ],
   "filter_types": [
@@ -5545,6 +5550,34 @@
     {
       "id": 844,
       "caption": "Powódź po ulewnym deszczu"
+    },
+    {
+      "id": 845,
+      "caption": "Samochód skręcający na drodze"
+    },
+    {
+      "id": 846,
+      "caption": "Tlący się pożar spowodowany przez listwę zasilającą"
+    },
+    {
+      "id": 847,
+      "caption": "Pożar szopy spowodowany przez lodówkę"
+    },
+    {
+      "id": 848,
+      "caption": "Skarga na hałas na prywatnej plaży"
+    },
+    {
+      "id": 849,
+      "caption": "Ukąszenie węża"
+    },
+    {
+      "id": 850,
+      "caption": "Nielegalne ognisko na plaży"
+    },
+    {
+      "id": 851,
+      "caption": "Płonąca kosiarka"
     }
   ]
 }
