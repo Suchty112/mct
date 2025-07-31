@@ -2591,6 +2591,11 @@
       "id": 118,
       "caption": "Défi de l'Alliance Juillet 2025",
       "key": "AWARD_ALLIANCE_CHALLENGE_JULY_2025"
+    },
+    {
+      "id": 119,
+      "caption": "Défi de l'Alliance Août 2025",
+      "key": "AWARD_ALLIANCE_CHALLENGE_AUGUST_2025"
     }
   ],
   "filter_types": [
@@ -6131,6 +6136,10 @@
     {
       "id": 869,
       "caption": "Accident ferroviaire impliquant deux TGV"
+    },
+    {
+      "id": 870,
+      "caption": "Accident de travail avec une machine"
     }
   ]
 }
