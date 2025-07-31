@@ -2134,6 +2134,11 @@
       "id": 113,
       "caption": "Alliansutmaning juli 2025",
       "key": "AWARD_ALLIANCE_CHALLENGE_JULY_2025"
+    },
+    {
+      "id": 114,
+      "caption": "Alliansutmaning augusti 2025",
+      "key": "AWARD_ALLIANCE_CHALLENGE_AUGUST_2025"
     }
   ],
   "filter_types": [
@@ -4874,6 +4879,34 @@
     {
       "id": 670,
       "caption": "Träd blockerar vägarna efter kraftig storm"
+    },
+    {
+      "id": 671,
+      "caption": "Bil som väjer på vägen"
+    },
+    {
+      "id": 672,
+      "caption": "Sotande brand orsakad av grenuttag"
+    },
+    {
+      "id": 673,
+      "caption": "Brand i skjul orsakad av kylskåp"
+    },
+    {
+      "id": 674,
+      "caption": "Klagomål på buller på privatägd strand"
+    },
+    {
+      "id": 675,
+      "caption": "Ormbett"
+    },
+    {
+      "id": 676,
+      "caption": "Olaglig lägereld på stranden"
+    },
+    {
+      "id": 677,
+      "caption": "Brinnande gräsklippare"
     }
   ]
 }
