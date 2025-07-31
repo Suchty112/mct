@@ -2689,6 +2689,11 @@
       "id": 136,
       "caption": "12. Jubiläum!",
       "key": "AWARD_TWELVE_YEARS"
+    },
+    {
+      "id": 137,
+      "caption": "Verbands-Herausforderung August 2025",
+      "key": "AWARD_ALLIANCE_CHALLENGE_AUGUST_2025"
     }
   ],
   "filter_types": [
@@ -6501,6 +6506,10 @@
     {
       "id": 937,
       "caption": "Bauernhof steht unter Wasser"
+    },
+    {
+      "id": 938,
+      "caption": "Person in Großgehege"
     }
   ]
 }
