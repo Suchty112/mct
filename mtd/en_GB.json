@@ -2623,6 +2623,11 @@
       "id": 110,
       "caption": "Alliance Challenge July 2025",
       "key": "AWARD_ALLIANCE_CHALLENGE_JULY_2025"
+    },
+    {
+      "id": 111,
+      "caption": "Alliance Challenge August 2025",
+      "key": "AWARD_ALLIANCE_CHALLENGE_AUGUST_2025"
     }
   ],
   "filter_types": [
@@ -5823,6 +5828,18 @@
     {
       "id": 785,
       "caption": "Broken Down Car Obstructing Road"
+    },
+    {
+      "id": 786,
+      "caption": "Single Vehicle Road Traffic Collision (Exercise)"
+    },
+    {
+      "id": 787,
+      "caption": "Vessel Taking on Water"
+    },
+    {
+      "id": 788,
+      "caption": "Unlawful residence report"
     }
   ]
 }
