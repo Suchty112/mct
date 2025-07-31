@@ -2390,6 +2390,11 @@
       "id": 119,
       "caption": "Sfida dell'Alleanza luglio 2025",
       "key": "AWARD_ALLIANCE_CHALLENGE_JULY_2025"
+    },
+    {
+      "id": 120,
+      "caption": "Sfida dell'Alleanza Agosto 2025",
+      "key": "AWARD_ALLIANCE_CHALLENGE_AUGUST_2025"
     }
   ],
   "filter_types": [
@@ -5594,6 +5599,18 @@
     {
       "id": 785,
       "caption": "Crolla gru in cantiere"
+    },
+    {
+      "id": 786,
+      "caption": "Rapporto su Residenza Illegale"
+    },
+    {
+      "id": 787,
+      "caption": "Incidente Stradale con Veicolo Singolo (Esercitazione)"
+    },
+    {
+      "id": 788,
+      "caption": "Imbarcazione Sta Imbarcando Acqua"
     }
   ]
 }
