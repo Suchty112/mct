@@ -644,6 +644,41 @@
       "key": "need_gwtaucher",
       "caption": "Vaaditaan Pelastussukellusauto",
       "type": "Integer"
+    },
+    {
+      "key": "border_value",
+      "caption": "Rajavartija",
+      "type": "Integer"
+    },
+    {
+      "key": "water_rescue_2_count",
+      "caption": "Tarvittava rajavartioasema",
+      "type": "Integer"
+    },
+    {
+      "key": "need_oneof_police_patrol_or_border_patrol",
+      "caption": "Partioauto tai RVL Raskas partioauto",
+      "type": "Integer"
+    },
+    {
+      "key": "need_border",
+      "caption": "Vaadittava RVL Partioauto",
+      "type": "Integer"
+    },
+    {
+      "key": "need_border_snow",
+      "caption": "RVL Moottorikelkkaperävaunu",
+      "type": "Integer"
+    },
+    {
+      "key": "need_border_dogs",
+      "caption": "Vaadittu RVL Koirapartioauto",
+      "type": "Integer"
+    },
+    {
+      "key": "need_border_atv",
+      "caption": "RVL Mönkijäperävaunu",
+      "type": "Integer"
     }
   ],
   "pois": [
@@ -942,6 +977,10 @@
     {
       "id": 73,
       "caption": "Markkinat"
+    },
+    {
+      "id": 74,
+      "caption": "Valtioraja"
     }
   ],
   "available_icons": [
@@ -1381,6 +1420,30 @@
       "id": 25,
       "caption": "Pelastusvenelaituri",
       "key": "BUILDING_TYPE_FIRE_BOAT_DOCK"
+    },
+    {
+      "id": 26,
+      "caption": "Rajavartioasema",
+      "key": "BUILDING_TYPE_WATER_RESCUE_2"
+    },
+    {
+      "id": 27,
+      "caption": "Raja- ja Merivartiokoulu",
+      "key": "BUILDING_TYPE_WATER_RESCUE_SCHOOL",
+      "extensions": [
+        {
+          "id": 0,
+          "caption": "Lisäluokkahuone"
+        },
+        {
+          "id": 1,
+          "caption": "Lisäluokkahuone"
+        },
+        {
+          "id": 2,
+          "caption": "Lisäluokkahuone"
+        }
+      ]
     }
   ],
   "awards": [
@@ -1943,6 +2006,11 @@
       "id": 113,
       "caption": "Alliance Challenge heinäkuu 2025",
       "key": "AWARD_ALLIANCE_CHALLENGE_JULY_2025"
+    },
+    {
+      "id": 114,
+      "caption": "Allianssin haaste elokuu 2025",
+      "key": "AWARD_ALLIANCE_CHALLENGE_AUGUST_2025"
     }
   ],
   "filter_types": [
@@ -4751,6 +4819,62 @@
     {
       "id": 687,
       "caption": "442 Nosturi kaatui rakennustyömaalla"
+    },
+    {
+      "id": 688,
+      "caption": "Laiton rajanylitys"
+    },
+    {
+      "id": 689,
+      "caption": "Jääpelastus rajajoella"
+    },
+    {
+      "id": 690,
+      "caption": "Massiivinen laiton rajanylitys"
+    },
+    {
+      "id": 691,
+      "caption": "Epäilyttävä henkilö rajalla"
+    },
+    {
+      "id": 692,
+      "caption": "Kadonneet retkeilijät rajan lähellä"
+    },
+    {
+      "id": 693,
+      "caption": "Salakuljettajan ajoneuvo pysäytetty"
+    },
+    {
+      "id": 694,
+      "caption": "Epäilyttävä drone lentää rajalla sijaitsevan laitoksen lähellä"
+    },
+    {
+      "id": 695,
+      "caption": "pako veneellä"
+    },
+    {
+      "id": 696,
+      "caption": "Metsäpalo rajanylityspaikan lähellä"
+    },
+    {
+      "id": 697,
+      "caption": "Jäätyminen uhkaa kadonnutta henkilöä rajalla sijaitsevassa metsässä"
+    },
+    {
+      "id": 698,
+      "caption": "402 Salama löi autiotaloon"
+    },
+    {
+      "id": 699,
+      "caption": "Luvattoman Asumisen Raportti"
+    },
+    {
+      "id": 700,
+      "caption": "Yhden Ajoneuvon Liikenneonnettomuus (Harjoitus)"
+    },
+    {
+      "id": 701,
+      "caption": "222 Alus Ottaa Vettä Sisään"
     }
   ]
 }
