@@ -2084,6 +2084,11 @@
       "id": 116,
       "caption": "Desafio da Aliança julho de 2025",
       "key": "AWARD_ALLIANCE_CHALLENGE_JULY_2025"
+    },
+    {
+      "id": 117,
+      "caption": "Desafio da Aliança agosto de 2025",
+      "key": "AWARD_ALLIANCE_CHALLENGE_AUGUST_2025"
     }
   ],
   "filter_types": [
@@ -4788,6 +4793,34 @@
     {
       "id": 661,
       "caption": "Árvores a bloquear as estradas após uma forte tempestade"
+    },
+    {
+      "id": 662,
+      "caption": "Carro a guinar na estrada"
+    },
+    {
+      "id": 663,
+      "caption": "Incêndio causado por uma tomada eléctrica"
+    },
+    {
+      "id": 664,
+      "caption": "Incêndio num barracão causado por um frigorífico"
+    },
+    {
+      "id": 665,
+      "caption": "Queixa de ruído numa praia privada"
+    },
+    {
+      "id": 666,
+      "caption": "Picada de cobra"
+    },
+    {
+      "id": 667,
+      "caption": "Fogueira ilegal na praia"
+    },
+    {
+      "id": 668,
+      "caption": "Cortador de relva a arder"
     }
   ]
 }
