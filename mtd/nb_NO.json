@@ -2310,6 +2310,11 @@
       "id": 108,
       "caption": "Allianseutfordring juli 2025",
       "key": "AWARD_ALLIANCE_CHALLENGE_JULY_2025"
+    },
+    {
+      "id": 109,
+      "caption": "Alliance Challenge August 2025",
+      "key": "AWARD_ALLIANCE_CHALLENGE_AUGUST_2025"
     }
   ],
   "filter_types": [
@@ -5170,6 +5175,34 @@
     {
       "id": 700,
       "caption": "Trær sperrer veiene etter storm"
+    },
+    {
+      "id": 701,
+      "caption": "Bil slingrer på veien"
+    },
+    {
+      "id": 702,
+      "caption": "Ulmebrann forårsaket av strømskinne"
+    },
+    {
+      "id": 703,
+      "caption": "Skurbrann forårsaket av kjøleskap"
+    },
+    {
+      "id": 704,
+      "caption": "Klage på støy på privateid strand"
+    },
+    {
+      "id": 705,
+      "caption": "slangebitt"
+    },
+    {
+      "id": 706,
+      "caption": "ulovlig leirbål på stranden"
+    },
+    {
+      "id": 707,
+      "caption": "Brennende gressklipper"
     }
   ]
 }
