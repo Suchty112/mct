@@ -2237,6 +2237,11 @@
       "id": 112,
       "caption": "Desafío de la Alianza Julio de 2025",
       "key": "AWARD_ALLIANCE_CHALLENGE_JULY_2025"
+    },
+    {
+      "id": 113,
+      "caption": "Desafío de la Alianza Agosto de 2025",
+      "key": "AWARD_ALLIANCE_CHALLENGE_AUGUST_2025"
     }
   ],
   "filter_types": [
@@ -4881,6 +4886,34 @@
     {
       "id": 646,
       "caption": "Inundación tras lluvias intensas"
+    },
+    {
+      "id": 647,
+      "caption": "Coche dando volantazos en la carretera"
+    },
+    {
+      "id": 648,
+      "caption": "Incendio provocado por una regleta"
+    },
+    {
+      "id": 649,
+      "caption": "Incendio en un cobertizo provocado por un frigorífico"
+    },
+    {
+      "id": 650,
+      "caption": "Queja por ruidos en una playa privada"
+    },
+    {
+      "id": 651,
+      "caption": "Mordedura de serpiente"
+    },
+    {
+      "id": 652,
+      "caption": "Hoguera ilegal en la playa"
+    },
+    {
+      "id": 653,
+      "caption": "Cortadora de césped en llamas"
     }
   ]
 }
