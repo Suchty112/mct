@@ -246,6 +246,16 @@
       "type": "Integer"
     },
     {
+      "key": "personnel_educations_count",
+      "caption": "Required Personnel Available",
+      "type": "Unknown"
+    },
+    {
+      "key": "required_personnel_educations",
+      "caption": "Required Personnel",
+      "type": "Unknown"
+    },
+    {
       "key": "patient_modus",
       "caption": null,
       "type": "Integer"
@@ -764,16 +774,6 @@
       "key": "need_mountain_rescue",
       "caption": "Nutný horský záchranný vůz",
       "type": "Integer"
-    },
-    {
-      "key": "personnel_educations_count",
-      "caption": "Required Personnel Available",
-      "type": "Unknown"
-    },
-    {
-      "key": "required_personnel_educations",
-      "caption": "Required Personnel",
-      "type": "Unknown"
     }
   ],
   "pois": [
