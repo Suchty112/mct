@@ -657,12 +657,12 @@
     },
     {
       "key": "need_oneof_police_patrol_or_border_patrol",
-      "caption": "Partioauto tai RVL Raskas partioauto",
+      "caption": "Poliisipartio tai RVL Ajoneuvo",
       "type": "Integer"
     },
     {
       "key": "need_border",
-      "caption": "Vaadittava RVL Partioauto",
+      "caption": "Vaadittava RVL Ajoneuvo",
       "type": "Integer"
     },
     {
@@ -672,7 +672,7 @@
     },
     {
       "key": "need_border_dogs",
-      "caption": "Vaadittu RVL Koirapartioauto",
+      "caption": "RVL Koiraperävaunu",
       "type": "Integer"
     },
     {
