@@ -1293,6 +1293,10 @@
     {
       "id": 62,
       "caption": "Kohlekraftwerk"
+    },
+    {
+      "id": 63,
+      "caption": "JVA"
     }
   ],
   "available_icons": [
