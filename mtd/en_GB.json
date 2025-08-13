@@ -702,7 +702,7 @@
     },
     {
       "key": "need_search_and_rescue",
-      "caption": "Required Operational Support Vans or SAR Units",
+      "caption": "Required Operational Support Vans, Trailers or Personal SAR Vehicles",
       "type": "Integer"
     },
     {
@@ -5839,6 +5839,14 @@
     },
     {
       "id": 788,
+      "caption": "Possible Cannabis Farm (Aerial Thermal Imaging Required)"
+    },
+    {
+      "id": 789,
+      "caption": "Cannabis Farm (Small)"
+    },
+    {
+      "id": 790,
       "caption": "Unlawful residence report"
     }
   ]
