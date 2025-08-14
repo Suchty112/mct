@@ -2051,6 +2051,10 @@
       "caption": "Federal Police Station"
     },
     {
+      "key": "water_rescue_2_missions",
+      "caption": "Rajavartioasema"
+    },
+    {
       "key": "coastal_rescue_missions",
       "caption": "Rajavartiolaitos"
     },
