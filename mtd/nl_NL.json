@@ -741,6 +741,16 @@
       "type": "Integer"
     },
     {
+      "key": "crashed_car_icons",
+      "caption": null,
+      "type": "Unknown"
+    },
+    {
+      "key": "crashed_car_large_icons",
+      "caption": null,
+      "type": "Unknown"
+    },
+    {
       "key": "subsequent_mission_only",
       "caption": "Kan alleen een vervolginzet van een andere inzet zijn",
       "type": "Boolean"
@@ -826,11 +836,6 @@
       "type": "Integer"
     },
     {
-      "key": "crashed_car_icons",
-      "caption": null,
-      "type": "Unknown"
-    },
-    {
       "key": "need_oneof_fire_rescue_or_ladder",
       "caption": "Benodigde hulpverleningsvoertuigen of redvoertuigen",
       "type": "Integer"
@@ -839,11 +844,6 @@
       "key": "possible_crashed_car_large_min",
       "caption": "Minimaal aantal vrachtwagens om te slepen",
       "type": "Integer"
-    },
-    {
-      "key": "crashed_car_large_icons",
-      "caption": null,
-      "type": "Unknown"
     },
     {
       "key": "additive_value_overlays",
