@@ -2056,7 +2056,7 @@
     },
     {
       "key": "coastal_rescue_missions",
-      "caption": "Rajavartiolaitos"
+      "caption": "Meripelastus"
     },
     {
       "key": "technical_aid_missions",
@@ -4874,7 +4874,7 @@
     },
     {
       "id": 700,
-      "caption": "Yhden Ajoneuvon Liikenneonnettomuus (Harjoitus)"
+      "caption": "h32 Liikenneonnettomuusharjoitus (yksi ajoneuvo)"
     },
     {
       "id": 701,
