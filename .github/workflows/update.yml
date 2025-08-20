@@ -3,14 +3,14 @@ on:
     branches:
       - master
   schedule:
-    - cron:  '10 10,12,13,17 * * 1-5'
+    - cron:  '10 8,9,10,12,13,17 * * 1-5'
 
 jobs:
   en_AU:
     runs-on: ubuntu-latest
     continue-on-error: true
     steps:
-    - uses: actions/checkout@v4.1.4
+    - uses: actions/checkout@v5
       with:
         persist-credentials: false
         fetch-depth: 0
@@ -26,7 +26,7 @@ jobs:
         pattern: "\\.json$"
 
     - name: Prettify code & PUSH
-      uses: creyD/prettier_action@v4.3
+      uses: creyD/prettier_action@v4.6
       with:
         prettier_options: --write **/*.{js,md,json}
         commit_message: Update en_AU
@@ -38,7 +38,7 @@ jobs:
     continue-on-error: true
     needs: en_AU
     steps:
-    - uses: actions/checkout@v4.1.4
+    - uses: actions/checkout@v5
       with:
         persist-credentials: false
         fetch-depth: 0
@@ -54,7 +54,7 @@ jobs:
         pattern: "\\.json$"
 
     - name: Prettify code & PUSH
-      uses: creyD/prettier_action@v4.3
+      uses: creyD/prettier_action@v4.6
       with:
         prettier_options: --write **/*.{js,md,json}
         commit_message: Update cs_CZ
@@ -66,7 +66,7 @@ jobs:
     continue-on-error: true
     needs: cs_CZ
     steps:
-    - uses: actions/checkout@v4.1.4
+    - uses: actions/checkout@v5
       with:
         persist-credentials: false
         fetch-depth: 0
@@ -82,7 +82,7 @@ jobs:
         pattern: "\\.json$"
         
     - name: Prettify code & PUSH
-      uses: creyD/prettier_action@v4.3
+      uses: creyD/prettier_action@v4.6
       with:
         prettier_options: --write **/*.{js,md,json}
         commit_message: Update de_DE
@@ -94,7 +94,7 @@ jobs:
     continue-on-error: true
     needs: de_DE
     steps:
-    - uses: actions/checkout@v4.1.4
+    - uses: actions/checkout@v5
       with:
         persist-credentials: false
         fetch-depth: 0
@@ -110,7 +110,7 @@ jobs:
         pattern: "\\.json$"
         
     - name: Prettify code & PUSH
-      uses: creyD/prettier_action@v4.3 
+      uses: creyD/prettier_action@v4.6 
       with:
         prettier_options: --write **/*.{js,md,json}
         commit_message: Update da_DK
@@ -122,7 +122,7 @@ jobs:
     continue-on-error: true
     needs: da_DK
     steps:
-    - uses: actions/checkout@v4.1.4
+    - uses: actions/checkout@v5
       with:
         persist-credentials: false
         fetch-depth: 0
@@ -138,7 +138,7 @@ jobs:
         pattern: "\\.json$"
         
     - name: Prettify code & PUSH
-      uses: creyD/prettier_action@v4.3 
+      uses: creyD/prettier_action@v4.6 
       with:
         prettier_options: --write **/*.{js,md,json}
         commit_message: Update es_ES
@@ -150,7 +150,7 @@ jobs:
     continue-on-error: true
     needs: es_ES
     steps:
-    - uses: actions/checkout@v4.1.4
+    - uses: actions/checkout@v5
       with:
         persist-credentials: false
         fetch-depth: 0
@@ -166,7 +166,7 @@ jobs:
         pattern: "\\.json$"
         
     - name: Prettify code & PUSH
-      uses: creyD/prettier_action@v4.3 
+      uses: creyD/prettier_action@v4.6 
       with:
         prettier_options: --write **/*.{js,md,json}
         commit_message: Update fi_FI
@@ -178,7 +178,7 @@ jobs:
     continue-on-error: true
     needs: fi_FI
     steps:
-    - uses: actions/checkout@v4.1.4
+    - uses: actions/checkout@v5
       with:
         persist-credentials: false
         fetch-depth: 0
@@ -194,7 +194,7 @@ jobs:
         pattern: "\\.json$"
         
     - name: Prettify code & PUSH
-      uses: creyD/prettier_action@v4.3 
+      uses: creyD/prettier_action@v4.6 
       with:
         prettier_options: --write **/*.{js,md,json}
         commit_message: Update fr_FR
@@ -206,7 +206,7 @@ jobs:
     continue-on-error: true
     needs: fr_FR
     steps:
-    - uses: actions/checkout@v4.1.4
+    - uses: actions/checkout@v5
       with:
         persist-credentials: false
         fetch-depth: 0
@@ -222,7 +222,7 @@ jobs:
         pattern: "\\.json$"
         
     - name: Prettify code & PUSH
-      uses: creyD/prettier_action@v4.3 
+      uses: creyD/prettier_action@v4.6 
       with:
         prettier_options: --write **/*.{js,md,json}
         commit_message: Update it_IT
@@ -234,7 +234,7 @@ jobs:
     continue-on-error: true
     needs: it_IT
     steps:
-    - uses: actions/checkout@v4.1.4
+    - uses: actions/checkout@v5
       with:
         persist-credentials: false
         fetch-depth: 0
@@ -250,7 +250,7 @@ jobs:
         pattern: "\\.json$"
         
     - name: Prettify code & PUSH
-      uses: creyD/prettier_action@v4.3 
+      uses: creyD/prettier_action@v4.6 
       with:
         prettier_options: --write **/*.{js,md,json}
         commit_message: Update ja_JP
@@ -262,7 +262,7 @@ jobs:
     continue-on-error: true
     needs: ja_JP
     steps:
-    - uses: actions/checkout@v4.1.4
+    - uses: actions/checkout@v5
       with:
         persist-credentials: false
         fetch-depth: 0
@@ -278,7 +278,7 @@ jobs:
         pattern: "\\.json$"
         
     - name: Prettify code & PUSH
-      uses: creyD/prettier_action@v4.3 
+      uses: creyD/prettier_action@v4.6 
       with:
         prettier_options: --write **/*.{js,md,json}
         commit_message: Update ko_KR
@@ -290,7 +290,7 @@ jobs:
     continue-on-error: true
     needs: ko_KR
     steps:
-    - uses: actions/checkout@v4.1.4
+    - uses: actions/checkout@v5
       with:
         persist-credentials: false
         fetch-depth: 0
@@ -306,7 +306,7 @@ jobs:
         pattern: "\\.json$"
         
     - name: Prettify code & PUSH
-      uses: creyD/prettier_action@v4.3 
+      uses: creyD/prettier_action@v4.6 
       with:
         prettier_options: --write **/*.{js,md,json}
         commit_message: Update nl_NL
@@ -318,7 +318,7 @@ jobs:
     continue-on-error: true
     needs: nl_NL
     steps:
-    - uses: actions/checkout@v4.1.4
+    - uses: actions/checkout@v5
       with:
         persist-credentials: false
         fetch-depth: 0
@@ -334,7 +334,7 @@ jobs:
         pattern: "\\.json$"
         
     - name: Prettify code & PUSH
-      uses: creyD/prettier_action@v4.3 
+      uses: creyD/prettier_action@v4.6 
       with:
         prettier_options: --write **/*.{js,md,json}
         commit_message: Update nb_NO
@@ -346,7 +346,7 @@ jobs:
     continue-on-error: true
     needs: nb_NO
     steps:
-    - uses: actions/checkout@v4.1.4
+    - uses: actions/checkout@v5
       with:
         persist-credentials: false
         fetch-depth: 0
@@ -362,7 +362,7 @@ jobs:
         pattern: "\\.json$"
         
     - name: Prettify code & PUSH
-      uses: creyD/prettier_action@v4.3 
+      uses: creyD/prettier_action@v4.6 
       with:
         prettier_options: --write **/*.{js,md,json}
         commit_message: Update pl_PL
@@ -374,7 +374,7 @@ jobs:
     continue-on-error: true
     needs: pl_PL
     steps:
-    - uses: actions/checkout@v4.1.4
+    - uses: actions/checkout@v5
       with:
         persist-credentials: false
         fetch-depth: 0
@@ -390,7 +390,7 @@ jobs:
         pattern: "\\.json$"
         
     - name: Prettify code & PUSH
-      uses: creyD/prettier_action@v4.3 
+      uses: creyD/prettier_action@v4.6 
       with:
         prettier_options: --write **/*.{js,md,json}
         commit_message: Update pt_PT
@@ -402,7 +402,7 @@ jobs:
     continue-on-error: true
     needs: pt_PT
     steps:
-    - uses: actions/checkout@v4.1.4
+    - uses: actions/checkout@v5
       with:
         persist-credentials: false
         fetch-depth: 0
@@ -418,7 +418,7 @@ jobs:
         pattern: "\\.json$"
         
     - name: Prettify code & PUSH
-      uses: creyD/prettier_action@v4.3
+      uses: creyD/prettier_action@v4.6
       with:
         prettier_options: --write **/*.{js,md,json}
         commit_message: Update sv_SE
@@ -430,7 +430,7 @@ jobs:
     continue-on-error: true
     needs: sv_SE
     steps:
-    - uses: actions/checkout@v4.1.4
+    - uses: actions/checkout@v5
       with:
         persist-credentials: false
         fetch-depth: 0
@@ -446,7 +446,7 @@ jobs:
         pattern: "\\.json$"
         
     - name: Prettify code & PUSH
-      uses: creyD/prettier_action@v4.3
+      uses: creyD/prettier_action@v4.6
       with:
         prettier_options: --write **/*.{js,md,json}
         commit_message: Update en_GB
@@ -458,7 +458,7 @@ jobs:
     continue-on-error: true
     needs: en_GB
     steps:
-    - uses: actions/checkout@v4.1.4
+    - uses: actions/checkout@v5
       with:
         persist-credentials: false
         fetch-depth: 0
@@ -474,7 +474,7 @@ jobs:
         pattern: "\\.json$"
         
     - name: Prettify code & PUSH
-      uses: creyD/prettier_action@v4.3 
+      uses: creyD/prettier_action@v4.6 
       with:
         prettier_options: --write **/*.{js,md,json}
         commit_message: Update en_US
