@@ -1115,7 +1115,9 @@
     "cruiseship",
     "flood",
     "cuffs",
-    "stadium"
+    "stadium",
+    "lightningStrike",
+    "bridge"
   ],
   "building_types": [
     {
@@ -4914,6 +4916,34 @@
     {
       "id": 653,
       "caption": "Cortadora de césped en llamas"
+    },
+    {
+      "id": 654,
+      "caption": "Colisión entre dos autobuses"
+    },
+    {
+      "id": 655,
+      "caption": "Avalancha en un festival"
+    },
+    {
+      "id": 656,
+      "caption": "Gran afluencia de enfermos - Estación de tren"
+    },
+    {
+      "id": 657,
+      "caption": "Rayo durante un evento"
+    },
+    {
+      "id": 658,
+      "caption": "Tranvía descarrilado"
+    },
+    {
+      "id": 659,
+      "caption": "Derrumbe de puente (grande)"
+    },
+    {
+      "id": 660,
+      "caption": "Incendio en un edificio de oficinas"
     }
   ]
 }
