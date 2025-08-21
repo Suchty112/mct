@@ -924,6 +924,16 @@
       "key": "need_atv_carrier_chance",
       "caption": "Probability of Police ATV Trailer being required",
       "type": "Integer"
+    },
+    {
+      "key": "need_fwk_chance",
+      "caption": "Probability that Fire Crane is required",
+      "type": "Integer"
+    },
+    {
+      "key": "need_energy_supply",
+      "caption": "Required Energy Generators",
+      "type": "Integer"
     }
   ],
   "pois": [
@@ -1322,7 +1332,9 @@
     "soccer",
     "snowy",
     "boat",
-    "cuffs"
+    "cuffs",
+    "lightningStrike",
+    "bridge"
   ],
   "building_types": [
     {
@@ -6972,6 +6984,26 @@
     {
       "id": 1077,
       "caption": "Vessel Taking on Water"
+    },
+    {
+      "id": 1078,
+      "caption": "Collision between two buses"
+    },
+    {
+      "id": 1079,
+      "caption": "Mass influx of sick people - train station"
+    },
+    {
+      "id": 1080,
+      "caption": "Lightning strike at event"
+    },
+    {
+      "id": 1081,
+      "caption": "Tram derailed"
+    },
+    {
+      "id": 1082,
+      "caption": "Bridge collapse (major)"
     }
   ]
 }
