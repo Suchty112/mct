@@ -2318,6 +2318,11 @@
       "id": 109,
       "caption": "Alliance Challenge August 2025",
       "key": "AWARD_ALLIANCE_CHALLENGE_AUGUST_2025"
+    },
+    {
+      "id": 110,
+      "caption": "Solsikkeentusiast 2025",
+      "key": "AWARD_SUMMER_COLLECTION_2025"
     }
   ],
   "filter_types": [
