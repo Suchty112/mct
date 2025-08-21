@@ -2035,6 +2035,11 @@
       "id": 112,
       "caption": "Alliance Challenge August 2025",
       "key": "AWARD_ALLIANCE_CHALLENGE_AUGUST_2025"
+    },
+    {
+      "id": 113,
+      "caption": "Snowman Enthusiast 2025",
+      "key": "AWARD_WINTER_COLLECTION_2025"
     }
   ],
   "filter_types": [
