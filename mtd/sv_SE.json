@@ -1060,7 +1060,9 @@
     "cruiseship",
     "snowy",
     "cuffs",
-    "flood"
+    "flood",
+    "lightningStrike",
+    "bridge"
   ],
   "building_types": [
     {
@@ -4907,6 +4909,34 @@
     {
       "id": 677,
       "caption": "Brinnande gräsklippare"
+    },
+    {
+      "id": 678,
+      "caption": "Kollision mellan två bussar"
+    },
+    {
+      "id": 679,
+      "caption": "Masskrossning på festival"
+    },
+    {
+      "id": 680,
+      "caption": "Varumärke i kontorsbyggnad"
+    },
+    {
+      "id": 681,
+      "caption": "Massiv tillströmning av sjuka personer – järnvägsstation"
+    },
+    {
+      "id": 682,
+      "caption": "Blixtnedslag vid evenemang"
+    },
+    {
+      "id": 683,
+      "caption": "Spårvagn spårar ur"
+    },
+    {
+      "id": 684,
+      "caption": "Brobrott (stort)"
     }
   ]
 }
