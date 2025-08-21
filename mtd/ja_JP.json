@@ -943,7 +943,10 @@
     "cruiseship",
     "cuffs",
     "gas",
-    "flood"
+    "flood",
+    "bus",
+    "lightningStrike",
+    "bridge"
   ],
   "building_types": [
     {
@@ -4543,6 +4546,26 @@
     {
       "id": 617,
       "caption": "燃える芝刈り機"
+    },
+    {
+      "id": 618,
+      "caption": "2台のバスの衝突事故"
+    },
+    {
+      "id": 619,
+      "caption": "患者急増 - 駅"
+    },
+    {
+      "id": 620,
+      "caption": "イベント中の落雷"
+    },
+    {
+      "id": 621,
+      "caption": "路面電車が脱線した"
+    },
+    {
+      "id": 622,
+      "caption": "橋の崩壊（大規模）"
     }
   ]
 }
