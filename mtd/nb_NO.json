@@ -1198,7 +1198,10 @@
     "glasses",
     "flood",
     "soccer",
-    "tornado"
+    "tornado",
+    "bus",
+    "lightningStrike",
+    "bridge"
   ],
   "building_types": [
     {
@@ -5203,6 +5206,30 @@
     {
       "id": 707,
       "caption": "Brennende gressklipper"
+    },
+    {
+      "id": 708,
+      "caption": "Kollisjon mellom to busser"
+    },
+    {
+      "id": 709,
+      "caption": "Massiv trengsel på festival"
+    },
+    {
+      "id": 710,
+      "caption": "Massepågang av syke personer – jernbanestasjon"
+    },
+    {
+      "id": 711,
+      "caption": "Lynnedslag under arrangementet"
+    },
+    {
+      "id": 712,
+      "caption": "Trikk sporet av"
+    },
+    {
+      "id": 713,
+      "caption": "Brukkollaps (stor)"
     }
   ]
 }
