@@ -2101,6 +2101,11 @@
       "id": 117,
       "caption": "Desafio da Aliança agosto de 2025",
       "key": "AWARD_ALLIANCE_CHALLENGE_AUGUST_2025"
+    },
+    {
+      "id": 118,
+      "caption": "Entusiasta do girassol 2025",
+      "key": "AWARD_SUMMER_COLLECTION_2025"
     }
   ],
   "filter_types": [
