@@ -2702,6 +2702,11 @@
       "id": 137,
       "caption": "Verbands-Herausforderung August 2025",
       "key": "AWARD_ALLIANCE_CHALLENGE_AUGUST_2025"
+    },
+    {
+      "id": 138,
+      "caption": "Sonnenblumen-Enthusiast 2025",
+      "key": "AWARD_SUMMER_COLLECTION_2025"
     }
   ],
   "filter_types": [
