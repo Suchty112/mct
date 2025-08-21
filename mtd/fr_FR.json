@@ -2596,6 +2596,11 @@
       "id": 119,
       "caption": "Défi de l'Alliance Août 2025",
       "key": "AWARD_ALLIANCE_CHALLENGE_AUGUST_2025"
+    },
+    {
+      "id": 120,
+      "caption": "L'amateur de tournesol 2025",
+      "key": "AWARD_SUMMER_COLLECTION_2025"
     }
   ],
   "filter_types": [
@@ -5279,7 +5284,7 @@
     },
     {
       "id": 655,
-      "caption": "Différent dans un centre commercial"
+      "caption": "Altercation dans un centre commercial"
     },
     {
       "id": 656,
