@@ -2493,6 +2493,11 @@
       "id": 139,
       "caption": "Alliantie Uitdaging Augustus 2025",
       "key": "AWARD_ALLIANCE_CHALLENGE_AUGUST_2025"
+    },
+    {
+      "id": 140,
+      "caption": "Zonnebloem enthousiast 2025",
+      "key": "AWARD_SUMMER_COLLECTION_2025"
     }
   ],
   "filter_types": [
