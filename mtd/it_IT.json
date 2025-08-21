@@ -799,6 +799,11 @@
       "key": "need_mountain_rescue_drone",
       "caption": "Drone Richiesto",
       "type": "Integer"
+    },
+    {
+      "key": "need_disaster_response",
+      "caption": "Camion Movimento Terra richiesto",
+      "type": "Integer"
     }
   ],
   "pois": [
@@ -1178,7 +1183,10 @@
     "tornado",
     "stadium",
     "cuffs",
-    "hiking"
+    "hiking",
+    "bus",
+    "lightningStrike",
+    "bridge"
   ],
   "building_types": [
     {
@@ -5611,6 +5619,34 @@
     {
       "id": 788,
       "caption": "Imbarcazione Sta Imbarcando Acqua"
+    },
+    {
+      "id": 789,
+      "caption": "Scontro tra due autobus"
+    },
+    {
+      "id": 790,
+      "caption": "Calca di massa al festival"
+    },
+    {
+      "id": 791,
+      "caption": "Marchio nell'edificio degli uffici"
+    },
+    {
+      "id": 792,
+      "caption": "Afflusso massiccio di malati - Stazione ferroviaria (trasporto regionale)"
+    },
+    {
+      "id": 793,
+      "caption": "Fulmine sul luogo dell'evento"
+    },
+    {
+      "id": 794,
+      "caption": "Tram deragliato"
+    },
+    {
+      "id": 795,
+      "caption": "Crollo ponte (grande)"
     }
   ]
 }
