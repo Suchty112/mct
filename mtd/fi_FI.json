@@ -191,6 +191,21 @@
       "type": "Boolean"
     },
     {
+      "key": "followup_missions",
+      "caption": "Jatkotehtävät",
+      "type": "Unknown"
+    },
+    {
+      "key": "followup_missions_probabilities",
+      "caption": null,
+      "type": "Unknown"
+    },
+    {
+      "key": "followup_missions_ranges",
+      "caption": null,
+      "type": "Unknown"
+    },
+    {
       "key": "foam_needed",
       "caption": "Vaahtoa vaaditaan",
       "type": "Integer"
@@ -209,21 +224,6 @@
       "key": "possible_prisoner",
       "caption": "Vankien enimmäismäärä",
       "type": "Integer"
-    },
-    {
-      "key": "followup_missions",
-      "caption": "Jatkotehtävät",
-      "type": "Unknown"
-    },
-    {
-      "key": "followup_missions_probabilities",
-      "caption": null,
-      "type": "Unknown"
-    },
-    {
-      "key": "followup_missions_ranges",
-      "caption": null,
-      "type": "Unknown"
     },
     {
       "key": "alliance_mission_caption",
@@ -1002,6 +1002,7 @@
     "tramway",
     "bar_cocktail",
     "gas",
+    "stabbing",
     "ghost",
     "xmas",
     "icy_road",
@@ -4659,7 +4660,7 @@
     },
     {
       "id": 645,
-      "caption": "032 Kassalla tappelu taukohuoneessa"
+      "caption": "033 Kassahenkilökunnan tappelu taukohuoneessa"
     },
     {
       "id": 646,
@@ -4743,23 +4744,23 @@
     },
     {
       "id": 666,
-      "caption": "511 Auto veden alla"
+      "caption": "203 Auto veden alla"
     },
     {
       "id": 667,
-      "caption": "411 Pieni vene fira"
+      "caption": "411 Pieni venepalo"
     },
     {
       "id": 668,
-      "caption": "413 Hukkuminen"
+      "caption": "483 Ihmisen pelastaminen vedestä"
     },
     {
       "id": 669,
-      "caption": "511 Uppoava vene"
+      "caption": "222 Vesiliikenneonnettomuus: keskisuuri"
     },
     {
       "id": 670,
-      "caption": "511 Bussi joessa"
+      "caption": "204 Bussi suistunut jokeen"
     },
     {
       "id": 671,
@@ -4835,7 +4836,7 @@
     },
     {
       "id": 689,
-      "caption": "Jääpelastus rajajoella"
+      "caption": "Kiinniotto jäätyneeltä rajajoelta"
     },
     {
       "id": 690,
@@ -4859,7 +4860,7 @@
     },
     {
       "id": 695,
-      "caption": "pako veneellä"
+      "caption": "Lentokentällä passiepäselvyyksiä"
     },
     {
       "id": 696,
