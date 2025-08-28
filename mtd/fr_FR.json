@@ -6145,6 +6145,26 @@
     {
       "id": 870,
       "caption": "Accident de travail avec une machine"
+    },
+    {
+      "id": 871,
+      "caption": "Feu de station-service"
+    },
+    {
+      "id": 872,
+      "caption": "Avalanche majeure"
+    },
+    {
+      "id": 873,
+      "caption": "Canular téléphonique"
+    },
+    {
+      "id": 874,
+      "caption": "Chute de passagers d’un bateau"
+    },
+    {
+      "id": 875,
+      "caption": "Lahar dévastateur en zone montagneuse"
     }
   ]
 }
