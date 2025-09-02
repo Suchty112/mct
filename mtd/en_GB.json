@@ -1237,7 +1237,9 @@
     "glasses",
     "flood",
     "stadium",
-    "river"
+    "river",
+    "lightningStrike",
+    "bridge"
   ],
   "building_types": [
     {
@@ -5853,6 +5855,26 @@
     {
       "id": 790,
       "caption": "Unlawful residence report"
+    },
+    {
+      "id": 791,
+      "caption": "Collision between two buses"
+    },
+    {
+      "id": 792,
+      "caption": "Mass influx of sick people - railway station"
+    },
+    {
+      "id": 793,
+      "caption": "Lightning strike at event"
+    },
+    {
+      "id": 794,
+      "caption": "Tram derailed"
+    },
+    {
+      "id": 795,
+      "caption": "Bridge collapse (major)"
     }
   ]
 }
