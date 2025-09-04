@@ -1355,7 +1355,7 @@
         },
         {
           "id": 1,
-          "caption": "Large Amulance Station"
+          "caption": "Large Ambulance Station"
         },
         {
           "id": 2,
@@ -2635,6 +2635,11 @@
       "id": 112,
       "caption": "Sunflower Enthusiast 2025",
       "key": "AWARD_SUMMER_COLLECTION_2025"
+    },
+    {
+      "id": 113,
+      "caption": "Alliance Challenge September 2025",
+      "key": "AWARD_ALLIANCE_CHALLENGE_SEPTEMBER_2025"
     }
   ],
   "filter_types": [
