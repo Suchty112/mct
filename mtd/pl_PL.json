@@ -2119,6 +2119,11 @@
       "id": 119,
       "caption": "Entuzjasta słonecznika 2025",
       "key": "AWARD_SUMMER_COLLECTION_2025"
+    },
+    {
+      "id": 120,
+      "caption": "Wyzwanie sojuszu we wrześniu 2025 r.",
+      "key": "AWARD_ALLIANCE_CHALLENGE_SEPTEMBER_2025"
     }
   ],
   "filter_types": [
