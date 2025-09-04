@@ -2017,6 +2017,11 @@
       "id": 115,
       "caption": "Auringonkukan harrastaja 2025",
       "key": "AWARD_SUMMER_COLLECTION_2025"
+    },
+    {
+      "id": 116,
+      "caption": "Allianssin haaste Syyskuu 2025",
+      "key": "AWARD_ALLIANCE_CHALLENGE_SEPTEMBER_2025"
     }
   ],
   "filter_types": [
