@@ -2498,6 +2498,11 @@
       "id": 140,
       "caption": "Zonnebloem enthousiast 2025",
       "key": "AWARD_SUMMER_COLLECTION_2025"
+    },
+    {
+      "id": 141,
+      "caption": "Alliantie Uitdaging september 2025",
+      "key": "AWARD_ALLIANCE_CHALLENGE_SEPTEMBER_2025"
     }
   ],
   "filter_types": [
