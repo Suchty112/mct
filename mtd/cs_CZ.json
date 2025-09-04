@@ -2279,6 +2279,11 @@
       "id": 123,
       "caption": "Nadšenec do slunečnic 2025",
       "key": "AWARD_SUMMER_COLLECTION_2025"
+    },
+    {
+      "id": 124,
+      "caption": "Alianční výzva září 2025",
+      "key": "AWARD_ALLIANCE_CHALLENGE_SEPTEMBER_2025"
     }
   ],
   "filter_types": [
