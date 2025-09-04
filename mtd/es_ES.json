@@ -2249,6 +2249,11 @@
       "id": 114,
       "caption": "Aficionado al girasol 2025",
       "key": "AWARD_SUMMER_COLLECTION_2025"
+    },
+    {
+      "id": 115,
+      "caption": "Reto de la Alianza Septiembre 2025",
+      "key": "AWARD_ALLIANCE_CHALLENGE_SEPTEMBER_2025"
     }
   ],
   "filter_types": [
