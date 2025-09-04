@@ -551,6 +551,11 @@
       "type": "Boolean"
     },
     {
+      "key": "minutes_value",
+      "caption": null,
+      "type": "Integer"
+    },
+    {
       "key": "ocean_value",
       "caption": null,
       "type": "Integer"
@@ -803,11 +808,6 @@
     {
       "key": "need_swat",
       "caption": "Fortress 200 requis",
-      "type": "Integer"
-    },
-    {
-      "key": "minutes_value",
-      "caption": null,
       "type": "Integer"
     },
     {
@@ -2601,6 +2601,11 @@
       "id": 120,
       "caption": "L'amateur de tournesol 2025",
       "key": "AWARD_SUMMER_COLLECTION_2025"
+    },
+    {
+      "id": 121,
+      "caption": "Défi de l'Alliance Septembre 2025",
+      "key": "AWARD_ALLIANCE_CHALLENGE_SEPTEMBER_2025"
     }
   ],
   "filter_types": [
