@@ -2023,6 +2023,11 @@
       "id": 112,
       "caption": "ひまわり愛好家 2025",
       "key": "AWARD_SUMMER_COLLECTION_2025"
+    },
+    {
+      "id": 113,
+      "caption": "アライアンス・チャレンジ 2025年9月",
+      "key": "AWARD_ALLIANCE_CHALLENGE_SEPTEMBER_2025"
     }
   ],
   "filter_types": [
