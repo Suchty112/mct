@@ -2117,6 +2117,11 @@
       "id": 124,
       "caption": "Solsikke-entusiast 2025",
       "key": "AWARD_SUMMER_COLLECTION_2025"
+    },
+    {
+      "id": 125,
+      "caption": "Alliancens udfordring september 2025",
+      "key": "AWARD_ALLIANCE_CHALLENGE_SEPTEMBER_2025"
     }
   ],
   "filter_types": [
