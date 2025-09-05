@@ -6531,11 +6531,15 @@
     },
     {
       "id": 939,
-      "caption": "Brand eines Traktes in der JVA"
+      "caption": "Brand in JVA-Trakt"
     },
     {
       "id": 940,
       "caption": "Brand in Solarpark"
+    },
+    {
+      "id": 941,
+      "caption": "Illegales Lagerfeuer in Park"
     }
   ]
 }
