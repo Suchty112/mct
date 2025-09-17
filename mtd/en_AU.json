@@ -2045,6 +2045,11 @@
       "id": 114,
       "caption": "Alliance Challenge September 2025",
       "key": "AWARD_ALLIANCE_CHALLENGE_SEPTEMBER_2025"
+    },
+    {
+      "id": 115,
+      "caption": "Spring Missions 2025",
+      "key": "AWARD_SPRING_MISSIONS_2025"
     }
   ],
   "filter_types": [
