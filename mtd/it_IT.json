@@ -2413,6 +2413,11 @@
       "id": 122,
       "caption": "Sfida dell'Alleanza settembre 2025",
       "key": "AWARD_ALLIANCE_CHALLENGE_SEPTEMBER_2025"
+    },
+    {
+      "id": 123,
+      "caption": "Missioni d'autunno 2025",
+      "key": "AWARD_AUTUMN_MISSIONS_2025"
     }
   ],
   "filter_types": [
