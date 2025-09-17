@@ -2022,6 +2022,11 @@
       "id": 116,
       "caption": "Allianssin haaste Syyskuu 2025",
       "key": "AWARD_ALLIANCE_CHALLENGE_SEPTEMBER_2025"
+    },
+    {
+      "id": 117,
+      "caption": "Syksyn virkamatkat 2025",
+      "key": "AWARD_AUTUMN_MISSIONS_2025"
     }
   ],
   "filter_types": [
