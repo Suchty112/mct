@@ -2712,6 +2712,11 @@
       "id": 139,
       "caption": "Verbands-Herausforderung September 2025",
       "key": "AWARD_ALLIANCE_CHALLENGE_SEPTEMBER_2025"
+    },
+    {
+      "id": 140,
+      "caption": "Herbstevent Einsätze 2025",
+      "key": "AWARD_AUTUMN_MISSIONS_2025"
     }
   ],
   "filter_types": [
