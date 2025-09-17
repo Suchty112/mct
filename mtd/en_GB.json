@@ -2640,6 +2640,11 @@
       "id": 113,
       "caption": "Alliance Challenge September 2025",
       "key": "AWARD_ALLIANCE_CHALLENGE_SEPTEMBER_2025"
+    },
+    {
+      "id": 114,
+      "caption": "Autumn Missions 2025",
+      "key": "AWARD_AUTUMN_MISSIONS_2025"
     }
   ],
   "filter_types": [
