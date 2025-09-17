@@ -2606,6 +2606,11 @@
       "id": 121,
       "caption": "Défi de l'Alliance Septembre 2025",
       "key": "AWARD_ALLIANCE_CHALLENGE_SEPTEMBER_2025"
+    },
+    {
+      "id": 122,
+      "caption": "Missions d'automne 2025",
+      "key": "AWARD_AUTUMN_MISSIONS_2025"
     }
   ],
   "filter_types": [
