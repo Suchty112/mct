@@ -2122,6 +2122,11 @@
       "id": 125,
       "caption": "Alliancens udfordring september 2025",
       "key": "AWARD_ALLIANCE_CHALLENGE_SEPTEMBER_2025"
+    },
+    {
+      "id": 126,
+      "caption": "Efterårsmissioner 2025",
+      "key": "AWARD_AUTUMN_MISSIONS_2025"
     }
   ],
   "filter_types": [
