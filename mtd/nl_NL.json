@@ -786,14 +786,19 @@
       "type": "Boolean"
     },
     {
-      "key": "allow_traffic_car_instead_of_fustw",
-      "caption": "Signalisatievoertuigen kunnen worden ingezet als noodhulpvoertuigen",
-      "type": "Boolean"
+      "key": "need_car_carrier",
+      "caption": "Benodigde Berger-K",
+      "type": "Integer"
     },
     {
       "key": "minutes_value",
       "caption": null,
       "type": "Integer"
+    },
+    {
+      "key": "allow_traffic_car_instead_of_fustw",
+      "caption": "Signalisatievoertuigen kunnen worden ingezet als noodhulpvoertuigen",
+      "type": "Boolean"
     },
     {
       "key": "patient_allow_first_responder_full",
@@ -7260,6 +7265,10 @@
     {
       "id": 1172,
       "caption": "Illegale plantage (klein)"
+    },
+    {
+      "id": 1173,
+      "caption": "Vreemde lucht portiek"
     }
   ]
 }
