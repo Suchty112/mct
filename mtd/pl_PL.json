@@ -1006,7 +1006,8 @@
     "snowy",
     "cuffs",
     "cruiseship",
-    "hiking"
+    "hiking",
+    "bridge"
   ],
   "building_types": [
     {
@@ -1123,6 +1124,10 @@
         {
           "id": 0,
           "caption": "Duża stacja pogotowia ratunkowego"
+        },
+        {
+          "id": 1,
+          "caption": "Szefa służb ratownictwa medycznego"
         }
       ]
     },
@@ -5593,6 +5598,30 @@
     {
       "id": 851,
       "caption": "Płonąca kosiarka"
+    },
+    {
+      "id": 852,
+      "caption": "Zderzenie dwóch autobusów"
+    },
+    {
+      "id": 853,
+      "caption": "Tłumowa panika podczas festiwalu"
+    },
+    {
+      "id": 854,
+      "caption": "Masowy napływ chorych – dworzec kolejowy"
+    },
+    {
+      "id": 855,
+      "caption": "Uderzenie pioruna podczas imprezy"
+    },
+    {
+      "id": 856,
+      "caption": "Tramwaj wykoleił się"
+    },
+    {
+      "id": 857,
+      "caption": "Zawalenie mostu (duże)"
     }
   ]
 }
