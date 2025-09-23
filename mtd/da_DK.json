@@ -674,6 +674,11 @@
       "key": "possible_crashed_car",
       "caption": "Maksimalt antal biler, der kan trækkes",
       "type": "Integer"
+    },
+    {
+      "key": "followup_missions_ranges",
+      "caption": null,
+      "type": "Unknown"
     }
   ],
   "pois": [
@@ -1029,7 +1034,10 @@
     "snowy",
     "cuffs",
     "flood",
-    "tornado"
+    "tornado",
+    "bus",
+    "lightningStrike",
+    "bridge"
   ],
   "building_types": [
     {
@@ -5003,6 +5011,30 @@
     {
       "id": 704,
       "caption": "Brændende plæneklipper"
+    },
+    {
+      "id": 705,
+      "caption": "Kollision mellem to busser"
+    },
+    {
+      "id": 706,
+      "caption": "Massetilskadekomst på festival"
+    },
+    {
+      "id": 707,
+      "caption": "Masseforekomst af syge - togstation"
+    },
+    {
+      "id": 708,
+      "caption": "Lynnedslag ved arrangement"
+    },
+    {
+      "id": 709,
+      "caption": "Letbanetog afsporet"
+    },
+    {
+      "id": 710,
+      "caption": "Bro-kollaps (stor)"
     }
   ]
 }
