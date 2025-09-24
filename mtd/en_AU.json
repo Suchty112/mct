@@ -2050,6 +2050,11 @@
       "id": 115,
       "caption": "Spring Missions 2025",
       "key": "AWARD_SPRING_MISSIONS_2025"
+    },
+    {
+      "id": 116,
+      "caption": "6th Anniversary",
+      "key": "AWARD_SIX_YEARS"
     }
   ],
   "filter_types": [
