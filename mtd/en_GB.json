@@ -2645,6 +2645,11 @@
       "id": 114,
       "caption": "Autumn Missions 2025",
       "key": "AWARD_AUTUMN_MISSIONS_2025"
+    },
+    {
+      "id": 115,
+      "caption": "6th Anniversary",
+      "key": "AWARD_SIX_YEARS"
     }
   ],
   "filter_types": [
