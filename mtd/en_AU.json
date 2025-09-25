@@ -679,6 +679,11 @@
       "key": "need_police_boat",
       "caption": "Required Patrol Cutter",
       "type": "Integer"
+    },
+    {
+      "key": "need_streifenwagen_chance",
+      "caption": "Probability of Requiring Police",
+      "type": "Integer"
     }
   ],
   "pois": [
@@ -1005,6 +1010,10 @@
     {
       "id": 80,
       "caption": "Construction site"
+    },
+    {
+      "id": 81,
+      "caption": "Zoo"
     }
   ],
   "available_icons": [
@@ -5275,6 +5284,10 @@
     {
       "id": 790,
       "caption": "Chain Collision in the tunnel"
+    },
+    {
+      "id": 791,
+      "caption": "Person in large enclosure"
     }
   ]
 }
