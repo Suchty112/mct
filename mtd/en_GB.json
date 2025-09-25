@@ -799,6 +799,11 @@
       "key": "possible_crashed_car_large",
       "caption": "Maximum amount of trucks to tow",
       "type": "Integer"
+    },
+    {
+      "key": "need_streifenwagen_chance",
+      "caption": "Probability of Requiring Police",
+      "type": "Integer"
     }
   ],
   "pois": [
@@ -1193,6 +1198,10 @@
     {
       "id": 97,
       "caption": "Construction site"
+    },
+    {
+      "id": 98,
+      "caption": "Zoo"
     }
   ],
   "available_icons": [
@@ -5894,6 +5903,10 @@
     {
       "id": 796,
       "caption": "Chain Collision in the tunnel"
+    },
+    {
+      "id": 797,
+      "caption": "Person in large enclosure"
     }
   ]
 }
