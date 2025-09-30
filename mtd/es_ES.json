@@ -996,7 +996,7 @@
     },
     {
       "id": 58,
-      "caption": "Montaña"
+      "caption": "Colina"
     },
     {
       "id": 59,
@@ -2313,6 +2313,10 @@
     {
       "key": "tow_trucks_missions",
       "caption": "Servicio de remolque"
+    },
+    {
+      "key": "mountain_missions",
+      "caption": "Rescate de montaña"
     }
   ],
   "existing_mission_captions": [
