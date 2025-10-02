@@ -679,6 +679,11 @@
       "key": "followup_missions_ranges",
       "caption": null,
       "type": "Unknown"
+    },
+    {
+      "key": "need_streifenwagen_chance",
+      "caption": "Sandsynlighed for nødvendighed af politibil",
+      "type": "Integer"
     }
   ],
   "pois": [
@@ -5035,6 +5040,14 @@
     {
       "id": 710,
       "caption": "Bro-kollaps (stor)"
+    },
+    {
+      "id": 711,
+      "caption": "person i stort indhegnet område"
+    },
+    {
+      "id": 712,
+      "caption": "Kædeulykke i tunnel"
     }
   ]
 }
