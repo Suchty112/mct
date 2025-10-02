@@ -684,6 +684,11 @@
       "key": "need_mountain_cave_command",
       "caption": "Wymagane polecenie jaskini",
       "type": "Integer"
+    },
+    {
+      "key": "need_streifenwagen_chance",
+      "caption": "Szanse, że potrzebna będzie policja",
+      "type": "Integer"
     }
   ],
   "pois": [
@@ -5622,6 +5627,10 @@
     {
       "id": 857,
       "caption": "Zawalenie mostu (duże)"
+    },
+    {
+      "id": 858,
+      "caption": "osoba w dużej klatce"
     }
   ]
 }
