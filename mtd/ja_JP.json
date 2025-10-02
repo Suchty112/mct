@@ -594,6 +594,11 @@
       "key": "possible_crashed_car",
       "caption": "最大牽引台数",
       "type": "Integer"
+    },
+    {
+      "key": "need_streifenwagen_chance",
+      "caption": "警察が必要な確率",
+      "type": "Integer"
     }
   ],
   "pois": [
@@ -4581,6 +4586,14 @@
     {
       "id": 622,
       "caption": "橋の崩壊（大規模）"
+    },
+    {
+      "id": 623,
+      "caption": "広い囲いの中の人"
+    },
+    {
+      "id": 624,
+      "caption": "トンネル内での連鎖衝突"
     }
   ]
 }
