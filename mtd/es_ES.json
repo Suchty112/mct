@@ -759,6 +759,11 @@
       "key": "possible_crashed_car",
       "caption": "Número máximo de coches a remolcar",
       "type": "Integer"
+    },
+    {
+      "key": "need_streifenwagen_chance",
+      "caption": "Probabilidad de que se necesite policía",
+      "type": "Integer"
     }
   ],
   "pois": [
@@ -4963,6 +4968,14 @@
     {
       "id": 660,
       "caption": "Incendio en un edificio de oficinas"
+    },
+    {
+      "id": 661,
+      "caption": "Persona en recinto grande"
+    },
+    {
+      "id": 662,
+      "caption": "Colisión en cadena en un túnel"
     }
   ]
 }
