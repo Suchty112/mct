@@ -699,6 +699,11 @@
       "key": "possible_crashed_car",
       "caption": "Maximalt antal bilar att bogsera",
       "type": "Integer"
+    },
+    {
+      "key": "need_streifenwagen_chance",
+      "caption": "Sannolikhet att polis krävs",
+      "type": "Integer"
     }
   ],
   "pois": [
@@ -4952,6 +4957,14 @@
     {
       "id": 684,
       "caption": "Brobrott (stort)"
+    },
+    {
+      "id": 685,
+      "caption": "Person i stort inhägnat område"
+    },
+    {
+      "id": 686,
+      "caption": "Kedjekrock i tunnel"
     }
   ]
 }
