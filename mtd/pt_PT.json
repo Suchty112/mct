@@ -669,6 +669,11 @@
       "key": "need_fwk_chance",
       "caption": "Probalidade de requerer Veículo de Socorro e Assistência Especial:",
       "type": "Integer"
+    },
+    {
+      "key": "need_streifenwagen_chance",
+      "caption": "Probabilidade de requerer um Carro Patrulha",
+      "type": "Integer"
     }
   ],
   "pois": [
@@ -4872,6 +4877,14 @@
     {
       "id": 674,
       "caption": "Incêndio em prédio comercial"
+    },
+    {
+      "id": 675,
+      "caption": "pessoa em recinto grande"
+    },
+    {
+      "id": 676,
+      "caption": "Colisão em cadeia no túnel"
     }
   ]
 }
