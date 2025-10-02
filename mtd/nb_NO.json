@@ -819,6 +819,11 @@
       "key": "need_road_block",
       "caption": "Nødvendige TMA lastebil",
       "type": "Integer"
+    },
+    {
+      "key": "need_streifenwagen_chance",
+      "caption": "Sannsynlighet for at politi er nødvendig",
+      "type": "Integer"
     }
   ],
   "pois": [
@@ -5245,6 +5250,14 @@
     {
       "id": 713,
       "caption": "Brukkollaps (stor)"
+    },
+    {
+      "id": 714,
+      "caption": "Person i stort inngjerdet område"
+    },
+    {
+      "id": 715,
+      "caption": "Kjedekollisjon i tunnel"
     }
   ]
 }
