@@ -1205,7 +1205,9 @@
     "tornado",
     "stadium",
     "lightningStrike",
-    "hiking"
+    "hiking",
+    "bus",
+    "bridge"
   ],
   "building_types": [
     {
@@ -5198,6 +5200,30 @@
     {
       "id": 709,
       "caption": "Osoba zaklíněná mezi nástupištěm a vlakem"
+    },
+    {
+      "id": 710,
+      "caption": "Srážka dvou autobusů"
+    },
+    {
+      "id": 711,
+      "caption": "Masové tlačenice na festivalu"
+    },
+    {
+      "id": 712,
+      "caption": "Masový výskyt nemocných – nádraží"
+    },
+    {
+      "id": 713,
+      "caption": "Úder blesku během akce"
+    },
+    {
+      "id": 714,
+      "caption": "Tramvaj vykolejila"
+    },
+    {
+      "id": 715,
+      "caption": "Zřícení mostu (velké)"
     }
   ]
 }
