@@ -1053,7 +1053,9 @@
     "cruiseship",
     "cuffs",
     "glasses",
-    "flood"
+    "flood",
+    "lightningStrike",
+    "bridge"
   ],
   "building_types": [
     {
@@ -5292,6 +5294,30 @@
     {
       "id": 792,
       "caption": "Person trapped between platform and train"
+    },
+    {
+      "id": 793,
+      "caption": "Collision between two buses"
+    },
+    {
+      "id": 794,
+      "caption": "Mass crush at festival"
+    },
+    {
+      "id": 795,
+      "caption": "Mass influx of sick people - train station"
+    },
+    {
+      "id": 796,
+      "caption": "Lightning strike at event"
+    },
+    {
+      "id": 797,
+      "caption": "Tram derailed"
+    },
+    {
+      "id": 798,
+      "caption": "Bridge collapse (major)"
     }
   ]
 }
