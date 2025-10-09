@@ -2338,6 +2338,11 @@
       "id": 112,
       "caption": "Høstens oppdrag 2025",
       "key": "AWARD_AUTUMN_MISSIONS_2025"
+    },
+    {
+      "id": 113,
+      "caption": "Allianseutfordring oktober 2025",
+      "key": "AWARD_ALLIANCE_CHALLENGE_OCTOBER_2025"
     }
   ],
   "filter_types": [
