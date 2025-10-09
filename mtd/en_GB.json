@@ -2659,6 +2659,11 @@
       "id": 115,
       "caption": "6th Anniversary",
       "key": "AWARD_SIX_YEARS"
+    },
+    {
+      "id": 116,
+      "caption": "Alliance Challenge October 2025",
+      "key": "AWARD_ALLIANCE_CHALLENGE_OCTOBER_2025"
     }
   ],
   "filter_types": [
