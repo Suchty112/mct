@@ -2300,6 +2300,11 @@
       "id": 125,
       "caption": "Podzimní mise 2025",
       "key": "AWARD_AUTUMN_MISSIONS_2025"
+    },
+    {
+      "id": 126,
+      "caption": "Alianční výzva říjen 2025",
+      "key": "AWARD_ALLIANCE_CHALLENGE_OCTOBER_2025"
     }
   ],
   "filter_types": [
