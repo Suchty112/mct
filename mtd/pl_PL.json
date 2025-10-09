@@ -2139,6 +2139,11 @@
       "id": 121,
       "caption": "Jesienne misje 2025",
       "key": "AWARD_AUTUMN_MISSIONS_2025"
+    },
+    {
+      "id": 122,
+      "caption": "Wyzwanie sojuszu październik 2025 r.",
+      "key": "AWARD_ALLIANCE_CHALLENGE_OCTOBER_2025"
     }
   ],
   "filter_types": [
