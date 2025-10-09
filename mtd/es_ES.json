@@ -2264,6 +2264,16 @@
       "id": 116,
       "caption": "Misiones de otoño 2025",
       "key": "AWARD_AUTUMN_MISSIONS_2025"
+    },
+    {
+      "id": 117,
+      "caption": "Reto de la Alianza Octubre 2025",
+      "key": "AWARD_ALLIANCE_CHALLENGE_OCTOBER_2025"
+    },
+    {
+      "id": 118,
+      "caption": "6º aniversario",
+      "key": "AWARD_SIX_YEARS"
     }
   ],
   "filter_types": [
