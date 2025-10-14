@@ -2180,6 +2180,10 @@
     {
       "key": "tow_trucks_missions",
       "caption": "Camiões de reboque"
+    },
+    {
+      "key": "mountain_missions",
+      "caption": "Missões de Montanha"
     }
   ],
   "existing_mission_captions": [
