@@ -2343,6 +2343,11 @@
       "id": 113,
       "caption": "Allianseutfordring oktober 2025",
       "key": "AWARD_ALLIANCE_CHALLENGE_OCTOBER_2025"
+    },
+    {
+      "id": 114,
+      "caption": "Halloween 2025",
+      "key": "AWARD_HALLOWEEN_2025"
     }
   ],
   "filter_types": [
@@ -5263,6 +5268,18 @@
     {
       "id": 715,
       "caption": "Kjedekollisjon i tunnel"
+    },
+    {
+      "id": 716,
+      "caption": "Nødsituasjon på det hjemsøkte høyvogntoget"
+    },
+    {
+      "id": 717,
+      "caption": "Flere oppblåsbare spøkelser i brann"
+    },
+    {
+      "id": 718,
+      "caption": "Monster slapp løs"
     }
   ]
 }
