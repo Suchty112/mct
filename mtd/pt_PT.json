@@ -674,6 +674,11 @@
       "key": "need_streifenwagen_chance",
       "caption": "Probabilidade de requerer um Carro Patrulha",
       "type": "Integer"
+    },
+    {
+      "key": "alliance_event_credits",
+      "caption": "Créditos de eventos da aliança",
+      "type": "Integer"
     }
   ],
   "pois": [
@@ -2126,6 +2131,11 @@
       "id": 121,
       "caption": "Desafio da Aliança outubro de 2025",
       "key": "AWARD_ALLIANCE_CHALLENGE_OCTOBER_2025"
+    },
+    {
+      "id": 122,
+      "caption": "Halloween 2025",
+      "key": "AWARD_HALLOWEEN_2025"
     }
   ],
   "filter_types": [
@@ -4894,6 +4904,18 @@
     {
       "id": 676,
       "caption": "Colisão em cadeia no túnel"
+    },
+    {
+      "id": 677,
+      "caption": "Emergência no passeio de feno assombrado"
+    },
+    {
+      "id": 678,
+      "caption": "Vários fantasmas infláveis em chamas"
+    },
+    {
+      "id": 679,
+      "caption": "Monstro solto"
     }
   ]
 }
