@@ -2144,6 +2144,11 @@
       "id": 122,
       "caption": "Wyzwanie sojuszu październik 2025 r.",
       "key": "AWARD_ALLIANCE_CHALLENGE_OCTOBER_2025"
+    },
+    {
+      "id": 123,
+      "caption": "Halloween 2025",
+      "key": "AWARD_HALLOWEEN_2025"
     }
   ],
   "filter_types": [
@@ -5636,6 +5641,18 @@
     {
       "id": 858,
       "caption": "osoba w dużej klatce"
+    },
+    {
+      "id": 859,
+      "caption": "Awaria na strasznej przejażdżce sianem"
+    },
+    {
+      "id": 860,
+      "caption": "Wielu dmuchanych duchów w ogniu"
+    },
+    {
+      "id": 861,
+      "caption": "Potwór uciekł"
     }
   ]
 }
