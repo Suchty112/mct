@@ -2423,6 +2423,11 @@
       "id": 124,
       "caption": "Sfida dell'Alleanza ottobre 2025",
       "key": "AWARD_ALLIANCE_CHALLENGE_OCTOBER_2025"
+    },
+    {
+      "id": 125,
+      "caption": "Halloween 2025",
+      "key": "AWARD_HALLOWEEN_2025"
     }
   ],
   "filter_types": [
@@ -5687,6 +5692,18 @@
     {
       "id": 800,
       "caption": "Persona incastrata tra il treno e la banchina"
+    },
+    {
+      "id": 801,
+      "caption": "Emergenza nella carrozza infestata"
+    },
+    {
+      "id": 802,
+      "caption": "Molti fantasmi gonfiabili in fiamme"
+    },
+    {
+      "id": 803,
+      "caption": "Mostro scatenato"
     }
   ]
 }
