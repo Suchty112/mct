@@ -103,7 +103,7 @@
     {
       "key": "patient_extension_id",
       "caption": "Spécialisation de patients",
-      "type": "Integer"
+      "type": "Unknown"
     },
     {
       "key": "transport_need_quote",
@@ -2616,6 +2616,11 @@
       "id": 123,
       "caption": "Défi de l'Alliance Octobre 2025",
       "key": "AWARD_ALLIANCE_CHALLENGE_OCTOBER_2025"
+    },
+    {
+      "id": 124,
+      "caption": "Halloween 2025",
+      "key": "AWARD_HALLOWEEN_2025"
     }
   ],
   "filter_types": [
@@ -6188,6 +6193,18 @@
     {
       "id": 877,
       "caption": "Enquête suite à un sabotage de train"
+    },
+    {
+      "id": 878,
+      "caption": "Combriolage dans un magasin de bonbon"
+    },
+    {
+      "id": 879,
+      "caption": "Cries entendu dans une maison abandonnée (en ruine)"
+    },
+    {
+      "id": 880,
+      "caption": "La Malédiction du Manoir Cromwell"
     }
   ]
 }
