@@ -2305,6 +2305,11 @@
       "id": 126,
       "caption": "Alianční výzva říjen 2025",
       "key": "AWARD_ALLIANCE_CHALLENGE_OCTOBER_2025"
+    },
+    {
+      "id": 127,
+      "caption": "Halloween 2025",
+      "key": "AWARD_HALLOWEEN_2025"
     }
   ],
   "filter_types": [
@@ -5229,6 +5234,18 @@
     {
       "id": 715,
       "caption": "Zřícení mostu (velké)"
+    },
+    {
+      "id": 716,
+      "caption": "Nouzová situace na strašidelné projížďce senem"
+    },
+    {
+      "id": 717,
+      "caption": "Hořící nafukovací duchové"
+    },
+    {
+      "id": 718,
+      "caption": "Příšera se utrhla ze řetězu"
     }
   ]
 }
