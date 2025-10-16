@@ -2274,6 +2274,11 @@
       "id": 118,
       "caption": "6º aniversario",
       "key": "AWARD_SIX_YEARS"
+    },
+    {
+      "id": 119,
+      "caption": "Halloween 2025",
+      "key": "AWARD_HALLOWEEN_2025"
     }
   ],
   "filter_types": [
@@ -4986,6 +4991,18 @@
     {
       "id": 662,
       "caption": "Colisión en cadena en un túnel"
+    },
+    {
+      "id": 663,
+      "caption": "Emergencia en el paseo encantado en carreta de heno"
+    },
+    {
+      "id": 664,
+      "caption": "Múltiples fantasmas inflables en llamas"
+    },
+    {
+      "id": 665,
+      "caption": "Monstruo suelto"
     }
   ]
 }
