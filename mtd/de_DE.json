@@ -2726,6 +2726,11 @@
       "id": 141,
       "caption": "Verbands-Herausforderung Oktober 2025",
       "key": "AWARD_ALLIANCE_CHALLENGE_OCTOBER_2025"
+    },
+    {
+      "id": 142,
+      "caption": "Halloween 2025",
+      "key": "AWARD_HALLOWEEN_2025"
     }
   ],
   "filter_types": [
@@ -6558,6 +6563,22 @@
     {
       "id": 942,
       "caption": "Tragwerkssicherung"
+    },
+    {
+      "id": 943,
+      "caption": "Brennendes Spukschloss"
+    },
+    {
+      "id": 944,
+      "caption": "Chemieunfall beim Zaubertrank-Brauen"
+    },
+    {
+      "id": 945,
+      "caption": "Kopf steckt in ausgehöhltem Kürbis fest"
+    },
+    {
+      "id": 946,
+      "caption": "Hilflose Geisterjäger in Spukhaus"
     }
   ]
 }
