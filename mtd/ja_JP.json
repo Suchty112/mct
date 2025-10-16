@@ -2043,6 +2043,11 @@
       "id": 115,
       "caption": "アライアンス・チャレンジ 2025年10月",
       "key": "AWARD_ALLIANCE_CHALLENGE_OCTOBER_2025"
+    },
+    {
+      "id": 116,
+      "caption": "2025年のハロウィーン",
+      "key": "AWARD_HALLOWEEN_2025"
     }
   ],
   "filter_types": [
@@ -4599,6 +4604,18 @@
     {
       "id": 624,
       "caption": "トンネル内での連鎖衝突"
+    },
+    {
+      "id": 625,
+      "caption": "幽霊屋敷の干し草トラック緊急事態"
+    },
+    {
+      "id": 626,
+      "caption": "複数の膨らませた幽霊が火事"
+    },
+    {
+      "id": 627,
+      "caption": "モンスターが逃げ出した"
     }
   ]
 }
