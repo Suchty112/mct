@@ -2071,6 +2071,11 @@
       "id": 117,
       "caption": "Alliance Challenge October 2025",
       "key": "AWARD_ALLIANCE_CHALLENGE_OCTOBER_2025"
+    },
+    {
+      "id": 118,
+      "caption": "Halloween 2025",
+      "key": "AWARD_HALLOWEEN_2025"
     }
   ],
   "filter_types": [
@@ -5323,6 +5328,18 @@
     {
       "id": 798,
       "caption": "Bridge collapse (major)"
+    },
+    {
+      "id": 799,
+      "caption": "Haunted Hayride Emergency"
+    },
+    {
+      "id": 800,
+      "caption": "Multiple Inflatable Ghosts on Fire"
+    },
+    {
+      "id": 801,
+      "caption": "Monster broke loose"
     }
   ]
 }
