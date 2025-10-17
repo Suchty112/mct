@@ -296,6 +296,26 @@
       "type": "Integer"
     },
     {
+      "key": "alliance_event_credits",
+      "caption": "アライアンス・イベント・クレジット",
+      "type": "Integer"
+    },
+    {
+      "key": "event_currency",
+      "caption": "イベントクレジット",
+      "type": "Integer"
+    },
+    {
+      "key": "season_event",
+      "caption": "ハロウィン",
+      "type": "Symbol"
+    },
+    {
+      "key": "halloween_count",
+      "caption": "ハロウィーンレベル必要",
+      "type": "Integer"
+    },
+    {
       "key": "possible_patient_gender",
       "caption": "患者性別の可能性",
       "type": "String"
