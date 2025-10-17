@@ -521,6 +521,26 @@
       "type": "Integer"
     },
     {
+      "key": "alliance_event_credits",
+      "caption": "Verband Event Credits",
+      "type": "Integer"
+    },
+    {
+      "key": "event_currency",
+      "caption": "Event Credits",
+      "type": "Integer"
+    },
+    {
+      "key": "season_event",
+      "caption": "Halloween",
+      "type": "Symbol"
+    },
+    {
+      "key": "halloween_count",
+      "caption": "Halloween-niveau nodig",
+      "type": "Integer"
+    },
+    {
       "key": "possible_prisoner_min",
       "caption": null,
       "type": "Integer"
