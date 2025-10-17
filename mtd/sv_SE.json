@@ -411,6 +411,26 @@
       "type": "Unknown"
     },
     {
+      "key": "alliance_event_credits",
+      "caption": "Credits för alliansens evenemang",
+      "type": "Integer"
+    },
+    {
+      "key": "event_currency",
+      "caption": "Händelsekreditering",
+      "type": "Integer"
+    },
+    {
+      "key": "season_event",
+      "caption": "Halloween",
+      "type": "Symbol"
+    },
+    {
+      "key": "halloween_count",
+      "caption": "Halloween-nivå krävs",
+      "type": "Integer"
+    },
+    {
       "key": "subsequent_missions",
       "caption": "Påöljande uppdrag vid avklarat uppdrag",
       "type": "Unknown"
