@@ -426,6 +426,26 @@
       "type": "Boolean"
     },
     {
+      "key": "alliance_event_credits",
+      "caption": "Crediti per eventi dell'Alleanza",
+      "type": "Integer"
+    },
+    {
+      "key": "event_currency",
+      "caption": "Crediti dell'evento",
+      "type": "Integer"
+    },
+    {
+      "key": "season_event",
+      "caption": "Halloween",
+      "type": "Symbol"
+    },
+    {
+      "key": "halloween_count",
+      "caption": "Livello di Halloween necessario",
+      "type": "Integer"
+    },
+    {
       "key": "possible_patient_gender",
       "caption": "Possibile sesso del paziente",
       "type": "String"
