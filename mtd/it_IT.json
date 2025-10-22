@@ -824,6 +824,21 @@
       "key": "need_disaster_response",
       "caption": "Camion Movimento Terra richiesto",
       "type": "Integer"
+    },
+    {
+      "key": "detention_unit_count",
+      "caption": "Richiesta di proroga per il trasporto dei detenuti",
+      "type": "Integer"
+    },
+    {
+      "key": "need_detention_unit",
+      "caption": "Richiesto Trasporto detenuti",
+      "type": "Integer"
+    },
+    {
+      "key": "need_elw_police",
+      "caption": "Dirigente Volanti richiesta",
+      "type": "Integer"
     }
   ],
   "pois": [
@@ -1489,6 +1504,10 @@
         {
           "id": 17,
           "caption": "Ulteriori Sezione Investigativa Spazi dell'unità"
+        },
+        {
+          "id": 18,
+          "caption": "Estensione del trasporto dei detenuti"
         }
       ]
     },
@@ -5724,6 +5743,26 @@
     {
       "id": 803,
       "caption": "Festa da ballo zombie"
+    },
+    {
+      "id": 804,
+      "caption": "Rivolta spontanea"
+    },
+    {
+      "id": 805,
+      "caption": "Tifosi di calcio violenti nel settore dell'ospitalità"
+    },
+    {
+      "id": 806,
+      "caption": "Disturbi nel quartiere"
+    },
+    {
+      "id": 807,
+      "caption": "Scorta di tifosi rischiosi"
+    },
+    {
+      "id": 808,
+      "caption": "Piccola protesta violenta"
     }
   ]
 }
