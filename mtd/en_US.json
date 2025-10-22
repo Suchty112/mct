@@ -959,6 +959,16 @@
       "key": "need_streifenwagen_chance",
       "caption": "Probability of Requiring Police",
       "type": "Integer"
+    },
+    {
+      "key": "search_and_rescue_equipment_count",
+      "caption": "Required active Search and Rescue Equipments",
+      "type": "Integer"
+    },
+    {
+      "key": "need_search_and_rescue",
+      "caption": "Required SAR Equipments",
+      "type": "Integer"
     }
   ],
   "pois": [
@@ -1317,6 +1327,10 @@
     {
       "id": 88,
       "caption": "Zoo"
+    },
+    {
+      "id": 89,
+      "caption": "Hardware Store"
     }
   ],
   "available_icons": [
@@ -1995,6 +2009,10 @@
         {
           "id": 9,
           "caption": "Additional Plane Hangar"
+        },
+        {
+          "id": 10,
+          "caption": "\u003Cspan class=\"translation_missing localeapp\" title=\"translation missing: en_US.extension.coastal_helicopter_large\"\u003ECoastal Helicopter Large\u003C/span\u003E"
         }
       ]
     },
@@ -7090,6 +7108,22 @@
     {
       "id": 1090,
       "caption": "Zombie flash mob"
+    },
+    {
+      "id": 1091,
+      "caption": "Fire in Hardware Store (Medium)"
+    },
+    {
+      "id": 1092,
+      "caption": "Fire in Hardware Store (Large)"
+    },
+    {
+      "id": 1093,
+      "caption": "Rendezvous Ambulance"
+    },
+    {
+      "id": 1094,
+      "caption": "Collision between Train and Concrete Mixer"
     }
   ]
 }
