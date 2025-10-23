@@ -2641,6 +2641,11 @@
       "id": 124,
       "caption": "Halloween 2025",
       "key": "AWARD_HALLOWEEN_2025"
+    },
+    {
+      "id": 125,
+      "caption": "Défi de l'Alliance novembre 2025",
+      "key": "AWARD_ALLIANCE_CHALLENGE_NOVEMBER_2025"
     }
   ],
   "filter_types": [
@@ -6225,6 +6230,22 @@
     {
       "id": 880,
       "caption": "La malédiction du manoir Cromwell"
+    },
+    {
+      "id": 881,
+      "caption": "Pluie torrentielle"
+    },
+    {
+      "id": 882,
+      "caption": "Incendie d'un train de travaux"
+    },
+    {
+      "id": 883,
+      "caption": "Application d'un mandat d'arrêt d'interpol/europol"
+    },
+    {
+      "id": 884,
+      "caption": "Accident majeur sur autoroute brumeuse"
     }
   ]
 }
