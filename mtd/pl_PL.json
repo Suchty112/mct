@@ -2169,6 +2169,11 @@
       "id": 123,
       "caption": "Halloween 2025",
       "key": "AWARD_HALLOWEEN_2025"
+    },
+    {
+      "id": 124,
+      "caption": "Wyzwanie sojuszu listopad 2025 r.",
+      "key": "AWARD_ALLIANCE_CHALLENGE_NOVEMBER_2025"
     }
   ],
   "filter_types": [
@@ -5664,15 +5669,31 @@
     },
     {
       "id": 859,
-      "caption": "Awaria na strasznej przejażdżce sianem"
+      "caption": "Zderzenie łańcucha w tunelu"
     },
     {
       "id": 860,
-      "caption": "Wielu dmuchanych duchów w ogniu"
+      "caption": "Awaria na strasznej przejażdżce sianem"
     },
     {
       "id": 861,
+      "caption": "Wielu dmuchanych duchów w ogniu"
+    },
+    {
+      "id": 862,
       "caption": "Zombie impreza taneczna"
+    },
+    {
+      "id": 863,
+      "caption": "Niszczycielska katastrofa wulkaniczna"
+    },
+    {
+      "id": 864,
+      "caption": "Masowa katastrofa na drodze"
+    },
+    {
+      "id": 865,
+      "caption": "Katastrofa helikoptera"
     }
   ]
 }
