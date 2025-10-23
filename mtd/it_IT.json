@@ -2467,6 +2467,11 @@
       "id": 125,
       "caption": "Halloween 2025",
       "key": "AWARD_HALLOWEEN_2025"
+    },
+    {
+      "id": 126,
+      "caption": "Sfida dell'Alleanza novembre 2025",
+      "key": "AWARD_ALLIANCE_CHALLENGE_NOVEMBER_2025"
     }
   ],
   "filter_types": [
@@ -5763,6 +5768,14 @@
     {
       "id": 808,
       "caption": "Piccola protesta violenta"
+    },
+    {
+      "id": 809,
+      "caption": "Marca nel bar"
+    },
+    {
+      "id": 810,
+      "caption": "Execution of an Interpol/Europol arrest warrant"
     }
   ]
 }
