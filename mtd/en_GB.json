@@ -2689,6 +2689,11 @@
       "id": 117,
       "caption": "Halloween 2025",
       "key": "AWARD_HALLOWEEN_2025"
+    },
+    {
+      "id": 118,
+      "caption": "Alliance Challenge November 2025",
+      "key": "AWARD_ALLIANCE_CHALLENGE_NOVEMBER_2025"
     }
   ],
   "filter_types": [
@@ -5953,6 +5958,14 @@
     {
       "id": 801,
       "caption": "Zombie flash mob"
+    },
+    {
+      "id": 802,
+      "caption": "Helicopter crash"
+    },
+    {
+      "id": 803,
+      "caption": "Execution of an Interpol/Europol arrest warrant"
     }
   ]
 }
