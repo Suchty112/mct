@@ -2191,6 +2191,11 @@
       "id": 119,
       "caption": "Halloween 2025",
       "key": "AWARD_HALLOWEEN_2025"
+    },
+    {
+      "id": 120,
+      "caption": "Alliansutmaning november 2025",
+      "key": "AWARD_ALLIANCE_CHALLENGE_NOVEMBER_2025"
     }
   ],
   "filter_types": [
@@ -5007,6 +5012,18 @@
     {
       "id": 689,
       "caption": "Zombie dansfest"
+    },
+    {
+      "id": 690,
+      "caption": "Skogsbrand med flera små byar i brand"
+    },
+    {
+      "id": 691,
+      "caption": "Masskrasch på vägen"
+    },
+    {
+      "id": 692,
+      "caption": "Attack mot en oljeplattform"
     }
   ]
 }
