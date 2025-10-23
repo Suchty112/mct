@@ -2330,6 +2330,11 @@
       "id": 127,
       "caption": "Halloween 2025",
       "key": "AWARD_HALLOWEEN_2025"
+    },
+    {
+      "id": 128,
+      "caption": "Alianční výzva listopad 2025",
+      "key": "AWARD_ALLIANCE_CHALLENGE_NOVEMBER_2025"
     }
   ],
   "filter_types": [
@@ -5266,6 +5271,14 @@
     {
       "id": 718,
       "caption": "Zombie taneční párty"
+    },
+    {
+      "id": 719,
+      "caption": "Havárie helikoptéry"
+    },
+    {
+      "id": 720,
+      "caption": "Vykonání zatykače Interpolu/Europolu"
     }
   ]
 }
