@@ -2170,6 +2170,11 @@
       "id": 128,
       "caption": "Halloween 2025",
       "key": "AWARD_HALLOWEEN_2025"
+    },
+    {
+      "id": 129,
+      "caption": "Alliancens udfordring november 2025",
+      "key": "AWARD_ALLIANCE_CHALLENGE_NOVEMBER_2025"
     }
   ],
   "filter_types": [
@@ -5090,6 +5095,18 @@
     {
       "id": 715,
       "caption": "Zombie dansefest"
+    },
+    {
+      "id": 716,
+      "caption": "Helikopterstyrt"
+    },
+    {
+      "id": 717,
+      "caption": "Massiv ulykke på vejen"
+    },
+    {
+      "id": 718,
+      "caption": "Angreb på en olieplatform"
     }
   ]
 }
