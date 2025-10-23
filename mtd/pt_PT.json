@@ -2151,6 +2151,11 @@
       "id": 122,
       "caption": "Halloween 2025",
       "key": "AWARD_HALLOWEEN_2025"
+    },
+    {
+      "id": 123,
+      "caption": "Desafio da Aliança novembro de 2025",
+      "key": "AWARD_ALLIANCE_CHALLENGE_NOVEMBER_2025"
     }
   ],
   "filter_types": [
@@ -4931,6 +4936,18 @@
     {
       "id": 679,
       "caption": "Festa de dança zumbi"
+    },
+    {
+      "id": 680,
+      "caption": "Incêndio florestal com várias pequenas aldeias a arder"
+    },
+    {
+      "id": 681,
+      "caption": "Acidente em massa na estrada"
+    },
+    {
+      "id": 682,
+      "caption": "Ataque a uma plataforma petrolífera"
     }
   ]
 }
