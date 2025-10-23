@@ -2068,6 +2068,11 @@
       "id": 116,
       "caption": "2025年のハロウィーン",
       "key": "AWARD_HALLOWEEN_2025"
+    },
+    {
+      "id": 117,
+      "caption": "アライアンス・チャレンジ 2025年11月",
+      "key": "AWARD_ALLIANCE_CHALLENGE_NOVEMBER_2025"
     }
   ],
   "filter_types": [
@@ -4640,6 +4645,18 @@
     {
       "id": 627,
       "caption": "ゾンビダンスパーティー"
+    },
+    {
+      "id": 628,
+      "caption": "公園の水槽からの漏水"
+    },
+    {
+      "id": 629,
+      "caption": "道路での大規模な衝突事故"
+    },
+    {
+      "id": 630,
+      "caption": "石油プラットフォームへの攻撃"
     }
   ]
 }
