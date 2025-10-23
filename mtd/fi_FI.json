@@ -2062,6 +2062,11 @@
       "id": 119,
       "caption": "Halloween 2025",
       "key": "AWARD_HALLOWEEN_2025"
+    },
+    {
+      "id": 120,
+      "caption": "Allianssin haaste Marraskuu 2025",
+      "key": "AWARD_ALLIANCE_CHALLENGE_NOVEMBER_2025"
     }
   ],
   "filter_types": [
@@ -4958,6 +4963,14 @@
     {
       "id": 708,
       "caption": "Zombien tanssijuhla"
+    },
+    {
+      "id": 709,
+      "caption": "233 Helikopterin onnettomuus"
+    },
+    {
+      "id": 710,
+      "caption": "Interpolin/Europolin pidätysmääräyksen täytäntöönpano"
     }
   ]
 }
