@@ -301,26 +301,6 @@
       "type": "Datetime"
     },
     {
-      "key": "alliance_event_credits",
-      "caption": "Alliance Event Credits",
-      "type": "Integer"
-    },
-    {
-      "key": "event_currency",
-      "caption": "Event Credits",
-      "type": "Integer"
-    },
-    {
-      "key": "season_event",
-      "caption": "Halloween",
-      "type": "Symbol"
-    },
-    {
-      "key": "halloween_count",
-      "caption": "Halloween level needed",
-      "type": "Integer"
-    },
-    {
       "key": "possible_patient_gender",
       "caption": "Possible Patient Sex",
       "type": "String"
@@ -5957,7 +5937,7 @@
     },
     {
       "id": 801,
-      "caption": "Zombie flash mob"
+      "caption": "Monster broke loose"
     },
     {
       "id": 802,
