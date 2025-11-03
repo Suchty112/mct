@@ -366,26 +366,6 @@
       "type": "Boolean"
     },
     {
-      "key": "alliance_event_credits",
-      "caption": "Kredity událostí aliance",
-      "type": "Integer"
-    },
-    {
-      "key": "event_currency",
-      "caption": "Kredity události",
-      "type": "Integer"
-    },
-    {
-      "key": "season_event",
-      "caption": "Halloween",
-      "type": "Symbol"
-    },
-    {
-      "key": "halloween_count",
-      "caption": "Potřebná úroveň Halloween",
-      "type": "Integer"
-    },
-    {
       "key": "allow_without_poi",
       "caption": "Povolit bez bodu zájmu",
       "type": "Boolean"
@@ -5270,7 +5250,7 @@
     },
     {
       "id": 718,
-      "caption": "Zombie taneční párty"
+      "caption": "Příšera se utrhla ze řetězu"
     },
     {
       "id": 719,
