@@ -321,26 +321,6 @@
       "type": "Integer"
     },
     {
-      "key": "alliance_event_credits",
-      "caption": "Créditos de eventos da aliança",
-      "type": "Integer"
-    },
-    {
-      "key": "event_currency",
-      "caption": "Créditos de eventos",
-      "type": "Integer"
-    },
-    {
-      "key": "season_event",
-      "caption": "Dia das Bruxas",
-      "type": "Symbol"
-    },
-    {
-      "key": "halloween_count",
-      "caption": "Nível de Halloween necessário",
-      "type": "Integer"
-    },
-    {
       "key": "alternate_value_overlay_requirements",
       "caption": null,
       "type": "Unknown"
@@ -693,6 +673,11 @@
     {
       "key": "need_streifenwagen_chance",
       "caption": "Probabilidade de requerer um Carro Patrulha",
+      "type": "Integer"
+    },
+    {
+      "key": "alliance_event_credits",
+      "caption": "Créditos de eventos da aliança",
       "type": "Integer"
     }
   ],
@@ -4935,7 +4920,7 @@
     },
     {
       "id": 679,
-      "caption": "Festa de dança zumbi"
+      "caption": "Monstro solto"
     },
     {
       "id": 680,
