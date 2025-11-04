@@ -1028,7 +1028,9 @@
     "snowy",
     "cuffs",
     "flood",
-    "elevator"
+    "elevator",
+    "lightningStrike",
+    "bridge"
   ],
   "building_types": [
     {
@@ -4951,6 +4953,30 @@
     {
       "id": 710,
       "caption": "Interpolin/Europolin pidätysmääräyksen täytäntöönpano"
+    },
+    {
+      "id": 711,
+      "caption": "Kahden bussin törmäys"
+    },
+    {
+      "id": 712,
+      "caption": "Festivaalilla tapahtunut joukkoturmahdus"
+    },
+    {
+      "id": 713,
+      "caption": "Sairaiden joukkoinen esiintyminen - rautatieasema"
+    },
+    {
+      "id": 714,
+      "caption": "Salamanisku tapahtumassa"
+    },
+    {
+      "id": 715,
+      "caption": "Raitiovaunu suistui raiteilta"
+    },
+    {
+      "id": 716,
+      "caption": "Sillan romahdus (suuri)"
     }
   ]
 }
