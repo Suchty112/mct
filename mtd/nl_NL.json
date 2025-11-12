@@ -2528,6 +2528,16 @@
       "id": 145,
       "caption": "Alliantie Uitdaging November 2025",
       "key": "AWARD_ALLIANCE_CHALLENGE_NOVEMBER_2025"
+    },
+    {
+      "id": 146,
+      "caption": "Sinterklaas Award 2025",
+      "key": "AWARD_SINTERKLAAS_2025"
+    },
+    {
+      "id": 147,
+      "caption": "Snoep Verzamelaar 2025",
+      "key": "AWARD_SINTERKLAAS_COLLECTION_2025"
     }
   ],
   "filter_types": [
