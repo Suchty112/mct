@@ -5756,6 +5756,14 @@
     {
       "id": 810,
       "caption": "Esecuzione di un mandato di arresto Interpol/Europol"
+    },
+    {
+      "id": 811,
+      "caption": "Incendio in campo di grano"
+    },
+    {
+      "id": 812,
+      "caption": "Perdita di gas cloro"
     }
   ]
 }
