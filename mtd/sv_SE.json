@@ -2226,6 +2226,11 @@
       "id": 120,
       "caption": "Alliansutmaning november 2025",
       "key": "AWARD_ALLIANCE_CHALLENGE_NOVEMBER_2025"
+    },
+    {
+      "id": 121,
+      "caption": "6-årsjubileum!",
+      "key": "AWARD_SIX_YEARS"
     }
   ],
   "filter_types": [
