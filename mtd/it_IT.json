@@ -2452,6 +2452,11 @@
       "id": 126,
       "caption": "Sfida dell'Alleanza novembre 2025",
       "key": "AWARD_ALLIANCE_CHALLENGE_NOVEMBER_2025"
+    },
+    {
+      "id": 127,
+      "caption": "6° Anniversario!",
+      "key": "AWARD_SIX_YEARS"
     }
   ],
   "filter_types": [
