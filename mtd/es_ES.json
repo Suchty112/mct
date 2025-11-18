@@ -764,6 +764,31 @@
       "key": "need_streifenwagen_chance",
       "caption": "Probabilidad de que se necesite policía",
       "type": "Integer"
+    },
+    {
+      "key": "mountain_value",
+      "caption": null,
+      "type": "Integer"
+    },
+    {
+      "key": "mountain_rescue_count",
+      "caption": "Estación de GREIM requerida",
+      "type": "Integer"
+    },
+    {
+      "key": "need_mountain_height_rescue",
+      "caption": "Se requiere ATV 4*4",
+      "type": "Integer"
+    },
+    {
+      "key": "need_mountain_snow",
+      "caption": "Remolque para moto de nieve requerido",
+      "type": "Integer"
+    },
+    {
+      "key": "need_mountain_command",
+      "caption": "Comando de Rescate de Montaña Requerido",
+      "type": "Integer"
     }
   ],
   "pois": [
@@ -1078,6 +1103,18 @@
     {
       "id": 77,
       "caption": "Hangar"
+    },
+    {
+      "id": 78,
+      "caption": "Sendero"
+    },
+    {
+      "id": 79,
+      "caption": "Senda Montaña"
+    },
+    {
+      "id": 80,
+      "caption": "Vía Escalada"
     }
   ],
   "available_icons": [
@@ -1122,7 +1159,8 @@
     "cuffs",
     "stadium",
     "lightningStrike",
-    "bridge"
+    "bridge",
+    "hiking"
   ],
   "building_types": [
     {
@@ -1169,6 +1207,10 @@
         {
           "id": 9,
           "caption": "Extensión remolque de vehículos"
+        },
+        {
+          "id": 10,
+          "caption": "GRAE"
         }
       ]
     },
@@ -1687,6 +1729,11 @@
           "caption": "Aparcamiento adicional para vehículos"
         }
       ]
+    },
+    {
+      "id": 31,
+      "caption": "Estación de GREIM",
+      "key": "BUILDING_TYPE_MOUNTAIN_RESCUE"
     }
   ],
   "awards": [
@@ -5020,6 +5067,42 @@
     {
       "id": 668,
       "caption": "Ataque a una plataforma petrolífera"
+    },
+    {
+      "id": 669,
+      "caption": "Accidentes de esquí"
+    },
+    {
+      "id": 670,
+      "caption": "Excursionistas atrapados en la cima de la montaña"
+    },
+    {
+      "id": 671,
+      "caption": "Pequeña avalancha"
+    },
+    {
+      "id": 672,
+      "caption": "Caída de un serac"
+    },
+    {
+      "id": 673,
+      "caption": "Incendio forestal en alta montaña"
+    },
+    {
+      "id": 674,
+      "caption": "Incendio forestal en alta montaña"
+    },
+    {
+      "id": 675,
+      "caption": "Ciclista de montaña chocó contra un árbol en un camino nevado"
+    },
+    {
+      "id": 676,
+      "caption": "Avalancha de gravedad moderada"
+    },
+    {
+      "id": 677,
+      "caption": "Accidentes de escalada"
     }
   ]
 }
