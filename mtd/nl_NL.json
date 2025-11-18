@@ -596,6 +596,11 @@
       "type": "Integer"
     },
     {
+      "key": "additive_value_overlays",
+      "caption": null,
+      "type": "Unknown"
+    },
+    {
       "key": "ocean_value",
       "caption": null,
       "type": "Integer"
@@ -849,11 +854,6 @@
       "key": "possible_crashed_car_large_min",
       "caption": "Minimaal aantal vrachtwagens om te slepen",
       "type": "Integer"
-    },
-    {
-      "key": "additive_value_overlays",
-      "caption": null,
-      "type": "Unknown"
     },
     {
       "key": "military_police_count",
@@ -1352,6 +1352,14 @@
         {
           "id": 19,
           "caption": "Grootschalige Geneeskundige Bijstand"
+        },
+        {
+          "id": 20,
+          "caption": "Verzorgingseenheid"
+        },
+        {
+          "id": 21,
+          "caption": "Arbeidshygiëne"
         }
       ]
     },
@@ -7326,6 +7334,10 @@
     {
       "id": 1181,
       "caption": "Chloorgas ontsnapt"
+    },
+    {
+      "id": 1182,
+      "caption": "Bootje op drift"
     }
   ]
 }
