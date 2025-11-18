@@ -1241,6 +1241,46 @@
         {
           "id": 6,
           "caption": "Stor brannstasjon"
+        },
+        {
+          "id": 7,
+          "caption": "Containerplass"
+        },
+        {
+          "id": 8,
+          "caption": "Containerplass"
+        },
+        {
+          "id": 9,
+          "caption": "Containerplass"
+        },
+        {
+          "id": 10,
+          "caption": "Containerplass"
+        },
+        {
+          "id": 11,
+          "caption": "Containerplass"
+        },
+        {
+          "id": 12,
+          "caption": "Containerplass"
+        },
+        {
+          "id": 13,
+          "caption": "Containerplass"
+        },
+        {
+          "id": 14,
+          "caption": "Containerplass"
+        },
+        {
+          "id": 15,
+          "caption": "Containerplass"
+        },
+        {
+          "id": 16,
+          "caption": "Containerplass"
         }
       ]
     },
@@ -5297,6 +5337,38 @@
     {
       "id": 721,
       "caption": "Angrep på en oljeplattform"
+    },
+    {
+      "id": 722,
+      "caption": "Store steinblokker fra steinskred har blokkert motorveien og fanget bilister"
+    },
+    {
+      "id": 723,
+      "caption": "Empty Commercial Plane Fire"
+    },
+    {
+      "id": 724,
+      "caption": "Brann i tankbil"
+    },
+    {
+      "id": 725,
+      "caption": "Tankbileksplosjon (liten)"
+    },
+    {
+      "id": 726,
+      "caption": "Tanker Truck Explosion (Medium)"
+    },
+    {
+      "id": 727,
+      "caption": "Tanker Truck Explosion (Large)"
+    },
+    {
+      "id": 728,
+      "caption": "Tanker Truck Explosion (Major)"
+    },
+    {
+      "id": 729,
+      "caption": "Flere kjøretøy i brann"
     }
   ]
 }
