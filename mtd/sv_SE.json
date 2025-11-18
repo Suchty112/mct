@@ -551,8 +551,8 @@
       "type": "Integer"
     },
     {
-      "key": "coastal_rescue_count",
-      "caption": "Kräver Kustbevakningsstation",
+      "key": "coastal_rescue_small_count",
+      "caption": "Krävda frivilliggrupper vid kusten",
       "type": "Integer"
     },
     {
@@ -584,6 +584,11 @@
       "key": "second_patient_transfer_from",
       "caption": "Överlämnande av patient och fånge efter uppdrag möjligt till",
       "type": "Unknown"
+    },
+    {
+      "key": "coastal_rescue_count",
+      "caption": "Kräver Kustbevakningsstation",
+      "type": "Integer"
     },
     {
       "key": "need_coastal_guard_boat",
@@ -703,6 +708,26 @@
     {
       "key": "need_streifenwagen_chance",
       "caption": "Sannolikhet att polis krävs",
+      "type": "Integer"
+    },
+    {
+      "key": "search_and_rescue_helicopter_count",
+      "caption": "Krävd SAR-helikopterplats",
+      "type": "Integer"
+    },
+    {
+      "key": "need_search_and_rescue_helicopter",
+      "caption": "Krävs SAR-helikopter",
+      "type": "Integer"
+    },
+    {
+      "key": "coastal_plane_count",
+      "caption": "Required Coastal Plane Hangars",
+      "type": "Integer"
+    },
+    {
+      "key": "need_coastal_plane",
+      "caption": "Kräver kustbevakningsflyg",
       "type": "Integer"
     }
   ],
@@ -1022,6 +1047,10 @@
     {
       "id": 78,
       "caption": "Hangar"
+    },
+    {
+      "id": 79,
+      "caption": "Oil Rig"
     }
   ],
   "available_icons": [
@@ -1526,6 +1555,22 @@
         {
           "id": 3,
           "caption": "Ytterligare hangar för flygplan"
+        },
+        {
+          "id": 4,
+          "caption": "SAR-helikopterplats"
+        },
+        {
+          "id": 5,
+          "caption": "Ytterligare helikopterutrymme"
+        },
+        {
+          "id": 6,
+          "caption": "Ytterligare helikopterutrymme"
+        },
+        {
+          "id": 7,
+          "caption": "Ytterligare helikopterutrymme"
         }
       ]
     },
@@ -1579,6 +1624,11 @@
           "caption": "Ytterligare fordon Parkeringsplats Tomtutrymme"
         }
       ]
+    },
+    {
+      "id": 24,
+      "caption": "Kustnära volontärgrupper",
+      "key": "BUILDING_TYPE_COASTAL_RESCUE"
     }
   ],
   "awards": [
@@ -5004,6 +5054,34 @@
     {
       "id": 692,
       "caption": "Attack mot en oljeplattform"
+    },
+    {
+      "id": 693,
+      "caption": "Bränder på oljeplattformar"
+    },
+    {
+      "id": 694,
+      "caption": "Oljeplattformsexplosion"
+    },
+    {
+      "id": 695,
+      "caption": "Sök- och räddningstjänst i djupa vatten"
+    },
+    {
+      "id": 696,
+      "caption": "Oljetanker i brand på havet"
+    },
+    {
+      "id": 697,
+      "caption": "Brand på containerfartyg"
+    },
+    {
+      "id": 698,
+      "caption": "Brand i hamnkran"
+    },
+    {
+      "id": 699,
+      "caption": "Båt läcker bränsle"
     }
   ]
 }
