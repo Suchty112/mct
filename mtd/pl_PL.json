@@ -2154,6 +2154,11 @@
       "id": 124,
       "caption": "Wyzwanie sojuszu listopad 2025 r.",
       "key": "AWARD_ALLIANCE_CHALLENGE_NOVEMBER_2025"
+    },
+    {
+      "id": 125,
+      "caption": "Szóste urodziny!",
+      "key": "AWARD_SIX_YEARS"
     }
   ],
   "filter_types": [
@@ -5673,7 +5678,7 @@
     },
     {
       "id": 865,
-      "caption": "Katastrofa helikoptera"
+      "caption": "Wypadek przy pracy z maszyną"
     }
   ]
 }
