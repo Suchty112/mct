@@ -1348,7 +1348,10 @@
     "snowy",
     "stadium",
     "tornado",
-    "cuffs"
+    "cuffs",
+    "bus",
+    "lightningStrike",
+    "bridge"
   ],
   "building_types": [
     {
@@ -6234,6 +6237,30 @@
     {
       "id": 886,
       "caption": "Feu de cultures de blé"
+    },
+    {
+      "id": 887,
+      "caption": "Collision entre deux bus"
+    },
+    {
+      "id": 888,
+      "caption": "Bousculade lors d'un festival"
+    },
+    {
+      "id": 889,
+      "caption": "Afflux massif de malades - Gare ferroviaire"
+    },
+    {
+      "id": 890,
+      "caption": "Foudre lors d'un événement"
+    },
+    {
+      "id": 891,
+      "caption": "Déraillement d'un tramway"
+    },
+    {
+      "id": 892,
+      "caption": "Effondrement d'un pont (grand)"
     }
   ]
 }
