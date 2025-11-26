@@ -2393,6 +2393,16 @@
       "id": 115,
       "caption": "Alliance Challenge November 2025",
       "key": "AWARD_ALLIANCE_CHALLENGE_NOVEMBER_2025"
+    },
+    {
+      "id": 116,
+      "caption": "Juleoppdrag 2025",
+      "key": "AWARD_CHRISTMAS_2025"
+    },
+    {
+      "id": 117,
+      "caption": "Alliance Challenge desember 2025",
+      "key": "AWARD_ALLIANCE_CHALLENGE_DECEMBER_2025"
     }
   ],
   "filter_types": [
