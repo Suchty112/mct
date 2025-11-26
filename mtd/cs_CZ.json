@@ -2315,6 +2315,16 @@
       "id": 128,
       "caption": "Alianční výzva listopad 2025",
       "key": "AWARD_ALLIANCE_CHALLENGE_NOVEMBER_2025"
+    },
+    {
+      "id": 129,
+      "caption": "Vánoční mise 2025",
+      "key": "AWARD_CHRISTMAS_2025"
+    },
+    {
+      "id": 130,
+      "caption": "Alianční výzva prosinec 2025",
+      "key": "AWARD_ALLIANCE_CHALLENGE_DECEMBER_2025"
     }
   ],
   "filter_types": [
