@@ -2231,6 +2231,16 @@
       "id": 121,
       "caption": "6-årsjubileum!",
       "key": "AWARD_SIX_YEARS"
+    },
+    {
+      "id": 122,
+      "caption": "Juluppdrag 2025",
+      "key": "AWARD_CHRISTMAS_2025"
+    },
+    {
+      "id": 123,
+      "caption": "Alliansutmaning december 2025",
+      "key": "AWARD_ALLIANCE_CHALLENGE_DECEMBER_2025"
     }
   ],
   "filter_types": [
