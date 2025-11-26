@@ -2457,6 +2457,16 @@
       "id": 127,
       "caption": "6° Anniversario!",
       "key": "AWARD_SIX_YEARS"
+    },
+    {
+      "id": 128,
+      "caption": "Missioni di Natale 2025",
+      "key": "AWARD_CHRISTMAS_2025"
+    },
+    {
+      "id": 129,
+      "caption": "Sfida dell'Alleanza Dicembre 2025",
+      "key": "AWARD_ALLIANCE_CHALLENGE_DECEMBER_2025"
     }
   ],
   "filter_types": [
