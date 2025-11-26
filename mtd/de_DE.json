@@ -2740,6 +2740,16 @@
       "id": 143,
       "caption": "Verbands-Herausforderung November 2025",
       "key": "AWARD_ALLIANCE_CHALLENGE_NOVEMBER_2025"
+    },
+    {
+      "id": 144,
+      "caption": "Weihnachtliche Einsätze 2025",
+      "key": "AWARD_CHRISTMAS_2025"
+    },
+    {
+      "id": 145,
+      "caption": "Verbands-Herausforderung Dezember 2025",
+      "key": "AWARD_ALLIANCE_CHALLENGE_DECEMBER_2025"
     }
   ],
   "filter_types": [
