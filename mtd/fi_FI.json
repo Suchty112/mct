@@ -2049,6 +2049,16 @@
       "id": 120,
       "caption": "Allianssin haaste Marraskuu 2025",
       "key": "AWARD_ALLIANCE_CHALLENGE_NOVEMBER_2025"
+    },
+    {
+      "id": 121,
+      "caption": "Joulutehtävät 2025",
+      "key": "AWARD_CHRISTMAS_2025"
+    },
+    {
+      "id": 122,
+      "caption": "Allianssin haaste Joulukuu 2025",
+      "key": "AWARD_ALLIANCE_CHALLENGE_DECEMBER_2025"
     }
   ],
   "filter_types": [
