@@ -2546,6 +2546,16 @@
       "id": 147,
       "caption": "Snoep Verzamelaar 2025",
       "key": "AWARD_SINTERKLAAS_COLLECTION_2025"
+    },
+    {
+      "id": 148,
+      "caption": "Kerstmis 2025",
+      "key": "AWARD_CHRISTMAS_2025"
+    },
+    {
+      "id": 149,
+      "caption": "Alliantie Uitdaging December 2025",
+      "key": "AWARD_ALLIANCE_CHALLENGE_DECEMBER_2025"
     }
   ],
   "filter_types": [
