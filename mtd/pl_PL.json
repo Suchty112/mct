@@ -2159,6 +2159,16 @@
       "id": 125,
       "caption": "Szóste urodziny!",
       "key": "AWARD_SIX_YEARS"
+    },
+    {
+      "id": 126,
+      "caption": "Misje świąteczne 2025",
+      "key": "AWARD_CHRISTMAS_2025"
+    },
+    {
+      "id": 127,
+      "caption": "Wyzwanie sojuszu grudzień 2025 r.",
+      "key": "AWARD_ALLIANCE_CHALLENGE_DECEMBER_2025"
     }
   ],
   "filter_types": [
