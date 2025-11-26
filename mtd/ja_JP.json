@@ -2053,6 +2053,16 @@
       "id": 117,
       "caption": "アライアンス・チャレンジ 2025年11月",
       "key": "AWARD_ALLIANCE_CHALLENGE_NOVEMBER_2025"
+    },
+    {
+      "id": 118,
+      "caption": "2025クリスマスミッション",
+      "key": "AWARD_CHRISTMAS_2025"
+    },
+    {
+      "id": 119,
+      "caption": "アライアンス・チャレンジ 2025年12月",
+      "key": "AWARD_ALLIANCE_CHALLENGE_DECEMBER_2025"
     }
   ],
   "filter_types": [
