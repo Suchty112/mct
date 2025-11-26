@@ -2629,6 +2629,21 @@
       "id": 125,
       "caption": "Défi de l'Alliance novembre 2025",
       "key": "AWARD_ALLIANCE_CHALLENGE_NOVEMBER_2025"
+    },
+    {
+      "id": 126,
+      "caption": "Missions de Noël 2025",
+      "key": "AWARD_CHRISTMAS_2025"
+    },
+    {
+      "id": 127,
+      "caption": "6e anniversaire !",
+      "key": "AWARD_SIX_YEARS"
+    },
+    {
+      "id": 128,
+      "caption": "Défi de l'Alliance Décembre 2025",
+      "key": "AWARD_ALLIANCE_CHALLENGE_DECEMBER_2025"
     }
   ],
   "filter_types": [
