@@ -2674,6 +2674,16 @@
       "id": 118,
       "caption": "Alliance Challenge November 2025",
       "key": "AWARD_ALLIANCE_CHALLENGE_NOVEMBER_2025"
+    },
+    {
+      "id": 119,
+      "caption": "Christmas Missions 2025",
+      "key": "AWARD_CHRISTMAS_2025"
+    },
+    {
+      "id": 120,
+      "caption": "Alliance Challenge December 2025",
+      "key": "AWARD_ALLIANCE_CHALLENGE_DECEMBER_2025"
     }
   ],
   "filter_types": [
