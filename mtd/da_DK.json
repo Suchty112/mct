@@ -2155,6 +2155,16 @@
       "id": 129,
       "caption": "Alliancens udfordring november 2025",
       "key": "AWARD_ALLIANCE_CHALLENGE_NOVEMBER_2025"
+    },
+    {
+      "id": 130,
+      "caption": "Julemissioner 2025",
+      "key": "AWARD_CHRISTMAS_2025"
+    },
+    {
+      "id": 131,
+      "caption": "Alliancens udfordring december 2025",
+      "key": "AWARD_ALLIANCE_CHALLENGE_DECEMBER_2025"
     }
   ],
   "filter_types": [
