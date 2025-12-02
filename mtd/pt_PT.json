@@ -679,6 +679,66 @@
       "key": "alliance_event_credits",
       "caption": "Créditos de eventos da aliança",
       "type": "Integer"
+    },
+    {
+      "key": "mountain_value",
+      "caption": null,
+      "type": "Integer"
+    },
+    {
+      "key": "mountain_rescue_count",
+      "caption": "UEPS Necessário",
+      "type": "Integer"
+    },
+    {
+      "key": "need_mountain_atv",
+      "caption": "VTT Necessário",
+      "type": "Integer"
+    },
+    {
+      "key": "need_mountain_snow",
+      "caption": "Motoneve Necessário",
+      "type": "Integer"
+    },
+    {
+      "key": "need_mountain_command",
+      "caption": "Comando de Montanha Necessário",
+      "type": "Integer"
+    },
+    {
+      "key": "mountain_rescue_heliport_count",
+      "caption": "FAP Necessário",
+      "type": "Integer"
+    },
+    {
+      "key": "mountain_rescue_lift_count",
+      "caption": "Cesto-maca Necessário",
+      "type": "Integer"
+    },
+    {
+      "key": "need_mountain_rescue_helicopter",
+      "caption": "AW101 Merlin Necessário",
+      "type": "Integer"
+    },
+    {
+      "key": "need_mountain_helicopter_rescue_lift",
+      "caption": "Cesto-maca Necessário",
+      "type": "Integer"
+    },
+    {
+      "key": "mountain_height_rescue_count",
+      "caption": "ESM Necessário",
+      "type": "Integer"
+    },
+    {
+      "key": "need_mountain_height_rescue",
+      "caption": "ESM Necessário",
+      "type": "Integer"
+    },
+    {
+      "key": "need_mountain_cave_command",
+      "caption": "Comando de Cavernas Necessário",
+      "type": "Integer"
     }
   ],
   "pois": [
@@ -989,6 +1049,14 @@
     {
       "id": 76,
       "caption": "Hangar"
+    },
+    {
+      "id": 77,
+      "caption": "Trilha de montanha"
+    },
+    {
+      "id": 78,
+      "caption": "Caverna"
     }
   ],
   "available_icons": [
@@ -1033,7 +1101,8 @@
     "boat",
     "bus",
     "lightningStrike",
-    "bridge"
+    "bridge",
+    "hiking"
   ],
   "building_types": [
     {
@@ -1529,6 +1598,16 @@
           "caption": "Espaço de estacionamento adicional para veículos"
         }
       ]
+    },
+    {
+      "id": 28,
+      "caption": "UEPS",
+      "key": "BUILDING_TYPE_MOUNTAIN_RESCUE"
+    },
+    {
+      "id": 29,
+      "caption": "FAP",
+      "key": "BUILDING_TYPE_MOUNTAIN_RESCUE_HELIPORT"
     }
   ],
   "awards": [
@@ -4943,6 +5022,38 @@
     {
       "id": 682,
       "caption": "Linha elétrica provoca incêndio em terreno agrícola"
+    },
+    {
+      "id": 683,
+      "caption": "Acidentes de esqui"
+    },
+    {
+      "id": 684,
+      "caption": "Caminhantes presos no topo da montanha"
+    },
+    {
+      "id": 685,
+      "caption": "Pequena avalanche"
+    },
+    {
+      "id": 686,
+      "caption": "Queda de um serac"
+    },
+    {
+      "id": 687,
+      "caption": "Caminhante em perigo devido ao mau tempo"
+    },
+    {
+      "id": 688,
+      "caption": "Avalanche moderada"
+    },
+    {
+      "id": 689,
+      "caption": "Acidentes em cavernas"
+    },
+    {
+      "id": 690,
+      "caption": "Adolescentes perdidos em cavernas"
     }
   ]
 }
