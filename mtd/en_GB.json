@@ -804,6 +804,26 @@
       "key": "need_streifenwagen_chance",
       "caption": "Probability of Requiring Police",
       "type": "Integer"
+    },
+    {
+      "key": "railway_fire_count",
+      "caption": "Required Railway fire response",
+      "type": "Integer"
+    },
+    {
+      "key": "railway_police_count",
+      "caption": "Required Railway Police",
+      "type": "Integer"
+    },
+    {
+      "key": "need_two_way",
+      "caption": "Required Road Rail Unit",
+      "type": "Integer"
+    },
+    {
+      "key": "need_railway_police",
+      "caption": "Required EIU",
+      "type": "Integer"
     }
   ],
   "pois": [
@@ -1202,6 +1222,10 @@
     {
       "id": 98,
       "caption": "Zoo"
+    },
+    {
+      "id": 99,
+      "caption": "Railway tunnel"
     }
   ],
   "available_icons": [
@@ -1331,6 +1355,10 @@
         {
           "id": 18,
           "caption": "Large Fire Station"
+        },
+        {
+          "id": 19,
+          "caption": "Railway fire response"
         }
       ]
     },
@@ -1543,6 +1571,10 @@
         {
           "id": 15,
           "caption": "Large Prison"
+        },
+        {
+          "id": 16,
+          "caption": "Railway Police"
         }
       ]
     },
@@ -5964,6 +5996,26 @@
     {
       "id": 805,
       "caption": "Severe chlorine leak"
+    },
+    {
+      "id": 806,
+      "caption": "Passenger Train Fire in Tunnel"
+    },
+    {
+      "id": 807,
+      "caption": "Evacuation of Stranded Passenger Train"
+    },
+    {
+      "id": 808,
+      "caption": "Passenger Train Caught in Landslide (Major Incident)"
+    },
+    {
+      "id": 809,
+      "caption": "Flooded Railway Station (Persons Trapped)"
+    },
+    {
+      "id": 810,
+      "caption": "Goods Train Collided with HGV"
     }
   ]
 }
