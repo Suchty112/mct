@@ -481,14 +481,14 @@
       "type": "Integer"
     },
     {
-      "key": "required_personnel_educations",
-      "caption": "Benodigde Personeel",
-      "type": "Unknown"
-    },
-    {
       "key": "need_wildfire_equipment",
       "caption": "Benodigde Natuurbrandbestrijding Uitrusting",
       "type": "Integer"
+    },
+    {
+      "key": "required_personnel_educations",
+      "caption": "Benodigde Personeel",
+      "type": "Unknown"
     },
     {
       "key": "subsequent_missions",
@@ -497,6 +497,11 @@
     },
     {
       "key": "subsequent_missions_probabilities",
+      "caption": null,
+      "type": "Unknown"
+    },
+    {
+      "key": "additive_value_overlays",
       "caption": null,
       "type": "Unknown"
     },
@@ -594,11 +599,6 @@
       "key": "need_boot_chance",
       "caption": "Bootaanhanger (WOA of BA-RB) benodigd waarschijnlijkheid",
       "type": "Integer"
-    },
-    {
-      "key": "additive_value_overlays",
-      "caption": null,
-      "type": "Unknown"
     },
     {
       "key": "ocean_value",
@@ -2675,7 +2675,7 @@
     },
     {
       "id": 14,
-      "caption": "Heidebrand"
+      "caption": "Heidebrand (Middel)"
     },
     {
       "id": 15,
@@ -3131,11 +3131,11 @@
     },
     {
       "id": 128,
-      "caption": "Heidebrand"
+      "caption": "Heidebrand (Klein)"
     },
     {
       "id": 129,
-      "caption": "Heidebrand"
+      "caption": "Heidebrand (Groot)"
     },
     {
       "id": 130,
@@ -3175,27 +3175,27 @@
     },
     {
       "id": 139,
-      "caption": "Natuurbrand"
+      "caption": "Natuurbrand (Klein)"
     },
     {
       "id": 140,
-      "caption": "Natuurbrand"
+      "caption": "Natuurbrand (Middel)"
     },
     {
       "id": 141,
-      "caption": "Natuurbrand"
+      "caption": "Natuurbrand (Groot)"
     },
     {
       "id": 142,
-      "caption": "Natuurbrand"
+      "caption": "Natuurbrand (Zeer Groot)"
     },
     {
       "id": 143,
-      "caption": "Natuurbrand"
+      "caption": "Natuurbrand (Grip 1)"
     },
     {
       "id": 144,
-      "caption": "Natuurbrand"
+      "caption": "Natuurbrand (Grip 2)"
     },
     {
       "id": 145,
@@ -3851,11 +3851,11 @@
     },
     {
       "id": 308,
-      "caption": "Natuurbrand"
+      "caption": "Natuurbrand (Grip 3)"
     },
     {
       "id": 309,
-      "caption": "Natuurbrand"
+      "caption": "Natuurbrand (Grip 4)"
     },
     {
       "id": 310,
@@ -4039,15 +4039,15 @@
     },
     {
       "id": 355,
-      "caption": "Heidebrand"
+      "caption": "Heidebrand (Grip 1)"
     },
     {
       "id": 356,
-      "caption": "Heidebrand"
+      "caption": "Heidebrand (Grip 2)"
     },
     {
       "id": 357,
-      "caption": "Natuurbrand"
+      "caption": "Natuurbrand (Grip 5)"
     },
     {
       "id": 358,
