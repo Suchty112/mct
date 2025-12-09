@@ -2169,6 +2169,11 @@
       "id": 127,
       "caption": "Wyzwanie sojuszu grudzień 2025 r.",
       "key": "AWARD_ALLIANCE_CHALLENGE_DECEMBER_2025"
+    },
+    {
+      "id": 128,
+      "caption": "Świąteczny kolekcjoner 2025",
+      "key": "AWARD_CHRISTMAS_COLLECTION_2025"
     }
   ],
   "filter_types": [
