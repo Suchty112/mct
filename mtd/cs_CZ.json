@@ -2325,6 +2325,11 @@
       "id": 130,
       "caption": "Alianční výzva prosinec 2025",
       "key": "AWARD_ALLIANCE_CHALLENGE_DECEMBER_2025"
+    },
+    {
+      "id": 131,
+      "caption": "Vánoční sběratel 2025",
+      "key": "AWARD_CHRISTMAS_COLLECTION_2025"
     }
   ],
   "filter_types": [
