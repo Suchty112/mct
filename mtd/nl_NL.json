@@ -2556,6 +2556,11 @@
       "id": 149,
       "caption": "Alliantie Uitdaging December 2025",
       "key": "AWARD_ALLIANCE_CHALLENGE_DECEMBER_2025"
+    },
+    {
+      "id": 150,
+      "caption": "Kerstverzamelaar 2025",
+      "key": "AWARD_CHRISTMAS_COLLECTION_2025"
     }
   ],
   "filter_types": [
