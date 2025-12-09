@@ -2467,6 +2467,11 @@
       "id": 129,
       "caption": "Sfida dell'Alleanza Dicembre 2025",
       "key": "AWARD_ALLIANCE_CHALLENGE_DECEMBER_2025"
+    },
+    {
+      "id": 130,
+      "caption": "Collezionista di Natale 2025",
+      "key": "AWARD_CHRISTMAS_COLLECTION_2025"
     }
   ],
   "filter_types": [
