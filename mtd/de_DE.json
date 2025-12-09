@@ -2750,6 +2750,11 @@
       "id": 145,
       "caption": "Verbands-Herausforderung Dezember 2025",
       "key": "AWARD_ALLIANCE_CHALLENGE_DECEMBER_2025"
+    },
+    {
+      "id": 146,
+      "caption": "Weihnachtssammler 2025",
+      "key": "AWARD_CHRISTMAS_COLLECTION_2025"
     }
   ],
   "filter_types": [
