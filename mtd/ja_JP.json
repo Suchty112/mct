@@ -2108,6 +2108,11 @@
       "id": 119,
       "caption": "アライアンス・チャレンジ 2025年12月",
       "key": "AWARD_ALLIANCE_CHALLENGE_DECEMBER_2025"
+    },
+    {
+      "id": 120,
+      "caption": "クリスマス・コレクター 2025",
+      "key": "AWARD_CHRISTMAS_COLLECTION_2025"
     }
   ],
   "filter_types": [
