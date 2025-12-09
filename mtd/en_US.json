@@ -2688,6 +2688,11 @@
       "id": 128,
       "caption": "Alliance Challenge December 2025",
       "key": "AWARD_ALLIANCE_CHALLENGE_DECEMBER_2025"
+    },
+    {
+      "id": 129,
+      "caption": "Christmas Collector 2025",
+      "key": "AWARD_CHRISTMAS_COLLECTION_2025"
     }
   ],
   "filter_types": [
