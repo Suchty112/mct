@@ -2241,6 +2241,11 @@
       "id": 123,
       "caption": "Alliansutmaning december 2025",
       "key": "AWARD_ALLIANCE_CHALLENGE_DECEMBER_2025"
+    },
+    {
+      "id": 124,
+      "caption": "Julsamlare 2025",
+      "key": "AWARD_CHRISTMAS_COLLECTION_2025"
     }
   ],
   "filter_types": [
