@@ -2341,6 +2341,11 @@
       "id": 122,
       "caption": "Desafío de la Alianza Diciembre 2025",
       "key": "AWARD_ALLIANCE_CHALLENGE_DECEMBER_2025"
+    },
+    {
+      "id": 123,
+      "caption": "Coleccionista de Navidad 2025",
+      "key": "AWARD_CHRISTMAS_COLLECTION_2025"
     }
   ],
   "filter_types": [
