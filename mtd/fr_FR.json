@@ -2644,6 +2644,11 @@
       "id": 128,
       "caption": "Défi de l'Alliance Décembre 2025",
       "key": "AWARD_ALLIANCE_CHALLENGE_DECEMBER_2025"
+    },
+    {
+      "id": 129,
+      "caption": "Collectionneur de Noël 2025",
+      "key": "AWARD_CHRISTMAS_COLLECTION_2025"
     }
   ],
   "filter_types": [
