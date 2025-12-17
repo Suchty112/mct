@@ -2649,6 +2649,16 @@
       "id": 129,
       "caption": "Collectionneur de Noël 2025",
       "key": "AWARD_CHRISTMAS_COLLECTION_2025"
+    },
+    {
+      "id": 130,
+      "caption": "Nouvelle Année 2025",
+      "key": "AWARD_NEWYEAR_2025"
+    },
+    {
+      "id": 131,
+      "caption": "Événement d'hiver 2026",
+      "key": "AWARD_WINTER_2026"
     }
   ],
   "filter_types": [
@@ -6297,6 +6307,14 @@
     {
       "id": 896,
       "caption": "Manifestation d’elfes"
+    },
+    {
+      "id": 897,
+      "caption": "Incendie touchant trois maisons mitoyennes"
+    },
+    {
+      "id": 898,
+      "caption": "Endommagement d’une péniche TMD lors du passage d’une écluse"
     }
   ]
 }
