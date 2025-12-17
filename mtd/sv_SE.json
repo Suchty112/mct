@@ -2246,6 +2246,16 @@
       "id": 124,
       "caption": "Julsamlare 2025",
       "key": "AWARD_CHRISTMAS_COLLECTION_2025"
+    },
+    {
+      "id": 125,
+      "caption": "Nytt år 2025",
+      "key": "AWARD_NEWYEAR_2025"
+    },
+    {
+      "id": 126,
+      "caption": "Vinterevenemang 2026",
+      "key": "AWARD_WINTER_2026"
     }
   ],
   "filter_types": [
@@ -5118,6 +5128,10 @@
     {
       "id": 703,
       "caption": "Protesterende tomtenissar"
+    },
+    {
+      "id": 704,
+      "caption": "Festivalen översvämmas"
     }
   ]
 }
