@@ -6623,6 +6623,34 @@
     {
       "id": 951,
       "caption": "Waffenfund"
+    },
+    {
+      "id": 952,
+      "caption": "Absicherung Besuch des Weihnachtsmannes"
+    },
+    {
+      "id": 953,
+      "caption": "Absicherung Geschenketransport"
+    },
+    {
+      "id": 954,
+      "caption": "Notlandung Weihnachtsschlitten (klein)"
+    },
+    {
+      "id": 955,
+      "caption": "Notlandung Weihnachtsschlitten (groß)"
+    },
+    {
+      "id": 956,
+      "caption": "Streit bei Weihnachtsessen"
+    },
+    {
+      "id": 957,
+      "caption": "Unterstützung Geschenkelieferung"
+    },
+    {
+      "id": 958,
+      "caption": "Weihnachtsgans im Ofen vergessen"
     }
   ]
 }
