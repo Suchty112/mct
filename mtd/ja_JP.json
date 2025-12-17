@@ -2113,6 +2113,16 @@
       "id": 120,
       "caption": "クリスマス・コレクター 2025",
       "key": "AWARD_CHRISTMAS_COLLECTION_2025"
+    },
+    {
+      "id": 121,
+      "caption": "2025 新年",
+      "key": "AWARD_NEWYEAR_2025"
+    },
+    {
+      "id": 122,
+      "caption": "2026 冬のイベント",
+      "key": "AWARD_WINTER_2026"
     }
   ],
   "filter_types": [
@@ -4733,6 +4743,10 @@
     {
       "id": 639,
       "caption": "エルフによる抗議活動"
+    },
+    {
+      "id": 640,
+      "caption": "祭りが水浸しになる"
     }
   ]
 }
