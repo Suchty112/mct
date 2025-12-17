@@ -2721,6 +2721,16 @@
       "id": 121,
       "caption": "Christmas Collector 2025",
       "key": "AWARD_CHRISTMAS_COLLECTION_2025"
+    },
+    {
+      "id": 122,
+      "caption": "New Year 2025",
+      "key": "AWARD_NEWYEAR_2025"
+    },
+    {
+      "id": 123,
+      "caption": "Winter Event 2026",
+      "key": "AWARD_WINTER_2026"
     }
   ],
   "filter_types": [
@@ -6037,6 +6047,10 @@
     {
       "id": 814,
       "caption": "Elves Protesting"
+    },
+    {
+      "id": 815,
+      "caption": "Large Animal Rescue"
     }
   ]
 }
