@@ -136,13 +136,13 @@
       "type": "Integer"
     },
     {
-      "key": "water_needed",
-      "caption": "Water Benodigd",
+      "key": "brush_extension_count",
+      "caption": "Natuurbrandbestrijding Uitbreidingen",
       "type": "Integer"
     },
     {
-      "key": "brush_extension_count",
-      "caption": "Natuurbrandbestrijding Uitbreidingen",
+      "key": "water_needed",
+      "caption": "Water Benodigd",
       "type": "Integer"
     },
     {
@@ -476,21 +476,6 @@
       "type": "Integer"
     },
     {
-      "key": "need_wildfire_command",
-      "caption": "Benodigde DA-LA-NB",
-      "type": "Integer"
-    },
-    {
-      "key": "need_wildfire_equipment",
-      "caption": "Benodigde Natuurbrandbestrijding Uitrusting",
-      "type": "Integer"
-    },
-    {
-      "key": "required_personnel_educations",
-      "caption": "Benodigde Personeel",
-      "type": "Unknown"
-    },
-    {
       "key": "subsequent_missions",
       "caption": "Vervolginzet",
       "type": "Unknown"
@@ -499,6 +484,21 @@
       "key": "subsequent_missions_probabilities",
       "caption": null,
       "type": "Unknown"
+    },
+    {
+      "key": "required_personnel_educations",
+      "caption": "Benodigde Personeel",
+      "type": "Unknown"
+    },
+    {
+      "key": "need_wildfire_command",
+      "caption": "Benodigde DA-LA-NB",
+      "type": "Integer"
+    },
+    {
+      "key": "need_wildfire_equipment",
+      "caption": "Benodigde Natuurbrandbestrijding Uitrusting",
+      "type": "Integer"
     },
     {
       "key": "additive_value_overlays",
