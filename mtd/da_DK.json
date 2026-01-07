@@ -2180,6 +2180,16 @@
       "id": 134,
       "caption": "Vinterbegivenhed 2026",
       "key": "AWARD_WINTER_2026"
+    },
+    {
+      "id": 135,
+      "caption": "6 års jubilæum",
+      "key": "AWARD_SIX_YEARS"
+    },
+    {
+      "id": 136,
+      "caption": "Alliance Challenge januar 2026",
+      "key": "AWARD_ALLIANCE_CHALLENGE_JAN_2026"
     }
   ],
   "filter_types": [
