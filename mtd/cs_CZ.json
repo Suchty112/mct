@@ -2340,6 +2340,16 @@
       "id": 133,
       "caption": "Zimní akce 2026\n",
       "key": "AWARD_WINTER_2026"
+    },
+    {
+      "id": 134,
+      "caption": "6. výročí",
+      "key": "AWARD_SIX_YEARS"
+    },
+    {
+      "id": 135,
+      "caption": "Alianční výzva leden 2026",
+      "key": "AWARD_ALLIANCE_CHALLENGE_JAN_2026"
     }
   ],
   "filter_types": [
