@@ -2571,6 +2571,11 @@
       "id": 152,
       "caption": "Winter Event 2026",
       "key": "AWARD_WINTER_2026"
+    },
+    {
+      "id": 153,
+      "caption": "Team Uitdaging Januari 2026",
+      "key": "AWARD_ALLIANCE_CHALLENGE_JAN_2026"
     }
   ],
   "filter_types": [
