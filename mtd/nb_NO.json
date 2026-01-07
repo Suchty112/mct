@@ -2418,6 +2418,16 @@
       "id": 120,
       "caption": "Vinterarrangement 2026",
       "key": "AWARD_WINTER_2026"
+    },
+    {
+      "id": 121,
+      "caption": "6-årsjubileum",
+      "key": "AWARD_SIX_YEARS"
+    },
+    {
+      "id": 122,
+      "caption": "Alliansens utfordring Januar 2026",
+      "key": "AWARD_ALLIANCE_CHALLENGE_JAN_2026"
     }
   ],
   "filter_types": [
