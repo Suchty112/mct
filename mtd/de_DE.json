@@ -2765,6 +2765,11 @@
       "id": 148,
       "caption": "Winter-Einsätze 2026",
       "key": "AWARD_WINTER_2026"
+    },
+    {
+      "id": 149,
+      "caption": "Verbands-Herausforderung Januar 2026",
+      "key": "AWARD_ALLIANCE_CHALLENGE_JAN_2026"
     }
   ],
   "filter_types": [
