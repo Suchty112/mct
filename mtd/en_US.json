@@ -2703,6 +2703,11 @@
       "id": 131,
       "caption": "Winter Event 2026",
       "key": "AWARD_WINTER_2026"
+    },
+    {
+      "id": 132,
+      "caption": "Alliance Challenge January 2026",
+      "key": "AWARD_ALLIANCE_CHALLENGE_JAN_2026"
     }
   ],
   "filter_types": [
