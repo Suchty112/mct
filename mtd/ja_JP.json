@@ -2123,6 +2123,11 @@
       "id": 122,
       "caption": "2026 冬のイベント",
       "key": "AWARD_WINTER_2026"
+    },
+    {
+      "id": 123,
+      "caption": "アライアンス・チャレンジ 2026年1月",
+      "key": "AWARD_ALLIANCE_CHALLENGE_JAN_2026"
     }
   ],
   "filter_types": [
