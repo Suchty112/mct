@@ -2256,6 +2256,11 @@
       "id": 126,
       "caption": "Vinterevenemang 2026",
       "key": "AWARD_WINTER_2026"
+    },
+    {
+      "id": 127,
+      "caption": "Alliansens utmaning januari 2026",
+      "key": "AWARD_ALLIANCE_CHALLENGE_JAN_2026"
     }
   ],
   "filter_types": [
