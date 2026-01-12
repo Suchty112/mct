@@ -261,6 +261,11 @@
       "type": "Integer"
     },
     {
+      "key": "need_oneof_fire_engine_or_disaster_response_crew",
+      "caption": "Required Fire Engines or SES Vehicles",
+      "type": "Integer"
+    },
+    {
       "key": "need_rtw",
       "caption": "Required Ambulances",
       "type": "Integer"
@@ -268,6 +273,16 @@
     {
       "key": "rth_need_quote",
       "caption": "Air Ambulance request chance",
+      "type": "Integer"
+    },
+    {
+      "key": "brush_extension_count",
+      "caption": "Required Bushfire expansions",
+      "type": "Integer"
+    },
+    {
+      "key": "need_brush_truck",
+      "caption": "Required Brushfire Vehicles",
       "type": "Integer"
     },
     {
@@ -413,16 +428,6 @@
     {
       "key": "water_needed",
       "caption": "Water required",
-      "type": "Integer"
-    },
-    {
-      "key": "need_brush_truck",
-      "caption": "Required Brushfire Vehicles",
-      "type": "Integer"
-    },
-    {
-      "key": "brush_extension_count",
-      "caption": "Required Bushfire expansions",
       "type": "Integer"
     },
     {
