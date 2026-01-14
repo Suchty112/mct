@@ -819,6 +819,21 @@
       "key": "need_elw_police",
       "caption": "Dirigente Volanti richiesta",
       "type": "Integer"
+    },
+    {
+      "key": "heli_tech_count",
+      "caption": "Verricello richiesto",
+      "type": "Integer"
+    },
+    {
+      "key": "need_heli_tech",
+      "caption": "Verricello richiesto",
+      "type": "Integer"
+    },
+    {
+      "key": "need_mountain_command",
+      "caption": "AF/CCR Richiesto",
+      "type": "Integer"
     }
   ],
   "pois": [
@@ -1153,6 +1168,10 @@
     {
       "id": 83,
       "caption": "Grotta"
+    },
+    {
+      "id": 84,
+      "caption": "Pista da sci"
     }
   ],
   "available_icons": [
@@ -1201,7 +1220,8 @@
     "hiking",
     "bus",
     "lightningStrike",
-    "bridge"
+    "bridge",
+    "skiing"
   ],
   "building_types": [
     {
@@ -5819,6 +5839,18 @@
     {
       "id": 817,
       "caption": "Il festival viene allagato"
+    },
+    {
+      "id": 818,
+      "caption": "Arrampicatore colpito da una roccia in montagna"
+    },
+    {
+      "id": 819,
+      "caption": "Escursionista con distorsione alla caviglia in montagna"
+    },
+    {
+      "id": 820,
+      "caption": "Evacuazione da una funivia a causa di un avaria"
     }
   ]
 }
