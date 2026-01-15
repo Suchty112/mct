@@ -326,6 +326,16 @@
       "type": "Integer"
     },
     {
+      "key": "game_warden_count",
+      "caption": "Richiesta Estensione Forestale",
+      "type": "Integer"
+    },
+    {
+      "key": "need_game_warden",
+      "caption": "Richiesta pattuglia Forestale",
+      "type": "Integer"
+    },
+    {
       "key": "traffic_police_count",
       "caption": "Richiesta Estensione Polizia Stradale",
       "type": "Integer"
@@ -348,6 +358,11 @@
     {
       "key": "need_commerce_police",
       "caption": "Richiesta finanza",
+      "type": "Integer"
+    },
+    {
+      "key": "need_boot",
+      "caption": "Richiesto barche",
       "type": "Integer"
     },
     {
@@ -441,11 +456,6 @@
       "type": "Integer"
     },
     {
-      "key": "need_boot",
-      "caption": "Richiesto barche",
-      "type": "Integer"
-    },
-    {
       "key": "personal_min_polizei",
       "caption": "Media min. Personale di polizia",
       "type": "Integer"
@@ -509,16 +519,6 @@
       "key": "subsequent_mission_only",
       "caption": "Può essere solo una missione successiva di un'altra missione",
       "type": "Boolean"
-    },
-    {
-      "key": "game_warden_count",
-      "caption": "Richiesta Estensione Forestale",
-      "type": "Integer"
-    },
-    {
-      "key": "need_game_warden",
-      "caption": "Richiesta pattuglia Forestale",
-      "type": "Integer"
     },
     {
       "key": "water_cannon_count",
@@ -3566,11 +3566,11 @@
     },
     {
       "id": 249,
-      "caption": "Controllo mezzi pesanti"
+      "caption": "Controllo Mezzi Pesanti in Porto"
     },
     {
       "id": 250,
-      "caption": "Controllo mezzi pesanti"
+      "caption": "Controllo Mezzi Pesanti al Casello"
     },
     {
       "id": 251,
@@ -5851,6 +5851,14 @@
     {
       "id": 820,
       "caption": "Evacuazione da una funivia a causa di un avaria"
+    },
+    {
+      "id": 821,
+      "caption": "Scuolabus si scontrano a causa del ghiaccio nero"
+    },
+    {
+      "id": 822,
+      "caption": "Treno bloccato in una tempesta di neve"
     }
   ]
 }
