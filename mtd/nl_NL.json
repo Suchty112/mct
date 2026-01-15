@@ -471,6 +471,16 @@
       "type": "Integer"
     },
     {
+      "key": "crashed_car_icons",
+      "caption": null,
+      "type": "Unknown"
+    },
+    {
+      "key": "additive_value_overlays",
+      "caption": null,
+      "type": "Unknown"
+    },
+    {
       "key": "ktw_value",
       "caption": null,
       "type": "Integer"
@@ -499,11 +509,6 @@
       "key": "need_wildfire_equipment",
       "caption": "Benodigde Natuurbrandbestrijding Uitrusting",
       "type": "Integer"
-    },
-    {
-      "key": "additive_value_overlays",
-      "caption": null,
-      "type": "Unknown"
     },
     {
       "key": "need_fire_aviation",
@@ -744,11 +749,6 @@
       "key": "need_gwwasserrettung",
       "caption": "Benodigde strandvoertuigen (Quad, DAT-RB of KHV)",
       "type": "Integer"
-    },
-    {
-      "key": "crashed_car_icons",
-      "caption": null,
-      "type": "Unknown"
     },
     {
       "key": "crashed_car_large_icons",
@@ -7392,6 +7392,14 @@
     {
       "id": 1188,
       "caption": "Zwaar vuurwerk aangetroffen"
+    },
+    {
+      "id": 1189,
+      "caption": "Aanhanger losgeschoten"
+    },
+    {
+      "id": 1190,
+      "caption": "Vrachtwagen rijdt tegen losgeschoten aanhanger"
     }
   ]
 }
