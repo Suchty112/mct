@@ -1019,6 +1019,10 @@
     {
       "id": 81,
       "caption": "Zoo"
+    },
+    {
+      "id": 82,
+      "caption": "Market"
     }
   ],
   "available_icons": [
@@ -5416,6 +5420,14 @@
     {
       "id": 810,
       "caption": "Large Animal Rescue"
+    },
+    {
+      "id": 811,
+      "caption": "Drive-in Theater Accident"
+    },
+    {
+      "id": 812,
+      "caption": "Farmers Market Fight"
     }
   ]
 }
