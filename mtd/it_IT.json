@@ -834,6 +834,16 @@
       "key": "need_mountain_command",
       "caption": "AF/CCR Richiesto",
       "type": "Integer"
+    },
+    {
+      "key": "mountain_snow_dogs_count",
+      "caption": "Cane da Valanga obbligatorio",
+      "type": "Integer"
+    },
+    {
+      "key": "need_mountain_snow_dogs",
+      "caption": "Cane da Valanga obbligatorio",
+      "type": "Integer"
     }
   ],
   "pois": [
@@ -5854,10 +5864,22 @@
     },
     {
       "id": 821,
-      "caption": "Scuolabus si scontrano a causa del ghiaccio nero"
+      "caption": "Sciatore in Fuoripista Disperso"
     },
     {
       "id": 822,
+      "caption": "Escursionista Travolto da Valanga"
+    },
+    {
+      "id": 823,
+      "caption": "Valanga sulla Pista da Sci"
+    },
+    {
+      "id": 824,
+      "caption": "Scuolabus si scontrano a causa del ghiaccio nero"
+    },
+    {
+      "id": 825,
       "caption": "Treno bloccato in una tempesta di neve"
     }
   ]
