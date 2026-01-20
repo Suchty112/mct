@@ -1039,6 +1039,11 @@
       "key": "need_police_speaker",
       "caption": "Benötigte LauKw",
       "type": "Integer"
+    },
+    {
+      "key": "airport_count",
+      "caption": "Voraussetzung an Flughafen-Erweiterungen",
+      "type": "Integer"
     }
   ],
   "pois": [
@@ -1301,6 +1306,10 @@
     {
       "id": 64,
       "caption": "Solarpark"
+    },
+    {
+      "id": 65,
+      "caption": "Raffinerie"
     }
   ],
   "available_icons": [
@@ -6674,6 +6683,10 @@
     {
       "id": 960,
       "caption": "Brand in Ölraffinerie"
+    },
+    {
+      "id": 961,
+      "caption": "Flugzeug von Start-/Landebahn abgekommen"
     }
   ]
 }
