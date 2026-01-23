@@ -7183,7 +7183,19 @@
     },
     {
       "id": 1104,
-      "caption": "Roller Coaster Derailment Minor,"
+      "caption": "Roller Coaster Derailment (Minor)"
+    },
+    {
+      "id": 1105,
+      "caption": "Roller Coaster Derailment (Moderate)"
+    },
+    {
+      "id": 1106,
+      "caption": "Roller Coaster Derailment (Severe)"
+    },
+    {
+      "id": 1107,
+      "caption": "Roller Coaster Derailment (Major)"
     }
   ]
 }
