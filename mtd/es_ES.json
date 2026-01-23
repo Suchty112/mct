@@ -5160,7 +5160,19 @@
     },
     {
       "id": 684,
-      "caption": "Una línea eléctrica provoca un incendio en tierras de cultivo"
+      "caption": "Descarrilamiento de Montaña Rusa (Leve)"
+    },
+    {
+      "id": 685,
+      "caption": "Descarrilamiento de Montaña Rusa (Moderado)"
+    },
+    {
+      "id": 686,
+      "caption": "Descarrilamiento de Montaña Rusa (Grave)"
+    },
+    {
+      "id": 687,
+      "caption": "Descarrilamiento de Montaña Rusa (Crítico)"
     }
   ]
 }
