@@ -2517,6 +2517,31 @@
       "id": 133,
       "caption": "Sfida dell'Alleanza gennaio 2026",
       "key": "AWARD_ALLIANCE_CHALLENGE_JAN_2026"
+    },
+    {
+      "id": 134,
+      "caption": "Giorno di San Valentino 2026",
+      "key": "AWARD_VALENTINES_MISSIONS_2026"
+    },
+    {
+      "id": 135,
+      "caption": "Cacciatore di cuori 2026",
+      "key": "AWARD_VALENTINES_COLLECTION_2026"
+    },
+    {
+      "id": 136,
+      "caption": "Sfida dell'Alleanza febbraio 2026",
+      "key": "AWARD_ALLIANCE_CHALLENGE_FEB_2026"
+    },
+    {
+      "id": 137,
+      "caption": "Giornata del Numero di Emergenza Unico Europeo 112 (2026)",
+      "key": "AWARD_EUROPEAN_112_DAY_2026"
+    },
+    {
+      "id": 138,
+      "caption": "Carnevale 2026",
+      "key": "AWARD_CARNIVAL_2026"
     }
   ],
   "filter_types": [
