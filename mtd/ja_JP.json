@@ -2128,6 +2128,26 @@
       "id": 123,
       "caption": "アライアンス・チャレンジ 2026年1月",
       "key": "AWARD_ALLIANCE_CHALLENGE_JAN_2026"
+    },
+    {
+      "id": 124,
+      "caption": "バレンタインデー 2026",
+      "key": "AWARD_VALENTINES_MISSIONS_2026"
+    },
+    {
+      "id": 125,
+      "caption": "ハートハンター 2026",
+      "key": "AWARD_VALENTINES_COLLECTION_2026"
+    },
+    {
+      "id": 126,
+      "caption": "アライアンス・チャレンジ 2026年2月",
+      "key": "AWARD_ALLIANCE_CHALLENGE_FEB_2026"
+    },
+    {
+      "id": 127,
+      "caption": "6周年記念！",
+      "key": null
     }
   ],
   "filter_types": [
