@@ -2350,6 +2350,31 @@
       "id": 135,
       "caption": "Alianční výzva leden 2026",
       "key": "AWARD_ALLIANCE_CHALLENGE_JAN_2026"
+    },
+    {
+      "id": 136,
+      "caption": "Den sv. Valentýna 2026",
+      "key": "AWARD_VALENTINES_MISSIONS_2026"
+    },
+    {
+      "id": 137,
+      "caption": "Lovec srdcí 2026",
+      "key": "AWARD_VALENTINES_COLLECTION_2026"
+    },
+    {
+      "id": 138,
+      "caption": "Alianční výzva únor 2026",
+      "key": "AWARD_ALLIANCE_CHALLENGE_FEB_2026"
+    },
+    {
+      "id": 139,
+      "caption": "Evropský den linky 112 2026",
+      "key": "AWARD_EUROPEAN_112_DAY_2026"
+    },
+    {
+      "id": 140,
+      "caption": "Karneval 2026",
+      "key": "AWARD_CARNIVAL_2026"
     }
   ],
   "filter_types": [
