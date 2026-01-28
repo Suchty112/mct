@@ -2774,6 +2774,31 @@
       "id": 149,
       "caption": "Verbands-Herausforderung Januar 2026",
       "key": "AWARD_ALLIANCE_CHALLENGE_JAN_2026"
+    },
+    {
+      "id": 150,
+      "caption": "Valentinstag 2026",
+      "key": "AWARD_VALENTINES_MISSIONS_2026"
+    },
+    {
+      "id": 151,
+      "caption": "Herzensbrecher 2026",
+      "key": "AWARD_VALENTINES_COLLECTION_2026"
+    },
+    {
+      "id": 152,
+      "caption": "Verbands-Herausforderung Februar 2026",
+      "key": "AWARD_ALLIANCE_CHALLENGE_FEB_2026"
+    },
+    {
+      "id": 153,
+      "caption": "Europäischer Tag des Notrufs 112 (2026)",
+      "key": "AWARD_EUROPEAN_112_DAY_2026"
+    },
+    {
+      "id": 154,
+      "caption": "Karneval 2026",
+      "key": "AWARD_CARNIVAL_2026"
     }
   ],
   "filter_types": [
