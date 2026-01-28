@@ -2361,6 +2361,26 @@
       "id": 126,
       "caption": "Reto de la Alianza Enero 2026",
       "key": "AWARD_ALLIANCE_CHALLENGE_JAN_2026"
+    },
+    {
+      "id": 127,
+      "caption": "San Valentín 2026",
+      "key": "AWARD_VALENTINES_MISSIONS_2026"
+    },
+    {
+      "id": 128,
+      "caption": "Cazador de corazones 2026",
+      "key": "AWARD_VALENTINES_COLLECTION_2026"
+    },
+    {
+      "id": 129,
+      "caption": "Reto de la Alianza Febrero 2026",
+      "key": "AWARD_ALLIANCE_CHALLENGE_FEB_2026"
+    },
+    {
+      "id": 130,
+      "caption": "Día del número de emergencias europeo 112 (2026)",
+      "key": "AWARD_EUROPEAN_112_DAY_2026"
     }
   ],
   "filter_types": [
