@@ -2576,6 +2576,36 @@
       "id": 153,
       "caption": "Team Uitdaging Januari 2026",
       "key": "AWARD_ALLIANCE_CHALLENGE_JAN_2026"
+    },
+    {
+      "id": 154,
+      "caption": "Valentijnsdag 2026",
+      "key": "AWARD_VALENTINES_MISSIONS_2026"
+    },
+    {
+      "id": 155,
+      "caption": "Romanticus 2026",
+      "key": "AWARD_VALENTINES_COLLECTION_2026"
+    },
+    {
+      "id": 156,
+      "caption": "10 Jarig Jubileum!",
+      "key": "AWARD_TEN_YEARS"
+    },
+    {
+      "id": 157,
+      "caption": "Team Uitdaging February 2026",
+      "key": "AWARD_ALLIANCE_CHALLENGE_FEB_2026"
+    },
+    {
+      "id": 158,
+      "caption": "Europese 112-dag 2026",
+      "key": "AWARD_EUROPEAN_112_DAY_2026"
+    },
+    {
+      "id": 159,
+      "caption": "Carnaval 2026",
+      "key": "AWARD_CARNIVAL_2026"
     }
   ],
   "filter_types": [
