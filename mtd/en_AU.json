@@ -2120,6 +2120,21 @@
       "id": 125,
       "caption": "Alliance Challenge January 2026",
       "key": "AWARD_ALLIANCE_CHALLENGE_JAN_2026"
+    },
+    {
+      "id": 126,
+      "caption": "Valentine's Day 2026",
+      "key": "AWARD_VALENTINES_MISSIONS_2026"
+    },
+    {
+      "id": 127,
+      "caption": "Tender-Hearted 2026",
+      "key": "AWARD_VALENTINES_COLLECTION_2026"
+    },
+    {
+      "id": 128,
+      "caption": "Alliance Challenge February 2026",
+      "key": "AWARD_ALLIANCE_CHALLENGE_FEB_2026"
     }
   ],
   "filter_types": [
