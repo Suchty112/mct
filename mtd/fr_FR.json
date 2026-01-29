@@ -6353,6 +6353,14 @@
     {
       "id": 900,
       "caption": "Feu d’une maison de type longère"
+    },
+    {
+      "id": 901,
+      "caption": "Chocolats empoisonnés"
+    },
+    {
+      "id": 902,
+      "caption": "Anniversaire oublié"
     }
   ]
 }
