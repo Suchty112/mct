@@ -824,6 +824,11 @@
       "key": "need_streifenwagen_chance",
       "caption": "Sannsynlighet for at politi er nødvendig",
       "type": "Integer"
+    },
+    {
+      "key": "nef_need_quote",
+      "caption": "Sannsynlighet for NEF",
+      "type": "Integer"
     }
   ],
   "pois": [
@@ -5456,6 +5461,14 @@
     {
       "id": 737,
       "caption": "Kollisjon mellom en windsurfer og en svømmer"
+    },
+    {
+      "id": 738,
+      "caption": "Forgiftede sjokolader"
+    },
+    {
+      "id": 739,
+      "caption": "Glemt jubileum"
     }
   ]
 }
