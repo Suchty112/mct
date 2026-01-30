@@ -442,7 +442,7 @@
     },
     {
       "key": "valentines_count",
-      "caption": "Wymagany poziom Halloween",
+      "caption": "Wymagany poziom Valentine",
       "type": "Integer"
     },
     {
