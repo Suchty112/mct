@@ -766,6 +766,26 @@
       "type": "Integer"
     },
     {
+      "key": "alliance_event_credits",
+      "caption": "Verband Event Credits",
+      "type": "Integer"
+    },
+    {
+      "key": "event_currency",
+      "caption": "Event Credits",
+      "type": "Integer"
+    },
+    {
+      "key": "season_event",
+      "caption": "Valentinstag",
+      "type": "Symbol"
+    },
+    {
+      "key": "valentines_count",
+      "caption": "Benötigtes Halloween-Level",
+      "type": "Integer"
+    },
+    {
       "key": "guard_dog_count",
       "caption": "Voraussetzung an Diensthundestaffeln",
       "type": "Integer"
