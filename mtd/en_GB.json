@@ -386,6 +386,26 @@
       "type": "Integer"
     },
     {
+      "key": "alliance_event_credits",
+      "caption": "Alliance Event Credits",
+      "type": "Integer"
+    },
+    {
+      "key": "event_currency",
+      "caption": "Event Credits",
+      "type": "Integer"
+    },
+    {
+      "key": "season_event",
+      "caption": "Valentines",
+      "type": "Symbol"
+    },
+    {
+      "key": "valentines_count",
+      "caption": "Halloween level needed",
+      "type": "Integer"
+    },
+    {
       "key": "personal_min_polizei",
       "caption": "Average min . Police Personnel",
       "type": "Integer"
