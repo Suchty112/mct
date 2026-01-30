@@ -426,6 +426,26 @@
       "type": "Integer"
     },
     {
+      "key": "alliance_event_credits",
+      "caption": "Kredyty na wydarzenia sojuszu",
+      "type": "Integer"
+    },
+    {
+      "key": "event_currency",
+      "caption": "Kredyty na wydarzenia",
+      "type": "Integer"
+    },
+    {
+      "key": "season_event",
+      "caption": "Walentynki",
+      "type": "Symbol"
+    },
+    {
+      "key": "valentines_count",
+      "caption": "Wymagany poziom Halloween",
+      "type": "Integer"
+    },
+    {
       "key": "need_foam",
       "caption": "Wymagane samochody ze zbiornikiem na piane",
       "type": "Integer"
