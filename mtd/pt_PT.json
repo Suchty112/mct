@@ -356,6 +356,26 @@
       "type": "Integer"
     },
     {
+      "key": "alliance_event_credits",
+      "caption": "Créditos de eventos da aliança",
+      "type": "Integer"
+    },
+    {
+      "key": "event_currency",
+      "caption": "Créditos de eventos",
+      "type": "Integer"
+    },
+    {
+      "key": "season_event",
+      "caption": "Namorados",
+      "type": "Symbol"
+    },
+    {
+      "key": "valentines_count",
+      "caption": "Nível de Halloween necessário",
+      "type": "Integer"
+    },
+    {
       "key": "brush_value",
       "caption": null,
       "type": "Integer"
@@ -673,11 +693,6 @@
     {
       "key": "need_streifenwagen_chance",
       "caption": "Probabilidade de requerer um Carro Patrulha",
-      "type": "Integer"
-    },
-    {
-      "key": "alliance_event_credits",
-      "caption": "Créditos de eventos da aliança",
       "type": "Integer"
     },
     {
