@@ -436,6 +436,26 @@
       "type": "Unknown"
     },
     {
+      "key": "alliance_event_credits",
+      "caption": "Crédits de l'événement de l'Alliance",
+      "type": "Integer"
+    },
+    {
+      "key": "event_currency",
+      "caption": "Crédits de l'événement",
+      "type": "Integer"
+    },
+    {
+      "key": "season_event",
+      "caption": "Les Valentins",
+      "type": "Symbol"
+    },
+    {
+      "key": "valentines_count",
+      "caption": "Niveau d'Halloween requis",
+      "type": "Integer"
+    },
+    {
       "key": "ktw_value",
       "caption": null,
       "type": "Integer"
