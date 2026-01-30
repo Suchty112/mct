@@ -322,7 +322,7 @@
     },
     {
       "key": "valentines_count",
-      "caption": "ハロウィーンレベル必要",
+      "caption": "必要なバレンタイン・レベル",
       "type": "Integer"
     },
     {
