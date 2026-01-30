@@ -422,7 +422,7 @@
     },
     {
       "key": "valentines_count",
-      "caption": "Potřebná úroveň Halloween",
+      "caption": "Potřebná úroveň Valentine",
       "type": "Integer"
     },
     {
