@@ -461,6 +461,26 @@
       "type": "Integer"
     },
     {
+      "key": "alliance_event_credits",
+      "caption": "Crediti per eventi dell'Alleanza",
+      "type": "Integer"
+    },
+    {
+      "key": "event_currency",
+      "caption": "Crediti dell'evento",
+      "type": "Integer"
+    },
+    {
+      "key": "season_event",
+      "caption": "Valentines",
+      "type": "Symbol"
+    },
+    {
+      "key": "valentines_count",
+      "caption": "Livello di Halloween necessario",
+      "type": "Integer"
+    },
+    {
       "key": "expansion_mission_only",
       "caption": "Può essere solo un'espansione di un'altra missione",
       "type": "Boolean"
