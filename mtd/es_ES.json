@@ -346,6 +346,26 @@
       "type": "Integer"
     },
     {
+      "key": "alliance_event_credits",
+      "caption": "Créditos de eventos de la Alianza",
+      "type": "Integer"
+    },
+    {
+      "key": "event_currency",
+      "caption": "Créditos del evento",
+      "type": "Integer"
+    },
+    {
+      "key": "season_event",
+      "caption": "San Valentín",
+      "type": "Symbol"
+    },
+    {
+      "key": "valentines_count",
+      "caption": "Nivel de Halloween necesario",
+      "type": "Integer"
+    },
+    {
       "key": "personal_min_feuerwehr",
       "caption": "Media de personal antiincendios mín.",
       "type": "Integer"
