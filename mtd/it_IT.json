@@ -477,7 +477,7 @@
     },
     {
       "key": "valentines_count",
-      "caption": "Livello di Halloween necessario",
+      "caption": "Livello di San Valentino necessario",
       "type": "Integer"
     },
     {
