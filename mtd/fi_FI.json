@@ -367,7 +367,7 @@
     },
     {
       "key": "valentines_count",
-      "caption": "Halloween taso tarvitaan",
+      "caption": "Tarvittava Valentine-taso",
       "type": "Integer"
     },
     {
