@@ -447,7 +447,7 @@
     },
     {
       "key": "valentines_count",
-      "caption": "Halloween-nivå krävs",
+      "caption": "Valentine-nivå behövs",
       "type": "Integer"
     },
     {
