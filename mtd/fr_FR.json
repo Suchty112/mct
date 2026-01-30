@@ -452,7 +452,7 @@
     },
     {
       "key": "valentines_count",
-      "caption": "Niveau d'Halloween requis",
+      "caption": "Niveau de valence requis",
       "type": "Integer"
     },
     {
