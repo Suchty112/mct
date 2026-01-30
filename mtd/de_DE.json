@@ -782,7 +782,7 @@
     },
     {
       "key": "valentines_count",
-      "caption": "Benötigtes Halloween-Level",
+      "caption": "Benötigtes Valentins-Level",
       "type": "Integer"
     },
     {
