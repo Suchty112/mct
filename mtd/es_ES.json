@@ -362,7 +362,7 @@
     },
     {
       "key": "valentines_count",
-      "caption": "Nivel de Halloween necesario",
+      "caption": "Nivel de Valentine necesario",
       "type": "Integer"
     },
     {
