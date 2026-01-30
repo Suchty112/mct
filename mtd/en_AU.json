@@ -422,7 +422,7 @@
     },
     {
       "key": "valentines_count",
-      "caption": "Halloween level needed",
+      "caption": "Valentine level needed",
       "type": "Integer"
     },
     {
