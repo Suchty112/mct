@@ -396,6 +396,26 @@
       "type": "Boolean"
     },
     {
+      "key": "alliance_event_credits",
+      "caption": "Kreditter for alliansearrangementer",
+      "type": "Integer"
+    },
+    {
+      "key": "event_currency",
+      "caption": "Event Credits",
+      "type": "Integer"
+    },
+    {
+      "key": "season_event",
+      "caption": "Valentines",
+      "type": "Symbol"
+    },
+    {
+      "key": "valentines_count",
+      "caption": "Halloween-nivå nødvendig",
+      "type": "Integer"
+    },
+    {
       "key": "rescue_boat_dock_count",
       "caption": "Nødvendige redningsbåthavner",
       "type": "Integer"
