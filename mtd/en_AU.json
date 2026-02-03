@@ -1115,6 +1115,54 @@
         {
           "id": 5,
           "caption": "Vehicle Slots"
+        },
+        {
+          "id": 6,
+          "caption": "Pod Parking Space"
+        },
+        {
+          "id": 7,
+          "caption": "Pod Parking Space"
+        },
+        {
+          "id": 8,
+          "caption": "Pod Parking Space"
+        },
+        {
+          "id": 9,
+          "caption": "Pod Parking Space"
+        },
+        {
+          "id": 10,
+          "caption": "Pod Parking Space"
+        },
+        {
+          "id": 11,
+          "caption": "Pod Parking Space"
+        },
+        {
+          "id": 12,
+          "caption": "Pod Parking Space"
+        },
+        {
+          "id": 13,
+          "caption": "Pod Parking Space"
+        },
+        {
+          "id": 14,
+          "caption": "Pod Parking Space"
+        },
+        {
+          "id": 15,
+          "caption": "Pod Parking Space"
+        },
+        {
+          "id": 16,
+          "caption": "Pod Parking Space"
+        },
+        {
+          "id": 17,
+          "caption": "Pod Parking Space"
         }
       ]
     },
