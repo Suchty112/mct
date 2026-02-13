@@ -6381,6 +6381,18 @@
     {
       "id": 902,
       "caption": "Anniversaire oublié"
+    },
+    {
+      "id": 903,
+      "caption": "Renfort en zone d’émeutes urbaines à haute intensité"
+    },
+    {
+      "id": 904,
+      "caption": "Fuite sur un camion-citerne transportant du propane"
+    },
+    {
+      "id": 905,
+      "caption": "Chat bloqué sur un toit"
     }
   ]
 }
