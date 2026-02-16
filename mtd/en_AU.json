@@ -406,26 +406,6 @@
       "type": "Integer"
     },
     {
-      "key": "alliance_event_credits",
-      "caption": "Alliance Event Credits",
-      "type": "Integer"
-    },
-    {
-      "key": "event_currency",
-      "caption": "Event Credits",
-      "type": "Integer"
-    },
-    {
-      "key": "season_event",
-      "caption": "Valentines",
-      "type": "Symbol"
-    },
-    {
-      "key": "valentines_count",
-      "caption": "Valentine level needed",
-      "type": "Integer"
-    },
-    {
       "key": "need_kdow_orgl",
       "caption": "Required Paramedic Supervisor",
       "type": "Integer"
@@ -5522,7 +5502,7 @@
     },
     {
       "id": 815,
-      "caption": "Illegal bonfire in park"
+      "caption": "Fire in icecream store"
     },
     {
       "id": 816,
