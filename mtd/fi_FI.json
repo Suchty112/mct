@@ -351,26 +351,6 @@
       "type": "Integer"
     },
     {
-      "key": "alliance_event_credits",
-      "caption": "Allianssin tapahtuman krediitit",
-      "type": "Integer"
-    },
-    {
-      "key": "event_currency",
-      "caption": "Tapahtuman krediitit",
-      "type": "Integer"
-    },
-    {
-      "key": "season_event",
-      "caption": "Ystävänpäivä",
-      "type": "Symbol"
-    },
-    {
-      "key": "valentines_count",
-      "caption": "Tarvittava Valentine-taso",
-      "type": "Integer"
-    },
-    {
       "key": "need_rtw",
       "caption": "Vaaditut ambulanssit",
       "type": "Integer"
