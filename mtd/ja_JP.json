@@ -306,26 +306,6 @@
       "type": "Boolean"
     },
     {
-      "key": "alliance_event_credits",
-      "caption": "アライアンス・イベント・クレジット",
-      "type": "Integer"
-    },
-    {
-      "key": "event_currency",
-      "caption": "イベントクレジット",
-      "type": "Integer"
-    },
-    {
-      "key": "season_event",
-      "caption": "バレンタイン",
-      "type": "Symbol"
-    },
-    {
-      "key": "valentines_count",
-      "caption": "必要なバレンタイン・レベル",
-      "type": "Integer"
-    },
-    {
       "key": "personal_min_feuerwehr",
       "caption": "分平均消防人員",
       "type": "Integer"
