@@ -436,26 +436,6 @@
       "type": "Unknown"
     },
     {
-      "key": "alliance_event_credits",
-      "caption": "Crédits de l'événement de l'Alliance",
-      "type": "Integer"
-    },
-    {
-      "key": "event_currency",
-      "caption": "Crédits de l'événement",
-      "type": "Integer"
-    },
-    {
-      "key": "season_event",
-      "caption": "Les Valentins",
-      "type": "Symbol"
-    },
-    {
-      "key": "valentines_count",
-      "caption": "Niveau de valence requis",
-      "type": "Integer"
-    },
-    {
       "key": "ktw_value",
       "caption": null,
       "type": "Integer"
@@ -3944,7 +3924,7 @@
     },
     {
       "id": 293,
-      "caption": "Découverte d'engin explosif'"
+      "caption": "Découverte d'engin explosif"
     },
     {
       "id": 294,
@@ -4236,7 +4216,7 @@
     },
     {
       "id": 366,
-      "caption": "Explosion à un distributeur de billets"
+      "caption": "Explosion d'un distributeur de billets"
     },
     {
       "id": 367,
@@ -5400,7 +5380,7 @@
     },
     {
       "id": 657,
-      "caption": "Recherche de personne porté disparus en sous-terrain"
+      "caption": "Recherche de personnes portées disparues en milieu souterrain"
     },
     {
       "id": 658,
