@@ -216,6 +216,11 @@
       "type": "Integer"
     },
     {
+      "key": "additive_value_overlays",
+      "caption": null,
+      "type": "Unknown"
+    },
+    {
       "key": "brandmeldeanlage_possible",
       "caption": null,
       "type": "Boolean"
@@ -406,6 +411,11 @@
       "type": "Integer"
     },
     {
+      "key": "crashed_car_large_icons",
+      "caption": null,
+      "type": "Unknown"
+    },
+    {
       "key": "possible_patient_gender",
       "caption": "Mogelijk patiënt geslacht",
       "type": "String"
@@ -414,6 +424,11 @@
       "key": "need_elw1_chance",
       "caption": "OvD-B benodigd waarschijnlijkheid",
       "type": "Integer"
+    },
+    {
+      "key": "crashed_car_icons",
+      "caption": null,
+      "type": "Unknown"
     },
     {
       "key": "sicherheitswache",
@@ -479,16 +494,6 @@
       "key": "need_ovdp_chance",
       "caption": "Officier van Dienst Politie benodigd waarschijnlijkheid",
       "type": "Integer"
-    },
-    {
-      "key": "crashed_car_icons",
-      "caption": null,
-      "type": "Unknown"
-    },
-    {
-      "key": "additive_value_overlays",
-      "caption": null,
-      "type": "Unknown"
     },
     {
       "key": "ktw_value",
@@ -606,13 +611,13 @@
       "type": "Integer"
     },
     {
-      "key": "ocean_value",
-      "caption": null,
+      "key": "water_rescue_2_count",
+      "caption": "Benodigde aantal Waterreddingsposten",
       "type": "Integer"
     },
     {
-      "key": "water_rescue_2_count",
-      "caption": "Benodigde aantal Waterreddingsposten",
+      "key": "ocean_value",
+      "caption": null,
       "type": "Integer"
     },
     {
@@ -751,11 +756,6 @@
       "type": "Integer"
     },
     {
-      "key": "crashed_car_large_icons",
-      "caption": null,
-      "type": "Unknown"
-    },
-    {
       "key": "subsequent_mission_only",
       "caption": "Kan alleen een vervolginzet van een andere inzet zijn",
       "type": "Boolean"
@@ -813,36 +813,6 @@
     {
       "key": "critical_transport_value",
       "caption": null,
-      "type": "Integer"
-    },
-    {
-      "key": "disaster_response_count",
-      "caption": "STH Uitbreidingen",
-      "type": "Integer"
-    },
-    {
-      "key": "search_and_rescue_count",
-      "caption": "USAR Uitbreidingen",
-      "type": "Integer"
-    },
-    {
-      "key": "need_disaster_response_equipment",
-      "caption": "Benodigde HVH-STH",
-      "type": "Integer"
-    },
-    {
-      "key": "need_search_and_rescue_equipment",
-      "caption": "Benodigde VW-USAR",
-      "type": "Integer"
-    },
-    {
-      "key": "need_rescue_dog_units",
-      "caption": "Benodigde DB–Speurhonden",
-      "type": "Integer"
-    },
-    {
-      "key": "need_search_and_rescue",
-      "caption": "Benodigde dienstvoertuigen USAR",
       "type": "Integer"
     },
     {
@@ -5677,7 +5647,7 @@
     },
     {
       "id": 750,
-      "caption": "Mensen vermist op de dansvloer"
+      "caption": "Mensen vermist op dansvloer"
     },
     {
       "id": 751,
@@ -7169,7 +7139,7 @@
     },
     {
       "id": 1123,
-      "caption": "touringsbus zonder brandstof"
+      "caption": "Touringcar zonder brandstof"
     },
     {
       "id": 1124,
@@ -7446,14 +7416,6 @@
     {
       "id": 1192,
       "caption": "Vergeten jubileum"
-    },
-    {
-      "id": 1193,
-      "caption": "Brand in appartementencomplex"
-    },
-    {
-      "id": 1194,
-      "caption": "Sneeuwploeg gekanteld op provinciale weg"
     }
   ]
 }
