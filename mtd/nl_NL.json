@@ -1360,6 +1360,10 @@
         {
           "id": 21,
           "caption": "Arbeidshygiëne"
+        },
+        {
+          "id": 22,
+          "caption": "Team Digitale Verkenning"
         }
       ]
     },
@@ -1613,6 +1617,10 @@
         {
           "id": 8,
           "caption": "Waterwerper Uitbreiding"
+        },
+        {
+          "id": 9,
+          "caption": "Drone Team Politie"
         }
       ]
     },
