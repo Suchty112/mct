@@ -5647,7 +5647,7 @@
     },
     {
       "id": 750,
-      "caption": "Mensen vermist op dansvloer"
+      "caption": "Mensen vermist op de dansvloer"
     },
     {
       "id": 751,
@@ -7416,6 +7416,14 @@
     {
       "id": 1192,
       "caption": "Vergeten jubileum"
+    },
+    {
+      "id": 1193,
+      "caption": "Brand in appartementencomplex"
+    },
+    {
+      "id": 1194,
+      "caption": "Sneeuwploeg gekanteld op provinciale weg"
     }
   ]
 }
