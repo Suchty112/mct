@@ -436,6 +436,11 @@
       "type": "Unknown"
     },
     {
+      "key": "need_gwhoehenrettung",
+      "caption": "VGRIMP requis",
+      "type": "Integer"
+    },
+    {
       "key": "ktw_value",
       "caption": null,
       "type": "Integer"
@@ -453,11 +458,6 @@
     {
       "key": "need_kdow_orgl_chance",
       "caption": "Chances qu'un Directeur des Secours Médicaux soit requis",
-      "type": "Integer"
-    },
-    {
-      "key": "need_gwhoehenrettung",
-      "caption": "VGRIMP requis",
       "type": "Integer"
     },
     {
