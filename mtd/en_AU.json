@@ -481,6 +481,11 @@
       "type": "Boolean"
     },
     {
+      "key": "minutes_value",
+      "caption": null,
+      "type": "Integer"
+    },
+    {
       "key": "ocean_value",
       "caption": null,
       "type": "Integer"
@@ -652,11 +657,6 @@
     },
     {
       "key": "critical_transport_value",
-      "caption": null,
-      "type": "Integer"
-    },
-    {
-      "key": "minutes_value",
       "caption": null,
       "type": "Integer"
     },
