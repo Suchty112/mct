@@ -2799,6 +2799,11 @@
       "id": 154,
       "caption": "Karneval 2026",
       "key": "AWARD_CARNIVAL_2026"
+    },
+    {
+      "id": 155,
+      "caption": "Schneemann-Liebhaber 2026",
+      "key": "AWARD_WINTER_COLLECTION_2026"
     }
   ],
   "filter_types": [
