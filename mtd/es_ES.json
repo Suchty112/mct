@@ -2381,6 +2381,11 @@
       "id": 130,
       "caption": "Día del número de emergencias europeo 112 (2026)",
       "key": "AWARD_EUROPEAN_112_DAY_2026"
+    },
+    {
+      "id": 131,
+      "caption": "Entusiasta de los muñecos de nieve 2026",
+      "key": "AWARD_WINTER_COLLECTION_2026"
     }
   ],
   "filter_types": [
