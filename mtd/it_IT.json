@@ -5939,6 +5939,14 @@
     {
       "id": 832,
       "caption": "Conducente colpito da ruota staccata di camion"
+    },
+    {
+      "id": 833,
+      "caption": "Incendio in un negozio di mobili"
+    },
+    {
+      "id": 834,
+      "caption": "Incendio nelle scuderie"
     }
   ]
 }
