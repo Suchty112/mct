@@ -43,7 +43,7 @@
     {
       "key": "main_building",
       "caption": null,
-      "type": "Integer"
+      "type": "Unknown"
     },
     {
       "key": "filter_id",
@@ -5218,6 +5218,14 @@
     {
       "id": 692,
       "caption": "Conductor golpeado por rueda desprendida de camión"
+    },
+    {
+      "id": 693,
+      "caption": "Un coche atraviesa la pared de un supermercado"
+    },
+    {
+      "id": 694,
+      "caption": "Un coche arrolla a una multitud"
     }
   ]
 }
