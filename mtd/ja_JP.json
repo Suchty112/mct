@@ -43,7 +43,7 @@
     {
       "key": "main_building",
       "caption": null,
-      "type": "Integer"
+      "type": "Unknown"
     },
     {
       "key": "filter_id",
@@ -4809,6 +4809,14 @@
     {
       "id": 648,
       "caption": "運転手がトラックの外れた車輪に衝突"
+    },
+    {
+      "id": 649,
+      "caption": "スーパーで車が壁を突き破る"
+    },
+    {
+      "id": 650,
+      "caption": "車が人混みに突っ込む"
     }
   ]
 }
