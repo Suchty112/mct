@@ -1039,6 +1039,26 @@
       "key": "need_police_speaker",
       "caption": "Benötigte LauKw",
       "type": "Integer"
+    },
+    {
+      "key": "thw_bridge_construction_count",
+      "caption": "Benötigte Fachgruppe Brückenbau-Erweiterungen",
+      "type": "Integer"
+    },
+    {
+      "key": "need_thw_bridge_construction_equipment",
+      "caption": "Benötigte MzGW (FGr BrB)",
+      "type": "Integer"
+    },
+    {
+      "key": "need_thw_bridge_construction_crane",
+      "caption": "Benötigte Mobilkräne",
+      "type": "Integer"
+    },
+    {
+      "key": "need_thw_bridge_construction_trailer",
+      "caption": "Benötigte Anh Plattform (FGr BrB)",
+      "type": "Integer"
     }
   ],
   "pois": [
@@ -1749,6 +1769,10 @@
         {
           "id": 14,
           "caption": "Fachgruppe Logistik-Verpflegung"
+        },
+        {
+          "id": 15,
+          "caption": "Fachgruppe Brückenbau"
         }
       ]
     },
@@ -6715,11 +6739,15 @@
     },
     {
       "id": 962,
-      "caption": "Brennender Blumenladen"
+      "caption": "Errichtung einer Behelfsbrücke (klein)"
     },
     {
       "id": 963,
-      "caption": "Person auf Rosenblättern ausgerutscht"
+      "caption": "Errichtung einer Behelfsbrücke (groß)"
+    },
+    {
+      "id": 964,
+      "caption": "Tragwerkssicherung (Brücke)"
     }
   ]
 }
