@@ -1059,6 +1059,403 @@
       "key": "need_thw_bridge_construction_trailer",
       "caption": "Benötigte Anh Plattform (FGr BrB)",
       "type": "Integer"
+    },
+    {
+      "key": "need_arff_chance",
+      "caption": "Flugfeldlöschfahrzeug Anforderungswahrscheinlichkeit",
+      "type": "Integer"
+    },
+    {
+      "key": "need_boot_chance",
+      "caption": "Boote Anforderungswahrscheinlichkeit",
+      "type": "Integer"
+    },
+    {
+      "key": "need_fukw_chance",
+      "caption": "FüKW (Polizei) Anforderungswahrscheinlichkeit",
+      "type": "Integer"
+    },
+    {
+      "key": "need_gefkw_chance",
+      "caption": "GefKw Anforderungswahrscheinlichkeit",
+      "type": "Integer"
+    },
+    {
+      "key": "need_grukw_chance",
+      "caption": "GruKw Anforderungswahrscheinlichkeit",
+      "type": "Integer"
+    },
+    {
+      "key": "need_gw_san_chance",
+      "caption": "GW-San Anforderungswahrscheinlichkeit",
+      "type": "Integer"
+    },
+    {
+      "key": "need_helicopter_bucket_chance",
+      "caption": "Anforderungswahrscheinlichkeit Außenlastbehälter (allgemein)",
+      "type": "Integer"
+    },
+    {
+      "key": "need_helicopter_bucket_only_if_present_chance",
+      "caption": null,
+      "type": "Integer"
+    },
+    {
+      "key": "need_k9_only_if_guard_dogs_present_chance",
+      "caption": null,
+      "type": "Integer"
+    },
+    {
+      "key": "need_lebefkw_chance",
+      "caption": "leBefKw Anforderungswahrscheinlichkeit",
+      "type": "Integer"
+    },
+    {
+      "key": "need_mek_chance",
+      "caption": null,
+      "type": "Integer"
+    },
+    {
+      "key": "need_police_motorcycle_chance",
+      "caption": "Polizeimotorrad Anforderungswahrscheinlichkeit",
+      "type": "Integer"
+    },
+    {
+      "key": "need_police_service_group_leader_chance",
+      "caption": "Funkstreifenwagen (Dienstgruppenleitung) Anforderungswahrscheinlichkeit",
+      "type": "Integer"
+    },
+    {
+      "key": "need_polizeihubschrauber_chance",
+      "caption": "Wahrscheinlichkeit, dass Polizeihubschrauber benötigt werden",
+      "type": "Integer"
+    },
+    {
+      "key": "need_pump_chance",
+      "caption": "Schmutzwasserpumpen Anforderungswahrscheinlichkeit",
+      "type": "Integer"
+    },
+    {
+      "key": "need_rescue_dog_units_chance",
+      "caption": "Anforderungswahrscheinlichkeit Rettungshundestaffeln",
+      "type": "Integer"
+    },
+    {
+      "key": "need_rtw_chance",
+      "caption": "RTW Anforderungswahrscheinlichekeit",
+      "type": "Integer"
+    },
+    {
+      "key": "need_seg_elw_chance",
+      "caption": "ELW 1 (SEG) Anforderungswahrscheinlichkeit",
+      "type": "Integer"
+    },
+    {
+      "key": "need_sek_chance",
+      "caption": null,
+      "type": "Integer"
+    },
+    {
+      "key": "need_teleskopmast_chance",
+      "caption": "Teleskopmast Anforderungswahrscheinlichkeit",
+      "type": "Integer"
+    },
+    {
+      "key": "need_thw_dle_chance",
+      "caption": "Anhänger Drucklufterzeugung Anforderungswahrscheinlichkeit",
+      "type": "Integer"
+    },
+    {
+      "key": "need_thw_gkw_chance",
+      "caption": "GKW Anforderungswahrscheinlichkeit",
+      "type": "Integer"
+    },
+    {
+      "key": "need_thw_mtwtz_chance",
+      "caption": "MTW-TZ Anforderungswahrscheinlichkeit",
+      "type": "Integer"
+    },
+    {
+      "key": "need_thw_mzkw_chance",
+      "caption": "MzGW (FGr N) Anforderungswahrscheinlichkeit",
+      "type": "Integer"
+    },
+    {
+      "key": "need_wasserwerfer_chance",
+      "caption": "Wasserwerfer Anforderungswahrscheinlichkeit",
+      "type": "Integer"
+    },
+    {
+      "key": "need_water_damage_pump_chance",
+      "caption": "Feuerlöschpumpen Anforderungswahrscheinlichkeit",
+      "type": "Integer"
+    },
+    {
+      "key": "need_energy_supply_chance",
+      "caption": "NEA50-Anforderungswahrscheinlichkeit",
+      "type": "Integer"
+    },
+    {
+      "key": "need_energy_supply_2_chance",
+      "caption": "NEA200-Anforderungswahrscheinlichkeit",
+      "type": "Integer"
+    },
+    {
+      "key": "need_heavy_rescue_chance",
+      "caption": "MzGW SB-Anforderungswahrscheinlichkeit",
+      "type": "Integer"
+    },
+    {
+      "key": "need_ventilation",
+      "caption": "Benötigte Lüfter",
+      "type": "Integer"
+    },
+    {
+      "key": "need_ventilation_chance",
+      "caption": "Lüfter-Anforderungswahrscheinlichkeit",
+      "type": "Integer"
+    },
+    {
+      "key": "need_drone",
+      "caption": "Benötigte Drohneneinheiten",
+      "type": "Integer"
+    },
+    {
+      "key": "need_drone_chance",
+      "caption": "Drohneneinheiten-Anforderungswahrscheinlichkeit",
+      "type": "Integer"
+    },
+    {
+      "key": "need_care_service",
+      "caption": "Benötigte Bt-Kombi",
+      "type": "Integer"
+    },
+    {
+      "key": "need_care_service_chance",
+      "caption": "Bt-Kombi-Anforderungswahrscheinlichkeit",
+      "type": "Integer"
+    },
+    {
+      "key": "need_care_service_equipment",
+      "caption": "Benötigte Betreuungs- und Verpflegungsausstattungen",
+      "type": "Integer"
+    },
+    {
+      "key": "need_care_service_equipment_chance",
+      "caption": "Betreuungs- und Verpflegungsausstattung-Anforderungswahrscheinlichkeit",
+      "type": "Integer"
+    },
+    {
+      "key": "need_police_horse_chance",
+      "caption": "Polizeipferde-Anforderungswahrscheinlichkeit",
+      "type": "Integer"
+    },
+    {
+      "key": "need_thw_command",
+      "caption": "Benötigte FüKW (THW)",
+      "type": "Integer"
+    },
+    {
+      "key": "need_thw_command_chance",
+      "caption": "FüKW Anforderungswahrscheinlichkeit",
+      "type": "Integer"
+    },
+    {
+      "key": "need_thw_command_2",
+      "caption": "Benötigte FüKomKW",
+      "type": "Integer"
+    },
+    {
+      "key": "need_thw_command_2_chance",
+      "caption": "FüKomKW Anforderungswahrscheinlichkiet",
+      "type": "Integer"
+    },
+    {
+      "key": "need_thw_command_3",
+      "caption": "Benötigte FmKW",
+      "type": "Integer"
+    },
+    {
+      "key": "need_thw_command_3_chance",
+      "caption": "FmKW Anforderungswahrscheinlichkeit",
+      "type": "Integer"
+    },
+    {
+      "key": "need_thw_command_4",
+      "caption": "Benötigte MTW FGr K",
+      "type": "Integer"
+    },
+    {
+      "key": "need_thw_command_4_chance",
+      "caption": "MTW FGr K Anforderungswahrscheinlichkeit",
+      "type": "Integer"
+    },
+    {
+      "key": "need_thw_command_trailer",
+      "caption": "Benötigte Anh FüLa",
+      "type": "Integer"
+    },
+    {
+      "key": "need_thw_command_trailer_chance",
+      "caption": "Anh FüLa Anforderungswahrscheinlichkeit",
+      "type": "Integer"
+    },
+    {
+      "key": "need_mountain_equipment_chance",
+      "caption": "GW-Bergrettung Anforderungswahrscheinlichkeit",
+      "type": "Integer"
+    },
+    {
+      "key": "need_mountain_command_chance",
+      "caption": "ELW Bergrettung Anforderungswahrscheinlichkeit",
+      "type": "Integer"
+    },
+    {
+      "key": "need_mountain_atv_chance",
+      "caption": "ATV Anforderungswahrscheinlichkeit",
+      "type": "Integer"
+    },
+    {
+      "key": "need_mountain_snow_chance",
+      "caption": "Schneefahrzeug Anforderungswahrscheinlichkeit",
+      "type": "Integer"
+    },
+    {
+      "key": "need_mountain_height_rescue_chance",
+      "caption": "Anh Höhenrettung (Bergrettung) Anforderungswahrscheinlichkeit",
+      "type": "Integer"
+    },
+    {
+      "key": "need_lift_chance",
+      "caption": "Hubschrauber mit Winde Anforderungswahrscheinlichkeit",
+      "type": "Integer"
+    },
+    {
+      "key": "need_mountain_chance",
+      "caption": "Bergrettungsfahrzeug-Anforderungswahrscheinlichkeit",
+      "type": "Integer"
+    },
+    {
+      "key": "need_coastal_boat",
+      "caption": "Benötigte Seenotrettungsboote",
+      "type": "Integer"
+    },
+    {
+      "key": "need_coastal_boat_chance",
+      "caption": "Seenotrettungsboot Anforderungswahrscheinlichkeit",
+      "type": "Integer"
+    },
+    {
+      "key": "need_coastal_boat_large_chance",
+      "caption": "Seenotrettungskreuzer Anforderungswahrscheinlichkeit",
+      "type": "Integer"
+    },
+    {
+      "key": "need_coastal_helicopter_chance",
+      "caption": "Hubschrauber (Seenotrettung) Anforderungswahrscheinlichkeit",
+      "type": "Integer"
+    },
+    {
+      "key": "need_railway_fire_chance",
+      "caption": "RW-Schiene, HLF Schiene oder AB-Schiene Anforderungswahrscheinlichkeit",
+      "type": "Integer"
+    },
+    {
+      "key": "need_oneof_fire_engine_or_rescue_chance",
+      "caption": null,
+      "type": "Integer"
+    },
+    {
+      "key": "need_oneof_police_patrol_or_civil_patrol_chance",
+      "caption": null,
+      "type": "Integer"
+    },
+    {
+      "key": "need_oneof_fire_engine_or_rescue_or_oil_equipment_chance",
+      "caption": null,
+      "type": "Integer"
+    },
+    {
+      "key": "need_oneof_coastal_rescue_boat_or_boat_large_chance",
+      "caption": null,
+      "type": "Integer"
+    },
+    {
+      "key": "need_oneof_police_patrol_or_civil_patrol_or_motorcycle_chance",
+      "caption": null,
+      "type": "Integer"
+    },
+    {
+      "key": "need_police_speaker_chance",
+      "caption": "LauKw Anforderungswahrscheinlichkeit",
+      "type": "Integer"
+    },
+    {
+      "key": "need_disaster_response_technology_equipment",
+      "caption": "Benötigte GW-TeSi",
+      "type": "Integer"
+    },
+    {
+      "key": "need_disaster_response_technology_equipment_chance",
+      "caption": "GW-TeSi Anforderungswahrscheinlichkeit",
+      "type": "Integer"
+    },
+    {
+      "key": "need_disaster_response_technology_energy",
+      "caption": "Benötigte LKW Technik (Notstrom)",
+      "type": "Integer"
+    },
+    {
+      "key": "need_disaster_response_technology_energy_chance",
+      "caption": "LKW Technik (Notstrom) Anforderungswahrscheinlichkeit",
+      "type": "Integer"
+    },
+    {
+      "key": "need_disaster_response_technology_crew",
+      "caption": "Benötigte MTW-TeSi",
+      "type": "Integer"
+    },
+    {
+      "key": "need_disaster_response_technology_crew_chance",
+      "caption": "MTW-TeSi Anforderungswahrscheinlichkeit",
+      "type": "Integer"
+    },
+    {
+      "key": "need_disaster_response_technology_trailer",
+      "caption": "Benötigte Anh TeSi",
+      "type": "Integer"
+    },
+    {
+      "key": "need_disaster_response_technology_trailer_chance",
+      "caption": "Anh TeSi Anforderungswahrscheinlichkeit",
+      "type": "Integer"
+    },
+    {
+      "key": "need_thw_bridge_construction_equipment_chance",
+      "caption": "Benötigte MzGW (FGr BrB)",
+      "type": "Integer"
+    },
+    {
+      "key": "need_thw_bridge_construction_crane_chance",
+      "caption": "Benötigte Mobilkräne",
+      "type": "Integer"
+    },
+    {
+      "key": "need_thw_bridge_construction_trailer_chance",
+      "caption": "Anh Plattform (FGr BrB) Anforderungswahrscheinlichkeit",
+      "type": "Integer"
+    },
+    {
+      "key": "personal_min_thw",
+      "caption": "Durchschnittliche min. Personalanzahl (THW)",
+      "type": "Integer"
+    },
+    {
+      "key": "care_vehicle_required",
+      "caption": {
+        "care_service_equipment_value": "Benötigte Betreuungs- und Verpflegungsausstattung"
+      },
+      "type": "Integer"
     }
   ],
   "pois": [
@@ -1501,7 +1898,8 @@
           "id": 28,
           "caption": "Abrollbehälter-Stellplatz"
         }
-      ]
+      ],
+      "generates_mission_types": ["fire"]
     },
     {
       "id": 1,
@@ -1531,7 +1929,8 @@
           "id": 0,
           "caption": "Großwache"
         }
-      ]
+      ],
+      "generates_mission_types": ["ambulance"]
     },
     {
       "id": 3,
@@ -1679,7 +2078,8 @@
           "id": 15,
           "caption": "Großgewahrsam"
         }
-      ]
+      ],
+      "generates_mission_types": ["police"]
     },
     {
       "id": 7,
@@ -1774,7 +2174,8 @@
           "id": 15,
           "caption": "Fachgruppe Brückenbau"
         }
-      ]
+      ],
+      "generates_mission_types": ["thw"]
     },
     {
       "id": 10,
@@ -1844,7 +2245,8 @@
           "id": 10,
           "caption": "Sonderfahrzeug: Lautsprecherkraftwagen"
         }
-      ]
+      ],
+      "generates_mission_types": ["riot_police"]
     },
     {
       "id": 12,
@@ -1879,7 +2281,8 @@
           "id": 6,
           "caption": "Technik und Sicherheit"
         }
-      ]
+      ],
+      "generates_mission_types": ["seg"]
     },
     {
       "id": 13,
@@ -1904,7 +2307,8 @@
     {
       "id": 15,
       "caption": "Wasserrettung",
-      "key": "BUILDING_TYPE_WASSERRETTUNG"
+      "key": "BUILDING_TYPE_WASSERRETTUNG",
+      "generates_mission_types": ["water_rescue"]
     },
     {
       "id": 16,
@@ -2066,12 +2470,14 @@
           "id": 3,
           "caption": "Rettungsdienst"
         }
-      ]
+      ],
+      "generates_mission_types": ["mountain"]
     },
     {
       "id": 26,
       "caption": "Seenotrettungswache",
-      "key": "BUILDING_TYPE_COASTAL_RESCUE"
+      "key": "BUILDING_TYPE_COASTAL_RESCUE",
+      "generates_mission_types": ["coastal"]
     },
     {
       "id": 27,
@@ -6748,6 +7154,410 @@
     {
       "id": 964,
       "caption": "Tragwerkssicherung (Brücke)"
+    }
+  ],
+  "education_data": [
+    {
+      "id": 0,
+      "caption": "GW-Messtechnik Lehrgang",
+      "duration": 259200,
+      "education_key": "gw_messtechnik"
+    },
+    {
+      "id": 1,
+      "caption": "GW-Gefahrgut Lehrgang",
+      "duration": 259200,
+      "education_key": "gw_gefahrgut"
+    },
+    {
+      "id": 2,
+      "caption": "Höhenrettung Lehrgang",
+      "duration": 345600,
+      "education_key": "gw_hoehenrettung"
+    },
+    {
+      "id": 3,
+      "caption": "ELW 2 Lehrgang",
+      "duration": 604800,
+      "education_key": "elw2"
+    },
+    {
+      "id": 4,
+      "caption": "Wechsellader Lehrgang",
+      "duration": 172800,
+      "education_key": "wechsellader"
+    },
+    {
+      "id": 5,
+      "caption": "Dekon-P Lehrgang",
+      "duration": 259200,
+      "education_key": "dekon_p"
+    },
+    {
+      "id": 6,
+      "caption": "Feuerwehrkran Lehrgang",
+      "duration": 259200,
+      "education_key": "fwk"
+    },
+    {
+      "id": 7,
+      "caption": "GW-Wasserrettung Lehrgang",
+      "duration": 259200,
+      "education_key": "gw_wasserrettung"
+    },
+    {
+      "id": 8,
+      "caption": "GW-Taucher Lehrgang",
+      "duration": 432000,
+      "education_key": "gw_taucher"
+    },
+    {
+      "id": 9,
+      "caption": "Notarzt-Ausbildung",
+      "duration": 604800,
+      "education_key": "notarzt"
+    },
+    {
+      "id": 10,
+      "caption": "Flugfeldlöschfahrzeug-Ausbildung",
+      "duration": 604800,
+      "education_key": "arff"
+    },
+    {
+      "id": 11,
+      "caption": "Rettungstreppen-Ausbildung",
+      "duration": 172800,
+      "education_key": "rettungstreppe"
+    },
+    {
+      "id": 12,
+      "caption": "Werkfeuerwehr-Ausbildung",
+      "duration": 172800,
+      "education_key": "werkfeuerwehr"
+    },
+    {
+      "id": 13,
+      "caption": "Intensivpflege",
+      "duration": 259200,
+      "education_key": "intensive_care"
+    },
+    {
+      "id": 14,
+      "caption": "NEA200 Fortbildung",
+      "duration": 604800,
+      "education_key": "energy_supply"
+    },
+    {
+      "id": 15,
+      "caption": "Drohnen-Schulung",
+      "duration": 259200,
+      "education_key": "fire_drone"
+    },
+    {
+      "id": 16,
+      "caption": "Feuerwehr-Verpflegungseinheit",
+      "duration": 259200,
+      "education_key": "fire_care_service"
+    },
+    {
+      "id": 17,
+      "caption": "Verpflegungshelfer",
+      "duration": 259200,
+      "education_key": "care_service_equipment"
+    },
+    {
+      "id": 18,
+      "caption": "Bahnrettung",
+      "duration": 259200,
+      "education_key": "railway_fire"
+    },
+    {
+      "id": 0,
+      "caption": "Zugtrupp",
+      "duration": 604800,
+      "education_key": "thw_zugtrupp"
+    },
+    {
+      "id": 1,
+      "caption": "Fachgruppe Räumen",
+      "duration": 604800,
+      "education_key": "thw_raumen"
+    },
+    {
+      "id": 2,
+      "caption": "Fachgruppe Wassergefahren",
+      "duration": 259200,
+      "education_key": "gw_wasserrettung"
+    },
+    {
+      "id": 3,
+      "caption": "Fachgruppe Bergungstaucher",
+      "duration": 432000,
+      "education_key": "gw_taucher"
+    },
+    {
+      "id": 4,
+      "caption": "Fachgruppe Rettungshundeführer",
+      "duration": 432000,
+      "education_key": "thw_rescue_dogs"
+    },
+    {
+      "id": 5,
+      "caption": "Fachgruppe Wasserschaden/Pumpen",
+      "duration": 604800,
+      "education_key": "water_damage_pump"
+    },
+    {
+      "id": 6,
+      "caption": "Fachgruppe Schwere Bergung",
+      "duration": 604800,
+      "education_key": "heavy_rescue"
+    },
+    {
+      "id": 7,
+      "caption": "Fachgruppe Elektroversorgung",
+      "duration": 604800,
+      "education_key": "thw_energy_supply"
+    },
+    {
+      "id": 8,
+      "caption": "Trupp Unbemannte Luftfahrtsysteme",
+      "duration": 259200,
+      "education_key": "thw_drone"
+    },
+    {
+      "id": 9,
+      "caption": "Fachzug Führung und Kommunikation",
+      "duration": 604800,
+      "education_key": "thw_command"
+    },
+    {
+      "id": 10,
+      "caption": "Logistik-Verpflegung",
+      "duration": 259200,
+      "education_key": "thw_care_service"
+    },
+    {
+      "id": 11,
+      "caption": "Verpflegungshelfer",
+      "duration": 259200,
+      "education_key": "care_service_equipment"
+    },
+    {
+      "id": 12,
+      "caption": "Fachgruppe Brückenbau",
+      "duration": 259200,
+      "education_key": "thw_bridge_construction"
+    },
+    {
+      "id": 13,
+      "caption": "Kranführer",
+      "duration": 259200,
+      "education_key": "thw_bridge_construction_crane"
+    },
+    {
+      "id": 0,
+      "caption": "Zugführer (leBefKw)",
+      "duration": 604800,
+      "education_key": "police_einsatzleiter"
+    },
+    {
+      "id": 1,
+      "caption": "Hundertschaftsführer (FüKW)",
+      "duration": 604800,
+      "education_key": "police_fukw"
+    },
+    {
+      "id": 2,
+      "caption": "Polizeihubschrauber",
+      "duration": 604800,
+      "education_key": "polizeihubschrauber"
+    },
+    {
+      "id": 3,
+      "caption": "Wasserwerfer",
+      "duration": 604800,
+      "education_key": "police_wasserwerfer"
+    },
+    {
+      "id": 4,
+      "caption": "SEK",
+      "duration": 604800,
+      "education_key": "police_sek"
+    },
+    {
+      "id": 5,
+      "caption": "MEK",
+      "duration": 604800,
+      "education_key": "police_mek"
+    },
+    {
+      "id": 6,
+      "caption": "Hundeführer (Schutzhund)",
+      "duration": 604800,
+      "education_key": "k9"
+    },
+    {
+      "id": 7,
+      "caption": "Motorradstaffel",
+      "duration": 259200,
+      "education_key": "police_motorcycle"
+    },
+    {
+      "id": 8,
+      "caption": "Brandbekämpfung",
+      "duration": 259200,
+      "education_key": "police_firefighting"
+    },
+    {
+      "id": 9,
+      "caption": "Kriminalpolizei",
+      "duration": 604800,
+      "education_key": "criminal_investigation"
+    },
+    {
+      "id": 10,
+      "caption": "Dienstgruppenleitung",
+      "duration": 604800,
+      "education_key": "police_service_group_leader"
+    },
+    {
+      "id": 11,
+      "caption": "Reiterstaffel",
+      "duration": 259200,
+      "education_key": "police_horse"
+    },
+    {
+      "id": 12,
+      "caption": "Windenoperator",
+      "duration": 432000,
+      "education_key": "police_helicopter_lift"
+    },
+    {
+      "id": 13,
+      "caption": "Lautsprecheroperator",
+      "duration": 259200,
+      "education_key": "police_speaker_operator"
+    },
+    {
+      "id": 0,
+      "caption": "Notarzt-Ausbildung",
+      "duration": 604800,
+      "education_key": "notarzt"
+    },
+    {
+      "id": 1,
+      "caption": "LNA-Ausbildung",
+      "duration": 777600,
+      "education_key": "lna"
+    },
+    {
+      "id": 2,
+      "caption": "OrgL-Ausbildung",
+      "duration": 950400,
+      "education_key": "orgl"
+    },
+    {
+      "id": 3,
+      "caption": "SEG - Einsatzleitung",
+      "duration": 345600,
+      "education_key": "seg_elw"
+    },
+    {
+      "id": 4,
+      "caption": "SEG - GW-San",
+      "duration": 259200,
+      "education_key": "seg_gw_san"
+    },
+    {
+      "id": 5,
+      "caption": "GW-Wasserrettung Lehrgang",
+      "duration": 259200,
+      "education_key": "gw_wasserrettung"
+    },
+    {
+      "id": 6,
+      "caption": "GW-Taucher Lehrgang",
+      "duration": 432000,
+      "education_key": "gw_taucher"
+    },
+    {
+      "id": 7,
+      "caption": "Rettungshundeführer",
+      "duration": 432000,
+      "education_key": "seg_rescue_dogs"
+    },
+    {
+      "id": 8,
+      "caption": "Intensivpflege",
+      "duration": 259200,
+      "education_key": "intensive_care"
+    },
+    {
+      "id": 9,
+      "caption": "Drohnenoperator",
+      "duration": 259200,
+      "education_key": "seg_drone"
+    },
+    {
+      "id": 10,
+      "caption": "Betreuungsdienst",
+      "duration": 259200,
+      "education_key": "care_service"
+    },
+    {
+      "id": 11,
+      "caption": "Verpflegungshelfer",
+      "duration": 259200,
+      "education_key": "care_service_equipment"
+    },
+    {
+      "id": 12,
+      "caption": "Höhenretter",
+      "duration": 432000,
+      "education_key": "mountain_height_rescue"
+    },
+    {
+      "id": 13,
+      "caption": "Windenoperator",
+      "duration": 432000,
+      "education_key": "rescue_helicopter_lift"
+    },
+    {
+      "id": 14,
+      "caption": "Einsatzleiter Bergrettung",
+      "duration": 432000,
+      "education_key": "mountain_command"
+    },
+    {
+      "id": 15,
+      "caption": "Technik und Sicherheit",
+      "duration": 432000,
+      "education_key": "disaster_response_technology"
+    },
+    {
+      "id": 0,
+      "caption": "Seenotretter",
+      "duration": 432000,
+      "education_key": "coastal_rescue"
+    },
+    {
+      "id": 1,
+      "caption": "Hubschrauberpilot (Seenotrettung)",
+      "duration": 432000,
+      "education_key": "coastal_helicopter"
+    },
+    {
+      "id": 2,
+      "caption": "Windenoperator",
+      "duration": 432000,
+      "education_key": "coastal_helicopter_lift"
+    },
+    {
+      "id": 3,
+      "caption": "Wasserrettungsausbildung für Notfallsanitäter",
+      "duration": 604800,
+      "education_key": "emergency_paramedic_water_rescue"
     }
   ]
 }
