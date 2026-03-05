@@ -684,6 +684,218 @@
       "key": "need_gwl2wasser_chance",
       "caption": "Todennäköisyys, että vaaditaan säiliöauto",
       "type": "Integer"
+    },
+    {
+      "key": "need_elw2_chance",
+      "caption": "Todennäköisyys, että vaaditaan johtokeskusauto",
+      "type": "Integer"
+    },
+    {
+      "key": "need_extension",
+      "caption": "Laajennuksella",
+      "type": "Integer"
+    },
+    {
+      "key": "need_extension_chance",
+      "caption": null,
+      "type": "Integer"
+    },
+    {
+      "key": "need_hose_chance",
+      "caption": "Todennäköisyys, että vaaditaan lisäletkuja",
+      "type": "Integer"
+    },
+    {
+      "key": "need_lf_chance",
+      "caption": "Todennäköisyys, että pyydetään johtoautoa",
+      "type": "Integer"
+    },
+    {
+      "key": "need_pump_chance",
+      "caption": "Todennäköisyys että vaaditaan suurtehopumppuja",
+      "type": "Integer"
+    },
+    {
+      "key": "need_rtw_chance",
+      "caption": "Todennäköisyys, että vaaditaan ambulanssi",
+      "type": "Integer"
+    },
+    {
+      "key": "need_streifenwagen_chance",
+      "caption": "Todennäköisyys, että vaaditaan poliisi",
+      "type": "Integer"
+    },
+    {
+      "key": "need_swat_personal_chance",
+      "caption": null,
+      "type": "Integer"
+    },
+    {
+      "key": "need_traffic_car_chance",
+      "caption": "Todennäköisyys, että vaaditaan VATV-yksikköä",
+      "type": "Integer"
+    },
+    {
+      "key": "need_heavy_traffic_control_chance",
+      "caption": "Todennäköisyys, että vaaditaan vaaka-autoa",
+      "type": "Integer"
+    },
+    {
+      "key": "need_civil_patrolcar_chance",
+      "caption": "Todennäköisyys, että vaaditaan tutkintaa",
+      "type": "Integer"
+    },
+    {
+      "key": "need_coastal_rescue_chance",
+      "caption": "Todennäköisyys, että RVL Partioauto tarvitaan",
+      "type": "Integer"
+    },
+    {
+      "key": "need_coastal_boat_chance",
+      "caption": "Todennäköisyys, että RVL Partiovene tarvitaan",
+      "type": "Integer"
+    },
+    {
+      "key": "need_large_coastal_boat_chance",
+      "caption": "Todennäköisyys, että RVL Rannikkovartiovene tarvitaan",
+      "type": "Integer"
+    },
+    {
+      "key": "need_coastal_plane_chance",
+      "caption": "Todennäköisyys, että RVL Lentokone tarvitaan",
+      "type": "Integer"
+    },
+    {
+      "key": "need_coastal_helicopter_chance",
+      "caption": "Todennäköisyys, että RVL Helikopteri tarvitaan",
+      "type": "Integer"
+    },
+    {
+      "key": "need_arff_chance",
+      "caption": "Todennäköisyys, että ARFF Lentokenttäkärkiauto tarvitaan",
+      "type": "Integer"
+    },
+    {
+      "key": "need_rettungstreppe_chance",
+      "caption": "Todennäköisyys, että Porrasajoneuvo tarvitaan",
+      "type": "Integer"
+    },
+    {
+      "key": "need_riv_chance",
+      "caption": "Todennäköisyys, että RIV Lentokenttäkärkiauto tarvitaan",
+      "type": "Integer"
+    },
+    {
+      "key": "need_elw_airport_chance",
+      "caption": "Todennäköisyys, että Lentokentän Johtoauto tarvitaan",
+      "type": "Integer"
+    },
+    {
+      "key": "need_damage_control_chance",
+      "caption": "Vaaditut Vahingontorjunta-autot",
+      "type": "Integer"
+    },
+    {
+      "key": "need_gwtaucher_chance",
+      "caption": "Mahdollisuus, että Pelastussukellusauto tarvitaan",
+      "type": "Integer"
+    },
+    {
+      "key": "need_boot_chance",
+      "caption": null,
+      "type": "Integer"
+    },
+    {
+      "key": "need_fire_boat_chance",
+      "caption": "Mahdollisuus, että pelastusvene tarvitaan",
+      "type": "Integer"
+    },
+    {
+      "key": "need_border_chance",
+      "caption": "Todennäköisyys, että RVL Raskasta/Maasto Partioautoa tarvitaan",
+      "type": "Integer"
+    },
+    {
+      "key": "need_border_atv_chance",
+      "caption": "Todennäköisyys, että RVL Mönkijäperävaunu tarvitaan",
+      "type": "Integer"
+    },
+    {
+      "key": "need_border_dogs_chance",
+      "caption": "Todennäköisyys, että RVL Koiraperävaunu tarvitaan",
+      "type": "Integer"
+    },
+    {
+      "key": "need_border_snow_chance",
+      "caption": "Todennäköisyys, että RVL Moottorikelkkaperävaunu tarvitaan",
+      "type": "Integer"
+    },
+    {
+      "key": "need_oneof_fire_engine_or_rescue_or_ladder_chance",
+      "caption": null,
+      "type": "Integer"
+    },
+    {
+      "key": "need_oneof_fire_engine_or_rescue_chance",
+      "caption": null,
+      "type": "Integer"
+    },
+    {
+      "key": "need_oneof_fire_engine_or_ladder_chance",
+      "caption": null,
+      "type": "Integer"
+    },
+    {
+      "key": "need_oneof_fire_engine_or_airport_fire_engine_chance",
+      "caption": null,
+      "type": "Integer"
+    },
+    {
+      "key": "need_oneof_fire_engine_or_airport_fire_engine_or_engine_large_chance",
+      "caption": null,
+      "type": "Integer"
+    },
+    {
+      "key": "need_oneof_fire_engine_or_airport_fire_engine_large_chance",
+      "caption": null,
+      "type": "Integer"
+    },
+    {
+      "key": "need_oneof_airport_fire_engine_or_engine_large_chance",
+      "caption": null,
+      "type": "Integer"
+    },
+    {
+      "key": "need_oneof_police_patrol_or_border_patrol_chance",
+      "caption": null,
+      "type": "Integer"
+    },
+    {
+      "key": "need_oneof_police_dogs_or_border_dogs",
+      "caption": "Koirapartioauto tai RVL Koirapartioauto",
+      "type": "Integer"
+    },
+    {
+      "key": "need_oneof_police_dogs_or_border_dogs_chance",
+      "caption": null,
+      "type": "Integer"
+    },
+    {
+      "key": "personal_min_thw",
+      "caption": null,
+      "type": "Integer"
+    },
+    {
+      "key": "personal_min_ambulance",
+      "caption": "Required minimum rescue workers",
+      "type": "Integer"
+    },
+    {
+      "key": "care_vehicle_required",
+      "caption": {
+        "care_service_equipment_value": "Required Field Kitchens"
+      },
+      "type": "Integer"
     }
   ],
   "pois": [
@@ -1066,7 +1278,8 @@
           "id": 6,
           "caption": "Suuri paloasema"
         }
-      ]
+      ],
+      "generates_mission_types": ["fire"]
     },
     {
       "id": 1,
@@ -1096,7 +1309,8 @@
           "id": 0,
           "caption": "Suuri ambulanssiasema"
         }
-      ]
+      ],
+      "generates_mission_types": ["ambulance"]
     },
     {
       "id": 3,
@@ -1230,7 +1444,8 @@
           "id": 13,
           "caption": "Suuri vankila"
         }
-      ]
+      ],
+      "generates_mission_types": ["police"]
     },
     {
       "id": 7,
@@ -1375,7 +1590,8 @@
     {
       "id": 23,
       "caption": "Merivartioasema",
-      "key": "BUILDING_TYPE_COASTAL_RESCUE"
+      "key": "BUILDING_TYPE_COASTAL_RESCUE",
+      "generates_mission_types": ["coastal_rescue", "coastal_rescue_ocean"]
     },
     {
       "id": 24,
@@ -1427,12 +1643,14 @@
     {
       "id": 25,
       "caption": "Pelastusvenelaituri",
-      "key": "BUILDING_TYPE_FIRE_BOAT_DOCK"
+      "key": "BUILDING_TYPE_FIRE_BOAT_DOCK",
+      "generates_mission_types": ["fire_ocean"]
     },
     {
       "id": 26,
       "caption": "Rajavartioasema",
-      "key": "BUILDING_TYPE_WATER_RESCUE_2"
+      "key": "BUILDING_TYPE_WATER_RESCUE_2",
+      "generates_mission_types": ["border_guard"]
     },
     {
       "id": 27,
@@ -5096,6 +5314,215 @@
     {
       "id": 732,
       "caption": "402 Tulipalo hevostallissa"
+    }
+  ],
+  "education_data": [
+    {
+      "id": 0,
+      "caption": "Kemikaalitorjunta",
+      "duration": 259200,
+      "education_key": "gw_gefahrgut"
+    },
+    {
+      "id": 1,
+      "caption": "Johtokeskus",
+      "duration": 432000,
+      "education_key": "elw2"
+    },
+    {
+      "id": 2,
+      "caption": "ARFF",
+      "duration": 259200,
+      "education_key": "arff"
+    },
+    {
+      "id": 3,
+      "caption": "Pintapelastuskurssi",
+      "duration": 345600,
+      "education_key": "gw_wasserrettung"
+    },
+    {
+      "id": 4,
+      "caption": "RVL Merenkulku",
+      "duration": 432000,
+      "education_key": "ocean_navigation",
+      "hidden": true
+    },
+    {
+      "id": 5,
+      "caption": "Vaativan hoitotason koulutus",
+      "duration": 432000,
+      "education_key": "critical_care"
+    },
+    {
+      "id": 6,
+      "caption": "Lentoaseman johtajakoulutus",
+      "duration": 172800,
+      "education_key": "elw_airport"
+    },
+    {
+      "id": 7,
+      "caption": "Pelastusportaiden koulutus",
+      "duration": 432000,
+      "education_key": "rettungstreppe"
+    },
+    {
+      "id": 8,
+      "caption": "Vesivahinkopumppauskoulutus",
+      "duration": 432000,
+      "education_key": "flood_equipment"
+    },
+    {
+      "id": 9,
+      "caption": "Vesipelastuskurssi",
+      "duration": 432000,
+      "education_key": "gw_taucher"
+    },
+    {
+      "id": 10,
+      "caption": "Veneenkuljettajakurssi",
+      "duration": 432000,
+      "education_key": "fire_boat"
+    },
+    {
+      "id": 0,
+      "caption": "Poliisin lentotoiminta",
+      "duration": 604800,
+      "education_key": "polizeihubschrauber"
+    },
+    {
+      "id": 1,
+      "caption": "VATI",
+      "duration": 432000,
+      "education_key": "swat"
+    },
+    {
+      "id": 2,
+      "caption": "Koirapoliisitoiminta",
+      "duration": 432000,
+      "education_key": "k9"
+    },
+    {
+      "id": 3,
+      "caption": "Poliisimoottoripyörä",
+      "duration": 259200,
+      "education_key": "police_motorcycle"
+    },
+    {
+      "id": 4,
+      "caption": "Alipäällystökoulutus",
+      "duration": 604800,
+      "education_key": "police_service_group_leader"
+    },
+    {
+      "id": 5,
+      "caption": "Vaativa ajotapavalvonta",
+      "duration": 432000,
+      "education_key": "traffic_police"
+    },
+    {
+      "id": 6,
+      "caption": "Raskaan liikenteen valvonta",
+      "duration": 432000,
+      "education_key": "heavy_traffic_control"
+    },
+    {
+      "id": 7,
+      "caption": "TEPO-koulutus",
+      "duration": 432000,
+      "education_key": "fbi_bomb_tech"
+    },
+    {
+      "id": 8,
+      "caption": "Joukkojenhallintakoulutus",
+      "duration": 172800,
+      "education_key": "riot_police"
+    },
+    {
+      "id": 9,
+      "caption": "Neuvottelijakoulutus",
+      "duration": 604800,
+      "education_key": "tactical_negotiator"
+    },
+    {
+      "id": 10,
+      "caption": "Väkivaltarikostutkinta",
+      "duration": 604800,
+      "education_key": "criminal_investigation"
+    },
+    {
+      "id": 11,
+      "caption": "Huumausainerikostutkinta",
+      "duration": 604800,
+      "education_key": "narcotics_investigation"
+    },
+    {
+      "id": 12,
+      "caption": "Tekninen tutkinta",
+      "duration": 604800,
+      "education_key": "technical_investigation"
+    },
+    {
+      "id": 13,
+      "caption": "Palonsyyntutkinta",
+      "duration": 604800,
+      "education_key": "arson_investigator"
+    },
+    {
+      "id": 14,
+      "caption": "Omaisuusrikostutkinta",
+      "duration": 604800,
+      "education_key": "property_investigation"
+    },
+    {
+      "id": 15,
+      "caption": "RVL Merenkulku",
+      "duration": 432000,
+      "education_key": "ocean_navigation",
+      "hidden": true
+    },
+    {
+      "id": 16,
+      "caption": "RVL Merivartija",
+      "duration": 259200,
+      "education_key": "law_enforcement_marine",
+      "hidden": true
+    },
+    {
+      "id": 0,
+      "caption": "Vaativan hoitotason koulutus",
+      "duration": 432000,
+      "education_key": "critical_care"
+    },
+    {
+      "id": 0,
+      "caption": "RVL Rajavartija",
+      "duration": 432000,
+      "education_key": "border_patrol"
+    },
+    {
+      "id": 1,
+      "caption": "RVL Koiranohjaaja",
+      "duration": 259200,
+      "education_key": "border_dogs"
+    },
+    {
+      "id": 2,
+      "caption": "RVL Merenkulku",
+      "duration": 432000,
+      "education_key": "ocean_navigation"
+    },
+    {
+      "id": 3,
+      "caption": "RVL Merivartija",
+      "duration": 259200,
+      "education_key": "law_enforcement_marine"
+    },
+    {
+      "id": 4,
+      "caption": "Poliisin lentotoiminta",
+      "duration": 604800,
+      "education_key": "polizeihubschrauber"
     }
   ]
 }
