@@ -564,6 +564,188 @@
       "key": "need_damage_control",
       "caption": "필요한 피해 통제 마차",
       "type": "Integer"
+    },
+    {
+      "key": "need_elw2_chance",
+      "caption": "기동형 지휘차량가 필요할 확률",
+      "type": "Integer"
+    },
+    {
+      "key": "need_extension",
+      "caption": "확장 시설 필요",
+      "type": "Integer"
+    },
+    {
+      "key": "need_extension_chance",
+      "caption": null,
+      "type": "Integer"
+    },
+    {
+      "key": "need_foam_chance",
+      "caption": "포장치 운반차가 필요할 확률",
+      "type": "Integer"
+    },
+    {
+      "key": "need_lf_chance",
+      "caption": "소방차 요청 확률",
+      "type": "Integer"
+    },
+    {
+      "key": "need_pump_chance",
+      "caption": "엔진 펌프가 필요할 확률",
+      "type": "Integer"
+    },
+    {
+      "key": "need_rtw_chance",
+      "caption": "구급차 필요 가능성",
+      "type": "Integer"
+    },
+    {
+      "key": "need_streifenwagen_chance",
+      "caption": "경찰차량 필요 가능성",
+      "type": "Integer"
+    },
+    {
+      "key": "need_riot_police_chance",
+      "caption": "진압경찰단 차량이 필요할 확률",
+      "type": "Integer"
+    },
+    {
+      "key": "need_riot_police_equipment_chance",
+      "caption": "진압 경찰 장비 차량이 필요할 확률",
+      "type": "Integer"
+    },
+    {
+      "key": "need_riot_police_maintenance_chance",
+      "caption": "확률 철도 경찰이 필요합니다",
+      "type": "Integer"
+    },
+    {
+      "key": "need_swat_personal_chance",
+      "caption": null,
+      "type": "Integer"
+    },
+    {
+      "key": "need_detention_unit_chance",
+      "caption": "죄수 수송 차량이 필요할 확률",
+      "type": "Integer"
+    },
+    {
+      "key": "need_wasserwerfer_chance",
+      "caption": "물대포가 필요할 확률",
+      "type": "Integer"
+    },
+    {
+      "key": "need_arff_chance",
+      "caption": "ARFF 필요 가능성",
+      "type": "Integer"
+    },
+    {
+      "key": "need_rettungstreppe_chance",
+      "caption": null,
+      "type": "Integer"
+    },
+    {
+      "key": "need_piercing_nozzle_chance",
+      "caption": "Probability that Piercing Nozzles are required",
+      "type": "Integer"
+    },
+    {
+      "key": "need_riv_chance",
+      "caption": "Probability that RIVs are required",
+      "type": "Integer"
+    },
+    {
+      "key": "need_coastal_boat_chance",
+      "caption": "경비정이 필요할 확률",
+      "type": "Integer"
+    },
+    {
+      "key": "need_large_coastal_boat_chance",
+      "caption": "경비함 필요 확률",
+      "type": "Integer"
+    },
+    {
+      "key": "need_coastal_guard_boat_chance",
+      "caption": "형사 기동정이 필요할 확률",
+      "type": "Integer"
+    },
+    {
+      "key": "need_coastal_boat_hover_chance",
+      "caption": "호버 보트가 필요할 확률",
+      "type": "Integer"
+    },
+    {
+      "key": "need_coastal_helicopter_chance",
+      "caption": "해안 경비대  헬리콥터가 필요할 확률",
+      "type": "Integer"
+    },
+    {
+      "key": "need_coastal_plane_chance",
+      "caption": "해안 경비대 비행기가 필요할 확률",
+      "type": "Integer"
+    },
+    {
+      "key": "need_large_fire_boat_chance",
+      "caption": "Probability that Fire Boat is required",
+      "type": "Integer"
+    },
+    {
+      "key": "need_damage_control_chance",
+      "caption": "피해 통제 마차가 필요할 확률",
+      "type": "Integer"
+    },
+    {
+      "key": "need_flood_equipment",
+      "caption": "필수 홍수 장비 트레일러",
+      "type": "Integer"
+    },
+    {
+      "key": "need_flood_equipment_chance",
+      "caption": "Probability that Flood Equipment is required",
+      "type": "Integer"
+    },
+    {
+      "key": "need_oneof_fire_engine_or_rescue_or_ladder_chance",
+      "caption": null,
+      "type": "Integer"
+    },
+    {
+      "key": "need_oneof_fire_engine_or_rescue_chance",
+      "caption": null,
+      "type": "Integer"
+    },
+    {
+      "key": "need_oneof_police_patrol_or_riot_police_crew_chance",
+      "caption": null,
+      "type": "Integer"
+    },
+    {
+      "key": "need_oneof_fire_engine_or_airport_fire_engine_large_chance",
+      "caption": null,
+      "type": "Integer"
+    },
+    {
+      "key": "need_oneof_fire_engine_or_airport_fire_engine_or_engine_large_chance",
+      "caption": null,
+      "type": "Integer"
+    },
+    {
+      "key": "personal_min_thw",
+      "caption": null,
+      "type": "Integer"
+    },
+    {
+      "key": "personal_min_ambulance",
+      "caption": "Required minimum rescue workers",
+      "type": "Integer"
+    },
+    {
+      "key": "care_vehicle_required",
+      "caption": {
+        "care_service_equipment_value": "Required Field Kitchens"
+      },
+      "type": "Integer"
     }
   ],
   "pois": [
@@ -957,7 +1139,8 @@
           "id": 6,
           "caption": "대형 소방서"
         }
-      ]
+      ],
+      "generates_mission_types": ["fire"]
     },
     {
       "id": 1,
@@ -991,7 +1174,8 @@
           "id": 1,
           "caption": "대형 구급차 스테이션"
         }
-      ]
+      ],
+      "generates_mission_types": ["ambulance"]
     },
     {
       "id": 3,
@@ -1129,7 +1313,8 @@
           "id": 14,
           "caption": "대형 감옥"
         }
-      ]
+      ],
+      "generates_mission_types": ["police"]
     },
     {
       "id": 7,
@@ -1320,7 +1505,8 @@
           "id": 0,
           "caption": "호버 보트 확장"
         }
-      ]
+      ],
+      "generates_mission_types": ["coastal_rescue", "coastal_rescue_ocean"]
     },
     {
       "id": 24,
@@ -4338,6 +4524,124 @@
     {
       "id": 596,
       "caption": "폭우 후 홍수 발생"
+    }
+  ],
+  "education_data": [
+    {
+      "id": 0,
+      "caption": "유해물질",
+      "duration": 259200,
+      "education_key": "gw_gefahrgut"
+    },
+    {
+      "id": 1,
+      "caption": "이동 지휘",
+      "duration": 432000,
+      "education_key": "elw2"
+    },
+    {
+      "id": 2,
+      "caption": "공항 소방 훈련",
+      "duration": 259200,
+      "education_key": "arff"
+    },
+    {
+      "id": 3,
+      "caption": "신속 수상 구조",
+      "duration": 345600,
+      "education_key": "gw_wasserrettung"
+    },
+    {
+      "id": 4,
+      "caption": "원양 항해",
+      "duration": 432000,
+      "education_key": "ocean_navigation"
+    },
+    {
+      "id": 5,
+      "caption": "비상 계단 훈련",
+      "duration": 604800,
+      "education_key": "rettungstreppe"
+    },
+    {
+      "id": 6,
+      "caption": "피어싱 노즐 교육",
+      "duration": 518400,
+      "education_key": "piercing_nozzle"
+    },
+    {
+      "id": 0,
+      "caption": "경찰 항공",
+      "duration": 604800,
+      "education_key": "polizeihubschrauber",
+      "hidden": true
+    },
+    {
+      "id": 1,
+      "caption": "특수화기전술조",
+      "duration": 432000,
+      "education_key": "swat"
+    },
+    {
+      "id": 2,
+      "caption": "K-9",
+      "duration": 432000,
+      "education_key": "k9",
+      "hidden": true
+    },
+    {
+      "id": 3,
+      "caption": "싸이카",
+      "duration": 259200,
+      "education_key": "police_motorcycle"
+    },
+    {
+      "id": 4,
+      "caption": "진압 경찰 교육",
+      "duration": 172800,
+      "education_key": "riot_police"
+    },
+    {
+      "id": 5,
+      "caption": "진압경찰장비교육",
+      "duration": 432000,
+      "education_key": "riot_police_equipment"
+    },
+    {
+      "id": 6,
+      "caption": "물대포 작전 훈련",
+      "duration": 604800,
+      "education_key": "police_wasserwerfer"
+    },
+    {
+      "id": 0,
+      "caption": "중환자 치료 훈련",
+      "duration": 432000,
+      "education_key": "critical_care"
+    },
+    {
+      "id": 1,
+      "caption": "긴급 이송용 오토바이",
+      "duration": 259200,
+      "education_key": "rapid_response_motorcycle"
+    },
+    {
+      "id": 0,
+      "caption": "해양 구조 조종사 훈련",
+      "duration": 432000,
+      "education_key": "coastal_rescue_pilot"
+    },
+    {
+      "id": 1,
+      "caption": "원양 항해",
+      "duration": 432000,
+      "education_key": "ocean_navigation"
+    },
+    {
+      "id": 2,
+      "caption": "호버 보트 사령관",
+      "duration": 432000,
+      "education_key": "hover_boat_elw"
     }
   ]
 }
