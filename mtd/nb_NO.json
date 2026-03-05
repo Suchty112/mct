@@ -829,6 +829,293 @@
       "key": "nef_need_quote",
       "caption": "Sannsynlighet for NEF",
       "type": "Integer"
+    },
+    {
+      "key": "need_boot_chance",
+      "caption": "Sannsynlighet for at lett redningsbåt trengs:",
+      "type": "Integer"
+    },
+    {
+      "key": "need_brush_truck_chance",
+      "caption": null,
+      "type": "Integer"
+    },
+    {
+      "key": "need_bike_police_chance",
+      "caption": "Sannsynlighet for at politibetjent på politisykkel kreves",
+      "type": "Integer"
+    },
+    {
+      "key": "need_detention_unit_chance",
+      "caption": "Sannsynlighet for at fangetransportbuss er nødvendig",
+      "type": "Integer"
+    },
+    {
+      "key": "need_fire_aviation_chance",
+      "caption": "Sannsylighet for at skogbrann helikopter trengs",
+      "type": "Integer"
+    },
+    {
+      "key": "need_fbi_drone_chance",
+      "caption": "Sannsynlighet for at drone kreves",
+      "type": "Integer"
+    },
+    {
+      "key": "need_foam_chance",
+      "caption": "Sannsynlighet for at Skum Tankbil er nødvendig",
+      "type": "Integer"
+    },
+    {
+      "key": "need_gwtaucher_chance",
+      "caption": "Sannsynlighet for at dykkerbil trengs:",
+      "type": "Integer"
+    },
+    {
+      "key": "need_hose_chance",
+      "caption": "Sannsynlighet for at Slangebil er nødvendig",
+      "type": "Integer"
+    },
+    {
+      "key": "need_k9_chance",
+      "caption": "Sannsynlighet for at en hundepatrulje trengs",
+      "type": "Integer"
+    },
+    {
+      "key": "need_lf_chance",
+      "caption": "Sannsynlighet for brannbilforespørsel",
+      "type": "Integer"
+    },
+    {
+      "key": "need_polizeihubschrauber_chance",
+      "caption": "Sannsynlighet for at Politi helikopter trengs",
+      "type": "Integer"
+    },
+    {
+      "key": "need_police_horse_chance",
+      "caption": "Sannsynlighet for at Politihetser kreves",
+      "type": "Integer"
+    },
+    {
+      "key": "need_police_service_group_leader_chance",
+      "caption": "Sannsynlighet for at Innsatsleder Politi påkrevd",
+      "type": "Integer"
+    },
+    {
+      "key": "need_pump_chance",
+      "caption": "Sannsynlighet for at Tilhengerpumpe er nødvendig",
+      "type": "Integer"
+    },
+    {
+      "key": "need_riot_police_chance",
+      "caption": "Sannsynlighet for at demonstrasjonspolitibil er nødvendig",
+      "type": "Integer"
+    },
+    {
+      "key": "need_riot_police_command_chance",
+      "caption": "Sannsynlighet for at Demonstrasjonskommandobil er påkrevd",
+      "type": "Integer"
+    },
+    {
+      "key": "need_rtw_chance",
+      "caption": "Sannsynlighet for at ambulanse er nødvendig",
+      "type": "Integer"
+    },
+    {
+      "key": "need_swat_personal_chance",
+      "caption": null,
+      "type": "Integer"
+    },
+    {
+      "key": "need_traffic_car_chance",
+      "caption": "Sannsynlighet for at utrykningspoliti er nødvendig",
+      "type": "Integer"
+    },
+    {
+      "key": "need_traffic_car_only_if_present_chance",
+      "caption": null,
+      "type": "Integer"
+    },
+    {
+      "key": "need_coastal_rescue_chance",
+      "caption": "Sannsynlighet for at kystredningsbil er nødvendig",
+      "type": "Integer"
+    },
+    {
+      "key": "need_coastal_boat_chance",
+      "caption": "Sannsynlighet for at redningsskøyte er nødvendig",
+      "type": "Integer"
+    },
+    {
+      "key": "need_coastal_guard_boat_chance",
+      "caption": "Sannynlighet for at kystvaktbåt er nødvendig",
+      "type": "Integer"
+    },
+    {
+      "key": "need_large_fire_boat_chance",
+      "caption": "Sannynlighet for at brannbåt er nødvendig",
+      "type": "Integer"
+    },
+    {
+      "key": "need_large_rescue_boat_chance",
+      "caption": "Sannsynlighet for at redningsbåt er nødvendig",
+      "type": "Integer"
+    },
+    {
+      "key": "need_police_boat_chance",
+      "caption": "Sannylighet for at politibåt er nødvendig",
+      "type": "Integer"
+    },
+    {
+      "key": "need_speed_police_boat_chance",
+      "caption": "Sannysnlighet for at politi RHIB er nødvendig",
+      "type": "Integer"
+    },
+    {
+      "key": "need_coastal_helicopter_chance",
+      "caption": "Sannynlighet for at redningshelikopter er nødvendig",
+      "type": "Integer"
+    },
+    {
+      "key": "need_arff_chance",
+      "caption": "Sannsynlighet for at flyplassbrannbil er nødvendig",
+      "type": "Integer"
+    },
+    {
+      "key": "need_piercing_nozzle",
+      "caption": "Nødvendig skjæreslukker",
+      "type": "Integer"
+    },
+    {
+      "key": "need_piercing_nozzle_chance",
+      "caption": "Sannsynlighet for at skjæreslukker er nødvendig",
+      "type": "Integer"
+    },
+    {
+      "key": "need_riv_chance",
+      "caption": "Sannsynlighet for at fremskuttenhet er nødvendig",
+      "type": "Integer"
+    },
+    {
+      "key": "need_flood_equipment_chance",
+      "caption": "Sannsynlighet for at vannskadehenger trengs",
+      "type": "Integer"
+    },
+    {
+      "key": "need_damage_control_chance",
+      "caption": "Sannsynlighet for at RVR trengs",
+      "type": "Integer"
+    },
+    {
+      "key": "need_technical_aid_chance",
+      "caption": "Sannsynlighet for Mannskapstransport",
+      "type": "Integer"
+    },
+    {
+      "key": "need_technical_aid_atv_chance",
+      "caption": "Sannsynlighet for ATV (Samfunnssikkerhet)",
+      "type": "Integer"
+    },
+    {
+      "key": "need_technical_aid_command_chance",
+      "caption": "Sannsynlighet for Fagleder Sivilforsvaret",
+      "type": "Integer"
+    },
+    {
+      "key": "need_decontamination_personnel_chance",
+      "caption": "Sannsynlighet for Mobil renseenhet",
+      "type": "Integer"
+    },
+    {
+      "key": "need_search_and_rescue_chance",
+      "caption": "Probability that SAR Equipment is required",
+      "type": "Integer"
+    },
+    {
+      "key": "need_technical_aid_dogs_chance",
+      "caption": null,
+      "type": "Integer"
+    },
+    {
+      "key": "need_car_carrier",
+      "caption": "Nødvendige Bergningsbil",
+      "type": "Integer"
+    },
+    {
+      "key": "need_car_carrier_chance",
+      "caption": "Sannsynlighet for at planbil er nødvendig",
+      "type": "Integer"
+    },
+    {
+      "key": "need_car_carrier_large",
+      "caption": "Nødvendige Tungbergere",
+      "type": "Integer"
+    },
+    {
+      "key": "need_car_carrier_large_chance",
+      "caption": "Sannsynlighet for at tungbergere er nødvendig",
+      "type": "Integer"
+    },
+    {
+      "key": "need_crane_chance",
+      "caption": "Sannsynlighet for at rotator er nødvendig",
+      "type": "Integer"
+    },
+    {
+      "key": "need_road_block_chance",
+      "caption": "Sannsynlighet for at TMA Truck er nødvendig",
+      "type": "Integer"
+    },
+    {
+      "key": "need_tow_trucks_chance",
+      "caption": "Sannsynlighet for at Service Bil er nødvendig",
+      "type": "Integer"
+    },
+    {
+      "key": "need_air_cushion_chance",
+      "caption": "Sannsynlighet for at Luftpute henger er nødvendig",
+      "type": "Integer"
+    },
+    {
+      "key": "need_oneof_fire_engine_or_rescue_or_ladder_chance",
+      "caption": null,
+      "type": "Integer"
+    },
+    {
+      "key": "need_oneof_fire_engine_or_rescue_chance",
+      "caption": null,
+      "type": "Integer"
+    },
+    {
+      "key": "need_oneof_police_patrol_or_swat_chance",
+      "caption": null,
+      "type": "Integer"
+    },
+    {
+      "key": "need_oneof_fire_engine_or_airport_fire_engine_or_airport_fire_engine_large_chance",
+      "caption": null,
+      "type": "Integer"
+    },
+    {
+      "key": "need_oneof_fire_engine_or_airport_fire_engine_large_chance",
+      "caption": null,
+      "type": "Integer"
+    },
+    {
+      "key": "personal_min_thw",
+      "caption": null,
+      "type": "Integer"
+    },
+    {
+      "key": "personal_min_ambulance",
+      "caption": "Required minimum rescue workers",
+      "type": "Integer"
+    },
+    {
+      "key": "care_vehicle_required",
+      "caption": {
+        "care_service_equipment_value": "Required Field Kitchens"
+      },
+      "type": "Integer"
     }
   ],
   "pois": [
@@ -1287,7 +1574,8 @@
           "id": 16,
           "caption": "Containerplass"
         }
-      ]
+      ],
+      "generates_mission_types": ["fire"]
     },
     {
       "id": 1,
@@ -1321,7 +1609,8 @@
           "id": 1,
           "caption": "Stor ambulansestasjon"
         }
-      ]
+      ],
+      "generates_mission_types": ["ambulance"]
     },
     {
       "id": 3,
@@ -1471,7 +1760,8 @@
           "id": 17,
           "caption": "Stort fengsel"
         }
-      ]
+      ],
+      "generates_mission_types": ["police"]
     },
     {
       "id": 7,
@@ -1648,7 +1938,8 @@
           "id": 9,
           "caption": "Stort sykehus"
         }
-      ]
+      ],
+      "generates_mission_types": ["ambulance"]
     },
     {
       "id": 22,
@@ -1673,7 +1964,8 @@
     {
       "id": 26,
       "caption": "Kystredningstasjon",
-      "key": "BUILDING_TYPE_COASTAL_RESCUE"
+      "key": "BUILDING_TYPE_COASTAL_RESCUE",
+      "generates_mission_types": ["coastal_rescue", "coastal_rescue_ocean"]
     },
     {
       "id": 27,
@@ -1724,22 +2016,26 @@
     {
       "id": 29,
       "caption": "Kystvaktstasjon",
-      "key": "BUILDING_TYPE_WATER_RESCUE_2"
+      "key": "BUILDING_TYPE_WATER_RESCUE_2",
+      "generates_mission_types": ["coastal_rescue"]
     },
     {
       "id": 30,
       "caption": "Brannbåt havn",
-      "key": "BUILDING_TYPE_FIRE_BOAT_DOCK"
+      "key": "BUILDING_TYPE_FIRE_BOAT_DOCK",
+      "generates_mission_types": ["water_rescue"]
     },
     {
       "id": 31,
       "caption": "Redningsbåthavn",
-      "key": "BUILDING_TYPE_RESCUE_BOAT_DOCK"
+      "key": "BUILDING_TYPE_RESCUE_BOAT_DOCK",
+      "generates_mission_types": ["water_rescue"]
     },
     {
       "id": 32,
       "caption": "Politibåthavn",
-      "key": "BUILDING_TYPE_POLICE_BOAT_DOCK"
+      "key": "BUILDING_TYPE_POLICE_BOAT_DOCK",
+      "generates_mission_types": ["water_rescue"]
     },
     {
       "id": 33,
@@ -1770,7 +2066,8 @@
           "id": 5,
           "caption": "Frivillige redningsorganisasjoner"
         }
-      ]
+      ],
+      "generates_mission_types": ["technical_aid"]
     },
     {
       "id": 34,
@@ -1825,7 +2122,8 @@
           "id": 11,
           "caption": "Forlengelse for støtte for tauebil"
         }
-      ]
+      ],
+      "generates_mission_types": ["tow_trucks"]
     }
   ],
   "awards": [
@@ -5494,6 +5792,228 @@
     {
       "id": 744,
       "caption": "En bil kjører inn i en folkemengde"
+    }
+  ],
+  "education_data": [
+    {
+      "id": 0,
+      "caption": "CBRNe-enhet",
+      "duration": 259200,
+      "education_key": "gw_gefahrgut"
+    },
+    {
+      "id": 1,
+      "caption": "Skadestedsledelse",
+      "duration": 432000,
+      "education_key": "elw2"
+    },
+    {
+      "id": 2,
+      "caption": "Lufthavnbetjent brann",
+      "duration": 259200,
+      "education_key": "arff"
+    },
+    {
+      "id": 3,
+      "caption": "Overflatereddere-trening",
+      "duration": 345600,
+      "education_key": "gw_wasserrettung"
+    },
+    {
+      "id": 4,
+      "caption": "Skipsnavigering",
+      "duration": 432000,
+      "education_key": "ocean_navigation"
+    },
+    {
+      "id": 5,
+      "caption": "Redningsdykker kurs",
+      "duration": 432000,
+      "education_key": "gw_taucher"
+    },
+    {
+      "id": 6,
+      "caption": "Skogbrann helikopterutdanning",
+      "duration": 432000,
+      "education_key": "airborne_firefighting"
+    },
+    {
+      "id": 7,
+      "caption": "ATV",
+      "duration": 259200,
+      "education_key": "atv"
+    },
+    {
+      "id": 8,
+      "caption": "skjæreslukker opplæring",
+      "duration": 518400,
+      "education_key": "piercing_nozzle"
+    },
+    {
+      "id": 9,
+      "caption": "Opplæring i skadebegrensning",
+      "duration": 432000,
+      "education_key": "flood_equipment"
+    },
+    {
+      "id": 10,
+      "caption": "RVR-trening",
+      "duration": 432000,
+      "education_key": "damage_control"
+    },
+    {
+      "id": 11,
+      "caption": "Sivilforsvarets fagledertrening",
+      "duration": 604800,
+      "education_key": "technical_aid_command"
+    },
+    {
+      "id": 12,
+      "caption": "Opplæring i dekontaminering",
+      "duration": 432000,
+      "education_key": "decontamination_personnel"
+    },
+    {
+      "id": 13,
+      "caption": "USAR Trening",
+      "duration": 259200,
+      "education_key": "search_and_rescue"
+    },
+    {
+      "id": 14,
+      "caption": "Hundefører Trening",
+      "duration": 432000,
+      "education_key": "rescue_dogs"
+    },
+    {
+      "id": 15,
+      "caption": "Advansert førstehjelp Trening",
+      "duration": 432000,
+      "education_key": "first_aid_advanced"
+    },
+    {
+      "id": 16,
+      "caption": "Krokbilsjåfør",
+      "duration": 345600,
+      "education_key": "pod_tractive",
+      "date_start": "2025-11-18T09:00:00Z"
+    },
+    {
+      "id": 17,
+      "caption": "Tungberging",
+      "duration": 345600,
+      "education_key": "tow_trucks"
+    },
+    {
+      "id": 0,
+      "caption": "Politihelikopterflyvning",
+      "duration": 604800,
+      "education_key": "polizeihubschrauber"
+    },
+    {
+      "id": 1,
+      "caption": "Våpentrening",
+      "duration": 432000,
+      "education_key": "swat"
+    },
+    {
+      "id": 2,
+      "caption": "Hundepatrulje",
+      "duration": 432000,
+      "education_key": "k9"
+    },
+    {
+      "id": 3,
+      "caption": "Politimotorsykkel",
+      "duration": 259200,
+      "education_key": "police_motorcycle"
+    },
+    {
+      "id": 4,
+      "caption": "Utrykningspoliti",
+      "duration": 259200,
+      "education_key": "traffic_police"
+    },
+    {
+      "id": 5,
+      "caption": "Demonstrasjonstrent",
+      "duration": 172800,
+      "education_key": "riot_police"
+    },
+    {
+      "id": 6,
+      "caption": "Ridekurs",
+      "duration": 345600,
+      "education_key": "police_horse"
+    },
+    {
+      "id": 7,
+      "caption": "Demonstrasjonstrent innsatsleder",
+      "duration": 604800,
+      "education_key": "riot_police_command"
+    },
+    {
+      "id": 8,
+      "caption": "Droneoperatør",
+      "duration": 345600,
+      "education_key": "fbi_drone_operator"
+    },
+    {
+      "id": 9,
+      "caption": "Innsatsledelse",
+      "duration": 432000,
+      "education_key": "police_service_group_leader"
+    },
+    {
+      "id": 0,
+      "caption": "\u003Cspan class=\"translation_missing localeapp\" title=\"translation missing: nb_NO.education.notarzt\"\u003ENotarzt\u003C/span\u003E",
+      "duration": 604800,
+      "education_key": "notarzt",
+      "hidden": true
+    },
+    {
+      "id": 1,
+      "caption": "\u003Cspan class=\"translation_missing localeapp\" title=\"translation missing: nb_NO.education.lna\"\u003ELna\u003C/span\u003E",
+      "duration": 777600,
+      "education_key": "lna",
+      "hidden": true
+    },
+    {
+      "id": 2,
+      "caption": "\u003Cspan class=\"translation_missing localeapp\" title=\"translation missing: nb_NO.education.orgl\"\u003EOrgl\u003C/span\u003E",
+      "duration": 950400,
+      "education_key": "orgl",
+      "hidden": true
+    },
+    {
+      "id": 3,
+      "caption": "Intensivbehandling",
+      "duration": 432000,
+      "education_key": "critical_care"
+    },
+    {
+      "id": 4,
+      "caption": "Ambulansemotorsykkel",
+      "duration": 259200,
+      "education_key": "rapid_response_motorcycle"
+    },
+    {
+      "id": 0,
+      "caption": "Operasjonsleder for redningshelikoptre",
+      "duration": 432000,
+      "education_key": "coastal_rescue_pilot"
+    },
+    {
+      "id": 1,
+      "caption": "Skipsnavigering",
+      "duration": 432000,
+      "education_key": "ocean_navigation"
+    },
+    {
+      "id": 2,
+      "caption": "Intensivbehandling",
+      "duration": 432000,
+      "education_key": "critical_care"
     }
   ]
 }
