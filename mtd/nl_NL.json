@@ -884,6 +884,368 @@
       "key": "need_bomb_disposal_boat",
       "caption": "Benodigde BA-DDG",
       "type": "Integer"
+    },
+    {
+      "key": "need_arff_chance",
+      "caption": "Crashtender benodigd waarschijnlijkheid ",
+      "type": "Integer"
+    },
+    {
+      "key": "need_at_c_chance",
+      "caption": "AT Commandant benodigd waarschijnlijkheid",
+      "type": "Integer"
+    },
+    {
+      "key": "need_at_m_chance",
+      "caption": "AT Materiaalwagen benodigd waarschijnlijkheid",
+      "type": "Integer"
+    },
+    {
+      "key": "need_at_o_chance",
+      "caption": "AT Operator benodigd waarschijnlijkheid",
+      "type": "Integer"
+    },
+    {
+      "key": "need_bike_police_only_if_present_chance",
+      "caption": null,
+      "type": "Integer"
+    },
+    {
+      "key": "need_coastal_boat_chance",
+      "caption": "Kans dat een RB-K of RB-G benodigd is",
+      "type": "Integer"
+    },
+    {
+      "key": "need_coastal_guard_boat_chance",
+      "caption": "Kans dat een KW-boot benodigd is",
+      "type": "Integer"
+    },
+    {
+      "key": "need_detention_unit_chance",
+      "caption": "Aanhoudingseenheid benodigd waarschijnlijkheid",
+      "type": "Integer"
+    },
+    {
+      "key": "need_foam_chance",
+      "caption": "Schuimblusvoertuig benodigd kans",
+      "type": "Integer"
+    },
+    {
+      "key": "need_gefkw_chance",
+      "caption": "Dienstbus Arrestantenvervoer benodigd waarschijnlijkheid",
+      "type": "Integer"
+    },
+    {
+      "key": "need_grukw_chance",
+      "caption": "Chance a GruKW is required",
+      "type": "Integer"
+    },
+    {
+      "key": "need_gwwasserrettung_chance",
+      "caption": "Strandvoertuig (Quad, DAT-RB of KHV) benodigd waarschijnlijkheid",
+      "type": "Integer"
+    },
+    {
+      "key": "need_hondengeleider_chance",
+      "caption": "Hondengeleider benodigd waarschijnlijkheid",
+      "type": "Integer"
+    },
+    {
+      "key": "need_lebefkw_chance",
+      "caption": null,
+      "type": "Integer"
+    },
+    {
+      "key": "need_polizeihubschrauber_chance",
+      "caption": "Politiehelikopter benodigd waarschijnlijkheid",
+      "type": "Integer"
+    },
+    {
+      "key": "need_rtw_chance",
+      "caption": "Ambulance benodigdheidswaarschijnlijkheid",
+      "type": "Integer"
+    },
+    {
+      "key": "need_streifenwagen_chance",
+      "caption": "Noodhulpeenheden benodigd waarschijnlijkheid",
+      "type": "Integer"
+    },
+    {
+      "key": "need_traffic_car",
+      "caption": "Required Traffic Cars",
+      "type": "Integer"
+    },
+    {
+      "key": "need_traffic_car_chance",
+      "caption": "Probability of Traffic Cars being required",
+      "type": "Integer"
+    },
+    {
+      "key": "need_traffic_motorcycle",
+      "caption": "Benodigde DM-RWS",
+      "type": "Integer"
+    },
+    {
+      "key": "need_traffic_motorcycle_chance",
+      "caption": "DM-RWS benodigd waarschijnlijkheid",
+      "type": "Integer"
+    },
+    {
+      "key": "need_traffic_unit_chance",
+      "caption": "Signalisatie Voertuig benodigd waarschijnlijkheid",
+      "type": "Integer"
+    },
+    {
+      "key": "need_wasserwerfer_chance",
+      "caption": "Waterwerper benodigd waarschijnlijkheid",
+      "type": "Integer"
+    },
+    {
+      "key": "need_brush_truck_chance",
+      "caption": null,
+      "type": "Integer"
+    },
+    {
+      "key": "need_care_service",
+      "caption": "Benodigde Verzorgingseenheden",
+      "type": "Integer"
+    },
+    {
+      "key": "need_care_service_chance",
+      "caption": "Verzorgingseenheden benodigd waarschijnlijkheid",
+      "type": "Integer"
+    },
+    {
+      "key": "need_clean_service",
+      "caption": "Benodigde Arbeidshygiëne",
+      "type": "Integer"
+    },
+    {
+      "key": "need_clean_service_chance",
+      "caption": "Arbeidshygiëne benodigd waarschijnlijkheid",
+      "type": "Integer"
+    },
+    {
+      "key": "need_care_service_command",
+      "caption": "Benodigde DB-PC-LOG",
+      "type": "Integer"
+    },
+    {
+      "key": "need_care_service_command_chance",
+      "caption": "DB-PC-LOG benodigd waarschijnlijkheid",
+      "type": "Integer"
+    },
+    {
+      "key": "need_wildfire_command_chance",
+      "caption": "DA-LA-NB benodigd waarschijnlijkheid",
+      "type": "Integer"
+    },
+    {
+      "key": "need_wildfire_support",
+      "caption": "Benodigde DB-Handcrew",
+      "type": "Integer"
+    },
+    {
+      "key": "need_wildfire_support_chance",
+      "caption": "DB-Handcrew benodigd waarschijnlijkheid",
+      "type": "Integer"
+    },
+    {
+      "key": "need_wildfire_equipment_chance",
+      "caption": "Natuurbrandbestrijding uitrusting benodigd waarschijnlijkheid",
+      "type": "Integer"
+    },
+    {
+      "key": "need_disaster_response",
+      "caption": "Benodigde TS-STH",
+      "type": "Integer"
+    },
+    {
+      "key": "need_disaster_response_chance",
+      "caption": "TS-STH benodigd waarschijnlijkheid",
+      "type": "Integer"
+    },
+    {
+      "key": "need_disaster_response_equipment",
+      "caption": "Benodigde HVH-STH",
+      "type": "Integer"
+    },
+    {
+      "key": "need_disaster_response_equipment_chance",
+      "caption": "HVH-STH benodigd waarschijnlijkheid",
+      "type": "Integer"
+    },
+    {
+      "key": "need_search_and_rescue",
+      "caption": "Benodigde dienstvoertuigen USAR",
+      "type": "Integer"
+    },
+    {
+      "key": "need_search_and_rescue_chance",
+      "caption": "USAR benodigd waarschijnlijkheid",
+      "type": "Integer"
+    },
+    {
+      "key": "need_search_and_rescue_engine",
+      "caption": "Benodigde TS-USAR",
+      "type": "Integer"
+    },
+    {
+      "key": "need_search_and_rescue_engine_chance",
+      "caption": "TS-USAR benodigd waarschijnlijkheid",
+      "type": "Integer"
+    },
+    {
+      "key": "need_search_and_rescue_equipment",
+      "caption": "Benodigde VW-USAR",
+      "type": "Integer"
+    },
+    {
+      "key": "need_search_and_rescue_equipment_chance",
+      "caption": "VW-USAR benodigd waarschijnlijkheid",
+      "type": "Integer"
+    },
+    {
+      "key": "need_rescue_dog_units",
+      "caption": "Benodigde DB–Speurhonden",
+      "type": "Integer"
+    },
+    {
+      "key": "need_rescue_dog_units_chance",
+      "caption": "DB–Speurhonden benodigd waarschijnlijkheid",
+      "type": "Integer"
+    },
+    {
+      "key": "need_fire_aviation_chance",
+      "caption": "FBO-Heli benodigd waarschijnlijkheid",
+      "type": "Integer"
+    },
+    {
+      "key": "need_traffic_patrol_chance",
+      "caption": "SIV-P of DM-P benodigd waarschijnlijkheid",
+      "type": "Integer"
+    },
+    {
+      "key": "need_traffic_inspector_chance",
+      "caption": "DB-VOA benodigd waarschijnlijkheid",
+      "type": "Integer"
+    },
+    {
+      "key": "need_police_motorcycle_chance",
+      "caption": "DM-P benodigd waarschijnlijkheid",
+      "type": "Integer"
+    },
+    {
+      "key": "need_mass_casualty_chance",
+      "caption": "NHT benodigd waarschijnlijkheid",
+      "type": "Integer"
+    },
+    {
+      "key": "need_mass_casualty_advanced_chance",
+      "caption": "GGB benodigd waarschijnlijkheid",
+      "type": "Integer"
+    },
+    {
+      "key": "need_car_carrier_chance",
+      "caption": "Berger-K benodigd waarschijnlijkheid",
+      "type": "Integer"
+    },
+    {
+      "key": "need_car_carrier_large",
+      "caption": "Benodigde Berger-G",
+      "type": "Integer"
+    },
+    {
+      "key": "need_car_carrier_large_chance",
+      "caption": "Berger-G benodigd waarschijnlijkheid",
+      "type": "Integer"
+    },
+    {
+      "key": "need_military_police_chance",
+      "caption": "KMAR eenheid benodigd waarschijnlijkheid",
+      "type": "Integer"
+    },
+    {
+      "key": "need_bomb_disposal_chance",
+      "caption": "EOD eenheid benodigd waarschijnlijkheid",
+      "type": "Integer"
+    },
+    {
+      "key": "need_bomb_disposal_dogs_chance",
+      "caption": "DB-Explosievenhonden benodigd waarschijnlijkheid",
+      "type": "Integer"
+    },
+    {
+      "key": "need_bomb_disposal_diver_chance",
+      "caption": "DB-Explosievenduikers benodigd waarschijnlijkheid",
+      "type": "Integer"
+    },
+    {
+      "key": "need_bomb_disposal_boat_chance",
+      "caption": "BA-DDG benodigd waarschijnlijkheid",
+      "type": "Integer"
+    },
+    {
+      "key": "need_bomb_disposal_robot_chance",
+      "caption": "RC-Explosievenrobot benodigd waarschijnlijkheid",
+      "type": "Integer"
+    },
+    {
+      "key": "need_bomb_disposal_patrol_chance",
+      "caption": "DB-TEV benodigd waarschijnlijkheid",
+      "type": "Integer"
+    },
+    {
+      "key": "need_oneof_fire_engine_or_rescue_chance",
+      "caption": null,
+      "type": "Integer"
+    },
+    {
+      "key": "need_oneof_fire_rescue_or_ladder_chance",
+      "caption": null,
+      "type": "Integer"
+    },
+    {
+      "key": "need_drone_police",
+      "caption": "Benodigde DB-DRONE",
+      "type": "Integer"
+    },
+    {
+      "key": "need_drone_police_chance",
+      "caption": "DB-DRONE benodigd waarschijnlijkheid",
+      "type": "Integer"
+    },
+    {
+      "key": "need_drone_fire",
+      "caption": "Benodigde DB-TDV",
+      "type": "Integer"
+    },
+    {
+      "key": "need_drone_fire_chance",
+      "caption": "DB-TDV benodigd waarschijnlijkheid",
+      "type": "Integer"
+    },
+    {
+      "key": "personal_min_polizei",
+      "caption": "Gemiddeld minimaal benodigde personen (politie) ",
+      "type": "Integer"
+    },
+    {
+      "key": "personal_min_thw",
+      "caption": null,
+      "type": "Integer"
+    },
+    {
+      "key": "personal_min_ambulance",
+      "caption": "Required minimum rescue workers",
+      "type": "Integer"
+    },
+    {
+      "key": "care_vehicle_required",
+      "caption": {
+        "care_service_equipment_value": "Required Field Kitchens"
+      },
+      "type": "Integer"
     }
   ],
   "pois": [
@@ -1335,7 +1697,8 @@
           "id": 22,
           "caption": "Team Digitale Verkenning"
         }
-      ]
+      ],
+      "generates_mission_types": ["fire"]
     },
     {
       "id": 1,
@@ -1402,7 +1765,8 @@
           "id": 1,
           "caption": "Grootschalige Geneeskundige Bijstand"
         }
-      ]
+      ],
+      "generates_mission_types": ["ambulance"]
     },
     {
       "id": 4,
@@ -1492,7 +1856,8 @@
           "id": 15,
           "caption": "Team Explosieven Veiligheid"
         }
-      ]
+      ],
+      "generates_mission_types": ["police"]
     },
     {
       "id": 6,
@@ -1592,7 +1957,8 @@
           "id": 9,
           "caption": "Drone Team Politie"
         }
-      ]
+      ],
+      "generates_mission_types": ["riot_police"]
     },
     {
       "id": 12,
@@ -1669,7 +2035,8 @@
           "id": 0,
           "caption": "Boten"
         }
-      ]
+      ],
+      "generates_mission_types": ["water_rescue_2"]
     },
     {
       "id": 17,
@@ -1684,7 +2051,8 @@
     {
       "id": 19,
       "caption": "Kustwacht haven",
-      "key": "BUILDING_TYPE_COASTAL_RESCUE"
+      "key": "BUILDING_TYPE_COASTAL_RESCUE",
+      "generates_mission_types": ["coastal_rescue", "coastal_rescue_ocean"]
     },
     {
       "id": 20,
@@ -1737,7 +2105,8 @@
           "id": 1,
           "caption": "Berger-G"
         }
-      ]
+      ],
+      "generates_mission_types": ["technical_aid"]
     },
     {
       "id": 23,
@@ -1793,7 +2162,8 @@
           "id": 10,
           "caption": "Extra parkeerplaats voor voertuigen"
         }
-      ]
+      ],
+      "generates_mission_types": ["tow_trucks_only"]
     },
     {
       "id": 25,
@@ -1812,7 +2182,8 @@
           "id": 2,
           "caption": "Defensie Duikgroep"
         }
-      ]
+      ],
+      "generates_mission_types": ["military_police"]
     },
     {
       "id": 26,
@@ -7437,6 +7808,341 @@
     {
       "id": 1196,
       "caption": "Brand in meubelzaak"
+    }
+  ],
+  "education_data": [
+    {
+      "id": 0,
+      "caption": "Verkenningseenheid Brandweer",
+      "duration": 259200,
+      "education_key": "gw_messtechnik"
+    },
+    {
+      "id": 1,
+      "caption": "Hoofd Officier van Dienst - Brandweer",
+      "duration": 604800,
+      "education_key": "elw2"
+    },
+    {
+      "id": 2,
+      "caption": "Adviseur Gevaarlijke Stoffen",
+      "duration": 518400,
+      "education_key": "gw_gefahrgut"
+    },
+    {
+      "id": 3,
+      "caption": "Brandweerchauffeur-zwaar",
+      "duration": 172800,
+      "education_key": "wechsellader"
+    },
+    {
+      "id": 4,
+      "caption": "Duiker/Duikploegleider",
+      "duration": 604800,
+      "education_key": "gw_taucher"
+    },
+    {
+      "id": 5,
+      "caption": "Vliegtuigbrandbestrijding",
+      "duration": 604800,
+      "education_key": "arff"
+    },
+    {
+      "id": 6,
+      "caption": "Airport Fire Officer / On Scene Commander",
+      "duration": 604800,
+      "education_key": "elw_airport"
+    },
+    {
+      "id": 7,
+      "caption": "Oppervlakteredder",
+      "duration": 604800,
+      "education_key": "oppervlakteredder"
+    },
+    {
+      "id": 8,
+      "caption": "Voorlichter",
+      "duration": 432000,
+      "education_key": "spokesman"
+    },
+    {
+      "id": 9,
+      "caption": "Waterredding",
+      "duration": 259200,
+      "education_key": "gw_wasserrettung",
+      "hidden": true
+    },
+    {
+      "id": 10,
+      "caption": "Weginspecteur",
+      "duration": 259200,
+      "education_key": "technical_aid"
+    },
+    {
+      "id": 11,
+      "caption": "Fire Bucket Operator",
+      "duration": 864000,
+      "education_key": "airborne_firefighting"
+    },
+    {
+      "id": 12,
+      "caption": "Handcrew",
+      "duration": 604800,
+      "education_key": "wildfire"
+    },
+    {
+      "id": 13,
+      "caption": "Landelijk Adviseur Natuurbranden",
+      "duration": 432000,
+      "education_key": "wildfire_command"
+    },
+    {
+      "id": 14,
+      "caption": "Teamleider STH",
+      "duration": 604800,
+      "education_key": "disaster_response_command"
+    },
+    {
+      "id": 15,
+      "caption": "Teamlid STH",
+      "duration": 432000,
+      "education_key": "disaster_response"
+    },
+    {
+      "id": 16,
+      "caption": "Teamlid USAR",
+      "duration": 604800,
+      "education_key": "search_and_rescue"
+    },
+    {
+      "id": 17,
+      "caption": "Hondengeleider USAR",
+      "duration": 691200,
+      "education_key": "rescue_dogs"
+    },
+    {
+      "id": 18,
+      "caption": "Noodhulpteam",
+      "duration": 432000,
+      "education_key": "mass_casualty"
+    },
+    {
+      "id": 19,
+      "caption": "Geneeskundige bijstandsverlener",
+      "duration": 604800,
+      "education_key": "mass_casualty_and_emergency_doctor"
+    },
+    {
+      "id": 20,
+      "caption": "Berger Training",
+      "duration": 345600,
+      "education_key": "tow_trucks"
+    },
+    {
+      "id": 21,
+      "caption": "Pelotonscommandant Logistiek",
+      "duration": 604800,
+      "education_key": "care_service_command"
+    },
+    {
+      "id": 22,
+      "caption": "Verzorger",
+      "duration": 604800,
+      "education_key": "care_service",
+      "date_start": "2025-11-18T12:00:00Z"
+    },
+    {
+      "id": 23,
+      "caption": "Hygiënemedewerker",
+      "duration": 604800,
+      "education_key": "clean_service",
+      "date_start": "2025-11-18T12:00:00Z"
+    },
+    {
+      "id": 24,
+      "caption": "TDV Drone Flightcrew",
+      "duration": 604800,
+      "education_key": "drone_fire",
+      "date_start": "2026-02-17T11:00:00Z"
+    },
+    {
+      "id": 0,
+      "caption": "Politiehelikopter",
+      "duration": 604800,
+      "education_key": "polizeihubschrauber"
+    },
+    {
+      "id": 1,
+      "caption": "Officier van Dienst - Politie",
+      "duration": 604800,
+      "education_key": "ovd_p"
+    },
+    {
+      "id": 2,
+      "caption": "Mobiele Eenheid",
+      "duration": 345600,
+      "education_key": "police_mobiele_eenheid"
+    },
+    {
+      "id": 3,
+      "caption": "Hondengeleider",
+      "duration": 604800,
+      "education_key": "hondengeleider"
+    },
+    {
+      "id": 4,
+      "caption": "Operator AT",
+      "duration": 864000,
+      "education_key": "operator_at"
+    },
+    {
+      "id": 5,
+      "caption": "Biketeam",
+      "duration": 259200,
+      "education_key": "bike_police"
+    },
+    {
+      "id": 6,
+      "caption": "ME - Aanhoudingseenheid",
+      "duration": 432000,
+      "education_key": "detention_unit"
+    },
+    {
+      "id": 7,
+      "caption": "Bereden Brigade",
+      "education_key": "police_horse",
+      "duration": 345600
+    },
+    {
+      "id": 8,
+      "caption": "ME - Waterwerper",
+      "duration": 432000,
+      "education_key": "police_wasserwerfer"
+    },
+    {
+      "id": 9,
+      "caption": "Chauffeur Dienst Infra",
+      "duration": 345600,
+      "education_key": "traffic_police"
+    },
+    {
+      "id": 10,
+      "caption": "Verkeersongevallen Analist",
+      "duration": 604800,
+      "education_key": "traffic_inspector"
+    },
+    {
+      "id": 11,
+      "caption": "Motoragent",
+      "duration": 172800,
+      "education_key": "police_motorcycle"
+    },
+    {
+      "id": 12,
+      "caption": "Berger Training",
+      "duration": 345600,
+      "education_key": "tow_trucks"
+    },
+    {
+      "id": 13,
+      "caption": "Bomverkenner",
+      "duration": 345600,
+      "education_key": "bomb_disposal_patrol",
+      "date_start": "2025-07-22T10:00:00Z"
+    },
+    {
+      "id": 14,
+      "caption": "Drone Flightcrew",
+      "duration": 604800,
+      "education_key": "drone_police",
+      "date_start": "2026-02-17T11:00:00Z"
+    },
+    {
+      "id": 0,
+      "caption": "MMT-Bemanningslid",
+      "duration": 604800,
+      "education_key": "notarzt"
+    },
+    {
+      "id": 1,
+      "caption": "Officier van Dienst Geneeskunde",
+      "duration": 950400,
+      "education_key": "orgl"
+    },
+    {
+      "id": 2,
+      "caption": "Noodhulpteam",
+      "duration": 432000,
+      "education_key": "mass_casualty"
+    },
+    {
+      "id": 3,
+      "caption": "Geneeskundige bijstandsverlener",
+      "duration": 604800,
+      "education_key": "mass_casualty_and_emergency_doctor"
+    },
+    {
+      "id": 4,
+      "caption": "Intensive Care Team",
+      "duration": 259200,
+      "education_key": "intensive_care"
+    },
+    {
+      "id": 0,
+      "caption": "SAR Helicopter",
+      "duration": 604800,
+      "education_key": "coastal_rescue_pilot"
+    },
+    {
+      "id": 1,
+      "caption": "Water handhaving",
+      "duration": 432000,
+      "education_key": "law_enforcement_marine"
+    },
+    {
+      "id": 2,
+      "caption": "Groot vaarbewijs",
+      "duration": 604800,
+      "education_key": "ocean_navigation"
+    },
+    {
+      "id": 3,
+      "caption": "Waterredding",
+      "duration": 259200,
+      "education_key": "gw_wasserrettung"
+    },
+    {
+      "id": 0,
+      "caption": "Marechaussee",
+      "duration": 345600,
+      "education_key": "military_police"
+    },
+    {
+      "id": 1,
+      "caption": "Mobiele Eenheid",
+      "duration": 345600,
+      "education_key": "police_mobiele_eenheid"
+    },
+    {
+      "id": 2,
+      "caption": "Bomontmanteling",
+      "duration": 604800,
+      "education_key": "bomb_disposal",
+      "date_start": "2025-07-22T07:00:00Z"
+    },
+    {
+      "id": 3,
+      "caption": "Hondengeleider EOD",
+      "duration": 604800,
+      "education_key": "bomb_disposal_dogs",
+      "date_start": "2025-07-22T07:00:00Z"
+    },
+    {
+      "id": 4,
+      "caption": "Duiker Defensie",
+      "duration": 604800,
+      "education_key": "bomb_disposal_diver",
+      "date_start": "2025-07-22T07:00:00Z"
     }
   ]
 }
