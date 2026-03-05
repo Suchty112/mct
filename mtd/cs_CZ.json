@@ -779,6 +779,293 @@
       "key": "need_streifenwagen_chance",
       "caption": "Pravděpodobnost, že bude potřeba policejní automobil",
       "type": "Integer"
+    },
+    {
+      "key": "need_bomb_chance",
+      "caption": "Pravděpodobnost, že bude potřeba Vozidlo pyrotechniků",
+      "type": "Integer"
+    },
+    {
+      "key": "need_boot_chance",
+      "caption": "Pravděpodobnost, že bude potřeba Přívěs se člunem",
+      "type": "Integer"
+    },
+    {
+      "key": "need_detention_unit_chance",
+      "caption": "Pravděpodobnost, že bude potřeba policejní anton",
+      "type": "Integer"
+    },
+    {
+      "key": "need_elw2_chance",
+      "caption": "Pravděpodobnost, že bude potřeba Mobilní operační středisko",
+      "type": "Integer"
+    },
+    {
+      "key": "need_extension_chance",
+      "caption": null,
+      "type": "Integer"
+    },
+    {
+      "key": "need_gwtaucher_chance",
+      "caption": "Pravděpodobnost, že bude potřeba Potápěčský automobil",
+      "type": "Integer"
+    },
+    {
+      "key": "need_k9_chance",
+      "caption": "Pravděpodobnost potřeby Kynologů PČR",
+      "type": "Integer"
+    },
+    {
+      "key": "need_lf_chance",
+      "caption": "Pravděpodobnost, že budou potřeba hasičské vozy",
+      "type": "Integer"
+    },
+    {
+      "key": "need_police_horse_chance",
+      "caption": "Pravděpodobnost, že budou potřeba jezdci na koních PČR",
+      "type": "Integer"
+    },
+    {
+      "key": "need_polizeihubschrauber_chance",
+      "caption": "Pravděpodobnost, že bude potřeba Policejní vrtulník",
+      "type": "Integer"
+    },
+    {
+      "key": "need_riot_police_chance",
+      "caption": "Pravděpodobnost, že bude potřeba dodávka pořádkové jednotky",
+      "type": "Integer"
+    },
+    {
+      "key": "need_riot_police_command_chance",
+      "caption": "Pravděpodobnost, že bude potřeba vozidlo velitele PČR",
+      "type": "Integer"
+    },
+    {
+      "key": "need_riot_police_equipment_chance",
+      "caption": "Pravděpodobnost, že bude potřeba technické vozidlo s LRAD",
+      "type": "Integer"
+    },
+    {
+      "key": "need_riot_police_maintenance_chance",
+      "caption": "Požadované monitorovací vozidla",
+      "type": "Integer"
+    },
+    {
+      "key": "need_road_rescue_chance",
+      "caption": "Pravděpodobnost, že bude potřeba RZA",
+      "type": "Integer"
+    },
+    {
+      "key": "need_rtw_chance",
+      "caption": "Pravděpodobnost, že bude potřeba RZP",
+      "type": "Integer"
+    },
+    {
+      "key": "need_swat_personal_chance",
+      "caption": null,
+      "type": "Integer"
+    },
+    {
+      "key": "need_traffic_car_chance",
+      "caption": "Pravděpodobnost, že bude potřeba Vozidlo vyšetřovatelů DN",
+      "type": "Integer"
+    },
+    {
+      "key": "need_traffic_car_only_if_present_chance",
+      "caption": null,
+      "type": "Integer"
+    },
+    {
+      "key": "need_wasserwerfer_chance",
+      "caption": "Pravděpodobnost, že bude potřeba vodní stříkač pořádkové policie",
+      "type": "Integer"
+    },
+    {
+      "key": "need_arff_chance",
+      "caption": "Pravědopodobnost, že bude potřeba letištní speciál",
+      "type": "Integer"
+    },
+    {
+      "key": "need_rettungstreppe_chance",
+      "caption": "Pravděpodobnost, že bzudou potřeba záchranné evakuační schody",
+      "type": "Integer"
+    },
+    {
+      "key": "need_rettungstreppe_chance",
+      "caption": "Pravděpodobnost, že bzudou potřeba záchranné evakuační schody",
+      "type": "Integer"
+    },
+    {
+      "key": "need_pump_chance",
+      "caption": "Pravděpodobnost, že je vyžadován přívěs s motorovým čerpadlem",
+      "type": "Integer"
+    },
+    {
+      "key": "need_gwoil_chance",
+      "caption": "Pravděpodobnost, že bude potřeba sorbentový kontejner",
+      "type": "Integer"
+    },
+    {
+      "key": "need_carbon_dioxide_chance",
+      "caption": "Pravděpodobnost, že bude potřeba plynový hasící kontejner",
+      "type": "Integer"
+    },
+    {
+      "key": "need_hose_chance",
+      "caption": "Pravděpodobnost, že bude potřeba hadicový kontejner",
+      "type": "Integer"
+    },
+    {
+      "key": "need_hazmat_large_chance",
+      "caption": "Pravděpodobnost, že bude potřeba chemický kontejner",
+      "type": "Integer"
+    },
+    {
+      "key": "need_technical_rescue_chance",
+      "caption": "Pravděpodobnost, že bude potřeba technický kontejner",
+      "type": "Integer"
+    },
+    {
+      "key": "need_mobile_shelter_chance",
+      "caption": "Pravděpodobnost, že bude potřeba týlový kontejner",
+      "type": "Integer"
+    },
+    {
+      "key": "need_energy_supply_chance",
+      "caption": "Pravděpodobnost, že bude potřeba kontejnerová elektrocentrála",
+      "type": "Integer"
+    },
+    {
+      "key": "need_bracing_chance",
+      "caption": "Pravděpodobnost, že bude potřeba kontejner pro nouzové zastřešení",
+      "type": "Integer"
+    },
+    {
+      "key": "need_gw_wasserrettung",
+      "caption": "Required Lifeguard Trucks",
+      "type": "Integer"
+    },
+    {
+      "key": "need_gw_wasserrettung_chance",
+      "caption": "Probability that Lifeguard Truck is required",
+      "type": "Integer"
+    },
+    {
+      "key": "need_railway_fire_engine",
+      "caption": "Požadovaná CAS 20 drážních hasičů",
+      "type": "Integer"
+    },
+    {
+      "key": "need_railway_fire_engine_chance",
+      "caption": "Pravděpodobnost, že bude potřeba CAS 20 drážních hasičů",
+      "type": "Integer"
+    },
+    {
+      "key": "need_railway_fire_engine_large",
+      "caption": "Požadovaná CAS 30 drážních hasičů",
+      "type": "Integer"
+    },
+    {
+      "key": "need_railway_fire_engine_large_chance",
+      "caption": "Pravděpodobnost, že bude potřeba CAS 30 drážních hasičů",
+      "type": "Integer"
+    },
+    {
+      "key": "need_railway_fire_equipment_chance",
+      "caption": "Pravděpodobnost, že bude potřeba vozidlo s nakolejovacím zařízením",
+      "type": "Integer"
+    },
+    {
+      "key": "need_railway_fire_recovery_chance",
+      "caption": "Pravděpodobnost, že bude potřeba vyprošťovací tank",
+      "type": "Integer"
+    },
+    {
+      "key": "need_mountain_snow_chance",
+      "caption": "Pravděpodobnost, že je vyžadován sněžný skútr",
+      "type": "Integer"
+    },
+    {
+      "key": "need_mountain_snow_trailer_chance",
+      "caption": "Pravděpodobnost, že je vyžadován Sněhový přívěs",
+      "type": "Integer"
+    },
+    {
+      "key": "need_mountain_atv_chance",
+      "caption": "Pravděpodobnost, že je vyžadována horská čtyřkolka",
+      "type": "Integer"
+    },
+    {
+      "key": "need_mountain_atv_trailer_chance",
+      "caption": "Pravděpodobnost, že je vyžadován přívěs horské čtyřkolky",
+      "type": "Integer"
+    },
+    {
+      "key": "need_mountain_rescue_dogs_chance",
+      "caption": "Pravděpodobnost, že je vyžadován salašnický pes",
+      "type": "Integer"
+    },
+    {
+      "key": "need_mountain_rescue_chance",
+      "caption": "Pravděpodobnost, že je vyžadován horský záchranný vůz",
+      "type": "Integer"
+    },
+    {
+      "key": "need_oneof_fire_engine_or_rescue_or_carrier_chance",
+      "caption": null,
+      "type": "Integer"
+    },
+    {
+      "key": "need_oneof_fire_engine_or_disaster_response_road_rescue_chance",
+      "caption": null,
+      "type": "Integer"
+    },
+    {
+      "key": "need_oneof_fire_engine_or_rescue_chance",
+      "caption": null,
+      "type": "Integer"
+    },
+    {
+      "key": "need_oneof_fire_engine_or_crew_chance",
+      "caption": null,
+      "type": "Integer"
+    },
+    {
+      "key": "need_oneof_fire_engine_or_airport_fire_engine_chance",
+      "caption": null,
+      "type": "Integer"
+    },
+    {
+      "key": "need_oneof_fire_engine_or_rescue_or_railway_fire_engine_or_disaster_response_road_rescue_chance",
+      "caption": null,
+      "type": "Integer"
+    },
+    {
+      "key": "need_oneof_fire_engine_or_railway_fire_engine_or_engine_large_chance",
+      "caption": null,
+      "type": "Integer"
+    },
+    {
+      "key": "need_oneof_fire_engine_or_railway_fire_engine_large_chance",
+      "caption": null,
+      "type": "Integer"
+    },
+    {
+      "key": "personal_min_thw",
+      "caption": null,
+      "type": "Integer"
+    },
+    {
+      "key": "personal_min_ambulance",
+      "caption": "Required minimum rescue workers",
+      "type": "Integer"
+    },
+    {
+      "key": "care_vehicle_required",
+      "caption": {
+        "care_service_equipment_value": "Required Field Kitchens"
+      },
+      "type": "Integer"
     }
   ],
   "pois": [
@@ -1291,7 +1578,8 @@
           "id": 18,
           "caption": "Železnice"
         }
-      ]
+      ],
+      "generates_mission_types": ["fire"]
     },
     {
       "id": 1,
@@ -1321,7 +1609,8 @@
           "id": 0,
           "caption": "Velká stanice záchranné služby"
         }
-      ]
+      ],
+      "generates_mission_types": ["ambulance"]
     },
     {
       "id": 3,
@@ -1503,7 +1792,8 @@
           "id": 25,
           "caption": "Velké vězení"
         }
-      ]
+      ],
+      "generates_mission_types": ["police"]
     },
     {
       "id": 7,
@@ -1562,7 +1852,8 @@
     {
       "id": 15,
       "caption": "Vodní záchranná služba ČČK",
-      "key": "BUILDING_TYPE_WASSERRETTUNG"
+      "key": "BUILDING_TYPE_WASSERRETTUNG",
+      "generates_mission_types": ["water_rescue"]
     },
     {
       "id": 16,
@@ -1677,7 +1968,8 @@
     {
       "id": 26,
       "caption": "Horská záchranná stanice",
-      "key": "BUILDING_TYPE_MOUNTAIN_RESCUE"
+      "key": "BUILDING_TYPE_MOUNTAIN_RESCUE",
+      "generates_mission_types": ["mountain"]
     }
   ],
   "awards": [
@@ -5388,6 +5680,195 @@
     {
       "id": 736,
       "caption": "Požár ve stájích"
+    }
+  ],
+  "education_data": [
+    {
+      "id": 0,
+      "caption": "Nebezpečné látky",
+      "duration": 259200,
+      "education_key": "gw_gefahrgut"
+    },
+    {
+      "id": 1,
+      "caption": "MOS (mobilní operační středisko)",
+      "duration": 432000,
+      "education_key": "elw2"
+    },
+    {
+      "id": 2,
+      "caption": "Školení letištních hasičů",
+      "duration": 432000,
+      "education_key": "arff"
+    },
+    {
+      "id": 3,
+      "caption": "Záchrana z vody",
+      "duration": 259200,
+      "education_key": "gw_wasserrettung"
+    },
+    {
+      "id": 4,
+      "caption": "Vodní navigace",
+      "duration": 432000,
+      "education_key": "ocean_navigation",
+      "hidden": true
+    },
+    {
+      "id": 5,
+      "caption": "Potápěč",
+      "duration": 432000,
+      "education_key": "gw_taucher"
+    },
+    {
+      "id": 6,
+      "caption": "Kurz jeřábníka",
+      "duration": 345600,
+      "education_key": "fwk"
+    },
+    {
+      "id": 7,
+      "caption": "Školení na obsluhu záchranných evakuačních schodů",
+      "duration": 604800,
+      "education_key": "rettungstreppe"
+    },
+    {
+      "id": 8,
+      "caption": "Obsluha nosiče kontejnerů",
+      "duration": 259200,
+      "education_key": "pod_tractive"
+    },
+    {
+      "id": 9,
+      "caption": "Školení drážních hasičů",
+      "duration": 259200,
+      "education_key": "railway_fire"
+    },
+    {
+      "id": 10,
+      "caption": "Řízení drážního vozidla",
+      "duration": 604800,
+      "education_key": "railway_two_way"
+    },
+    {
+      "id": 11,
+      "caption": "Školení v oblasti železničního vyšetřování",
+      "duration": 432000,
+      "education_key": "railway_investigation"
+    },
+    {
+      "id": 12,
+      "caption": "Obsluha tanku",
+      "duration": 604800,
+      "education_key": "railway_recovery"
+    },
+    {
+      "id": 13,
+      "caption": "Hasič - lezec",
+      "duration": 604800,
+      "education_key": "mountain_height_rescue"
+    },
+    {
+      "id": 0,
+      "caption": "\u003Cspan class=\"translation_missing localeapp\" title=\"translation missing: cs_CZ.education.thw_zug\"\u003EThw Zug\u003C/span\u003E",
+      "duration": 604800,
+      "education_key": "thw_zugtrupp"
+    },
+    {
+      "id": 0,
+      "caption": "Kurz Letecké služby PČR",
+      "duration": 604800,
+      "education_key": "polizeihubschrauber"
+    },
+    {
+      "id": 1,
+      "caption": "URNA",
+      "duration": 432000,
+      "education_key": "swat"
+    },
+    {
+      "id": 2,
+      "caption": "Kynologové Policie",
+      "duration": 432000,
+      "education_key": "k9"
+    },
+    {
+      "id": 3,
+      "caption": "Policejní motocykl",
+      "duration": 259200,
+      "education_key": "police_motorcycle"
+    },
+    {
+      "id": 4,
+      "caption": "Policejní pyrotechnik",
+      "duration": 259200,
+      "education_key": "fbi_bomb_tech"
+    },
+    {
+      "id": 5,
+      "caption": "Vyšetřovatel DN",
+      "duration": 259200,
+      "education_key": "traffic_police"
+    },
+    {
+      "id": 6,
+      "caption": "Školení velitele složky PČR",
+      "duration": 604800,
+      "education_key": "riot_police_command"
+    },
+    {
+      "id": 7,
+      "caption": "Jezdec na koni",
+      "duration": 345600,
+      "education_key": "police_horse"
+    },
+    {
+      "id": 8,
+      "caption": "Školení pořádkové policie",
+      "duration": 172800,
+      "education_key": "riot_police"
+    },
+    {
+      "id": 0,
+      "caption": "Školení inspektora provozu",
+      "duration": 259200,
+      "education_key": "orgl"
+    },
+    {
+      "id": 1,
+      "caption": "Školení lékaře",
+      "duration": 432000,
+      "education_key": "critical_care"
+    },
+    {
+      "id": 2,
+      "caption": "Certifikát horské záchrany",
+      "duration": 432000,
+      "education_key": "mountain_rescue"
+    },
+    {
+      "id": 3,
+      "caption": "Jízda horské záchranné služby",
+      "duration": 432000,
+      "education_key": "mountain_rescue_atv"
+    },
+    {
+      "id": 4,
+      "caption": "Výcvik salašnických psů",
+      "duration": 432000,
+      "education_key": "mountain_rescue_dogs"
+    },
+    {
+      "id": 5,
+      "caption": "Horolezecké lezení",
+      "duration": 432000,
+      "education_key": "mountain_height_rescue"
+    },
+    {
+      "id": 0,
+      "caption": "Vodní záchranná služba",
+      "duration": 259200,
+      "education_key": "water_rescue_service"
     }
   ]
 }
