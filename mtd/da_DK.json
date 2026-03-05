@@ -684,6 +684,213 @@
       "key": "need_streifenwagen_chance",
       "caption": "Sandsynlighed for nødvendighed af politibil",
       "type": "Integer"
+    },
+    {
+      "key": "need_arff_chance",
+      "caption": "Chance for Crash Tender påkrævet",
+      "type": "Integer"
+    },
+    {
+      "key": "need_boot_chance",
+      "caption": null,
+      "type": "Integer"
+    },
+    {
+      "key": "need_coastal_boat_chance",
+      "caption": "Chance for Lille Kystrednings Båd",
+      "type": "Integer"
+    },
+    {
+      "key": "need_elw2_chance",
+      "caption": "Sandsynlighed for nødvendighed af ledelses- og kommunikationsmodul",
+      "type": "Integer"
+    },
+    {
+      "key": "need_elw_police_chance",
+      "caption": "Sandsynlighed for nødvendighed af Indsatsleder Politi",
+      "type": "Integer"
+    },
+    {
+      "key": "need_elw_police_only_if_present_chance",
+      "caption": null,
+      "type": "Integer"
+    },
+    {
+      "key": "need_foam_chance",
+      "caption": "Chance for Skum Tender påkrævet",
+      "type": "Integer"
+    },
+    {
+      "key": "need_gwtaucher_chance",
+      "caption": "Sandsynlighed for nødvendighed af dykkerbil",
+      "type": "Integer"
+    },
+    {
+      "key": "need_gwwasserrettung_chance",
+      "caption": "Sandsynlighed for nødvendighed af overfladeredderbil",
+      "type": "Integer"
+    },
+    {
+      "key": "need_hose_chance",
+      "caption": "Chance for Slange Tender påkrævet",
+      "type": "Integer"
+    },
+    {
+      "key": "need_k9_chance",
+      "caption": "Sandsynlighed for nødvendighed af hundepatrulje",
+      "type": "Integer"
+    },
+    {
+      "key": "need_lf_chance",
+      "caption": "Sandsynlighed for anmodning om brandbil",
+      "type": "Integer"
+    },
+    {
+      "key": "need_large_coastal_boat_chance",
+      "caption": "Chance for Stor Kystrednings Båd",
+      "type": "Integer"
+    },
+    {
+      "key": "need_polizeihubschrauber_chance",
+      "caption": "Chance for Politi Helikopter er krævet",
+      "type": "Integer"
+    },
+    {
+      "key": "need_pump_chance",
+      "caption": "Chance for Påhængs Pumpe påkrævet",
+      "type": "Integer"
+    },
+    {
+      "key": "need_rtw_chance",
+      "caption": "Sandsynlighed for nødvendighed af ambulance",
+      "type": "Integer"
+    },
+    {
+      "key": "need_swat_personal_chance",
+      "caption": null,
+      "type": "Integer"
+    },
+    {
+      "key": "need_riot_police_chance",
+      "caption": "Chance for gruppevogn påkrævet",
+      "type": "Integer"
+    },
+    {
+      "key": "need_detention_unit_chance",
+      "caption": "Chance for fangetransport påkrævet",
+      "type": "Integer"
+    },
+    {
+      "key": "need_clearing_unit_chance",
+      "caption": "Chance for rydningsvogn påkrævet",
+      "type": "Integer"
+    },
+    {
+      "key": "need_wasserwerfer_chance",
+      "caption": "Chance for rydningsvogn med vandkanon påkrævet",
+      "type": "Integer"
+    },
+    {
+      "key": "need_riot_police_equipment_chance",
+      "caption": "Chance for Hollændervogn påkrævet",
+      "type": "Integer"
+    },
+    {
+      "key": "need_police_horse_chance",
+      "caption": "Chance for politihest påkrævet",
+      "type": "Integer"
+    },
+    {
+      "key": "need_pump_chance",
+      "caption": "Chance for Påhængs Pumpe påkrævet",
+      "type": "Integer"
+    },
+    {
+      "key": "need_damage_control_chance",
+      "caption": "Chance for  Følgeskade køretøj påkrævet",
+      "type": "Integer"
+    },
+    {
+      "key": "need_flood_equipment_chance",
+      "caption": "Påkrævet klima comtainer",
+      "type": "Integer"
+    },
+    {
+      "key": "need_energy_supply_chance",
+      "caption": "Chance for Nødstrøms Forsyning påkrævet",
+      "type": "Integer"
+    },
+    {
+      "key": "need_light_supply_chance",
+      "caption": "Chance for Lysmast trailer påkrævet",
+      "type": "Integer"
+    },
+    {
+      "key": "need_rescue_dog_units_chance",
+      "caption": "Chance for Rednings Hunde påkrævet",
+      "type": "Integer"
+    },
+    {
+      "key": "need_disaster_response_equipment_chance",
+      "caption": "Chance for afstivnings container påkrævet",
+      "type": "Integer"
+    },
+    {
+      "key": "need_oneof_fire_engine_or_rescue_or_ladder_chance",
+      "caption": null,
+      "type": "Integer"
+    },
+    {
+      "key": "need_oneof_fire_engine_or_rescue_chance",
+      "caption": null,
+      "type": "Integer"
+    },
+    {
+      "key": "need_oneof_fire_engine_or_airport_fire_engine_chance",
+      "caption": null,
+      "type": "Integer"
+    },
+    {
+      "key": "need_oneof_police_patrol_or_swat_chance",
+      "caption": null,
+      "type": "Integer"
+    },
+    {
+      "key": "need_car_carrier",
+      "caption": "Grillvogn Påkrævet",
+      "type": "Integer"
+    },
+    {
+      "key": "need_car_carrier_chance",
+      "caption": "Chance for grillvogn påkrævet",
+      "type": "Integer"
+    },
+    {
+      "key": "need_car_carrier_large",
+      "caption": "Sværvogn Påkrævet",
+      "type": "Integer"
+    },
+    {
+      "key": "need_car_carrier_large_chance",
+      "caption": "Chance for sværvogn påkrævet",
+      "type": "Integer"
+    },
+    {
+      "key": "personal_min_thw",
+      "caption": null,
+      "type": "Integer"
+    },
+    {
+      "key": "personal_min_ambulance",
+      "caption": "Required minimum rescue workers",
+      "type": "Integer"
+    },
+    {
+      "key": "care_vehicle_required",
+      "caption": {
+        "care_service_equipment_value": "Required Field Kitchens"
+      },
+      "type": "Integer"
     }
   ],
   "pois": [
@@ -1102,7 +1309,8 @@
           "id": 12,
           "caption": "Nødstrøms Forsyning Udvidelse"
         }
-      ]
+      ],
+      "generates_mission_types": ["fire"]
     },
     {
       "id": 1,
@@ -1132,7 +1340,8 @@
           "id": 0,
           "caption": "Stor ambulancestation"
         }
-      ]
+      ],
+      "generates_mission_types": ["ambulance"]
     },
     {
       "id": 3,
@@ -1270,7 +1479,8 @@
           "id": 14,
           "caption": "Stort fængsel"
         }
-      ]
+      ],
+      "generates_mission_types": ["police"]
     },
     {
       "id": 7,
@@ -1329,7 +1539,8 @@
     {
       "id": 15,
       "caption": "Vandredningsstation",
-      "key": "BUILDING_TYPE_WASSERRETTUNG"
+      "key": "BUILDING_TYPE_WASSERRETTUNG",
+      "generates_mission_types": ["water_rescue"]
     },
     {
       "id": 16,
@@ -1415,7 +1626,8 @@
     {
       "id": 23,
       "caption": "Kystrednings Station",
-      "key": "BUILDING_TYPE_COASTAL_RESCUE"
+      "key": "BUILDING_TYPE_COASTAL_RESCUE",
+      "generates_mission_types": ["coastal_rescue", "coastal_rescue_ocean"]
     },
     {
       "id": 24,
@@ -1512,7 +1724,8 @@
           "id": 10,
           "caption": "Sværvogns Udvidelse"
         }
-      ]
+      ],
+      "generates_mission_types": ["tow_trucks"]
     }
   ],
   "awards": [
@@ -5208,6 +5421,147 @@
     {
       "id": 732,
       "caption": "Bil påkører menneskemængde"
+    }
+  ],
+  "education_data": [
+    {
+      "id": 0,
+      "caption": "Gift og kemikalie-enhed",
+      "duration": 259200,
+      "education_key": "gw_gefahrgut"
+    },
+    {
+      "id": 1,
+      "caption": "Mobilkommando",
+      "duration": 432000,
+      "education_key": "elw2"
+    },
+    {
+      "id": 2,
+      "caption": "Lufthavns Uddannelse",
+      "duration": 604800,
+      "education_key": "arff"
+    },
+    {
+      "id": 3,
+      "caption": "Overfladeredderkursus",
+      "duration": 345600,
+      "education_key": "gw_wasserrettung"
+    },
+    {
+      "id": 4,
+      "caption": "Maritim Navigation",
+      "duration": 432000,
+      "education_key": "ocean_navigation",
+      "hidden": true
+    },
+    {
+      "id": 5,
+      "caption": "Redningsdykkeruddannelse",
+      "duration": 432000,
+      "education_key": "gw_taucher"
+    },
+    {
+      "id": 6,
+      "caption": "Akutlæge",
+      "duration": 432000,
+      "education_key": "critical_care"
+    },
+    {
+      "id": 7,
+      "caption": "Indsatsleder Sund",
+      "duration": 259200,
+      "education_key": "orgl"
+    },
+    {
+      "id": 8,
+      "caption": "Redningshundefører uddannelse",
+      "duration": 432000,
+      "education_key": "rescue_dogs"
+    },
+    {
+      "id": 9,
+      "caption": "Sværvognsuddannelse",
+      "duration": 432000,
+      "education_key": "tow_trucks"
+    },
+    {
+      "id": 0,
+      "caption": "Politihelikopterobservatør",
+      "duration": 604800,
+      "education_key": "polizeihubschrauber"
+    },
+    {
+      "id": 1,
+      "caption": "Aktionsstyrken",
+      "duration": 432000,
+      "education_key": "swat"
+    },
+    {
+      "id": 2,
+      "caption": "Hundefører",
+      "duration": 432000,
+      "education_key": "k9"
+    },
+    {
+      "id": 3,
+      "caption": "Politimotorcykel",
+      "duration": 259200,
+      "education_key": "police_motorcycle"
+    },
+    {
+      "id": 4,
+      "caption": "Indsatsledelse Politi",
+      "duration": 259200,
+      "education_key": "elw_police"
+    },
+    {
+      "id": 5,
+      "caption": "Urobetjente uddannelse",
+      "duration": 172800,
+      "education_key": "riot_police"
+    },
+    {
+      "id": 6,
+      "caption": "Politihest uddannelse",
+      "duration": 345600,
+      "education_key": "police_horse"
+    },
+    {
+      "id": 0,
+      "caption": "Akutlæge",
+      "duration": 432000,
+      "education_key": "critical_care"
+    },
+    {
+      "id": 1,
+      "caption": "Indsatsleder Sund",
+      "duration": 259200,
+      "education_key": "orgl"
+    },
+    {
+      "id": 0,
+      "caption": "Kystrednings Redningshelikopterpilot",
+      "duration": 432000,
+      "education_key": "coastal_rescue_pilot"
+    },
+    {
+      "id": 1,
+      "caption": "Maritim Politi",
+      "duration": 259200,
+      "education_key": "law_enforcement_marine"
+    },
+    {
+      "id": 2,
+      "caption": "Maritim Navigation",
+      "duration": 604800,
+      "education_key": "ocean_navigation"
+    },
+    {
+      "id": 3,
+      "caption": "Kystredder",
+      "duration": 432000,
+      "education_key": "coastal_rescue"
     }
   ]
 }
