@@ -739,6 +739,268 @@
       "key": "need_mountain_cave_command",
       "caption": "Comando de Cavernas Necessário",
       "type": "Integer"
+    },
+    {
+      "key": "need_bomb_chance",
+      "caption": "Probabilidade de requerer um Inativação de Explosivos e Segurança em Subsolo",
+      "type": "Integer"
+    },
+    {
+      "key": "need_bomb_only_if_present_chance",
+      "caption": null,
+      "type": "Integer"
+    },
+    {
+      "key": "need_brush_truck_chance",
+      "caption": null,
+      "type": "Integer"
+    },
+    {
+      "key": "need_elw2_chance",
+      "caption": "Probabilidade de requerer um Veículo de Comando e Comunicações",
+      "type": "Integer"
+    },
+    {
+      "key": "need_elw3_chance",
+      "caption": "Probablidade de requer Equipa de Reconhecimento e Avaliação da Situação",
+      "type": "Integer"
+    },
+    {
+      "key": "need_extension_chance",
+      "caption": null,
+      "type": "Integer"
+    },
+    {
+      "key": "need_fire_aviation_chance",
+      "caption": "Possibilidade de requerer Meio Aéreo",
+      "type": "Integer"
+    },
+    {
+      "key": "need_foam_chance",
+      "caption": "Probabilidade de requerer Veículo Especial de Combate a Incêndios:",
+      "type": "Integer"
+    },
+    {
+      "key": "need_lf_chance",
+      "caption": "Probabilidade de requerer um Veículos de Combate a Incêndios",
+      "type": "Integer"
+    },
+    {
+      "key": "need_pump_chance",
+      "caption": "Probabilidade de requerer Moto Bomba:",
+      "type": "Integer"
+    },
+    {
+      "key": "need_rtw_chance",
+      "caption": "Probabilidade de requerer um Ambulância de Socorro",
+      "type": "Integer"
+    },
+    {
+      "key": "need_k9_chance",
+      "caption": "Probabilidade de requerer Equipas Operacionais Cinotécnicas:",
+      "type": "Integer"
+    },
+    {
+      "key": "need_riot_police_chance",
+      "caption": "Probabilidade de requerer Veículo do Corpo/Unidade de Intervenção:",
+      "type": "Integer"
+    },
+    {
+      "key": "need_swat_armored_vehicle_chance",
+      "caption": "Probabilidade de requerer Veículo de Operações Especiais:",
+      "type": "Integer"
+    },
+    {
+      "key": "need_bike_police_chance",
+      "caption": "Probabilidade de Ciclopatrulha ser requerida:",
+      "type": "Integer"
+    },
+    {
+      "key": "need_riot_police_command_chance",
+      "caption": "Probabilidade de requerer Veículo de Posto de Comando",
+      "type": "Integer"
+    },
+    {
+      "key": "need_police_motorcycle_chance",
+      "caption": "Probabilidade de requerer Equipa de Prevenção e Reacção Imediata",
+      "type": "Integer"
+    },
+    {
+      "key": "need_gwtaucher_chance",
+      "caption": "Probabilidade de requerer Veículo de Apoio a Mergulhadores:",
+      "type": "Integer"
+    },
+    {
+      "key": "need_gw_wasserrettung",
+      "caption": "Veículos de Operações Específicas necessários:",
+      "type": "Integer"
+    },
+    {
+      "key": "need_gw_wasserrettung_chance",
+      "caption": "Probabilidade de requerer Veículo de Operações Específicas:",
+      "type": "Integer"
+    },
+    {
+      "key": "need_boot_chance",
+      "caption": "Probabilidade de requerer Embarcação de Reconhecimento Socorro e Transporte:",
+      "type": "Integer"
+    },
+    {
+      "key": "need_coastal_jetski_chance",
+      "caption": "Probabilidade de requerer Mota de Reconhecimento e Salvamento Aquático",
+      "type": "Integer"
+    },
+    {
+      "key": "need_coastal_boat_chance",
+      "caption": "Probabilidade de requerer Bote de Patrulhamento:",
+      "type": "Integer"
+    },
+    {
+      "key": "need_large_coastal_boat_chance",
+      "caption": "Probabilidade de requerer Bote de Resgate:",
+      "type": "Integer"
+    },
+    {
+      "key": "need_coastal_guard_boat_chance",
+      "caption": "Probabilidade de requerer Grupo de Ações Táticas:",
+      "type": "Integer"
+    },
+    {
+      "key": "need_coastal_rescue_chance",
+      "caption": "Probabilidade de requerer Veículos de Multi-Transporte:",
+      "type": "Integer"
+    },
+    {
+      "key": "need_coastal_command_chance",
+      "caption": "Probabilidade de requerer Equipa de Patrulhamento Costeiro:",
+      "type": "Integer"
+    },
+    {
+      "key": "need_arff_chance",
+      "caption": "Probabilidade de Requerer Veículo de Intervenção Maciça:",
+      "type": "Integer"
+    },
+    {
+      "key": "need_piercing_nozzle_chance",
+      "caption": "Probabilidade de Requerer Veículo de Intervenção Maciça Tipo II:",
+      "type": "Integer"
+    },
+    {
+      "key": "need_airport_equipment",
+      "caption": "Veículos de Resgate Diverso em Aeronaves necessários:",
+      "type": "Integer"
+    },
+    {
+      "key": "need_airport_equipment_chance",
+      "caption": "Probabilidade de Requerer Veículo de Resgate Diverso em Aeronaves:",
+      "type": "Integer"
+    },
+    {
+      "key": "need_rettungstreppe_chance",
+      "caption": "Probabilidade de Requerer Veículo de Resgate em Aeronaves:",
+      "type": "Integer"
+    },
+    {
+      "key": "need_riv_chance",
+      "caption": "Probabilidade de Requerer Veículo de Intervenção Rápida:",
+      "type": "Integer"
+    },
+    {
+      "key": "need_elw_airport_chance",
+      "caption": "Probabilidade de Requerer Posto de Comando Móvel:",
+      "type": "Integer"
+    },
+    {
+      "key": "need_airport_rescue_chance",
+      "caption": "Probabilidade de Requerer Atrelado de Transporte de Equipamento:",
+      "type": "Integer"
+    },
+    {
+      "key": "need_flood_equipment_chance",
+      "caption": "Probabilidade de Atrelado de Intervenção em Intempéries ser necessário:",
+      "type": "Integer"
+    },
+    {
+      "key": "need_car_carrier",
+      "caption": "Reboque necessário",
+      "type": "Integer"
+    },
+    {
+      "key": "need_car_carrier_chance",
+      "caption": "Probabilidade de ser necessário um reboque",
+      "type": "Integer"
+    },
+    {
+      "key": "need_car_carrier_large",
+      "caption": "Camião rotativo necessário",
+      "type": "Integer"
+    },
+    {
+      "key": "need_car_carrier_large_chance",
+      "caption": "Probabilidade de ser necessário um camião rotativo",
+      "type": "Integer"
+    },
+    {
+      "key": "need_oneof_fire_engine_or_rescue_chance",
+      "caption": null,
+      "type": "Integer"
+    },
+    {
+      "key": "need_oneof_fire_engine_or_rescue_or_ladder_chance",
+      "caption": null,
+      "type": "Integer"
+    },
+    {
+      "key": "need_mountain_atv_chance",
+      "caption": "Probabilidade de que o VTT seja necessário",
+      "type": "Integer"
+    },
+    {
+      "key": "need_mountain_command_chance",
+      "caption": "Probabilidade de que o Comando de Montanha seja necessário",
+      "type": "Integer"
+    },
+    {
+      "key": "need_mountain_cave_command_chance",
+      "caption": "Probabilidade de que o Comando de Cavernas seja necessário",
+      "type": "Integer"
+    },
+    {
+      "key": "need_mountain_snow_chance",
+      "caption": "Probabilidade de que o Motoneve seja necessário",
+      "type": "Integer"
+    },
+    {
+      "key": "need_mountain_rescue_helicopter_chance",
+      "caption": "Probabilidade de que o AW101 Merlin seja necessário",
+      "type": "Integer"
+    },
+    {
+      "key": "need_mountain_height_rescue_chance",
+      "caption": "Probabilidade de que o ESM seja necessário",
+      "type": "Integer"
+    },
+    {
+      "key": "need_mountain_helicopter_rescue_lift_chance",
+      "caption": "Probabilidade de que o Cesto-maca seja necessário",
+      "type": "Integer"
+    },
+    {
+      "key": "personal_min_thw",
+      "caption": null,
+      "type": "Integer"
+    },
+    {
+      "key": "personal_min_ambulance",
+      "caption": "Required minimum rescue workers",
+      "type": "Integer"
+    },
+    {
+      "key": "care_vehicle_required",
+      "caption": {
+        "care_service_equipment_value": "Required Field Kitchens"
+      },
+      "type": "Integer"
     }
   ],
   "pois": [
@@ -1146,7 +1408,8 @@
           "id": 8,
           "caption": "Camiões de reboque"
         }
-      ]
+      ],
+      "generates_mission_types": ["fire"]
     },
     {
       "id": 1,
@@ -1180,7 +1443,8 @@
           "id": 1,
           "caption": "Líder de ambulância"
         }
-      ]
+      ],
+      "generates_mission_types": ["ambulance"]
     },
     {
       "id": 3,
@@ -1330,7 +1594,8 @@
           "id": 17,
           "caption": "Camiões de reboque"
         }
-      ]
+      ],
+      "generates_mission_types": ["police"]
     },
     {
       "id": 7,
@@ -1507,7 +1772,8 @@
           "id": 9,
           "caption": "Grande hospital"
         }
-      ]
+      ],
+      "generates_mission_types": ["ambulance"]
     },
     {
       "id": 22,
@@ -1527,7 +1793,8 @@
     {
       "id": 25,
       "caption": "Capitania",
-      "key": "BUILDING_TYPE_COASTAL_RESCUE"
+      "key": "BUILDING_TYPE_COASTAL_RESCUE",
+      "generates_mission_types": ["coastal_rescue", "coastal_rescue_ocean"]
     },
     {
       "id": 26,
@@ -1597,17 +1864,20 @@
           "id": 10,
           "caption": "Espaço de estacionamento adicional para veículos"
         }
-      ]
+      ],
+      "generates_mission_types": ["tow_trucks_only"]
     },
     {
       "id": 28,
       "caption": "UEPS",
-      "key": "BUILDING_TYPE_MOUNTAIN_RESCUE"
+      "key": "BUILDING_TYPE_MOUNTAIN_RESCUE",
+      "generates_mission_types": ["mountain"]
     },
     {
       "id": 29,
       "caption": "FAP",
-      "key": "BUILDING_TYPE_MOUNTAIN_RESCUE_HELIPORT"
+      "key": "BUILDING_TYPE_MOUNTAIN_RESCUE_HELIPORT",
+      "generates_mission_types": ["mountain"]
     }
   ],
   "awards": [
@@ -5165,6 +5435,211 @@
     {
       "id": 704,
       "caption": "Um carro atropela uma multidão"
+    }
+  ],
+  "education_data": [
+    {
+      "id": 0,
+      "caption": "Matérias Perigosas",
+      "duration": 259200,
+      "education_key": "gw_gefahrgut"
+    },
+    {
+      "id": 1,
+      "caption": "Comando Avançado",
+      "duration": 432000,
+      "education_key": "elw2"
+    },
+    {
+      "id": 2,
+      "caption": "Resgate e Combate a Incêndios em Aeronaves",
+      "duration": 259200,
+      "education_key": "arff"
+    },
+    {
+      "id": 3,
+      "caption": "Resgate Aquático Rápido",
+      "duration": 345600,
+      "education_key": "gw_wasserrettung",
+      "hidden": true
+    },
+    {
+      "id": 4,
+      "caption": "Condutor de Embarcações de Socorro",
+      "duration": 432000,
+      "education_key": "ocean_navigation"
+    },
+    {
+      "id": 5,
+      "caption": "Salvamento em Grande Ângulo",
+      "duration": 259200,
+      "education_key": "fwk"
+    },
+    {
+      "id": 6,
+      "caption": "Carta de Manobrador de Máquinas",
+      "duration": 259200,
+      "education_key": "heavy_machinery"
+    },
+    {
+      "id": 7,
+      "caption": "Carta de Pesados",
+      "duration": 172800,
+      "education_key": "truck_drivers_license"
+    },
+    {
+      "id": 8,
+      "caption": "Brevet",
+      "duration": 432000,
+      "education_key": "airborne_firefighting"
+    },
+    {
+      "id": 9,
+      "caption": "Equipa de Reconhecimento e Avaliação da Situação",
+      "duration": 432000,
+      "education_key": "elw3"
+    },
+    {
+      "id": 10,
+      "caption": "Curso de Mergulho",
+      "duration": 432000,
+      "education_key": "gw_taucher"
+    },
+    {
+      "id": 11,
+      "caption": "Operadores de Sistemas de Assistência e Socorro",
+      "duration": 172800,
+      "education_key": "elw_airport"
+    },
+    {
+      "id": 12,
+      "caption": "Resgate e Combate Especial a Incêndios em Aeronaves",
+      "duration": 172800,
+      "education_key": "piercing_nozzle"
+    },
+    {
+      "id": 13,
+      "caption": "Operador de Escadas",
+      "duration": 432000,
+      "education_key": "rettungstreppe"
+    },
+    {
+      "id": 14,
+      "caption": "Suporte Avançado de Vida",
+      "duration": 432000,
+      "education_key": "critical_care"
+    },
+    {
+      "id": 15,
+      "caption": "Camião de reboque grande",
+      "duration": 432000,
+      "education_key": "tow_trucks"
+    },
+    {
+      "id": 0,
+      "caption": "Inativação de Explosivos e Segurança em Subsolo",
+      "duration": 259200,
+      "education_key": "fbi_bomb_tech"
+    },
+    {
+      "id": 1,
+      "caption": "Carta de Motociclo",
+      "duration": 259200,
+      "education_key": "police_motorcycle"
+    },
+    {
+      "id": 2,
+      "caption": "Controlador de Trânsito",
+      "education_key": "traffic_police",
+      "duration": 432000
+    },
+    {
+      "id": 3,
+      "caption": "Comando Avançado",
+      "education_key": "riot_police_command",
+      "duration": 604800
+    },
+    {
+      "id": 4,
+      "caption": "Cinotécnia",
+      "education_key": "k9",
+      "duration": 432000
+    },
+    {
+      "id": 5,
+      "caption": "Corpo/Unidade de Intervenção - Ordem Publica",
+      "education_key": "riot_police",
+      "duration": 172800
+    },
+    {
+      "id": 6,
+      "caption": "Operações Especiais",
+      "education_key": "swat",
+      "duration": 432000
+    },
+    {
+      "id": 0,
+      "caption": "Suporte Avançado de Vida",
+      "duration": 432000,
+      "education_key": "critical_care"
+    },
+    {
+      "id": 1,
+      "caption": "Carta de Motociclo",
+      "duration": 259200,
+      "education_key": "rapid_response_motorcycle"
+    },
+    {
+      "id": 2,
+      "caption": "Líder de ambulância",
+      "duration": 604800,
+      "education_key": "orgl"
+    },
+    {
+      "id": 3,
+      "caption": "Certificado de Salvamento em Montanha",
+      "duration": 259200,
+      "education_key": "mountain_rescue",
+      "date_start": "2025-12-02T11:00:00Z"
+    },
+    {
+      "id": 4,
+      "caption": "Certificado de Salvamento em Cavernas",
+      "duration": 432000,
+      "education_key": "mountain_cave_rescue",
+      "date_start": "2025-12-02T11:00:00Z"
+    },
+    {
+      "id": 5,
+      "caption": "Certificado da UEPS",
+      "duration": 432000,
+      "education_key": "mountain_command",
+      "date_start": "2025-12-02T11:00:00Z"
+    },
+    {
+      "id": 6,
+      "caption": "Esquadrão 751 da Força Aérea",
+      "duration": 432000,
+      "education_key": "helicopter_pilot",
+      "date_start": "2025-12-02T11:00:00Z"
+    },
+    {
+      "id": 0,
+      "caption": "Polícia Marítima",
+      "duration": 432000,
+      "education_key": "coastal_rescue"
+    },
+    {
+      "id": 1,
+      "caption": "Grupo de Ações Táticas",
+      "duration": 259200,
+      "education_key": "law_enforcement_marine"
+    },
+    {
+      "id": 2,
+      "caption": "Navegação em Oceano",
+      "duration": 432000,
+      "education_key": "coastal_ocean_navigation"
     }
   ]
 }
