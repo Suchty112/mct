@@ -824,6 +824,403 @@
       "key": "need_railway_police",
       "caption": "Required EIU",
       "type": "Integer"
+    },
+    {
+      "key": "need_atv_carrier_chance",
+      "caption": "Probability of ATV Carrier being required",
+      "type": "Integer"
+    },
+    {
+      "key": "need_elw2_chance",
+      "caption": "Probability of ICCU or Ambulance Control Unit being required",
+      "type": "Integer"
+    },
+    {
+      "key": "need_emergency_welfare_chance",
+      "caption": "Probability of Welfare Vehicle being required",
+      "type": "Integer"
+    },
+    {
+      "key": "need_ems_mobile_command_chance",
+      "caption": "Probability of Ambulance Officer being required",
+      "type": "Integer"
+    },
+    {
+      "key": "need_foam_chance",
+      "caption": "Probability of Foam Units being required",
+      "type": "Integer"
+    },
+    {
+      "key": "need_hazard_response_primary_chance",
+      "caption": "Probability of PRV being required",
+      "type": "Integer"
+    },
+    {
+      "key": "need_hazard_response_secondary_chance",
+      "caption": "Probability of SRV being required",
+      "type": "Integer"
+    },
+    {
+      "key": "need_lf_chance",
+      "caption": "Firetruck request probability",
+      "type": "Integer"
+    },
+    {
+      "key": "need_mass_casualty_equipment_chance",
+      "caption": "Probability of EMS Operations Support being required",
+      "type": "Integer"
+    },
+    {
+      "key": "need_police_horse_chance",
+      "caption": "Probability that Mounted Units are required",
+      "type": "Integer"
+    },
+    {
+      "key": "need_polizeihubschrauber_chance",
+      "caption": "Probability of Police Helicopters being required",
+      "type": "Integer"
+    },
+    {
+      "key": "need_rtw_chance",
+      "caption": "Probability of Requiring an Ambulance",
+      "type": "Integer"
+    },
+    {
+      "key": "need_swat_personal_chance",
+      "caption": null,
+      "type": "Integer"
+    },
+    {
+      "key": "need_traffic_car_only_if_present_chance",
+      "caption": null,
+      "type": "Integer"
+    },
+    {
+      "key": "need_extension",
+      "caption": "With extension",
+      "type": "Integer"
+    },
+    {
+      "key": "need_extension_chance",
+      "caption": null,
+      "type": "Integer"
+    },
+    {
+      "key": "need_coastal_rescue_chance",
+      "caption": "Probability that CRV is required",
+      "type": "Integer"
+    },
+    {
+      "key": "need_gwhoehenrettung_chance",
+      "caption": "Probability that Coastguard Rope Rescue Unit is required",
+      "type": "Integer"
+    },
+    {
+      "key": "need_mud_rescue_chance",
+      "caption": "Probability that Mud Decontamination Unit is required",
+      "type": "Integer"
+    },
+    {
+      "key": "need_coastal_command_chance",
+      "caption": "Probability that Coastguard Commander is required",
+      "type": "Integer"
+    },
+    {
+      "key": "need_flood_equipment_chance",
+      "caption": "Probability that Flood Rescue Unit is required",
+      "type": "Integer"
+    },
+    {
+      "key": "need_coastal_support_chance",
+      "caption": "Probability that Support Unit is required",
+      "type": "Integer"
+    },
+    {
+      "key": "need_gw_wasserrettung_chance",
+      "caption": "Probability that 4x4 Vehicle is required",
+      "type": "Integer"
+    },
+    {
+      "key": "need_coastal_boat_chance",
+      "caption": "Probability that Inland Rescue Boat (Trailer) is required",
+      "type": "Integer"
+    },
+    {
+      "key": "need_large_coastal_boat_chance",
+      "caption": "Probability that ILB is required",
+      "type": "Integer"
+    },
+    {
+      "key": "need_coastal_guard_boat_chance",
+      "caption": "Probability that ALB is required",
+      "type": "Integer"
+    },
+    {
+      "key": "need_coastal_jetski",
+      "caption": "Required Rescue Watercraft (Trailers)",
+      "type": "Integer"
+    },
+    {
+      "key": "need_coastal_jetski_chance",
+      "caption": "Probability that Rescue Watercraft (Trailer) is required",
+      "type": "Integer"
+    },
+    {
+      "key": "need_coastal_mud_rescue_chance",
+      "caption": "Probability that Coastguard Mud Rescue Unit is required",
+      "type": "Integer"
+    },
+    {
+      "key": "need_coastal_boat_hover_chance",
+      "caption": "Probability that Hovercraft (Trailer) is required",
+      "type": "Integer"
+    },
+    {
+      "key": "need_arff_chance",
+      "caption": "Probability that Major Foam Tenders are required",
+      "type": "Integer"
+    },
+    {
+      "key": "need_airport_equipment_chance",
+      "caption": "Probability that Airfield Operations Vehicles are required",
+      "type": "Integer"
+    },
+    {
+      "key": "need_airport_command_chance",
+      "caption": "Probability that Airfield Operations Supervisors are required",
+      "type": "Integer"
+    },
+    {
+      "key": "need_rettungstreppe",
+      "caption": "Required Rescue Stairs",
+      "type": "Integer"
+    },
+    {
+      "key": "need_rettungstreppe_chance",
+      "caption": "Probability that Rescue Stairs are required",
+      "type": "Integer"
+    },
+    {
+      "key": "need_riv",
+      "caption": "Required RIVs",
+      "type": "Integer"
+    },
+    {
+      "key": "need_riv_chance",
+      "caption": "Probability that RIVs are required",
+      "type": "Integer"
+    },
+    {
+      "key": "need_elw_airport_chance",
+      "caption": "Probability that Airfield Firefighting Command Vehicles are required",
+      "type": "Integer"
+    },
+    {
+      "key": "need_airport_rescue",
+      "caption": "Required Medical equipment trailers",
+      "type": "Integer"
+    },
+    {
+      "key": "need_airport_rescue_chance",
+      "caption": "Probability that Medical equipment trailers are required",
+      "type": "Integer"
+    },
+    {
+      "key": "need_airport_police",
+      "caption": "Required Armed Cell Vans",
+      "type": "Integer"
+    },
+    {
+      "key": "need_airport_police_chance",
+      "caption": "Probability that Armed Cell Vans are required",
+      "type": "Integer"
+    },
+    {
+      "key": "need_bike_ambulance",
+      "caption": "Required Medical cycle responders",
+      "type": "Integer"
+    },
+    {
+      "key": "need_bike_ambulance_chance",
+      "caption": "Probability that Medical cycle responders are required",
+      "type": "Integer"
+    },
+    {
+      "key": "need_drone",
+      "caption": "Required Drones",
+      "type": "Integer"
+    },
+    {
+      "key": "need_drone_chance",
+      "caption": "Probability that Drone is required",
+      "type": "Integer"
+    },
+    {
+      "key": "need_search_and_rescue_chance",
+      "caption": "Probability that Operational Support Van, Trailer or Personal SAR Vehicle is required",
+      "type": "Integer"
+    },
+    {
+      "key": "need_search_and_rescue_command_chance",
+      "caption": "Probability that Control Van are required",
+      "type": "Integer"
+    },
+    {
+      "key": "need_midwife_chance",
+      "caption": "Probability that Community Midwifes are required",
+      "type": "Integer"
+    },
+    {
+      "key": "need_paramedic_advanced",
+      "caption": "Required Specialist Paramedic RRV",
+      "type": "Integer"
+    },
+    {
+      "key": "need_paramedic_advanced_chance",
+      "caption": "Probability that Specialist Paramedic RRVs are required",
+      "type": "Integer"
+    },
+    {
+      "key": "need_fly_car",
+      "caption": null,
+      "type": "Integer"
+    },
+    {
+      "key": "need_fly_car_chance",
+      "caption": null,
+      "type": "Integer"
+    },
+    {
+      "key": "need_mountain_atv",
+      "caption": "Required Mountain Rescue 4x4",
+      "type": "Integer"
+    },
+    {
+      "key": "need_mountain_atv_chance",
+      "caption": "Probability that Mountain Rescue 4x4 is required",
+      "type": "Integer"
+    },
+    {
+      "key": "need_rescue_dogs_chance",
+      "caption": "Probability that Search Dog Unit is required",
+      "type": "Integer"
+    },
+    {
+      "key": "need_car_carrier",
+      "caption": "Required Recovery Vehicle",
+      "type": "Integer"
+    },
+    {
+      "key": "need_car_carrier_chance",
+      "caption": "Probability that Recovery Vehicle is required",
+      "type": "Integer"
+    },
+    {
+      "key": "need_car_carrier_large",
+      "caption": "Required HGV Recovery Vehicle",
+      "type": "Integer"
+    },
+    {
+      "key": "need_car_carrier_large_chance",
+      "caption": "Probability that HGV Recovery Vehicle is required",
+      "type": "Integer"
+    },
+    {
+      "key": "need_two_way_chance",
+      "caption": "Probability that Road Rail Unit is required",
+      "type": "Integer"
+    },
+    {
+      "key": "need_railway_police_chance",
+      "caption": "Probability that EIU is required",
+      "type": "Integer"
+    },
+    {
+      "key": "need_oneof_fire_engine_or_rescue_chance",
+      "caption": null,
+      "type": "Integer"
+    },
+    {
+      "key": "need_oneof_fire_engine_or_rescue_or_ladder_chance",
+      "caption": null,
+      "type": "Integer"
+    },
+    {
+      "key": "need_oneof_fire_engine_or_airport_fire_engine_chance",
+      "caption": null,
+      "type": "Integer"
+    },
+    {
+      "key": "need_oneof_fire_engine_or_airport_fire_engine_large_chance",
+      "caption": null,
+      "type": "Integer"
+    },
+    {
+      "key": "need_oneof_airport_fire_engine_or_engine_large_chance",
+      "caption": null,
+      "type": "Integer"
+    },
+    {
+      "key": "need_oneof_fire_engine_or_airport_fire_engine_or_engine_large_chance",
+      "caption": null,
+      "type": "Integer"
+    },
+    {
+      "key": "need_oneof_fire_command_or_airport_fire_command_chance",
+      "caption": null,
+      "type": "Integer"
+    },
+    {
+      "key": "need_oneof_fire_command_advanced_or_airport_fire_command_chance",
+      "caption": null,
+      "type": "Integer"
+    },
+    {
+      "key": "need_oneof_fire_ladder_or_rescue_stairs_chance",
+      "caption": null,
+      "type": "Integer"
+    },
+    {
+      "key": "need_oneof_police_patrol_or_swat_chance",
+      "caption": null,
+      "type": "Integer"
+    },
+    {
+      "key": "need_oneof_police_drone_or_helicopter_chance",
+      "caption": null,
+      "type": "Integer"
+    },
+    {
+      "key": "need_oneof_coastal_guard_boat_or_boat_large_chance",
+      "caption": null,
+      "type": "Integer"
+    },
+    {
+      "key": "need_oneof_paramedic_or_paramedic_advanced_chance",
+      "caption": null,
+      "type": "Integer"
+    },
+    {
+      "key": "need_oneof_mountain_atv_or_search_and_rescue_atv_chance",
+      "caption": null,
+      "type": "Integer"
+    },
+    {
+      "key": "personal_min_thw",
+      "caption": null,
+      "type": "Integer"
+    },
+    {
+      "key": "personal_min_ambulance",
+      "caption": "Required minimum rescue workers",
+      "type": "Integer"
+    },
+    {
+      "key": "care_vehicle_required",
+      "caption": {
+        "care_service_equipment_value": "Required Care Vehicles"
+      },
+      "type": "Integer"
     }
   ],
   "pois": [
@@ -1360,7 +1757,8 @@
           "id": 19,
           "caption": "Railway fire response"
         }
-      ]
+      ],
+      "generates_mission_types": ["fire"]
     },
     {
       "id": 1,
@@ -1398,7 +1796,8 @@
           "id": 2,
           "caption": "General Practitioner"
         }
-      ]
+      ],
+      "generates_mission_types": ["ambulance"]
     },
     {
       "id": 3,
@@ -1576,7 +1975,8 @@
           "id": 16,
           "caption": "Railway Police"
         }
-      ]
+      ],
+      "generates_mission_types": ["police"]
     },
     {
       "id": 7,
@@ -1761,7 +2161,8 @@
           "id": 1,
           "caption": "General Practitioner (UTC)"
         }
-      ]
+      ],
+      "generates_mission_types": ["ambulance"]
     },
     {
       "id": 22,
@@ -1962,7 +2363,8 @@
           "id": 41,
           "caption": "Additional Detention Van Parking Spaces"
         }
-      ]
+      ],
+      "generates_mission_types": ["police"]
     },
     {
       "id": 27,
@@ -1981,7 +2383,8 @@
           "id": 2,
           "caption": "Flood Rescue"
         }
-      ]
+      ],
+      "generates_mission_types": ["coastal_rescue", "coastal_rescue_ocean"]
     },
     {
       "id": 28,
@@ -1996,7 +2399,8 @@
           "id": 1,
           "caption": "Flood Rescue"
         }
-      ]
+      ],
+      "generates_mission_types": ["water_rescue_2"]
     },
     {
       "id": 29,
@@ -2057,17 +2461,20 @@
           "id": 1,
           "caption": "SAR Ambulance Extension"
         }
-      ]
+      ],
+      "generates_mission_types": ["search_and_rescue"]
     },
     {
       "id": 32,
       "caption": "GP Surgery",
-      "key": "BUILDING_TYPE_GENERAL_PRACTITIONER"
+      "key": "BUILDING_TYPE_GENERAL_PRACTITIONER",
+      "generates_mission_types": ["general_practitioner_transfer"]
     },
     {
       "id": 33,
       "caption": "Mountain Rescue Station",
-      "key": "BUILDING_TYPE_MOUNTAIN_RESCUE"
+      "key": "BUILDING_TYPE_MOUNTAIN_RESCUE",
+      "generates_mission_types": ["mountain"]
     },
     {
       "id": 34,
@@ -2118,7 +2525,8 @@
           "id": 10,
           "caption": "HGV Recovery"
         }
-      ]
+      ],
+      "generates_mission_types": ["tow_trucks"]
     }
   ],
   "awards": [
@@ -6112,6 +6520,280 @@
     {
       "id": 824,
       "caption": "Fire in stables"
+    }
+  ],
+  "education_data": [
+    {
+      "id": 0,
+      "caption": "HazMat",
+      "duration": 259200,
+      "education_key": "gw_gefahrgut"
+    },
+    {
+      "id": 1,
+      "caption": "Mobile command",
+      "duration": 432000,
+      "education_key": "elw2"
+    },
+    {
+      "id": 2,
+      "caption": "Aircraft Rescue and Firefighting",
+      "duration": 432000,
+      "education_key": "arff"
+    },
+    {
+      "id": 3,
+      "caption": "Lifeguard Training",
+      "duration": 259200,
+      "education_key": "gw_wasserrettung"
+    },
+    {
+      "id": 4,
+      "caption": "Lifeboat Operations Training",
+      "duration": 432000,
+      "education_key": "ocean_navigation",
+      "hidden": true
+    },
+    {
+      "id": 5,
+      "caption": "Co-Responder Training",
+      "duration": 259200,
+      "education_key": "coresponder"
+    },
+    {
+      "id": 6,
+      "caption": "High Volume Pump Training",
+      "duration": 259200,
+      "education_key": "pump"
+    },
+    {
+      "id": 7,
+      "caption": "HART Training",
+      "duration": 432000,
+      "education_key": "hazard_response_ems",
+      "hidden": true
+    },
+    {
+      "id": 8,
+      "caption": "Drone Operator Training",
+      "duration": 432000,
+      "education_key": "drone"
+    },
+    {
+      "id": 9,
+      "caption": "Railway Fire",
+      "duration": 432000,
+      "education_key": "railway_fire"
+    },
+    {
+      "id": 0,
+      "caption": "Police aviation",
+      "duration": 604800,
+      "education_key": "polizeihubschrauber"
+    },
+    {
+      "id": 1,
+      "caption": "Firearms training",
+      "duration": 432000,
+      "education_key": "swat"
+    },
+    {
+      "id": 2,
+      "caption": "Dog handling",
+      "duration": 432000,
+      "education_key": "k9"
+    },
+    {
+      "id": 3,
+      "caption": "Roads Policing Officer Training",
+      "duration": 259200,
+      "education_key": "traffic_police"
+    },
+    {
+      "id": 4,
+      "caption": "Level 1 Public Order Training",
+      "duration": 432000,
+      "education_key": "level_1_public_order"
+    },
+    {
+      "id": 5,
+      "caption": "Level 2 Public Order Training",
+      "duration": 432000,
+      "education_key": "level_2_public_order"
+    },
+    {
+      "id": 6,
+      "caption": "Police Medic Training",
+      "duration": 345600,
+      "education_key": "police_medic"
+    },
+    {
+      "id": 7,
+      "caption": "Police Sergeant Training",
+      "duration": 345600,
+      "education_key": "police_sergeant"
+    },
+    {
+      "id": 8,
+      "caption": "Police Inspector Training",
+      "duration": 345600,
+      "education_key": "police_inspector"
+    },
+    {
+      "id": 9,
+      "caption": "Mounted Training",
+      "duration": 345600,
+      "education_key": "police_horse"
+    },
+    {
+      "id": 10,
+      "caption": "Police Search Advisor Training",
+      "duration": 259200,
+      "education_key": "search_and_rescue"
+    },
+    {
+      "id": 11,
+      "caption": "Drone Operator Training",
+      "duration": 432000,
+      "education_key": "drone"
+    },
+    {
+      "id": 12,
+      "caption": "Railway Policing",
+      "duration": 432000,
+      "education_key": "railway_police"
+    },
+    {
+      "id": 13,
+      "caption": "Mobile Operations Management",
+      "duration": 432000,
+      "education_key": "railway_police_command"
+    },
+    {
+      "id": 0,
+      "caption": "Critical care",
+      "duration": 432000,
+      "education_key": "critical_care"
+    },
+    {
+      "id": 1,
+      "caption": "HART Training",
+      "duration": 432000,
+      "education_key": "hazard_response_ems"
+    },
+    {
+      "id": 2,
+      "caption": "Tactical Command Course",
+      "duration": 432000,
+      "education_key": "elw2_ems"
+    },
+    {
+      "id": 3,
+      "caption": "SORT Training",
+      "duration": 259200,
+      "education_key": "special_operation_response"
+    },
+    {
+      "id": 4,
+      "caption": "Ambulance Officer",
+      "duration": 432000,
+      "education_key": "ems_mobile_command"
+    },
+    {
+      "id": 5,
+      "caption": "Midwifery Training",
+      "duration": 432000,
+      "education_key": "midwife"
+    },
+    {
+      "id": 6,
+      "caption": "Specialist Paramedic Training",
+      "duration": 432000,
+      "education_key": "paramedic_advanced"
+    },
+    {
+      "id": 0,
+      "caption": "Coastal Air Rescue Operations Training",
+      "duration": 432000,
+      "education_key": "coastal_rescue_pilot"
+    },
+    {
+      "id": 1,
+      "caption": "Coastal Command Training",
+      "duration": 432000,
+      "education_key": "coastal_command"
+    },
+    {
+      "id": 2,
+      "caption": "Mud Rescue Training",
+      "duration": 259200,
+      "education_key": "coastal_mud_rescue"
+    },
+    {
+      "id": 3,
+      "caption": "Lifeboat Operations Training",
+      "duration": 432000,
+      "education_key": "ocean_navigation"
+    },
+    {
+      "id": 4,
+      "caption": "Rope Rescue Training",
+      "duration": 259200,
+      "education_key": "gw_hoehenrettung"
+    },
+    {
+      "id": 5,
+      "caption": "Flood First Responder Training",
+      "duration": 259200,
+      "education_key": "flood_equipment"
+    },
+    {
+      "id": 6,
+      "caption": "Lifeguard Training",
+      "duration": 259200,
+      "education_key": "gw_wasserrettung"
+    },
+    {
+      "id": 7,
+      "caption": "Jet Ski Handling",
+      "duration": 259200,
+      "education_key": "jetski"
+    },
+    {
+      "id": 8,
+      "caption": "Hovercraft Commander Training",
+      "duration": 259200,
+      "education_key": "hover_boat_elw"
+    },
+    {
+      "id": 9,
+      "caption": "Coastguard Search Advisor Training",
+      "duration": 259200,
+      "education_key": "search_and_rescue"
+    },
+    {
+      "id": 10,
+      "caption": "Search Management Training",
+      "duration": 432000,
+      "education_key": "search_and_rescue_command"
+    },
+    {
+      "id": 11,
+      "caption": "Drone Operator Training",
+      "duration": 432000,
+      "education_key": "drone"
+    },
+    {
+      "id": 12,
+      "caption": "Dog handling",
+      "duration": 432000,
+      "education_key": "rescue_dogs"
+    },
+    {
+      "id": 13,
+      "caption": "Cave Rescue Training",
+      "duration": 432000,
+      "education_key": "mountain_cave_rescue"
     }
   ]
 }
