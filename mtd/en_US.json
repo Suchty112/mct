@@ -949,6 +949,273 @@
       "key": "need_search_and_rescue",
       "caption": "Required SAR Equipments",
       "type": "Integer"
+    },
+    {
+      "key": "need_arff_chance",
+      "caption": "Probability of ARFF being required",
+      "type": "Integer"
+    },
+    {
+      "key": "need_atf_lab_vehicle_chance",
+      "caption": "Probability of ATF Lab Vehicles being required",
+      "type": "Integer"
+    },
+    {
+      "key": "need_atf_unit_chance",
+      "caption": "Probability of ATF Units being required",
+      "type": "Integer"
+    },
+    {
+      "key": "need_boot_chance",
+      "caption": null,
+      "type": "Integer"
+    },
+    {
+      "key": "need_brush_truck_chance",
+      "caption": null,
+      "type": "Integer"
+    },
+    {
+      "key": "need_coastal_boat_chance",
+      "caption": "Probability that Small Coastal Boat is required",
+      "type": "Integer"
+    },
+    {
+      "key": "need_coastal_command_chance",
+      "caption": "Probability that Lifeguard Supervisor is required",
+      "type": "Integer"
+    },
+    {
+      "key": "need_coastal_helicopter_chance",
+      "caption": "Probability that Coastal Helicopter is required",
+      "type": "Integer"
+    },
+    {
+      "key": "need_coastal_plane_chance",
+      "caption": "Probability that Coastal Guard Plane is required",
+      "type": "Integer"
+    },
+    {
+      "key": "need_dea_clan_lab_chance",
+      "caption": "Probability of DEA Clan Labs being required",
+      "type": "Integer"
+    },
+    {
+      "key": "need_dea_unit_chance",
+      "caption": "Probability of DEA Units being required",
+      "type": "Integer"
+    },
+    {
+      "key": "need_fbi_drone_chance",
+      "caption": "Probability of FBI Surveillance Drones",
+      "type": "Integer"
+    },
+    {
+      "key": "need_fire_aviation_chance",
+      "caption": "Probability of airborne firefighting vehicles",
+      "type": "Integer"
+    },
+    {
+      "key": "need_fire_investigation_chance",
+      "caption": "Probability of Fire Investigation Units being required",
+      "type": "Integer"
+    },
+    {
+      "key": "need_foam_chance",
+      "caption": "Probability that Foam Tender is required",
+      "type": "Integer"
+    },
+    {
+      "key": "need_game_warden_chance",
+      "caption": "Probability of Warden Trucks being required",
+      "type": "Integer"
+    },
+    {
+      "key": "need_gw_wasserrettung_chance",
+      "caption": "Probability that Lifeguard Truck is required",
+      "type": "Integer"
+    },
+    {
+      "key": "need_large_coastal_boat_chance",
+      "caption": "Probability that Large Coastal Boat is required",
+      "type": "Integer"
+    },
+    {
+      "key": "need_large_fire_boat_chance",
+      "caption": "Probability that Fire Boat is required",
+      "type": "Integer"
+    },
+    {
+      "key": "need_large_rescue_boat_chance",
+      "caption": "Probability that Rescue Boat is required",
+      "type": "Integer"
+    },
+    {
+      "key": "need_police_boat_chance",
+      "caption": "Probability of Patrol Boats being required",
+      "type": "Integer"
+    },
+    {
+      "key": "need_polizeihubschrauber_chance",
+      "caption": "Probability of police helicopters being required",
+      "type": "Integer"
+    },
+    {
+      "key": "need_rtw_chance",
+      "caption": "Probability of Requiring an Ambulance",
+      "type": "Integer"
+    },
+    {
+      "key": "need_sheriff_chance",
+      "caption": "Probability of Police Supervisors / Sheriffs",
+      "type": "Integer"
+    },
+    {
+      "key": "need_swat_armored_vehicle_chance",
+      "caption": "Probability of SWAT Armoured Vehicles being required",
+      "type": "Integer"
+    },
+    {
+      "key": "need_swat_personal_chance",
+      "caption": null,
+      "type": "Integer"
+    },
+    {
+      "key": "need_elw3_chance",
+      "caption": "Probability that Wildland MCCs are required",
+      "type": "Integer"
+    },
+    {
+      "key": "need_brush_air_command_chance",
+      "caption": "Probability that Wildland Lead Planes are required",
+      "type": "Integer"
+    },
+    {
+      "key": "need_smoke_jumper_personnel_chance",
+      "caption": null,
+      "type": "Integer"
+    },
+    {
+      "key": "need_elw_police_chance",
+      "caption": "Probability of Police MCVs being required",
+      "type": "Integer"
+    },
+    {
+      "key": "need_detention_unit_chance",
+      "caption": "Probability of Police Prisoner Van being required",
+      "type": "Integer"
+    },
+    {
+      "key": "need_riot_police_chance",
+      "caption": "Probability of Riot Police Unit being required",
+      "type": "Integer"
+    },
+    {
+      "key": "need_riot_police_trailer_chance",
+      "caption": "Probability of Riot Police Trailer being required",
+      "type": "Integer"
+    },
+    {
+      "key": "need_flood_equipment_chance",
+      "caption": "Probability that Flood Equipment is required",
+      "type": "Integer"
+    },
+    {
+      "key": "need_light_supply_chance",
+      "caption": "Probability that a Light Tower Trailer is required",
+      "type": "Integer"
+    },
+    {
+      "key": "need_energy_supply_chance",
+      "caption": "Probability that Energy Supply is required",
+      "type": "Integer"
+    },
+    {
+      "key": "need_search_and_rescue_chance",
+      "caption": "Probability that SAR Equipment is required",
+      "type": "Integer"
+    },
+    {
+      "key": "need_technical_rescue_chance",
+      "caption": "Probability that Technical Rescue Equipment is required",
+      "type": "Integer"
+    },
+    {
+      "key": "need_car_carrier",
+      "caption": "Required Tow Trucks",
+      "type": "Integer"
+    },
+    {
+      "key": "need_car_carrier_chance",
+      "caption": "Probability that a tow truck is required",
+      "type": "Integer"
+    },
+    {
+      "key": "need_car_carrier_large",
+      "caption": "Required Rotator Trucks",
+      "type": "Integer"
+    },
+    {
+      "key": "need_car_carrier_large_chance",
+      "caption": "Probability that Rotator Trucks is required",
+      "type": "Integer"
+    },
+    {
+      "key": "need_police_drone_chance",
+      "caption": "Probability that Police Drone is required",
+      "type": "Integer"
+    },
+    {
+      "key": "need_oneof_fire_engine_or_rescue_or_ladder_chance",
+      "caption": null,
+      "type": "Integer"
+    },
+    {
+      "key": "need_oneof_fire_engine_or_rescue_chance",
+      "caption": null,
+      "type": "Integer"
+    },
+    {
+      "key": "need_oneof_police_patrol_or_swat_chance",
+      "caption": null,
+      "type": "Integer"
+    },
+    {
+      "key": "need_oneof_airport_fire_engine_or_fire_engine_chance",
+      "caption": "Probability that ARFF or Firetruck is required",
+      "type": "Integer"
+    },
+    {
+      "key": "need_oneof_fire_investigation_or_fbi_drone_chance",
+      "caption": "Probability that FBI Drone or FBI Investigation Wagon is required",
+      "type": "Integer"
+    },
+    {
+      "key": "need_oneof_fire_engine_or_ladder_chance",
+      "caption": null,
+      "type": "Integer"
+    },
+    {
+      "key": "need_oneof_fire_rescue_or_ladder_chance",
+      "caption": null,
+      "type": "Integer"
+    },
+    {
+      "key": "personal_min_thw",
+      "caption": null,
+      "type": "Integer"
+    },
+    {
+      "key": "personal_min_ambulance",
+      "caption": "Required minimum rescue workers",
+      "type": "Integer"
+    },
+    {
+      "key": "care_vehicle_required",
+      "caption": {
+        "care_service_equipment_value": "Required Field Kitchens"
+      },
+      "type": "Integer"
     }
   ],
   "pois": [
@@ -1417,7 +1684,8 @@
           "id": 12,
           "caption": "Tow Truck Extension"
         }
-      ]
+      ],
+      "generates_mission_types": ["fire"]
     },
     {
       "id": 1,
@@ -1484,7 +1752,8 @@
           "id": 1,
           "caption": "Large Ambulance Station"
         }
-      ]
+      ],
+      "generates_mission_types": ["ambulance"]
     },
     {
       "id": 4,
@@ -1602,7 +1871,8 @@
           "id": 22,
           "caption": "Police Water Rescue"
         }
-      ]
+      ],
+      "generates_mission_types": ["police"]
     },
     {
       "id": 6,
@@ -1885,7 +2155,8 @@
           "id": 1,
           "caption": "ATF Expansion"
         }
-      ]
+      ],
+      "generates_mission_types": ["federal_police"]
     },
     {
       "id": 19,
@@ -1924,7 +2195,8 @@
     {
       "id": 23,
       "caption": "Coastal Rescue Station",
-      "key": "BUILDING_TYPE_COASTAL_RESCUE"
+      "key": "BUILDING_TYPE_COASTAL_RESCUE",
+      "generates_mission_types": ["coastal_rescue", "coastal_rescue_ocean"]
     },
     {
       "id": 24,
@@ -1999,7 +2271,8 @@
     {
       "id": 26,
       "caption": "Lifeguard Post",
-      "key": "BUILDING_TYPE_COASTAL_RESCUE_SMALL"
+      "key": "BUILDING_TYPE_COASTAL_RESCUE_SMALL",
+      "generates_mission_types": ["coastal_rescue"]
     },
     {
       "id": 27,
@@ -2050,7 +2323,8 @@
           "id": 10,
           "caption": "Rotator Truck"
         }
-      ]
+      ],
+      "generates_mission_types": ["tow_trucks_only"]
     }
   ],
   "awards": [
@@ -7248,6 +7522,314 @@
     {
       "id": 1115,
       "caption": "Fire in stables"
+    }
+  ],
+  "education_data": [
+    {
+      "id": 0,
+      "caption": "HazMat",
+      "duration": 259200,
+      "education_key": "gw_gefahrgut"
+    },
+    {
+      "id": 1,
+      "caption": "Mobile command",
+      "duration": 432000,
+      "education_key": "elw2"
+    },
+    {
+      "id": 2,
+      "caption": "ARFF-Training",
+      "duration": 259200,
+      "education_key": "arff"
+    },
+    {
+      "id": 3,
+      "caption": "Swift water rescue",
+      "duration": 345600,
+      "education_key": "gw_wasserrettung"
+    },
+    {
+      "id": 4,
+      "caption": "Ocean Navigation",
+      "duration": 432000,
+      "education_key": "ocean_navigation"
+    },
+    {
+      "id": 5,
+      "caption": "Airborne firefighting",
+      "duration": 432000,
+      "education_key": "airborne_firefighting"
+    },
+    {
+      "id": 6,
+      "caption": "Heavy Machinery Operating",
+      "duration": 259200,
+      "education_key": "heavy_machinery"
+    },
+    {
+      "id": 7,
+      "caption": "Truck Driver's License",
+      "duration": 172800,
+      "education_key": "truck_drivers_license"
+    },
+    {
+      "id": 8,
+      "caption": "ALS Medical Training for Fire Apparatus",
+      "duration": 259200,
+      "education_key": "ambulance_fire_truck"
+    },
+    {
+      "id": 9,
+      "caption": "Tactical Medic Training",
+      "duration": 345600,
+      "education_key": "ambulance_police_car"
+    },
+    {
+      "id": 10,
+      "caption": "EMS Mobile Command",
+      "duration": 604800,
+      "education_key": "ems_mobile_command"
+    },
+    {
+      "id": 11,
+      "caption": "Law Enforcement for Arson Investigation",
+      "duration": 345600,
+      "education_key": "fire_investigator"
+    },
+    {
+      "id": 12,
+      "caption": "Lifeguard Supervisor",
+      "duration": 432000,
+      "education_key": "coastal_command"
+    },
+    {
+      "id": 13,
+      "caption": "Lifeguard Training",
+      "duration": 432000,
+      "education_key": "coastal_rescue"
+    },
+    {
+      "id": 14,
+      "caption": "Wildland Lead Pilot Training",
+      "duration": 604800,
+      "education_key": "brush_air_command"
+    },
+    {
+      "id": 15,
+      "caption": "Wildland Mobile Command Center Training",
+      "duration": 432000,
+      "education_key": "elw3"
+    },
+    {
+      "id": 16,
+      "caption": "Smoke Jumper Training",
+      "duration": 259200,
+      "education_key": "smoke_jumper"
+    },
+    {
+      "id": 17,
+      "caption": "Hotshot Crew Training",
+      "duration": 259200,
+      "education_key": "hotshot"
+    },
+    {
+      "id": 18,
+      "caption": "Traffic Control Training",
+      "duration": 259200,
+      "education_key": "traffic_control"
+    },
+    {
+      "id": 19,
+      "caption": "Search and Rescue Training",
+      "duration": 345600,
+      "education_key": "search_and_rescue"
+    },
+    {
+      "id": 20,
+      "caption": "Technical Rescue Training",
+      "duration": 345600,
+      "education_key": "technical_rescue"
+    },
+    {
+      "id": 21,
+      "caption": "Critical Care",
+      "duration": 432000,
+      "education_key": "critical_care"
+    },
+    {
+      "id": 0,
+      "caption": "Police Aviation",
+      "duration": 604800,
+      "education_key": "polizeihubschrauber"
+    },
+    {
+      "id": 1,
+      "caption": "SWAT",
+      "duration": 432000,
+      "education_key": "swat"
+    },
+    {
+      "id": 2,
+      "caption": "K-9",
+      "duration": 432000,
+      "education_key": "k9"
+    },
+    {
+      "id": 3,
+      "caption": "Police Motorcycle",
+      "duration": 259200,
+      "education_key": "police_motorcycle"
+    },
+    {
+      "id": 4,
+      "caption": "FBI Mobile Center Commander",
+      "duration": 604800,
+      "education_key": "fbi_mcc"
+    },
+    {
+      "id": 5,
+      "caption": "FBI Bomb Technician",
+      "duration": 432000,
+      "education_key": "fbi_bomb_tech"
+    },
+    {
+      "id": 6,
+      "caption": "Drone Operator",
+      "duration": 432000,
+      "education_key": "fbi_drone_operator"
+    },
+    {
+      "id": 7,
+      "caption": "Police Supervisor / Sheriff",
+      "duration": 432000,
+      "education_key": "sheriff"
+    },
+    {
+      "id": 8,
+      "caption": "Environmental Game Warden",
+      "duration": 345600,
+      "education_key": "game_warden"
+    },
+    {
+      "id": 9,
+      "caption": "Ocean Navigation",
+      "duration": 432000,
+      "education_key": "ocean_navigation"
+    },
+    {
+      "id": 10,
+      "caption": "Riot Police Training",
+      "duration": 259200,
+      "education_key": "riot_police"
+    },
+    {
+      "id": 11,
+      "caption": "Police Operations Management",
+      "duration": 432000,
+      "education_key": "elw_police"
+    },
+    {
+      "id": 12,
+      "caption": "Tactical Rescue Training",
+      "duration": 432000,
+      "education_key": "tactical_medic"
+    },
+    {
+      "id": 13,
+      "caption": "Sharpshooter Training",
+      "duration": 432000,
+      "education_key": "sniper"
+    },
+    {
+      "id": 14,
+      "caption": "Traffic Control Training",
+      "duration": 259200,
+      "education_key": "traffic_control"
+    },
+    {
+      "id": 15,
+      "caption": "Swift water rescue",
+      "duration": 345600,
+      "education_key": "gw_wasserrettung"
+    },
+    {
+      "id": 0,
+      "caption": "ALS Medical Training for Fire Apparatus",
+      "duration": 259200,
+      "education_key": "ambulance_fire_truck"
+    },
+    {
+      "id": 1,
+      "caption": "Tactical Medic Training",
+      "duration": 345600,
+      "education_key": "ambulance_police_car"
+    },
+    {
+      "id": 2,
+      "caption": "Hazmat Medic Training",
+      "duration": 259200,
+      "education_key": "gw_gefahrgut"
+    },
+    {
+      "id": 3,
+      "caption": "EMS Mobile Command",
+      "duration": 604800,
+      "education_key": "ems_mobile_command"
+    },
+    {
+      "id": 4,
+      "caption": "Truck Driver's License",
+      "duration": 172800,
+      "education_key": "truck_drivers_license"
+    },
+    {
+      "id": 5,
+      "caption": "Critical Care",
+      "duration": 432000,
+      "education_key": "critical_care"
+    },
+    {
+      "id": 0,
+      "caption": "Coastal Air Rescue Operations",
+      "duration": 432000,
+      "education_key": "coastal_rescue_pilot"
+    },
+    {
+      "id": 1,
+      "caption": "Lifeguard Supervisor",
+      "duration": 432000,
+      "education_key": "coastal_command"
+    },
+    {
+      "id": 2,
+      "caption": "Lifeguard Training",
+      "duration": 432000,
+      "education_key": "coastal_rescue"
+    },
+    {
+      "id": 3,
+      "caption": "TACLET",
+      "duration": 259200,
+      "education_key": "law_enforcement_marine"
+    },
+    {
+      "id": 4,
+      "caption": "Ocean Navigation",
+      "duration": 432000,
+      "education_key": "ocean_navigation"
+    },
+    {
+      "id": 5,
+      "caption": "Swift water rescue",
+      "duration": 345600,
+      "education_key": "gw_wasserrettung"
+    },
+    {
+      "id": 6,
+      "caption": "Sharpshooter Training",
+      "duration": 432000,
+      "education_key": "sniper"
     }
   ]
 }
