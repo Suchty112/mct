@@ -689,6 +689,228 @@
       "key": "need_streifenwagen_chance",
       "caption": "Probability of Requiring Police",
       "type": "Integer"
+    },
+    {
+      "key": "need_boot_chance",
+      "caption": null,
+      "type": "Integer"
+    },
+    {
+      "key": "need_brush_truck_chance",
+      "caption": null,
+      "type": "Integer"
+    },
+    {
+      "key": "need_coastal_rescue_chance",
+      "caption": "Probability that VMR Vehicle is required",
+      "type": "Integer"
+    },
+    {
+      "key": "need_large_coastal_boat_chance",
+      "caption": "Probability that VMR Boat is required",
+      "type": "Integer"
+    },
+    {
+      "key": "need_extension",
+      "caption": "With extension",
+      "type": "Integer"
+    },
+    {
+      "key": "need_extension_chance",
+      "caption": null,
+      "type": "Integer"
+    },
+    {
+      "key": "need_fire_aviation_chance",
+      "caption": "Probability of Airborne Firefighting Vehicles",
+      "type": "Integer"
+    },
+    {
+      "key": "need_gwwasserrettung_chance",
+      "caption": "Probability of SES Vehicle being required",
+      "type": "Integer"
+    },
+    {
+      "key": "need_lf_chance",
+      "caption": "Firetruck request probability",
+      "type": "Integer"
+    },
+    {
+      "key": "need_police_horse_chance",
+      "caption": "Probability of Mounted Police being required",
+      "type": "Integer"
+    },
+    {
+      "key": "need_police_horse_only_if_present_chance",
+      "caption": null,
+      "type": "Integer"
+    },
+    {
+      "key": "need_police_service_group_leader_chance",
+      "caption": "Probability that Senior Sergeant is required",
+      "type": "Integer"
+    },
+    {
+      "key": "need_polizeihubschrauber_chance",
+      "caption": "Probability of Police Helicopters being required",
+      "type": "Integer"
+    },
+    {
+      "key": "need_road_rescue_chance",
+      "caption": "Probability that SES Storm Trailer is required",
+      "type": "Integer"
+    },
+    {
+      "key": "need_riot_police_chance",
+      "caption": "Probability that Riot Police Group Vehicle is required",
+      "type": "Integer"
+    },
+    {
+      "key": "need_riot_police_equipment_chance",
+      "caption": "Probability that Riot Police Equipment Vehicle is required",
+      "type": "Integer"
+    },
+    {
+      "key": "need_riot_police_suv_chance",
+      "caption": "Probability that Riot Police SUV is required",
+      "type": "Integer"
+    },
+    {
+      "key": "need_rtw_chance",
+      "caption": "Probability of Requiring an Ambulance",
+      "type": "Integer"
+    },
+    {
+      "key": "need_swat_personal_chance",
+      "caption": null,
+      "type": "Integer"
+    },
+    {
+      "key": "need_arff_chance",
+      "caption": "Probability of ULFV Crash Tender being required",
+      "type": "Integer"
+    },
+    {
+      "key": "need_riv_chance",
+      "caption": "Probability that RIVs are required",
+      "type": "Integer"
+    },
+    {
+      "key": "need_rettungstreppe_chance",
+      "caption": "Probability that Emergency Stairs are required",
+      "type": "Integer"
+    },
+    {
+      "key": "need_flood_equipment_chance",
+      "caption": "Probability that a SES Sandbag Trailer is required",
+      "type": "Integer"
+    },
+    {
+      "key": "need_pump_chance",
+      "caption": "Probability that a SES Pump Trailer is required",
+      "type": "Integer"
+    },
+    {
+      "key": "need_light_supply_chance",
+      "caption": "Probability that a SES Emergency Lighting Trailer is required",
+      "type": "Integer"
+    },
+    {
+      "key": "need_airshelta_chance",
+      "caption": "Probability that a SES Aireshelta Trailer is required",
+      "type": "Integer"
+    },
+    {
+      "key": "need_communication_repeater_chance",
+      "caption": "Probability that a SES Comms Repeater Trailer is required",
+      "type": "Integer"
+    },
+    {
+      "key": "need_energy_supply_chance",
+      "caption": "Probability that a SES Solar/Wind Power Trailer is required",
+      "type": "Integer"
+    },
+    {
+      "key": "need_quad_chance",
+      "caption": "Probability that a SES Quad Rescue 6x6 Trailer is required",
+      "type": "Integer"
+    },
+    {
+      "key": "need_search_and_rescue_chance",
+      "caption": "Probability that a SES Search and Rescue Trailer is required",
+      "type": "Integer"
+    },
+    {
+      "key": "need_elw_water_rescue_chance",
+      "caption": "Probability that SES FOV is required",
+      "type": "Integer"
+    },
+    {
+      "key": "need_foam_chance",
+      "caption": "Probability that Foam Units or CAFS is required",
+      "type": "Integer"
+    },
+    {
+      "key": "need_oneof_fire_engine_or_rescue_or_ladder_chance",
+      "caption": null,
+      "type": "Integer"
+    },
+    {
+      "key": "need_oneof_police_patrol_or_swat_chance",
+      "caption": null,
+      "type": "Integer"
+    },
+    {
+      "key": "need_oneof_fire_engine_or_rescue_chance",
+      "caption": null,
+      "type": "Integer"
+    },
+    {
+      "key": "need_oneof_fire_engine_or_ladder_chance",
+      "caption": null,
+      "type": "Integer"
+    },
+    {
+      "key": "need_oneof_fire_engine_or_airport_fire_engine_or_airport_fire_engine_large_chance",
+      "caption": "Probability that Fire Engine, ULFV Crash Tender or RIV is required",
+      "type": "Integer"
+    },
+    {
+      "key": "need_oneof_fire_engine_or_airport_fire_engine_large_chance",
+      "caption": "Probability that Fire Engine or ULFV Crash Tender is required",
+      "type": "Integer"
+    },
+    {
+      "key": "need_oneof_fire_engine_or_disaster_response_crew_chance",
+      "caption": null,
+      "type": "Integer"
+    },
+    {
+      "key": "need_fire_boat_chance",
+      "caption": "Probability that Fire Boat is required",
+      "type": "Integer"
+    },
+    {
+      "key": "need_police_boat_chance",
+      "caption": "Probability that Patrol Cutter is required",
+      "type": "Integer"
+    },
+    {
+      "key": "personal_min_thw",
+      "caption": null,
+      "type": "Integer"
+    },
+    {
+      "key": "personal_min_ambulance",
+      "caption": "Required minimum rescue workers",
+      "type": "Integer"
+    },
+    {
+      "key": "care_vehicle_required",
+      "caption": {
+        "care_service_equipment_value": "Required Field Kitchens"
+      },
+      "type": "Integer"
     }
   ],
   "pois": [
@@ -1144,7 +1366,8 @@
           "id": 17,
           "caption": "Pod Parking Space"
         }
-      ]
+      ],
+      "generates_mission_types": ["fire"]
     },
     {
       "id": 1,
@@ -1174,7 +1397,8 @@
           "id": 0,
           "caption": "Large Ambulance Station"
         }
-      ]
+      ],
+      "generates_mission_types": ["ambulance"]
     },
     {
       "id": 3,
@@ -1312,7 +1536,8 @@
           "id": 14,
           "caption": "Large Prison"
         }
-      ]
+      ],
+      "generates_mission_types": ["police"]
     },
     {
       "id": 7,
@@ -1385,7 +1610,8 @@
           "id": 2,
           "caption": "Search and Rescue Extension"
         }
-      ]
+      ],
+      "generates_mission_types": ["water_rescue"]
     },
     {
       "id": 16,
@@ -1516,7 +1742,8 @@
     {
       "id": 24,
       "caption": "Volunteer Marine Rescue",
-      "key": "BUILDING_TYPE_COASTAL_RESCUE"
+      "key": "BUILDING_TYPE_COASTAL_RESCUE",
+      "generates_mission_types": ["coastal_rescue", "coastal_rescue_ocean"]
     },
     {
       "id": 25,
@@ -1540,12 +1767,14 @@
     {
       "id": 26,
       "caption": "Fire Boat Dock",
-      "key": "BUILDING_TYPE_FIRE_BOAT_DOCK"
+      "key": "BUILDING_TYPE_FIRE_BOAT_DOCK",
+      "generates_mission_types": ["fire_ocean"]
     },
     {
       "id": 27,
       "caption": "Police Boat Dock",
-      "key": "BUILDING_TYPE_POLICE_BOAT_DOCK"
+      "key": "BUILDING_TYPE_POLICE_BOAT_DOCK",
+      "generates_mission_types": ["police_ocean"]
     }
   ],
   "awards": [
@@ -5524,6 +5753,130 @@
     {
       "id": 819,
       "caption": "Fire in stables"
+    }
+  ],
+  "education_data": [
+    {
+      "id": 0,
+      "caption": "HAZMAT Course",
+      "duration": 259200,
+      "education_key": "gw_gefahrgut"
+    },
+    {
+      "id": 1,
+      "caption": "Mobile command",
+      "duration": 432000,
+      "education_key": "elw2"
+    },
+    {
+      "id": 2,
+      "caption": "ULFV Crash Tender-Training",
+      "duration": 259200,
+      "education_key": "arff"
+    },
+    {
+      "id": 3,
+      "caption": "SES Rescue",
+      "duration": 345600,
+      "education_key": "gw_wasserrettung",
+      "hidden": true
+    },
+    {
+      "id": 4,
+      "caption": "Ocean Navigation",
+      "duration": 432000,
+      "education_key": "ocean_navigation",
+      "hidden": true
+    },
+    {
+      "id": 5,
+      "caption": "Intensive Care Education",
+      "duration": 432000,
+      "education_key": "critical_care"
+    },
+    {
+      "id": 6,
+      "caption": "Airborne firefighting",
+      "duration": 432000,
+      "education_key": "airborne_firefighting"
+    },
+    {
+      "id": 7,
+      "caption": "Emergency Stairs Training",
+      "duration": 604800,
+      "education_key": "rettungstreppe"
+    },
+    {
+      "id": 0,
+      "caption": "Police Air Wing",
+      "duration": 604800,
+      "education_key": "polizeihubschrauber"
+    },
+    {
+      "id": 1,
+      "caption": "TOG",
+      "duration": 432000,
+      "education_key": "swat"
+    },
+    {
+      "id": 2,
+      "caption": "K-9",
+      "duration": 432000,
+      "education_key": "k9"
+    },
+    {
+      "id": 3,
+      "caption": "Police Motorcycle",
+      "duration": 259200,
+      "education_key": "police_motorcycle"
+    },
+    {
+      "id": 4,
+      "caption": "Mounted Police Training",
+      "duration": 259200,
+      "education_key": "police_horse"
+    },
+    {
+      "id": 5,
+      "caption": "Riot Police Equipment Training",
+      "education_key": "riot_police_equipment",
+      "duration": 432000
+    },
+    {
+      "id": 6,
+      "caption": "Senior Sergeant",
+      "education_key": "police_service_group_leader",
+      "duration": 432000
+    },
+    {
+      "id": 0,
+      "caption": "Intensive Care Education",
+      "duration": 432000,
+      "education_key": "critical_care"
+    },
+    {
+      "id": 0,
+      "caption": "Boat Captain Training",
+      "duration": 259200,
+      "education_key": "coastal_rescue"
+    },
+    {
+      "id": 1,
+      "caption": "Ocean Navigation",
+      "duration": 432000,
+      "education_key": "ocean_navigation"
+    },
+    {
+      "id": 2,
+      "caption": "Mobile Command Training",
+      "duration": 259200,
+      "education_key": "water_rescue_elw2"
+    },
+    {
+      "id": 3,
+      "caption": "SES Rescue",
+      "duration": 345600,
+      "education_key": "gw_wasserrettung"
     }
   ]
 }
