@@ -844,6 +844,348 @@
       "key": "need_mountain_snow_dogs",
       "caption": "Cane da Valanga obbligatorio",
       "type": "Integer"
+    },
+    {
+      "key": "need_bomb_chance",
+      "caption": "Possibilità che siano richiesti gli artificieri",
+      "type": "Integer"
+    },
+    {
+      "key": "need_bomb_only_if_present_chance",
+      "caption": null,
+      "type": "Integer"
+    },
+    {
+      "key": "need_boot_chance",
+      "caption": "Possibilità che sia richiesto il barca",
+      "type": "Integer"
+    },
+    {
+      "key": "need_brush_truck_chance",
+      "caption": null,
+      "type": "Integer"
+    },
+    {
+      "key": "need_commerce_police_chance",
+      "caption": "Possibilità che venga richiesta la finanza",
+      "type": "Integer"
+    },
+    {
+      "key": "need_elw_airport_chance",
+      "caption": "Probabilità che siano necessari i ROS",
+      "type": "Integer"
+    },
+    {
+      "key": "need_elw3_chance",
+      "caption": "Possibilità che sia richiesto il DOS",
+      "type": "Integer"
+    },
+    {
+      "key": "need_extension",
+      "caption": "Con estensione",
+      "type": "Integer"
+    },
+    {
+      "key": "need_extension_chance",
+      "caption": null,
+      "type": "Integer"
+    },
+    {
+      "key": "need_fire_aviation_chance",
+      "caption": "Probabilità di  Mezzi Aerei Antincendio",
+      "type": "Integer"
+    },
+    {
+      "key": "need_gwtaucher_chance",
+      "caption": "Possibilità che sia richiesto il camion tecnico NSSA",
+      "type": "Integer"
+    },
+    {
+      "key": "need_gwwasserrettung_chance",
+      "caption": "Possibilità che sia richiesto il Pickup SAF",
+      "type": "Integer"
+    },
+    {
+      "key": "need_irff",
+      "caption": "AIS/AISP Industriali richiesti",
+      "type": "Integer"
+    },
+    {
+      "key": "need_irff_chance",
+      "caption": "Probabilità che gli AIS/AISP Industriali siano richiesti",
+      "type": "Integer"
+    },
+    {
+      "key": "need_k9_chance",
+      "caption": "Possibilità che sia richiesta un unità cinofila antidroga",
+      "type": "Integer"
+    },
+    {
+      "key": "need_lf_chance",
+      "caption": "Possibilità che venga richiesta un APS/ABP",
+      "type": "Integer"
+    },
+    {
+      "key": "need_polizeihubschrauber_chance",
+      "caption": "Probabilità che l'elicottero della polizia sia richiesto",
+      "type": "Integer"
+    },
+    {
+      "key": "need_rtw_chance",
+      "caption": "Possibilità che venga richesta un ambulanza",
+      "type": "Integer"
+    },
+    {
+      "key": "need_streifenwagen_chance",
+      "caption": "Possibilità che siano richieste le volanti",
+      "type": "Integer"
+    },
+    {
+      "key": "need_swat_armored_vehicle_chance",
+      "caption": "Possibilità che sia richiesta un unità cinofila antidroga",
+      "type": "Integer"
+    },
+    {
+      "key": "need_traffic_car_chance",
+      "caption": "Possibilità che sia richiesta una pattuglia della Polizia Stradale",
+      "type": "Integer"
+    },
+    {
+      "key": "need_wasserwerfer_chance",
+      "caption": "Possibilità che sia richiesto un Idrante Antisommossa",
+      "type": "Integer"
+    },
+    {
+      "key": "need_coastal_command_chance",
+      "caption": "Possibilità che sia richiesta la Pattuglia Guardia Costiera",
+      "type": "Integer"
+    },
+    {
+      "key": "need_coastal_boat_chance",
+      "caption": "Possibilità che sia richiesto il Battello Litoraneo",
+      "type": "Integer"
+    },
+    {
+      "key": "need_large_coastal_boat_chance",
+      "caption": "Possibilità che sia richiesta la Motovedetta Costiera",
+      "type": "Integer"
+    },
+    {
+      "key": "need_coastal_guard_boat_chance",
+      "caption": "Possibilità che sia richiesta la Motovedetta d'Altura",
+      "type": "Integer"
+    },
+    {
+      "key": "need_coastal_helicopter_chance",
+      "caption": "Possibilità che sia Richiesto l'Elicottero Guardia Costiera",
+      "type": "Integer"
+    },
+    {
+      "key": "need_arff_chance",
+      "caption": "Probabilità che gli AIS/AISP Aeroportuali siano richiesti",
+      "type": "Integer"
+    },
+    {
+      "key": "need_rettungstreppe_chance",
+      "caption": "Probabilità che siano necessari gli ASA",
+      "type": "Integer"
+    },
+    {
+      "key": "need_riv_chance",
+      "caption": "Probabilità che siano richiesti gli ARI",
+      "type": "Integer"
+    },
+    {
+      "key": "need_rettungstreppe_chance",
+      "caption": "Probabilità che siano necessari gli ASA",
+      "type": "Integer"
+    },
+    {
+      "key": "need_pump_chance",
+      "caption": "Probabilità che siano richiesti Carrelli Alluvionali",
+      "type": "Integer"
+    },
+    {
+      "key": "need_amphibious_rescue",
+      "caption": "Richiesto Automezzo Anfibio",
+      "type": "Integer"
+    },
+    {
+      "key": "need_amphibious_rescue_chance",
+      "caption": "Probabilità che sia richiesto l'Automezzo Anfibio",
+      "type": "Integer"
+    },
+    {
+      "key": "need_disaster_response_chance",
+      "caption": "Probabilità che sia necessario un camion movimento terra",
+      "type": "Integer"
+    },
+    {
+      "key": "need_disaster_response_clearing_chance",
+      "caption": "Probabilità che gli escavatori piccoli siano richiesti",
+      "type": "Integer"
+    },
+    {
+      "key": "need_disaster_response_clearing_large_chance",
+      "caption": "Probabilità che gli Scavatore su Rimorchio siano richiesti",
+      "type": "Integer"
+    },
+    {
+      "key": "need_rescue_dog_units_chance",
+      "caption": "Probabilità che siano necessarie Unità Cinofile SAR",
+      "type": "Integer"
+    },
+    {
+      "key": "need_disaster_response_equipment_chance",
+      "caption": "Probabilità che sia richiesto il Modulo Scarrabile Movimento Terra",
+      "type": "Integer"
+    },
+    {
+      "key": "need_flood_equipment_chance",
+      "caption": "Probabilità che sia necessario un Modulo Scarrabile HCP",
+      "type": "Integer"
+    },
+    {
+      "key": "need_search_and_rescue_chance",
+      "caption": "Probabilità che sia richiesto una Unità USAR",
+      "type": "Integer"
+    },
+    {
+      "key": "need_mobile_shelter_chance",
+      "caption": "Probabilità che sia richiesto il Modulo Scarrabile Tende",
+      "type": "Integer"
+    },
+    {
+      "key": "need_bracing_chance",
+      "caption": "Probabilità che sia richiesto il Modulo Scarrabile Puntellamenti/Crolli",
+      "type": "Integer"
+    },
+    {
+      "key": "need_search_and_rescue_equipment",
+      "caption": "Modulo Scarrabile USAR richiesto",
+      "type": "Integer"
+    },
+    {
+      "key": "need_search_and_rescue_equipment_chance",
+      "caption": "Probabilità che sia richiesto il Modulo Scarrabile USAR",
+      "type": "Integer"
+    },
+    {
+      "key": "need_municipal_police",
+      "caption": "Veicoli della Polizia Locale richiesti",
+      "type": "Integer"
+    },
+    {
+      "key": "need_municipal_police_chance",
+      "caption": "Probabilità che sia richiesto un veicolo della Polizia Locale",
+      "type": "Integer"
+    },
+    {
+      "key": "need_fire_investigation_chance",
+      "caption": "Probabilità che siano richieste Unità N.I.A.",
+      "type": "Integer"
+    },
+    {
+      "key": "need_police_investigation_chance",
+      "caption": "Probabilità che siano richieste Squadra Anticrimine",
+      "type": "Integer"
+    },
+    {
+      "key": "need_criminal_investigation_chance",
+      "caption": "Probabilità che siano richieste Unità Investigazioni Scientifiche",
+      "type": "Integer"
+    },
+    {
+      "key": "need_oneof_airport_fire_engine_large_or_industrial_fire_engine_chance",
+      "caption": null,
+      "type": "Integer"
+    },
+    {
+      "key": "need_oneof_police_patrol_or_municipal_police_chance",
+      "caption": null,
+      "type": "Integer"
+    },
+    {
+      "key": "need_oneof_fire_engine_or_rescue_chance",
+      "caption": null,
+      "type": "Integer"
+    },
+    {
+      "key": "need_oneof_fire_engine_or_airport_fire_engine_large_chance",
+      "caption": null,
+      "type": "Integer"
+    },
+    {
+      "key": "need_oneof_fire_engine_or_ladder",
+      "caption": "APS/ABP o Autoscale richiesto",
+      "type": "Integer"
+    },
+    {
+      "key": "need_oneof_fire_engine_or_ladder_chance",
+      "caption": null,
+      "type": "Integer"
+    },
+    {
+      "key": "need_oneof_fire_engine_or_rescue_or_ladder_chance",
+      "caption": null,
+      "type": "Integer"
+    },
+    {
+      "key": "need_mountain_command_chance",
+      "caption": "Probabilità che sia richiesto l'AF/CCR",
+      "type": "Integer"
+    },
+    {
+      "key": "need_mountain_rescue_drone_chance",
+      "caption": "Probabilità che sia richiesto il Drone",
+      "type": "Integer"
+    },
+    {
+      "key": "need_mountain_height_rescue",
+      "caption": "Squadra Soccorso Alpino richiesto",
+      "type": "Integer"
+    },
+    {
+      "key": "need_mountain_height_rescue_chance",
+      "caption": "Probabilità che sia richiesto un Squadra Soccorso Alpino",
+      "type": "Integer"
+    },
+    {
+      "key": "need_elw_police_chance",
+      "caption": "Probabilità che sia necessaria un'auto Dirigente Volanti",
+      "type": "Integer"
+    },
+    {
+      "key": "need_detention_unit_chance",
+      "caption": "Probabilità che sia necessario un trasporto detenuti",
+      "type": "Integer"
+    },
+    {
+      "key": "need_heli_tech_chance",
+      "caption": "Probabilità che Verricello sia richiesto",
+      "type": "Integer"
+    },
+    {
+      "key": "need_mountain_snow_dogs_chance",
+      "caption": "Probabilità che sia richiesto Cane da Valanga",
+      "type": "Integer"
+    },
+    {
+      "key": "personal_min_thw",
+      "caption": null,
+      "type": "Integer"
+    },
+    {
+      "key": "personal_min_ambulance",
+      "caption": "Required minimum rescue workers",
+      "type": "Integer"
+    },
+    {
+      "key": "care_vehicle_required",
+      "caption": {
+        "care_service_equipment_value": "Required Field Kitchens"
+      },
+      "type": "Integer"
     }
   ],
   "pois": [
@@ -1303,7 +1645,8 @@
           "id": 15,
           "caption": "Ulteriori Nucleo Investigativo Antincendi Spazi dell'unità"
         }
-      ]
+      ],
+      "generates_mission_types": ["fire"]
     },
     {
       "id": 1,
@@ -1337,7 +1680,8 @@
           "id": 1,
           "caption": "Grande stazione per ambulanze"
         }
-      ]
+      ],
+      "generates_mission_types": ["ambulance"]
     },
     {
       "id": 3,
@@ -1519,7 +1863,8 @@
           "id": 18,
           "caption": "Estensione del trasporto dei detenuti"
         }
-      ]
+      ],
+      "generates_mission_types": ["police"]
     },
     {
       "id": 7,
@@ -1584,7 +1929,8 @@
           "id": 0,
           "caption": "Estensione Soccorso Anfibio"
         }
-      ]
+      ],
+      "generates_mission_types": ["water_rescue"]
     },
     {
       "id": 16,
@@ -1732,7 +2078,8 @@
           "id": 0,
           "caption": "Sezione Investigativa"
         }
-      ]
+      ],
+      "generates_mission_types": ["municipal_police"]
     },
     {
       "id": 26,
@@ -1743,7 +2090,8 @@
           "id": 0,
           "caption": "Unità Terrestri"
         }
-      ]
+      ],
+      "generates_mission_types": ["coastal_rescue", "coastal_rescue_ocean"]
     },
     {
       "id": 27,
@@ -1814,7 +2162,8 @@
     {
       "id": 29,
       "caption": "Ufficio Guardia Costiera",
-      "key": "BUILDING_TYPE_COASTAL_RESCUE_SMALL"
+      "key": "BUILDING_TYPE_COASTAL_RESCUE_SMALL",
+      "generates_mission_types": ["coastal_rescue"]
     },
     {
       "id": 30,
@@ -1849,12 +2198,14 @@
           "id": 6,
           "caption": "Ricerca e Soccorso Urbano"
         }
-      ]
+      ],
+      "generates_mission_types": ["technical_aid"]
     },
     {
       "id": 31,
       "caption": "Stazione Soccorso Alpino",
-      "key": "BUILDING_TYPE_MOUNTAIN_RESCUE"
+      "key": "BUILDING_TYPE_MOUNTAIN_RESCUE",
+      "generates_mission_types": ["mountain"]
     }
   ],
   "awards": [
@@ -5947,6 +6298,280 @@
     {
       "id": 834,
       "caption": "Incendio nelle scuderie"
+    }
+  ],
+  "education_data": [
+    {
+      "id": 0,
+      "caption": "N.B.C.R.",
+      "duration": 259200,
+      "education_key": "gw_gefahrgut"
+    },
+    {
+      "id": 1,
+      "caption": "Corso per funzionario (UCL)",
+      "duration": 432000,
+      "education_key": "elw2"
+    },
+    {
+      "id": 2,
+      "caption": "Soccorso Antincendio Aeroportuale",
+      "duration": 259200,
+      "education_key": "arff",
+      "hidden": true
+    },
+    {
+      "id": 3,
+      "caption": "Corso per operatore tecnico SAF",
+      "duration": 259200,
+      "education_key": "gw_wasserrettung"
+    },
+    {
+      "id": 4,
+      "caption": "Navigazione in Oceano",
+      "duration": 432000,
+      "education_key": "ocean_navigation",
+      "hidden": true
+    },
+    {
+      "id": 5,
+      "caption": "Corso autista di Autogrù",
+      "duration": 259200,
+      "education_key": "fwk"
+    },
+    {
+      "id": 6,
+      "caption": "Corso medico di emergenza",
+      "duration": 604800,
+      "education_key": "notarzt"
+    },
+    {
+      "id": 7,
+      "caption": "Corso per operatore tecnico NSSA",
+      "duration": 432000,
+      "education_key": "gw_taucher"
+    },
+    {
+      "id": 8,
+      "caption": "Autista Movimento Terra",
+      "duration": 259200,
+      "education_key": "heavy_machinery"
+    },
+    {
+      "id": 9,
+      "caption": "Pilota Velivoli Antincendio",
+      "duration": 432000,
+      "education_key": "airborne_firefighting"
+    },
+    {
+      "id": 10,
+      "caption": "Direttore Operazioni Spegnimento",
+      "duration": 259200,
+      "education_key": "elw3"
+    },
+    {
+      "id": 11,
+      "caption": "Autista Mezzi Pesanti",
+      "duration": 172800,
+      "education_key": "truck_drivers_license"
+    },
+    {
+      "id": 12,
+      "caption": "Corso Operatore MaxiEmergenze",
+      "duration": 432000,
+      "education_key": "mass_casualty"
+    },
+    {
+      "id": 13,
+      "caption": "Soccorso Antincendio Aeroportuale",
+      "duration": 432000,
+      "education_key": "arff"
+    },
+    {
+      "id": 14,
+      "caption": "Soccorso Antincendio Industriale",
+      "duration": 432000,
+      "education_key": "irff"
+    },
+    {
+      "id": 15,
+      "caption": "Automezzo Soccorso Aeroportuale",
+      "duration": 604800,
+      "education_key": "rettungstreppe"
+    },
+    {
+      "id": 16,
+      "caption": "Responsabile Operazioni di Soccorso",
+      "duration": 604800,
+      "education_key": "elw_airport"
+    },
+    {
+      "id": 17,
+      "caption": "Abilitazione Automezzo Anfibio",
+      "duration": 432000,
+      "education_key": "amphibious_rescue"
+    },
+    {
+      "id": 18,
+      "caption": "Formazione per Operatorii Cinofili SAR",
+      "duration": 691200,
+      "education_key": "rescue_dogs"
+    },
+    {
+      "id": 19,
+      "caption": "Formazione USAR",
+      "duration": 604800,
+      "education_key": "search_and_rescue"
+    },
+    {
+      "id": 20,
+      "caption": "Investigazioni Scientifiche",
+      "duration": 432000,
+      "education_key": "fire_investigator"
+    },
+    {
+      "id": 0,
+      "caption": "Reparto volo della polizia",
+      "duration": 604800,
+      "education_key": "polizeihubschrauber"
+    },
+    {
+      "id": 1,
+      "caption": "Specializzazione antisommossa/UOPI",
+      "duration": 432000,
+      "education_key": "swat"
+    },
+    {
+      "id": 2,
+      "caption": "Specializzazione unità cinofila",
+      "duration": 432000,
+      "education_key": "k9"
+    },
+    {
+      "id": 3,
+      "caption": "Specializzazione motociclista",
+      "duration": 259200,
+      "education_key": "police_motorcycle"
+    },
+    {
+      "id": 4,
+      "caption": "Corso Artificieri",
+      "duration": 259200,
+      "education_key": "fbi_bomb_tech"
+    },
+    {
+      "id": 5,
+      "caption": "Operatore Idrante Antisommossa",
+      "duration": 604800,
+      "education_key": "police_wasserwerfer"
+    },
+    {
+      "id": 6,
+      "caption": "Investigazioni Scientifiche",
+      "duration": 432000,
+      "education_key": "criminal_investigation"
+    },
+    {
+      "id": 7,
+      "caption": "Police Operations Management",
+      "duration": 432000,
+      "education_key": "elw_police",
+      "date_start": "2025-10-22T08:00:00Z"
+    },
+    {
+      "id": 0,
+      "caption": "Corso medico di emergenza",
+      "duration": 604800,
+      "education_key": "notarzt"
+    },
+    {
+      "id": 1,
+      "caption": "\u003Cspan class=\"translation_missing localeapp\" title=\"translation missing: it_IT.education.lna\"\u003ELna\u003C/span\u003E",
+      "duration": 777600,
+      "education_key": "lna",
+      "hidden": true
+    },
+    {
+      "id": 2,
+      "caption": "\u003Cspan class=\"translation_missing localeapp\" title=\"translation missing: it_IT.education.orgl\"\u003EOrgl\u003C/span\u003E",
+      "duration": 950400,
+      "education_key": "orgl",
+      "hidden": true
+    },
+    {
+      "id": 3,
+      "caption": "Corso Operatore MaxiEmergenze",
+      "duration": 432000,
+      "education_key": "mass_casualty"
+    },
+    {
+      "id": 4,
+      "caption": "Tecnico di Soccorso Alpino",
+      "duration": 432000,
+      "education_key": "mountain_rescue"
+    },
+    {
+      "id": 5,
+      "caption": "Medico Soccorso Alpino",
+      "duration": 432000,
+      "education_key": "mountain_emergency_doctor"
+    },
+    {
+      "id": 6,
+      "caption": "Tecnico di Soccorso Speleologico",
+      "duration": 432000,
+      "education_key": "mountain_cave_rescue"
+    },
+    {
+      "id": 7,
+      "caption": "Tecnico di Ricerca",
+      "duration": 432000,
+      "education_key": "mountain_command"
+    },
+    {
+      "id": 8,
+      "caption": "Pilota SAPR",
+      "duration": 432000,
+      "education_key": "mountain_rescue_drone"
+    },
+    {
+      "id": 9,
+      "caption": "Formazione per Operatori Cinofili SAR",
+      "duration": 432000,
+      "education_key": "mountain_rescue_dogs",
+      "date_start": "2026-01-14T10:00:00Z"
+    },
+    {
+      "id": 10,
+      "caption": "Corso per Tecnico di Elisoccorso",
+      "duration": 432000,
+      "education_key": "heli_tech",
+      "date_start": "2026-01-14T10:00:00Z"
+    },
+    {
+      "id": 11,
+      "caption": "Addestramento per cani da valanga",
+      "duration": 432000,
+      "education_key": "mountain_snow_dogs",
+      "date_start": "2026-01-14T10:00:00Z"
+    },
+    {
+      "id": 0,
+      "caption": "Pilota Guardia Costiera",
+      "duration": 432000,
+      "education_key": "coastal_rescue_pilot"
+    },
+    {
+      "id": 1,
+      "caption": "Polizia Marittima",
+      "duration": 259200,
+      "education_key": "law_enforcement_marine"
+    },
+    {
+      "id": 2,
+      "caption": "Navigazione in Oceano",
+      "duration": 432000,
+      "education_key": "ocean_navigation"
     }
   ]
 }
