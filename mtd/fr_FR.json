@@ -994,6 +994,468 @@
       "key": "need_ambulance_command_container",
       "caption": "Requis CENOVI",
       "type": "Integer"
+    },
+    {
+      "key": "need_boot_chance",
+      "caption": "Probabilité qu'un BLS ou CSL soit requis",
+      "type": "Integer"
+    },
+    {
+      "key": "need_brush_truck_chance",
+      "caption": null,
+      "type": "Integer"
+    },
+    {
+      "key": "need_detention_unit_chance",
+      "caption": "Probabilité qu'un VTP soit nécessaire",
+      "type": "Integer"
+    },
+    {
+      "key": "need_elw2_chance",
+      "caption": "Chances qu’un véhicule poste de commandement soit requis",
+      "type": "Integer"
+    },
+    {
+      "key": "need_elw3_chance",
+      "caption": "Chances qu’un VLHR soit requis",
+      "type": "Integer"
+    },
+    {
+      "key": "need_foam_chance",
+      "caption": "Probabilité qu’un FMOGP soit nécessaire",
+      "type": "Integer"
+    },
+    {
+      "key": "need_gw_hoehenrettung_personal_chance",
+      "caption": "Required height rescue personnel chance",
+      "type": "Integer"
+    },
+    {
+      "key": "need_gwhoehenrettung_chance",
+      "caption": "Probabilité que le VGRIMP soit requis",
+      "type": "Integer"
+    },
+    {
+      "key": "need_gwwasserrettung_chance",
+      "caption": "Probabilité qu'un VPL soit requis",
+      "type": "Integer"
+    },
+    {
+      "key": "need_hose_chance",
+      "caption": "Probabilité qu’un camion dévidoir soit nécessaire",
+      "type": "Integer"
+    },
+    {
+      "key": "need_k9_chance",
+      "caption": "Probabilité qu'une unité cynophile soit requise",
+      "type": "Integer"
+    },
+    {
+      "key": "need_lf_chance",
+      "caption": "Chances de demande de fourgon pompe-tonne",
+      "type": "Integer"
+    },
+    {
+      "key": "need_pump_chance",
+      "caption": "Probabilité qu’une motopompe soit nécessaire",
+      "type": "Integer"
+    },
+    {
+      "key": "need_riot_police_chance",
+      "caption": "Probabilité qu'un VR soit nécessaire",
+      "type": "Integer"
+    },
+    {
+      "key": "need_riot_police_command_chance",
+      "caption": "Probabilité qu'un VCT soit nécessaire",
+      "type": "Integer"
+    },
+    {
+      "key": "need_riot_police_equipment_chance",
+      "caption": "Probabilité qu'un RAM soit nécessaire",
+      "type": "Integer"
+    },
+    {
+      "key": "need_riot_police_maintenance_chance",
+      "caption": "Probabilité qu'un VAT soit nécessaire",
+      "type": "Integer"
+    },
+    {
+      "key": "need_riot_police_trailer_chance",
+      "caption": "Probabilité qu'un barre-pont soit nécessaire",
+      "type": "Integer"
+    },
+    {
+      "key": "need_rth_chance",
+      "caption": "Probabilité qu'un hélicoptère de secours soit requis",
+      "type": "Integer"
+    },
+    {
+      "key": "need_rtw_chance",
+      "caption": "Chances qu’une ambulance soit requise",
+      "type": "Integer"
+    },
+    {
+      "key": "need_thw_gkw_chance",
+      "caption": "Chance a GKW is required",
+      "type": "Integer"
+    },
+    {
+      "key": "need_wasserwerfer_chance",
+      "caption": "Probabilité qu'un ELE soit nécessaire",
+      "type": "Integer"
+    },
+    {
+      "key": "need_coastal_rescue_chance",
+      "caption": "Probabilité qu'un Buggy soit requis",
+      "type": "Integer"
+    },
+    {
+      "key": "need_coastal_boat_chance",
+      "caption": "Probabilité qu'un Canot de Sauvetage Léger soit requis",
+      "type": "Integer"
+    },
+    {
+      "key": "need_large_coastal_boat_chance",
+      "caption": "Probabilité qu'un Canot Tous Temps soit requis",
+      "type": "Integer"
+    },
+    {
+      "key": "need_coastal_guard_boat_chance",
+      "caption": "Probabilité qu'une Vedette Côtière de Surveillance Maritime soit requise",
+      "type": "Integer"
+    },
+    {
+      "key": "need_coastal_helicopter_chance",
+      "caption": "Probabilité qu'un Dragon soit requis",
+      "type": "Integer"
+    },
+    {
+      "key": "need_arff_chance",
+      "caption": "Probablité que des VIM soient requis",
+      "type": "Integer"
+    },
+    {
+      "key": "need_airport_equipment_chance",
+      "caption": "Probabilité que des VSA soient requis",
+      "type": "Integer"
+    },
+    {
+      "key": "need_rettungstreppe_chance",
+      "caption": "Probabilité qu'un Moyen d'Accès en Hauteur soit requis",
+      "type": "Integer"
+    },
+    {
+      "key": "need_riv_chance",
+      "caption": "Probabilité que des VIRP soient requis",
+      "type": "Integer"
+    },
+    {
+      "key": "need_elw_airport_chance",
+      "caption": "Probabilité que des VLCM soient requis",
+      "type": "Integer"
+    },
+    {
+      "key": "need_fire_aviation_chance",
+      "caption": "Probabilité qu'un Pélican soit nécessaire",
+      "type": "Integer"
+    },
+    {
+      "key": "need_fire_aviation_2_chance",
+      "caption": "Probabilité qu'un grand avion bombardier d'eau soit nécessaire",
+      "type": "Integer"
+    },
+    {
+      "key": "need_fire_aviation_3_chance",
+      "caption": "Probabilité qu'un hélicoptère bombardier d'eau soit nécessaire",
+      "type": "Integer"
+    },
+    {
+      "key": "need_flood_equipment_chance",
+      "caption": "Probabilité qu'une Cellule épuisement  soit nécessaire",
+      "type": "Integer"
+    },
+    {
+      "key": "need_disaster_response_command_chance",
+      "caption": "Probabilité que le MaGec soit requis",
+      "type": "Integer"
+    },
+    {
+      "key": "need_decontamination_measurement_chance",
+      "caption": "Probabilité que l’unité de mesure de décontamination soit requise",
+      "type": "Integer"
+    },
+    {
+      "key": "need_decontamination_personnel_chance",
+      "caption": "Probabilité que la cellule de décontamination de personne soit requise",
+      "type": "Integer"
+    },
+    {
+      "key": "need_bomb_chance",
+      "caption": "Probabilité que l’unité de déminage soit requise",
+      "type": "Integer"
+    },
+    {
+      "key": "need_bomb_drone_chance",
+      "caption": "Probabilité que le robot de déminage soit nécessaire",
+      "type": "Integer"
+    },
+    {
+      "key": "need_heavy_rescue_chance",
+      "caption": "Probabilité que la Cellule de Sauvetage et déblaiement soit requise",
+      "type": "Integer"
+    },
+    {
+      "key": "need_rescue_dogs_chance",
+      "caption": "Probabilité qu'une équipe cynophile (sc) soit requise",
+      "type": "Integer"
+    },
+    {
+      "key": "need_wildfire_support_chance",
+      "caption": "Probabilité que l’unité d’appui aux feux de forêt soit requise",
+      "type": "Integer"
+    },
+    {
+      "key": "need_swat_chance",
+      "caption": "Probabilité que Fortress 200 soit requis",
+      "type": "Integer"
+    },
+    {
+      "key": "need_swat_ladder_chance",
+      "caption": "Probalité que Sherpa Light APC soit requis",
+      "type": "Integer"
+    },
+    {
+      "key": "need_swat_negotiation_chance",
+      "caption": "Probalité que VDN soit requis ",
+      "type": "Integer"
+    },
+    {
+      "key": "need_swat_helicopter_chance",
+      "caption": "Probabilité que le SA 330 PUMA soit requis",
+      "type": "Integer"
+    },
+    {
+      "key": "need_civil_patrol_chance",
+      "caption": "Probabilité que le véhicule banalisé soit requis",
+      "type": "Integer"
+    },
+    {
+      "key": "need_police_investigation_chance",
+      "caption": "Probabilité que le véhicule d'identification criminelle soit requis",
+      "type": "Integer"
+    },
+    {
+      "key": "need_rapid_patrol_chance",
+      "caption": "Probabilité que l'équipes d'intervention rapide soit requis",
+      "type": "Integer"
+    },
+    {
+      "key": "need_oneof_fire_engine_or_rescue_or_ladder_chance",
+      "caption": null,
+      "type": "Integer"
+    },
+    {
+      "key": "need_oneof_fire_engine_or_rescue_chance",
+      "caption": null,
+      "type": "Integer"
+    },
+    {
+      "key": "need_oneof_fire_engine_or_ladder_chance",
+      "caption": null,
+      "type": "Integer"
+    },
+    {
+      "key": "need_mountain_quad_chance",
+      "caption": "Probabilité que QUAD soit requis",
+      "type": "Integer"
+    },
+    {
+      "key": "need_mountain_police_helicopter_chance",
+      "caption": "Probabilité que CHOUCAS PGHM soit requis",
+      "type": "Integer"
+    },
+    {
+      "key": "need_mountain_rescue_helicopter_chance",
+      "caption": "Probabilité que Choucas EC145 soit requis",
+      "type": "Integer"
+    },
+    {
+      "key": "need_mountain_helicopter_rescue_lift_chance",
+      "caption": "Probabilité qu'un ascenseur de secours en montagne soit nécessaire",
+      "type": "Integer"
+    },
+    {
+      "key": "need_mountain_helicopter_bucket_chance",
+      "caption": "Probabilité qu'un godet porteur d'eau soit nécessaire",
+      "type": "Integer"
+    },
+    {
+      "key": "need_mountain_rescue_drone_chance",
+      "caption": "Probabilité qu'un drone soit nécessaire",
+      "type": "Integer"
+    },
+    {
+      "key": "need_mountain_height_rescue_chance",
+      "caption": "Probabilité qu'un VTT 4 X 4 soit requis",
+      "type": "Integer"
+    },
+    {
+      "key": "need_mountain_snow_chance",
+      "caption": "Probabilité que la motoneige soit requise",
+      "type": "Integer"
+    },
+    {
+      "key": "need_mountain_rescue_dogs_chance",
+      "caption": "Probabilité que des Équipes cynophiles soient nécessaires",
+      "type": "Integer"
+    },
+    {
+      "key": "need_lance_nozzle_chance",
+      "caption": "Probabilité que RLC soit nécessaire",
+      "type": "Integer"
+    },
+    {
+      "key": "need_fire_command_container_chance",
+      "caption": "Probabilité que le CEPC soit requis",
+      "type": "Integer"
+    },
+    {
+      "key": "need_hazmat_container_chance",
+      "caption": "Probabilité que le CMIC soit requis",
+      "type": "Integer"
+    },
+    {
+      "key": "need_hose_container_chance",
+      "caption": "Probabilité que le CEDEV soit requis",
+      "type": "Integer"
+    },
+    {
+      "key": "need_foam_container_chance",
+      "caption": "Probabilité que le CEEM soit requis",
+      "type": "Integer"
+    },
+    {
+      "key": "need_breathing_protection_container_chance",
+      "caption": "Probabilité que CEAR soit nécessaire",
+      "type": "Integer"
+    },
+    {
+      "key": "need_ambulance_command_container_chance",
+      "caption": "Probabilité que CENOVI soit requis",
+      "type": "Integer"
+    },
+    {
+      "key": "need_road_rescue_chance",
+      "caption": "Probabilité que le CESR soit requis",
+      "type": "Integer"
+    },
+    {
+      "key": "need_decontamination_personnel_container_chance",
+      "caption": "Probabilité que le CMIR soit requis",
+      "type": "Integer"
+    },
+    {
+      "key": "need_gwoil_chance",
+      "caption": "Probabilité que CEDEPOL soit nécessaire",
+      "type": "Integer"
+    },
+    {
+      "key": "need_mobile_shelter_chance",
+      "caption": "Probabilité que le CETRAN soit requis",
+      "type": "Integer"
+    },
+    {
+      "key": "need_light_supply",
+      "caption": "CEREV requis",
+      "type": "Integer"
+    },
+    {
+      "key": "need_light_supply_chance",
+      "caption": "Probabilité que CEREV soit nécessaire",
+      "type": "Integer"
+    },
+    {
+      "key": "need_ventilation",
+      "caption": "Requis Ventilation ",
+      "type": "Integer"
+    },
+    {
+      "key": "need_ventilation_chance",
+      "caption": "Probabilité qu'une ventilation soit nécessaire",
+      "type": "Integer"
+    },
+    {
+      "key": "need_ventilation_trailer_chance",
+      "caption": "Probabilité que RMV soit requis",
+      "type": "Integer"
+    },
+    {
+      "key": "need_carbon_dioxide",
+      "caption": "Poudre et support de CO2 requis",
+      "type": "Integer"
+    },
+    {
+      "key": "need_carbon_dioxide_chance",
+      "caption": "Probabilité que de la poudre et un support de CO2 soient nécessaires",
+      "type": "Integer"
+    },
+    {
+      "key": "need_carbon_dioxide_container",
+      "caption": "Requis CEFSP",
+      "type": "Integer"
+    },
+    {
+      "key": "need_carbon_dioxide_container_chance",
+      "caption": "Probabilité que le CEFSP soit requis",
+      "type": "Integer"
+    },
+    {
+      "key": "need_carbon_dioxide_trailer",
+      "caption": "Requis RMP",
+      "type": "Integer"
+    },
+    {
+      "key": "need_carbon_dioxide_trailer_chance",
+      "caption": "Probabilité que le RMP soit requis",
+      "type": "Integer"
+    },
+    {
+      "key": "need_oneof_police_patrol_or_riot_police_crew_chance",
+      "caption": null,
+      "type": "Integer"
+    },
+    {
+      "key": "need_oneof_fire_engine_or_airport_fire_engine_or_engine_large_chance",
+      "caption": null,
+      "type": "Integer"
+    },
+    {
+      "key": "need_oneof_fire_engine_or_airport_fire_engine_large_chance",
+      "caption": null,
+      "type": "Integer"
+    },
+    {
+      "key": "need_oneof_airport_fire_engine_or_engine_large_chance",
+      "caption": null,
+      "type": "Integer"
+    },
+    {
+      "key": "personal_min_thw",
+      "caption": null,
+      "type": "Integer"
+    },
+    {
+      "key": "personal_min_ambulance",
+      "caption": "Required minimum rescue workers",
+      "type": "Integer"
+    },
+    {
+      "key": "care_vehicle_required",
+      "caption": {
+        "care_service_equipment_value": "Required Field Kitchens"
+      },
+      "type": "Integer"
     }
   ],
   "pois": [
@@ -1451,7 +1913,8 @@
           "id": 22,
           "caption": "Unités de ventilation"
         }
-      ]
+      ],
+      "generates_mission_types": ["fire"]
     },
     {
       "id": 1,
@@ -1481,7 +1944,8 @@
           "id": 0,
           "caption": "Grande station d'ambulance"
         }
-      ]
+      ],
+      "generates_mission_types": ["ambulance"]
     },
     {
       "id": 3,
@@ -1611,7 +2075,8 @@
           "id": 12,
           "caption": "Unités d'enquête criminelle"
         }
-      ]
+      ],
+      "generates_mission_types": ["police"]
     },
     {
       "id": 7,
@@ -1676,7 +2141,8 @@
           "id": 5,
           "caption": "Escadron de haute montagne"
         }
-      ]
+      ],
+      "generates_mission_types": ["riot_police"]
     },
     {
       "id": null,
@@ -1822,12 +2288,14 @@
     {
       "id": 23,
       "caption": "Station de Sauvetage",
-      "key": "BUILDING_TYPE_COASTAL_RESCUE"
+      "key": "BUILDING_TYPE_COASTAL_RESCUE",
+      "generates_mission_types": ["coastal_rescue", "coastal_rescue_ocean"]
     },
     {
       "id": 24,
       "caption": "Compagnie de Gendarmerie Maritime",
-      "key": "BUILDING_TYPE_WATER_RESCUE_2"
+      "key": "BUILDING_TYPE_WATER_RESCUE_2",
+      "generates_mission_types": ["water_rescue_2"]
     },
     {
       "id": 25,
@@ -1960,7 +2428,8 @@
           "id": 9,
           "caption": "Emplacement de cellule supplémentaire"
         }
-      ]
+      ],
+      "generates_mission_types": ["disaster_response"]
     },
     {
       "id": 28,
@@ -1975,7 +2444,8 @@
           "id": 1,
           "caption": "Négociateur"
         }
-      ]
+      ],
+      "generates_mission_types": ["swat"]
     },
     {
       "id": 29,
@@ -1995,7 +2465,8 @@
           "id": 1,
           "caption": "Chiens de sauvetage (PGHM)"
         }
-      ]
+      ],
+      "generates_mission_types": ["mountain"]
     },
     {
       "id": 31,
@@ -2006,7 +2477,8 @@
           "id": 0,
           "caption": "Peloton de DAG - Drone"
         }
-      ]
+      ],
+      "generates_mission_types": ["mountain"]
     }
   ],
   "awards": [
@@ -6378,6 +6850,248 @@
     {
       "id": 905,
       "caption": "Chat bloqué sur un toit"
+    }
+  ],
+  "education_data": [
+    {
+      "id": 0,
+      "caption": "Véhicules risques chimiques",
+      "duration": 259200,
+      "education_key": "gw_gefahrgut"
+    },
+    {
+      "id": 1,
+      "caption": "Commandement mobile",
+      "duration": 432000,
+      "education_key": "elw2"
+    },
+    {
+      "id": 2,
+      "caption": "SSLIA",
+      "duration": 432000,
+      "education_key": "arff"
+    },
+    {
+      "id": 3,
+      "caption": "SAV (Sauvetage Aquatique)",
+      "duration": 259200,
+      "education_key": "gw_wasserrettung"
+    },
+    {
+      "id": 4,
+      "caption": "Certificat de surveillance et sauvetage aquatique",
+      "duration": 432000,
+      "education_key": "ocean_navigation"
+    },
+    {
+      "id": 5,
+      "caption": "IMP (Intervention en Milieu Périlleux)",
+      "duration": 345600,
+      "education_key": "gw_hoehenrettung"
+    },
+    {
+      "id": 6,
+      "caption": "PLG (Plongeur)",
+      "duration": 432000,
+      "education_key": "gw_taucher"
+    },
+    {
+      "id": 7,
+      "caption": "Médecin",
+      "duration": 432000,
+      "education_key": "critical_care"
+    },
+    {
+      "id": 8,
+      "caption": "Formation risques radiologiques",
+      "duration": 345600,
+      "education_key": "decontamination_radiology"
+    },
+    {
+      "id": 0,
+      "caption": "Licence de Pilote",
+      "duration": 604800,
+      "education_key": "polizeihubschrauber"
+    },
+    {
+      "id": 1,
+      "caption": "Formation d'intervention d'élite",
+      "duration": 259200,
+      "education_key": "swat"
+    },
+    {
+      "id": 2,
+      "caption": "Maître chien",
+      "duration": 432000,
+      "education_key": "k9"
+    },
+    {
+      "id": 3,
+      "caption": "Formation Motocycliste",
+      "duration": 259200,
+      "education_key": "police_motorcycle"
+    },
+    {
+      "id": 4,
+      "caption": "Commandement Mobile",
+      "duration": 604800,
+      "education_key": "riot_police_command"
+    },
+    {
+      "id": 5,
+      "caption": "Lanceur d'eau",
+      "duration": 604800,
+      "education_key": "police_wasserwerfer"
+    },
+    {
+      "id": 6,
+      "caption": "Armurier",
+      "duration": 604800,
+      "education_key": "riot_police_equipment"
+    },
+    {
+      "id": 7,
+      "caption": "Formation de médecin d'intervention",
+      "duration": 432000,
+      "education_key": "swat_physician"
+    },
+    {
+      "id": 8,
+      "caption": "Formation de négociateur",
+      "duration": 432000,
+      "education_key": "swat_negotiation"
+    },
+    {
+      "id": 9,
+      "caption": "Surveillance et intervention",
+      "duration": 432000,
+      "education_key": "police_monitoring"
+    },
+    {
+      "id": 10,
+      "caption": "Intervention rapide",
+      "duration": 432000,
+      "education_key": "police_rapid_patrol"
+    },
+    {
+      "id": 11,
+      "caption": "Technicien en identification criminelle",
+      "duration": 432000,
+      "education_key": "criminal_investigation"
+    },
+    {
+      "id": 12,
+      "caption": "Officier de police judiciaire",
+      "duration": 432000,
+      "education_key": "police_law"
+    },
+    {
+      "id": 13,
+      "caption": "Brevet de Sauvetage en Montagne",
+      "duration": 259200,
+      "education_key": "mountain_rescue"
+    },
+    {
+      "id": 14,
+      "caption": "Médecine d'urgence de sauvetage en montagne",
+      "duration": 432000,
+      "education_key": "mountain_rescue_medic"
+    },
+    {
+      "id": 15,
+      "caption": "Formation des opérateurs de drones",
+      "duration": 432000,
+      "education_key": "mountain_rescue_drone"
+    },
+    {
+      "id": 16,
+      "caption": "Formation d'opérateur de remorque d'hélicoptère",
+      "duration": 432000,
+      "education_key": "mountain_rescue_helicopter_trailer"
+    },
+    {
+      "id": 0,
+      "caption": "DSM",
+      "duration": 604800,
+      "education_key": "orgl"
+    },
+    {
+      "id": 1,
+      "caption": "Médecin",
+      "duration": 432000,
+      "education_key": "critical_care"
+    },
+    {
+      "id": 0,
+      "caption": "Formation Pilote d'Intervention",
+      "duration": 432000,
+      "education_key": "intervention_pilot"
+    },
+    {
+      "id": 1,
+      "caption": "BNSSA",
+      "duration": 432000,
+      "education_key": "coastal_rescue"
+    },
+    {
+      "id": 2,
+      "caption": "Accréditation nautique",
+      "duration": 259200,
+      "education_key": "law_enforcement_marine"
+    },
+    {
+      "id": 3,
+      "caption": "Certificat de surveillance et sauvetage aquatique",
+      "duration": 432000,
+      "education_key": "ocean_navigation"
+    },
+    {
+      "id": 4,
+      "caption": "Formation de mécanicien",
+      "duration": 432000,
+      "education_key": "airborne_firefighting"
+    },
+    {
+      "id": 5,
+      "caption": "Formation des commandants d’intervention en cas de catastrophe",
+      "duration": 432000,
+      "education_key": "disaster_response_command"
+    },
+    {
+      "id": 6,
+      "caption": "Formation risques chimiques",
+      "duration": 345600,
+      "education_key": "decontamination_chemicals"
+    },
+    {
+      "id": 7,
+      "caption": "Formation risques radiologiques",
+      "duration": 345600,
+      "education_key": "decontamination_radiology"
+    },
+    {
+      "id": 8,
+      "caption": "Formation démineur",
+      "duration": 604800,
+      "education_key": "fbi_bomb_tech"
+    },
+    {
+      "id": 9,
+      "caption": "Formation pilote à distance",
+      "duration": 345600,
+      "education_key": "bomb_drone"
+    },
+    {
+      "id": 10,
+      "caption": "Sauvetage et déblaiement",
+      "duration": 345600,
+      "education_key": "disaster_response"
+    },
+    {
+      "id": 11,
+      "caption": "Formation équipe cynophile",
+      "duration": 259200,
+      "education_key": "rescue_dogs"
     }
   ]
 }
