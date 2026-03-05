@@ -729,6 +729,213 @@
       "key": "need_coastal_plane",
       "caption": "Kräver kustbevakningsflyg",
       "type": "Integer"
+    },
+    {
+      "key": "need_arff_chance",
+      "caption": "Sannolikhet för att Haveribil behövs",
+      "type": "Integer"
+    },
+    {
+      "key": "need_bomb_chance",
+      "caption": "Sannolikhet att NBS krävs",
+      "type": "Integer"
+    },
+    {
+      "key": "need_boot_chance",
+      "caption": null,
+      "type": "Integer"
+    },
+    {
+      "key": "need_brush_truck_chance",
+      "caption": null,
+      "type": "Integer"
+    },
+    {
+      "key": "need_coastal_boat_chance",
+      "caption": "Sannolikhet att en högfartsfartyg",
+      "type": "Integer"
+    },
+    {
+      "key": "need_coastal_guard_boat_chance",
+      "caption": "Sannolikhet att Övervakningsbåt",
+      "type": "Integer"
+    },
+    {
+      "key": "need_coastal_boat_hover_chance",
+      "caption": "Sannolikhet att svävare krävs",
+      "type": "Integer"
+    },
+    {
+      "key": "need_coastal_boat_trailer_chance",
+      "caption": "Sannolikhet att pråm krävs",
+      "type": "Integer"
+    },
+    {
+      "key": "need_coastal_plane_chance",
+      "caption": "Sannolikhet att kustbevakningsflyg krävs",
+      "type": "Integer"
+    },
+    {
+      "key": "need_detention_unit_chance",
+      "caption": "Sannolikhet att häktesbuss behöver",
+      "type": "Integer"
+    },
+    {
+      "key": "need_extension",
+      "caption": "Med utbyggnad",
+      "type": "Integer"
+    },
+    {
+      "key": "need_extension_chance",
+      "caption": null,
+      "type": "Integer"
+    },
+    {
+      "key": "need_fire_aviation_chance",
+      "caption": "Sannolikhet att brandflygsenhet behövs",
+      "type": "Integer"
+    },
+    {
+      "key": "need_foam_chance",
+      "caption": "Sannorlikhet att Skumenhet krävs",
+      "type": "Integer"
+    },
+    {
+      "key": "need_gwtaucher_chance",
+      "caption": "Sannolikhet att tryckkammarbil behövs",
+      "type": "Integer"
+    },
+    {
+      "key": "need_hose_chance",
+      "caption": "Sannorlikhet att Slangbil krävs",
+      "type": "Integer"
+    },
+    {
+      "key": "need_large_coastal_boat_chance",
+      "caption": "Sannolikhet att miljöfartyg krävs",
+      "type": "Integer"
+    },
+    {
+      "key": "need_lf_chance",
+      "caption": "Sannolikhet att släckbil begärs",
+      "type": "Integer"
+    },
+    {
+      "key": "need_police_horse_chance",
+      "caption": "Sannorlikhet att polisrytteri krävs",
+      "type": "Integer"
+    },
+    {
+      "key": "need_police_horse_only_if_present_chance",
+      "caption": null,
+      "type": "Integer"
+    },
+    {
+      "key": "need_police_service_group_leader",
+      "caption": "Kräver YB",
+      "type": "Integer"
+    },
+    {
+      "key": "need_police_service_group_leader_chance",
+      "caption": "Sannolikhet att YB krävs",
+      "type": "Integer"
+    },
+    {
+      "key": "need_piercing_nozzle_chance",
+      "caption": "Sannolikhet för att det krävs Vattenskärare",
+      "type": "Integer"
+    },
+    {
+      "key": "need_pump_chance",
+      "caption": "Sannorlikhet att Motorspruta krävs",
+      "type": "Integer"
+    },
+    {
+      "key": "need_riv_chance",
+      "caption": "Sannolikhet för att Första Insats Bil behövs",
+      "type": "Integer"
+    },
+    {
+      "key": "need_rtw_chance",
+      "caption": "Sannolikhet att ambulans krävs",
+      "type": "Integer"
+    },
+    {
+      "key": "need_swat_personal_chance",
+      "caption": null,
+      "type": "Integer"
+    },
+    {
+      "key": "need_flood_equipment_chance",
+      "caption": "Sannolikhet att släpvagn för översvämningsutrustning behövs",
+      "type": "Integer"
+    },
+    {
+      "key": "need_car_carrier",
+      "caption": "Obligatorisk skrotbil",
+      "type": "Integer"
+    },
+    {
+      "key": "need_car_carrier_chance",
+      "caption": "Sannolikhet för att skrotbil krävs",
+      "type": "Integer"
+    },
+    {
+      "key": "need_car_carrier_large",
+      "caption": "Obligatorisk Rotator lastbil",
+      "type": "Integer"
+    },
+    {
+      "key": "need_car_carrier_large_chance",
+      "caption": "Sannolikhet för att Rotator lastbil krävs",
+      "type": "Integer"
+    },
+    {
+      "key": "need_search_and_rescue_helicopter_chance",
+      "caption": "Sannolikhet att SAR-helikopter behövs",
+      "type": "Integer"
+    },
+    {
+      "key": "need_oneof_fire_engine_or_rescue_or_ladder_chance",
+      "caption": null,
+      "type": "Integer"
+    },
+    {
+      "key": "need_oneof_fire_engine_or_rescue_chance",
+      "caption": null,
+      "type": "Integer"
+    },
+    {
+      "key": "need_oneof_police_patrol_or_swat_chance",
+      "caption": null,
+      "type": "Integer"
+    },
+    {
+      "key": "need_oneof_police_patrol_or_traffic_control_chance",
+      "caption": null,
+      "type": "Integer"
+    },
+    {
+      "key": "need_oneof_airport_fire_engine_large_or_piercing_nozzle_chance",
+      "caption": null,
+      "type": "Integer"
+    },
+    {
+      "key": "personal_min_thw",
+      "caption": null,
+      "type": "Integer"
+    },
+    {
+      "key": "personal_min_ambulance",
+      "caption": "Required minimum rescue workers",
+      "type": "Integer"
+    },
+    {
+      "key": "care_vehicle_required",
+      "caption": {
+        "care_service_equipment_value": "Required Field Kitchens"
+      },
+      "type": "Integer"
     }
   ],
   "pois": [
@@ -1140,7 +1347,8 @@
           "id": 8,
           "caption": "Bärgningsbilar"
         }
-      ]
+      ],
+      "generates_mission_types": ["fire"]
     },
     {
       "id": 1,
@@ -1174,7 +1382,8 @@
           "id": 1,
           "caption": "Stor ambulansstation"
         }
-      ]
+      ],
+      "generates_mission_types": ["ambulance"]
     },
     {
       "id": 3,
@@ -1324,7 +1533,8 @@
           "id": 17,
           "caption": "Bärgningsbilar"
         }
-      ]
+      ],
+      "generates_mission_types": ["police"]
     },
     {
       "id": 7,
@@ -1514,7 +1724,8 @@
     {
       "id": 24,
       "caption": "Kustbevakningsstation",
-      "key": "BUILDING_TYPE_COASTAL_RESCUE"
+      "key": "BUILDING_TYPE_COASTAL_RESCUE",
+      "generates_mission_types": ["coastal_rescue", "coastal_rescue_ocean"]
     },
     {
       "id": 25,
@@ -1623,12 +1834,14 @@
           "id": 10,
           "caption": "Ytterligare fordon Parkeringsplats Tomtutrymme"
         }
-      ]
+      ],
+      "generates_mission_types": ["tow_trucks_only"]
     },
     {
       "id": 28,
       "caption": "Kustnära volontärgrupper",
-      "key": "BUILDING_TYPE_COASTAL_RESCUE_SMALL"
+      "key": "BUILDING_TYPE_COASTAL_RESCUE_SMALL",
+      "generates_mission_types": ["coastal_rescue"]
     }
   ],
   "awards": [
@@ -5198,6 +5411,165 @@
     {
       "id": 713,
       "caption": "En bil kör in i en folkmassa"
+    }
+  ],
+  "education_data": [
+    {
+      "id": 0,
+      "caption": "Farligt gods",
+      "duration": 259200,
+      "education_key": "gw_gefahrgut"
+    },
+    {
+      "id": 1,
+      "caption": "Räddningsledning",
+      "duration": 432000,
+      "education_key": "elw2"
+    },
+    {
+      "id": 2,
+      "caption": "Brandbekämpning på flygplatsen",
+      "duration": 259200,
+      "education_key": "arff"
+    },
+    {
+      "id": 3,
+      "caption": "Livräddning",
+      "duration": 345600,
+      "education_key": "gw_wasserrettung"
+    },
+    {
+      "id": 4,
+      "caption": "Havsnavigering",
+      "duration": 432000,
+      "education_key": "ocean_navigation"
+    },
+    {
+      "id": 5,
+      "caption": "Dykarutbildning",
+      "duration": 432000,
+      "education_key": "gw_taucher"
+    },
+    {
+      "id": 6,
+      "caption": "Luftburen brandbekämparutbildning",
+      "duration": 432000,
+      "education_key": "airborne_firefighting"
+    },
+    {
+      "id": 7,
+      "caption": "Insatsutbildning",
+      "duration": 259200,
+      "education_key": "coresponder"
+    },
+    {
+      "id": 8,
+      "caption": "Utbildning för Vattenskärare",
+      "duration": 432000,
+      "education_key": "piercing_nozzle"
+    },
+    {
+      "id": 9,
+      "caption": "Intensivvårdsutbildning",
+      "duration": 432000,
+      "education_key": "critical_care"
+    },
+    {
+      "id": 10,
+      "caption": "Bärgningsbilar stora",
+      "duration": 432000,
+      "education_key": "tow_trucks"
+    },
+    {
+      "id": 0,
+      "caption": "Polishelikopterpilotutbildning",
+      "duration": 604800,
+      "education_key": "polizeihubschrauber"
+    },
+    {
+      "id": 1,
+      "caption": "Insatspolisutbildning",
+      "duration": 432000,
+      "education_key": "swat"
+    },
+    {
+      "id": 2,
+      "caption": "Hundförarutbildning",
+      "duration": 432000,
+      "education_key": "k9"
+    },
+    {
+      "id": 3,
+      "caption": "MC-Polisutbildning",
+      "duration": 259200,
+      "education_key": "police_motorcycle"
+    },
+    {
+      "id": 4,
+      "caption": "Rytteriutbildning",
+      "duration": 259200,
+      "education_key": "police_horse"
+    },
+    {
+      "id": 5,
+      "caption": "Trafikpolisutbildning",
+      "education_key": "traffic_police",
+      "duration": 432000
+    },
+    {
+      "id": 6,
+      "caption": "Bombskyddsutbildning",
+      "education_key": "fbi_bomb_tech",
+      "duration": 432000
+    },
+    {
+      "id": 7,
+      "caption": "Utbildning till yttrebefäl",
+      "education_key": "police_service_group_leader",
+      "duration": 432000
+    },
+    {
+      "id": 0,
+      "caption": "Intensivvårdsutbildning",
+      "duration": 432000,
+      "education_key": "critical_care"
+    },
+    {
+      "id": 1,
+      "caption": "MC-Ambulans",
+      "duration": 259200,
+      "education_key": "rapid_response_motorcycle"
+    },
+    {
+      "id": 0,
+      "caption": "Utbildning av livräddare",
+      "duration": 432000,
+      "education_key": "coastal_rescue"
+    },
+    {
+      "id": 1,
+      "caption": "Räddningsinsats",
+      "duration": 432000,
+      "education_key": "coastal_rescue_pilot"
+    },
+    {
+      "id": 2,
+      "caption": "Utbildning av systemoperatörer",
+      "duration": 432000,
+      "education_key": "heavy_machinery"
+    },
+    {
+      "id": 3,
+      "caption": "Havsnavigering",
+      "duration": 432000,
+      "education_key": "ocean_navigation"
+    },
+    {
+      "id": 4,
+      "caption": "\u003Cspan class=\"translation_missing localeapp\" title=\"translation missing: sv_SE.education.coastal_fire_rescue\"\u003ECoastal Fire Rescue\u003C/span\u003E",
+      "duration": 432000,
+      "education_key": "coastal_fire_rescue",
+      "date_start": "2025-09-25T09:00:00Z"
     }
   ]
 }
