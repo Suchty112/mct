@@ -689,6 +689,288 @@
       "key": "need_streifenwagen_chance",
       "caption": "Szanse, że potrzebna będzie policja",
       "type": "Integer"
+    },
+    {
+      "key": "need_boot_chance",
+      "caption": null,
+      "type": "Integer"
+    },
+    {
+      "key": "need_extension",
+      "caption": "Z rozbudową",
+      "type": "Integer"
+    },
+    {
+      "key": "need_extension_chance",
+      "caption": null,
+      "type": "Integer"
+    },
+    {
+      "key": "need_foam_chance",
+      "caption": "Szansa, że potrzebny będzie samochód ze zbiornikiem na piane",
+      "type": "Integer"
+    },
+    {
+      "key": "need_gwhoehenrettung_chance",
+      "caption": "Prawdopodobieństwo, że Ratownictwo Wysokościowe będzie potrzebne",
+      "type": "Integer"
+    },
+    {
+      "key": "need_gwtaucher_chance",
+      "caption": "Prawdopodobieństwo że Samochód SLRw będzie potrzebny",
+      "type": "Integer"
+    },
+    {
+      "key": "need_gwwasserrettung_chance",
+      "caption": "Prawdopodobieństwo, że Samochód WOPR będzie potrzebny",
+      "type": "Integer"
+    },
+    {
+      "key": "need_k9_chance",
+      "caption": "Prawdopodobieństwo potrzeby Jednoskti K-9",
+      "type": "Integer"
+    },
+    {
+      "key": "need_lf_chance",
+      "caption": "Szanse, że potrzebny będzie samochód pożarniczy",
+      "type": "Integer"
+    },
+    {
+      "key": "need_police_service_group_leader_chance",
+      "caption": "Szansa, że potrzebne będzie Ruchome Stanowisko Dowodzenia",
+      "type": "Integer"
+    },
+    {
+      "key": "need_polizeihubschrauber_chance",
+      "caption": "Szansa, na zapotrzebowanie policyjnego śmigłowca",
+      "type": "Integer"
+    },
+    {
+      "key": "need_rettungstreppe_chance",
+      "caption": "Prawdopodobieństwo, że wymagane są schody ratunkowe",
+      "type": "Integer"
+    },
+    {
+      "key": "need_riot_police_ambulance_chance",
+      "caption": "Szansa, że potrzebny będzie ambualns OPP",
+      "type": "Integer"
+    },
+    {
+      "key": "need_riot_police_equipment_chance",
+      "caption": "Szansa, że potrzebny będzie specjalistyczny sprzęt OPP (Pickup)",
+      "type": "Integer"
+    },
+    {
+      "key": "need_road_rescue_chance",
+      "caption": "Szansa, że potrzebny będzie APRD",
+      "type": "Integer"
+    },
+    {
+      "key": "need_rtw_chance",
+      "caption": "Szanse, że potrzebny będzie ambulans",
+      "type": "Integer"
+    },
+    {
+      "key": "need_swat_personal_chance",
+      "caption": null,
+      "type": "Integer"
+    },
+    {
+      "key": "need_traffic_car_chance",
+      "caption": "Szansa, że potrzebny będzie radiowóz WRD",
+      "type": "Integer"
+    },
+    {
+      "key": "need_wasserwerfer_chance",
+      "caption": "Szansa, że potrzebna będzie armatka wodna",
+      "type": "Integer"
+    },
+    {
+      "key": "need_search_and_rescue_chance",
+      "caption": "Szansa, że potrzebny będzie samochód poszukiwawczo - ratowniczy",
+      "type": "Integer"
+    },
+    {
+      "key": "need_rescue_dog_units_chance",
+      "caption": "Szansa, że potrzebne będą psy ratownicze",
+      "type": "Integer"
+    },
+    {
+      "key": "need_helicopter_bucket",
+      "caption": "Wymagany zbiornik bambi bucket",
+      "type": "Integer"
+    },
+    {
+      "key": "need_helicopter_bucket_chance",
+      "caption": "Szansa, że potrzebny będzie zbiornik bambi bucket",
+      "type": "Integer"
+    },
+    {
+      "key": "need_energy_supply_chance",
+      "caption": "Szansa, że potrzebny będzie agregat prądotwórczy",
+      "type": "Integer"
+    },
+    {
+      "key": "need_fire_aviation",
+      "caption": "Wymagany samolot gaśniczy",
+      "type": "Integer"
+    },
+    {
+      "key": "need_fire_aviation_chance",
+      "caption": "Szansa, że potrzebny będzie samolot gaśniczy",
+      "type": "Integer"
+    },
+    {
+      "key": "need_fire_aviation_2",
+      "caption": "Wymagana jednostka powietrzna straży pożarnej",
+      "type": "Integer"
+    },
+    {
+      "key": "need_fire_aviation_2_chance",
+      "caption": "Szansa, że potrzebna będzie jednostka powietrzna straży pożarnej",
+      "type": "Integer"
+    },
+    {
+      "key": "need_flood_equipment_chance",
+      "caption": "Szansa, że potrzebny będzie sprzęt przeciwpowodziowy",
+      "type": "Integer"
+    },
+    {
+      "key": "need_drone",
+      "caption": "Wymagany Dron strażacki",
+      "type": "Integer"
+    },
+    {
+      "key": "need_drone_chance",
+      "caption": "Prawdopodobieństwo że wymagany będzie dron strażacki",
+      "type": "Integer"
+    },
+    {
+      "key": "need_mobile_shelter_chance",
+      "caption": "Prawdopodobieństwo że wymagany będzie namiot pneumatyczny",
+      "type": "Integer"
+    },
+    {
+      "key": "need_height_equipment",
+      "caption": "Wymagany Skokochron",
+      "type": "Integer"
+    },
+    {
+      "key": "need_height_equipment_chance",
+      "caption": "Prawdopodobieństwo że wymagany będzie skokochron",
+      "type": "Integer"
+    },
+    {
+      "key": "need_hazmat_drone",
+      "caption": "Wymagany Robot CBRNE",
+      "type": "Integer"
+    },
+    {
+      "key": "need_hazmat_drone_chance",
+      "caption": "Prawdopodobieństwo że wymagany będzie Robot CBRNE",
+      "type": "Integer"
+    },
+    {
+      "key": "need_water_rescue_equipment",
+      "caption": "Wymagany Sonar strażacki",
+      "type": "Integer"
+    },
+    {
+      "key": "need_water_rescue_equipment_chance",
+      "caption": "Prawdopodobieństwo że wymagany będzie Sonar strażacki",
+      "type": "Integer"
+    },
+    {
+      "key": "need_municipal_police",
+      "caption": "Wymagane radiowozy straży miejskiej",
+      "type": "Integer"
+    },
+    {
+      "key": "need_municipal_police_chance",
+      "caption": "Szansa, że potrzebny będzie radiowóz straży miejskiej",
+      "type": "Integer"
+    },
+    {
+      "key": "need_oneof_fire_engine_or_rescue_chance",
+      "caption": null,
+      "type": "Integer"
+    },
+    {
+      "key": "need_oneof_fire_engine_or_rescue_or_ladder_chance",
+      "caption": null,
+      "type": "Integer"
+    },
+    {
+      "key": "need_oneof_police_patrol_or_traffic_control_chance",
+      "caption": null,
+      "type": "Integer"
+    },
+    {
+      "key": "need_oneof_police_patrol_or_municipal_police_chance",
+      "caption": null,
+      "type": "Integer"
+    },
+    {
+      "key": "need_car_carrier",
+      "caption": "Laweta drogowa",
+      "type": "Integer"
+    },
+    {
+      "key": "need_car_carrier_chance",
+      "caption": "Szansa, że potrzebny będzie laweta",
+      "type": "Integer"
+    },
+    {
+      "key": "need_car_carrier_large",
+      "caption": "Rotator",
+      "type": "Integer"
+    },
+    {
+      "key": "need_car_carrier_large_chance",
+      "caption": "Szansa, że potrzebny będzie rotator",
+      "type": "Integer"
+    },
+    {
+      "key": "need_mountain_height_rescue_chance",
+      "caption": "Prawdopodobieństwo, że wymagany jest SUV",
+      "type": "Integer"
+    },
+    {
+      "key": "need_mountain_snow_chance",
+      "caption": "Prawdopodobieństwo, że skuter śnieżny będzie potrzebny",
+      "type": "Integer"
+    },
+    {
+      "key": "need_mountain_rescue_dogs_chance",
+      "caption": "Prawdopodobieństwo, że pies górski jest wymagany",
+      "type": "Integer"
+    },
+    {
+      "key": "need_mountain_cave_command_chance",
+      "caption": "Prawdopodobieństwo, że wymagane jest Dowództwo Jaskiniowe",
+      "type": "Integer"
+    },
+    {
+      "key": "need_mountain_atv_chance",
+      "caption": "Prawdopodobieństwo, że ATV jest wymagane",
+      "type": "Integer"
+    },
+    {
+      "key": "personal_min_thw",
+      "caption": null,
+      "type": "Integer"
+    },
+    {
+      "key": "personal_min_ambulance",
+      "caption": "Required minimum rescue workers",
+      "type": "Integer"
+    },
+    {
+      "key": "care_vehicle_required",
+      "caption": {
+        "care_service_equipment_value": "Required Field Kitchens"
+      },
+      "type": "Integer"
     }
   ],
   "pois": [
@@ -1100,7 +1382,8 @@
           "id": 19,
           "caption": "Duża remiza strażacka"
         }
-      ]
+      ],
+      "generates_mission_types": ["fire"]
     },
     {
       "id": 1,
@@ -1134,7 +1417,8 @@
           "id": 1,
           "caption": "Szefa służb ratownictwa medycznego"
         }
-      ]
+      ],
+      "generates_mission_types": ["ambulance"]
     },
     {
       "id": 3,
@@ -1280,7 +1564,8 @@
           "id": 16,
           "caption": "Samochody holownicze"
         }
-      ]
+      ],
+      "generates_mission_types": ["police"]
     },
     {
       "id": 7,
@@ -1329,7 +1614,8 @@
           "id": 1,
           "caption": "Rozbudowa o stanowisko dowodzenia"
         }
-      ]
+      ],
+      "generates_mission_types": ["riot_police"]
     },
     {
       "id": null,
@@ -1349,7 +1635,8 @@
     {
       "id": 15,
       "caption": "Stacja WOPR",
-      "key": "BUILDING_TYPE_WASSERRETTUNG"
+      "key": "BUILDING_TYPE_WASSERRETTUNG",
+      "generates_mission_types": ["water_rescue"]
     },
     {
       "id": 16,
@@ -1531,12 +1818,14 @@
           "id": 10,
           "caption": "Rozbudowa dla rotatora"
         }
-      ]
+      ],
+      "generates_mission_types": ["tow_trucks_only"]
     },
     {
       "id": 26,
       "caption": "GOPR",
-      "key": "BUILDING_TYPE_MOUNTAIN_RESCUE"
+      "key": "BUILDING_TYPE_MOUNTAIN_RESCUE",
+      "generates_mission_types": ["mountain"]
     }
   ],
   "awards": [
@@ -5799,6 +6088,216 @@
     {
       "id": 880,
       "caption": "Pożar w stajniach"
+    }
+  ],
+  "education_data": [
+    {
+      "id": 0,
+      "caption": "Ratownictwo chemiczne",
+      "duration": 259200,
+      "education_key": "gw_gefahrgut"
+    },
+    {
+      "id": 1,
+      "caption": "Szkolenie w dowodzeniu",
+      "duration": 432000,
+      "education_key": "elw2"
+    },
+    {
+      "id": 2,
+      "caption": "Szkolenie SP LSP",
+      "duration": 259200,
+      "education_key": "arff",
+      "hidden": true
+    },
+    {
+      "id": 3,
+      "caption": "Szybkie ratownictwo wodne",
+      "duration": 345600,
+      "education_key": "gw_wasserrettung"
+    },
+    {
+      "id": 4,
+      "caption": "Kurs Nurka MSWiA",
+      "duration": 432000,
+      "education_key": "gw_taucher"
+    },
+    {
+      "id": 5,
+      "caption": "Nawigacja oceaniczna",
+      "duration": 432000,
+      "education_key": "ocean_navigation",
+      "hidden": true
+    },
+    {
+      "id": 6,
+      "caption": "Ratownictwo wysokościowe",
+      "duration": 432000,
+      "education_key": "gw_hoehenrettung"
+    },
+    {
+      "id": 7,
+      "caption": "Lekarz",
+      "duration": 259200,
+      "education_key": "critical_care"
+    },
+    {
+      "id": 8,
+      "caption": "Szkolenie poszukiwawczo - ratownicze",
+      "duration": 259200,
+      "education_key": "search_and_rescue"
+    },
+    {
+      "id": 9,
+      "caption": "Przewodnik psa ratowniczego",
+      "duration": 432000,
+      "education_key": "rescue_dogs"
+    },
+    {
+      "id": 10,
+      "caption": "Szkolenie z obsługi schodów ratowniczych",
+      "duration": 432000,
+      "education_key": "rettungstreppe"
+    },
+    {
+      "id": 11,
+      "caption": "Szkolenie pilota samolotu gaśniczego",
+      "duration": 432000,
+      "education_key": "fire_aviation"
+    },
+    {
+      "id": 12,
+      "caption": "Szkolenie z obsługi drona",
+      "duration": 345600,
+      "education_key": "drone"
+    },
+    {
+      "id": 13,
+      "caption": "Szkolenie z obsługi robota CBRNE",
+      "duration": 604800,
+      "education_key": "hazmat_drone"
+    },
+    {
+      "id": 14,
+      "caption": "Szkolenie w zakresie pojazdów ciężkich",
+      "duration": 345600,
+      "education_key": "tow_trucks"
+    },
+    {
+      "id": 0,
+      "caption": "Lotnictwo policyjne",
+      "duration": 604800,
+      "education_key": "polizeihubschrauber"
+    },
+    {
+      "id": 1,
+      "caption": "SPKP",
+      "duration": 432000,
+      "education_key": "swat"
+    },
+    {
+      "id": 2,
+      "caption": "K-9",
+      "duration": 432000,
+      "education_key": "k9"
+    },
+    {
+      "id": 3,
+      "caption": "Motocykl Policyjny",
+      "duration": 259200,
+      "education_key": "police_motorcycle"
+    },
+    {
+      "id": 4,
+      "caption": "Szkolenie WRD",
+      "duration": 259200,
+      "education_key": "traffic_police"
+    },
+    {
+      "id": 5,
+      "caption": "Szkolenie OPP",
+      "duration": 172800,
+      "education_key": "riot_police"
+    },
+    {
+      "id": 6,
+      "caption": "Policyjny ratownik medyczny",
+      "duration": 432000,
+      "education_key": "riot_police_ambulance"
+    },
+    {
+      "id": 7,
+      "caption": "Szkolenie policyjnego dowódcy",
+      "duration": 604800,
+      "education_key": "police_service_group_leader"
+    },
+    {
+      "id": 8,
+      "caption": "Szkolenie w zakresie pojazdów ciężkich",
+      "duration": 345600,
+      "education_key": "tow_trucks"
+    },
+    {
+      "id": 0,
+      "hidden": true,
+      "caption": "Lekarz",
+      "duration": 604800,
+      "education_key": "notarzt"
+    },
+    {
+      "id": 1,
+      "hidden": true,
+      "caption": "\u003Cspan class=\"translation_missing localeapp\" title=\"translation missing: pl_PL.education.lna\"\u003ELna\u003C/span\u003E",
+      "duration": 777600,
+      "education_key": "lna"
+    },
+    {
+      "id": 2,
+      "caption": "Szefa służb ratownictwa medycznego",
+      "duration": 604800,
+      "education_key": "orgl"
+    },
+    {
+      "id": 3,
+      "caption": "Szybkie ratownictwo wodne",
+      "duration": 345600,
+      "education_key": "gw_wasserrettung"
+    },
+    {
+      "id": 4,
+      "caption": "Kurs Nurka MSWiA",
+      "duration": 432000,
+      "education_key": "gw_taucher"
+    },
+    {
+      "id": 5,
+      "caption": "Lekarz",
+      "duration": 259200,
+      "education_key": "critical_care"
+    },
+    {
+      "id": 6,
+      "caption": "Motoambulans",
+      "duration": 172800,
+      "education_key": "rapid_response_motorcycle"
+    },
+    {
+      "id": 7,
+      "caption": "Certyfikat Ratownictwa Górskiego",
+      "duration": 432000,
+      "education_key": "mountain_rescue"
+    },
+    {
+      "id": 8,
+      "caption": "Szkolenie psów ratowniczych",
+      "duration": 432000,
+      "education_key": "mountain_rescue_dogs"
+    },
+    {
+      "id": 9,
+      "caption": "Certyfikat ratownictwa jaskiniowego",
+      "duration": 432000,
+      "education_key": "mountain_cave_rescue"
     }
   ]
 }
