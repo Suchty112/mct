@@ -634,6 +634,223 @@
       "key": "need_mountain_rescue_drone",
       "caption": "必要な無人航空機隊",
       "type": "Integer"
+    },
+    {
+      "key": "need_elw2_chance",
+      "caption": "指令車が必要な確率",
+      "type": "Integer"
+    },
+    {
+      "key": "need_extension",
+      "caption": "必要な拡張：",
+      "type": "Integer"
+    },
+    {
+      "key": "need_extension_chance",
+      "caption": null,
+      "type": "Integer"
+    },
+    {
+      "key": "need_foam_chance",
+      "caption": "化学消火車が必要な確率",
+      "type": "Integer"
+    },
+    {
+      "key": "need_k9_chance",
+      "caption": "ドッグキャリアが必要とされる確率",
+      "type": "Integer"
+    },
+    {
+      "key": "need_lf_chance",
+      "caption": "消防車要請の確率",
+      "type": "Integer"
+    },
+    {
+      "key": "need_pump_chance",
+      "caption": "ポンプ積載車が必要な確率",
+      "type": "Integer"
+    },
+    {
+      "key": "need_rtw_chance",
+      "caption": "救急車が必要な確率",
+      "type": "Integer"
+    },
+    {
+      "key": "need_riot_police_chance",
+      "caption": "機動隊車両が必要とされる確率",
+      "type": "Integer"
+    },
+    {
+      "key": "need_riot_police_equipment_chance",
+      "caption": "機動隊装備の車両が必要となる確率",
+      "type": "Integer"
+    },
+    {
+      "key": "need_riot_police_command_chance",
+      "caption": "機動隊指揮車が必要となる確率",
+      "type": "Integer"
+    },
+    {
+      "key": "need_wasserwerfer_chance",
+      "caption": "ウォーターキャノンが必要とされる確率",
+      "type": "Integer"
+    },
+    {
+      "key": "need_detention_unit_chance",
+      "caption": "囚人輸送車が必要とされる確率",
+      "type": "Integer"
+    },
+    {
+      "key": "need_coastal_rescue_chance",
+      "caption": "ライフガードが必要な確率",
+      "type": "Integer"
+    },
+    {
+      "key": "need_coastal_boat_chance",
+      "caption": "小型内航船が必要となる確率",
+      "type": "Integer"
+    },
+    {
+      "key": "need_large_coastal_boat_chance",
+      "caption": "Probability that Large Coastal Boat is required",
+      "type": "Integer"
+    },
+    {
+      "key": "need_coastal_guard_boat_chance",
+      "caption": "Probability that Coastal Guard Boat is required",
+      "type": "Integer"
+    },
+    {
+      "key": "need_coastal_helicopter_chance",
+      "caption": "沿岸警備隊のヘリコプターが必要になる確率",
+      "type": "Integer"
+    },
+    {
+      "key": "need_coastal_plane_chance",
+      "caption": "海上保安庁の航空機が必要になる確率",
+      "type": "Integer"
+    },
+    {
+      "key": "need_large_fire_boat_chance",
+      "caption": "Probability that Fire Boat is required",
+      "type": "Integer"
+    },
+    {
+      "key": "need_arff_chance",
+      "caption": "空港用消防車が必要な確率",
+      "type": "Integer"
+    },
+    {
+      "key": "need_rettungstreppe_chance",
+      "caption": "緊急階段車が必要な確率",
+      "type": "Integer"
+    },
+    {
+      "key": "need_piercing_nozzle_chance",
+      "caption": "ピアスノズルが必要とされる確率",
+      "type": "Integer"
+    },
+    {
+      "key": "need_riv_chance",
+      "caption": "緊急介入車が必要とされる確率",
+      "type": "Integer"
+    },
+    {
+      "key": "need_pump_chance",
+      "caption": "ポンプ積載車が必要な確率",
+      "type": "Integer"
+    },
+    {
+      "key": "need_damage_control_chance",
+      "caption": "ダメージ・コントロール・ワゴンが必要になる確率",
+      "type": "Integer"
+    },
+    {
+      "key": "need_flood_equipment",
+      "caption": "Required Flood Equipment",
+      "type": "Integer"
+    },
+    {
+      "key": "need_flood_equipment_chance",
+      "caption": "Probability that Flood Equipment is required",
+      "type": "Integer"
+    },
+    {
+      "key": "need_car_carrier",
+      "caption": "必須レッカー",
+      "type": "Integer"
+    },
+    {
+      "key": "need_car_carrier_chance",
+      "caption": "レッカーが必要になる確率",
+      "type": "Integer"
+    },
+    {
+      "key": "need_car_carrier_large",
+      "caption": "必要なローテータ・トラック",
+      "type": "Integer"
+    },
+    {
+      "key": "need_car_carrier_large_chance",
+      "caption": "ローテータ・トラックが必要となる確率",
+      "type": "Integer"
+    },
+    {
+      "key": "need_search_and_rescue_helicopter_chance",
+      "caption": "ベル412航空隊が必要となる可能性",
+      "type": "Integer"
+    },
+    {
+      "key": "need_mountain_height_rescue_chance",
+      "caption": "山岳救助隊が必要となる可能性",
+      "type": "Integer"
+    },
+    {
+      "key": "need_mountain_rescue_drone_chance",
+      "caption": "無人航空機隊が必要となる可能性",
+      "type": "Integer"
+    },
+    {
+      "key": "need_oneof_fire_engine_or_rescue_or_ladder_chance",
+      "caption": null,
+      "type": "Integer"
+    },
+    {
+      "key": "need_oneof_fire_engine_or_rescue_chance",
+      "caption": null,
+      "type": "Integer"
+    },
+    {
+      "key": "need_oneof_police_patrol_or_riot_police_crew_chance",
+      "caption": null,
+      "type": "Integer"
+    },
+    {
+      "key": "need_oneof_fire_engine_or_airport_fire_engine_or_engine_large_chance",
+      "caption": null,
+      "type": "Integer"
+    },
+    {
+      "key": "need_oneof_fire_engine_or_airport_fire_engine_large_chance",
+      "caption": null,
+      "type": "Integer"
+    },
+    {
+      "key": "personal_min_thw",
+      "caption": null,
+      "type": "Integer"
+    },
+    {
+      "key": "personal_min_ambulance",
+      "caption": "Required minimum rescue workers",
+      "type": "Integer"
+    },
+    {
+      "key": "care_vehicle_required",
+      "caption": {
+        "care_service_equipment_value": "Required Field Kitchens"
+      },
+      "type": "Integer"
     }
   ],
   "pois": [
@@ -1027,7 +1244,8 @@
           "id": 7,
           "caption": "山岳救助部門"
         }
-      ]
+      ],
+      "generates_mission_types": ["fire"]
     },
     {
       "id": 1,
@@ -1061,7 +1279,8 @@
           "id": 1,
           "caption": "大型救急ステーション"
         }
-      ]
+      ],
+      "generates_mission_types": ["ambulance"]
     },
     {
       "id": 3,
@@ -1203,7 +1422,8 @@
           "id": 15,
           "caption": "大型刑務所"
         }
-      ]
+      ],
+      "generates_mission_types": ["police"]
     },
     {
       "id": 7,
@@ -1388,7 +1608,8 @@
     {
       "id": 23,
       "caption": "水上警察",
-      "key": "BUILDING_TYPE_COASTAL_RESCUE"
+      "key": "BUILDING_TYPE_COASTAL_RESCUE",
+      "generates_mission_types": ["coastal_rescue", "coastal_rescue_ocean"]
     },
     {
       "id": 24,
@@ -1510,12 +1731,14 @@
           "id": 10,
           "caption": "ローテータトラックの拡張"
         }
-      ]
+      ],
+      "generates_mission_types": ["tow_trucks"]
     },
     {
       "id": 28,
       "caption": "航空自衛隊",
-      "key": "BUILDING_TYPE_MOUNTAIN_RESCUE_HELIPORT"
+      "key": "BUILDING_TYPE_MOUNTAIN_RESCUE_HELIPORT",
+      "generates_mission_types": ["mountain"]
     }
   ],
   "awards": [
@@ -4817,6 +5040,157 @@
     {
       "id": 650,
       "caption": "車が人混みに突っ込む"
+    }
+  ],
+  "education_data": [
+    {
+      "id": 0,
+      "caption": "危険物取扱車両",
+      "duration": 259200,
+      "education_key": "gw_gefahrgut"
+    },
+    {
+      "id": 1,
+      "caption": "指令",
+      "duration": 432000,
+      "education_key": "elw2"
+    },
+    {
+      "id": 2,
+      "caption": "空港消防士トレーニング",
+      "duration": 259200,
+      "education_key": "arff"
+    },
+    {
+      "id": 3,
+      "caption": "氾濫河川救助",
+      "duration": 345600,
+      "education_key": "gw_wasserrettung"
+    },
+    {
+      "id": 4,
+      "caption": "航海士",
+      "duration": 432000,
+      "education_key": "ocean_navigation"
+    },
+    {
+      "id": 5,
+      "caption": "ピアスノズルトレーニング",
+      "duration": 518400,
+      "education_key": "piercing_nozzle"
+    },
+    {
+      "id": 6,
+      "caption": "レスキューステアトレーニング",
+      "duration": 604800,
+      "education_key": "rettungstreppe"
+    },
+    {
+      "id": 7,
+      "caption": "集中治療訓練",
+      "duration": 432000,
+      "education_key": "critical_care"
+    },
+    {
+      "id": 8,
+      "caption": "大型レッカー車",
+      "duration": 345600,
+      "education_key": "tow_trucks"
+    },
+    {
+      "id": 9,
+      "caption": "山岳救助隊養成",
+      "duration": 259200,
+      "education_key": "mountain_rescue",
+      "date_start": "2025-12-02T09:00:00Z"
+    },
+    {
+      "id": 10,
+      "caption": "無人航空機隊",
+      "duration": 432000,
+      "education_key": "mountain_rescue_drone",
+      "date_start": "2025-12-02T09:00:00Z"
+    },
+    {
+      "id": 0,
+      "caption": "警察航空隊",
+      "duration": 604800,
+      "education_key": "polizeihubschrauber",
+      "hidden": true
+    },
+    {
+      "id": 1,
+      "caption": "SWAT",
+      "duration": 432000,
+      "education_key": "swat",
+      "hidden": true
+    },
+    {
+      "id": 2,
+      "caption": "イヌ",
+      "duration": 432000,
+      "education_key": "k9"
+    },
+    {
+      "id": 3,
+      "caption": "警察用オートバイ",
+      "duration": 259200,
+      "education_key": "police_motorcycle",
+      "hidden": true
+    },
+    {
+      "id": 4,
+      "caption": "機動隊訓練",
+      "duration": 172800,
+      "education_key": "riot_police"
+    },
+    {
+      "id": 5,
+      "caption": "ポリスコマンドトレーニング",
+      "duration": 432000,
+      "education_key": "riot_police_command"
+    },
+    {
+      "id": 6,
+      "caption": "機動隊装備訓練",
+      "duration": 432000,
+      "education_key": "riot_police_equipment"
+    },
+    {
+      "id": 7,
+      "caption": "水鉄砲操作訓練",
+      "duration": 604800,
+      "education_key": "police_wasserwerfer"
+    },
+    {
+      "id": 0,
+      "caption": "集中治療訓練",
+      "duration": 432000,
+      "education_key": "critical_care"
+    },
+    {
+      "id": 1,
+      "caption": "救急バイク",
+      "duration": 259200,
+      "education_key": "rapid_response_motorcycle"
+    },
+    {
+      "id": 0,
+      "caption": "沿岸救助パイロット",
+      "duration": 432000,
+      "education_key": "coastal_rescue_pilot"
+    },
+    {
+      "id": 1,
+      "caption": "航海士",
+      "duration": 432000,
+      "education_key": "ocean_navigation"
+    },
+    {
+      "id": 2,
+      "caption": "沿岸救助要員",
+      "duration": 432000,
+      "education_key": "coastal_rescue"
     }
   ]
 }
