@@ -3166,6 +3166,11 @@
       "id": 138,
       "caption": "Enthousiaste du bonhomme de neige 2026",
       "key": "AWARD_WINTER_COLLECTION_2026"
+    },
+    {
+      "id": 139,
+      "caption": "Défi de l'Alliance mars 2026",
+      "key": "AWARD_ALLIANCE_CHALLENGE_MARCH_2026"
     }
   ],
   "filter_types": [
