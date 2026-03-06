@@ -2898,6 +2898,11 @@
       "id": 139,
       "caption": "Appassionato di pupazzi di neve 2026",
       "key": "AWARD_WINTER_COLLECTION_2026"
+    },
+    {
+      "id": 140,
+      "caption": "Sfida dell'Alleanza marzo 2026",
+      "key": "AWARD_ALLIANCE_CHALLENGE_MARCH_2026"
     }
   ],
   "filter_types": [
