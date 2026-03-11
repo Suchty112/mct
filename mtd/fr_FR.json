@@ -996,6 +996,61 @@
       "type": "Integer"
     },
     {
+      "key": "railway_fire_count",
+      "caption": "Extension du Véhicule Ferroviaire requise",
+      "type": "Integer"
+    },
+    {
+      "key": "need_railway_fire_engine_large",
+      "caption": "FPTSR-RR requis",
+      "type": "Integer"
+    },
+    {
+      "key": "need_railway_fire_engine",
+      "caption": "VÉHICULE RAIL ROUTE requis",
+      "type": "Integer"
+    },
+    {
+      "key": "need_carbon_dioxide",
+      "caption": "Poudre et support de CO2 requis",
+      "type": "Integer"
+    },
+    {
+      "key": "need_carbon_dioxide_container",
+      "caption": "Requis CEFSP",
+      "type": "Integer"
+    },
+    {
+      "key": "need_carbon_dioxide_trailer",
+      "caption": "Requis RMP",
+      "type": "Integer"
+    },
+    {
+      "key": "need_railway_recovery_large",
+      "caption": "NEF requis",
+      "type": "Integer"
+    },
+    {
+      "key": "need_railway_recovery",
+      "caption": "Plateau Lorry requis",
+      "type": "Integer"
+    },
+    {
+      "key": "need_railway_fire_platform_container",
+      "caption": "ELRR requis",
+      "type": "Integer"
+    },
+    {
+      "key": "need_railway_fire_equipment_container",
+      "caption": "Chenilles obligatoires - Chen",
+      "type": "Integer"
+    },
+    {
+      "key": "need_railway_fan",
+      "caption": "VGPA requis",
+      "type": "Integer"
+    },
+    {
       "key": "need_boot_chance",
       "caption": "Probabilité qu'un BLS ou CSL soit requis",
       "type": "Integer"
@@ -1391,28 +1446,13 @@
       "type": "Integer"
     },
     {
-      "key": "need_carbon_dioxide",
-      "caption": "Poudre et support de CO2 requis",
-      "type": "Integer"
-    },
-    {
       "key": "need_carbon_dioxide_chance",
       "caption": "Probabilité que de la poudre et un support de CO2 soient nécessaires",
       "type": "Integer"
     },
     {
-      "key": "need_carbon_dioxide_container",
-      "caption": "Requis CEFSP",
-      "type": "Integer"
-    },
-    {
       "key": "need_carbon_dioxide_container_chance",
       "caption": "Probabilité que le CEFSP soit requis",
-      "type": "Integer"
-    },
-    {
-      "key": "need_carbon_dioxide_trailer",
-      "caption": "Requis RMP",
       "type": "Integer"
     },
     {
@@ -1438,6 +1478,41 @@
     {
       "key": "need_oneof_airport_fire_engine_or_engine_large_chance",
       "caption": null,
+      "type": "Integer"
+    },
+    {
+      "key": "need_railway_fire_engine_chance",
+      "caption": "Probabilité que le véhicule rail-route soit nécessaire",
+      "type": "Integer"
+    },
+    {
+      "key": "need_railway_fire_engine_large_chance",
+      "caption": "Probabilité que le FPTSR-RR soit requis",
+      "type": "Integer"
+    },
+    {
+      "key": "need_railway_fire_platform_container_chance",
+      "caption": "Probabilité que l'ELRR soit nécessaire",
+      "type": "Integer"
+    },
+    {
+      "key": "need_railway_fire_equipment_container_chance",
+      "caption": "Probabilité que CHENILLETTES - CHEN soit requis",
+      "type": "Integer"
+    },
+    {
+      "key": "need_railway_fan_chance",
+      "caption": "Probabilité que le VGPA soit requis",
+      "type": "Integer"
+    },
+    {
+      "key": "need_railway_recovery_chance",
+      "caption": "Probabilité que Plateau Lorry soit requis",
+      "type": "Integer"
+    },
+    {
+      "key": "need_railway_recovery_large_chance",
+      "caption": "Probabilité que le NEF soit requis",
       "type": "Integer"
     },
     {
@@ -1766,6 +1841,10 @@
     {
       "id": 76,
       "caption": "Péage"
+    },
+    {
+      "id": 77,
+      "caption": "Voie ferroviaire"
     }
   ],
   "available_icons": [
@@ -1912,6 +1991,10 @@
         {
           "id": 22,
           "caption": "Unités de ventilation"
+        },
+        {
+          "id": 23,
+          "caption": "Extension pour véhicule ferroviaire"
         }
       ],
       "generates_mission_types": ["fire"]
@@ -6855,6 +6938,38 @@
     {
       "id": 905,
       "caption": "Chat bloqué sur un toit"
+    },
+    {
+      "id": 906,
+      "caption": "Feu de motrice électrique en pleine voie"
+    },
+    {
+      "id": 907,
+      "caption": "Rupture de catenaire sur un passage a niveau"
+    },
+    {
+      "id": 908,
+      "caption": "Collision entre deux locomotives de manœuvre"
+    },
+    {
+      "id": 909,
+      "caption": "Déraillement d'un train de travaux (Infra)"
+    },
+    {
+      "id": 910,
+      "caption": "Incendie d’un wagon de transport de voitures sur quai de métro"
+    },
+    {
+      "id": 911,
+      "caption": "Incendie de transformateur de sous-station électrique"
+    },
+    {
+      "id": 912,
+      "caption": "Feu de talus en bordure de voie ferrée"
+    },
+    {
+      "id": 913,
+      "caption": "Transfert d'un patient victime d'un incendie ferroviaire"
     }
   ],
   "education_data": [
@@ -6911,6 +7026,18 @@
       "caption": "Formation risques radiologiques",
       "duration": 345600,
       "education_key": "decontamination_radiology"
+    },
+    {
+      "id": 9,
+      "caption": "Conducteur de train",
+      "duration": 432000,
+      "education_key": "railway_fire"
+    },
+    {
+      "id": 10,
+      "caption": "Télépilote robotique",
+      "duration": 345600,
+      "education_key": "railway_electronics"
     },
     {
       "id": 0,
