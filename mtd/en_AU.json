@@ -2422,6 +2422,11 @@
       "id": 130,
       "caption": "Alliance Challenge March 2026",
       "key": "AWARD_ALLIANCE_CHALLENGE_MARCH_2026"
+    },
+    {
+      "id": 131,
+      "caption": "Autumn Missions 2026",
+      "key": "AWARD_AUTUMN_MISSIONS_2026"
     }
   ],
   "filter_types": [
