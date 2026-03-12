@@ -2381,6 +2381,11 @@
       "id": 129,
       "caption": "アライアンス・チャレンジ 2026年3月",
       "key": "AWARD_ALLIANCE_CHALLENGE_MARCH_2026"
+    },
+    {
+      "id": 130,
+      "caption": "2026 春イベントのミッション",
+      "key": "AWARD_SPRING_MISSIONS_2026"
     }
   ],
   "filter_types": [
