@@ -2965,6 +2965,11 @@
       "id": 161,
       "caption": "Team Uitdaging Maart 2026",
       "key": "AWARD_ALLIANCE_CHALLENGE_MARCH_2026"
+    },
+    {
+      "id": 162,
+      "caption": "Lente-evenement 2026",
+      "key": "AWARD_SPRING_MISSIONS_2026"
     }
   ],
   "filter_types": [
