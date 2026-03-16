@@ -2820,6 +2820,10 @@
     {
       "key": "tow_trucks_missions",
       "caption": "Bergningsbil"
+    },
+    {
+      "key": "mountain_missions",
+      "caption": "Mountain Rescue"
     }
   ],
   "existing_mission_captions": [
