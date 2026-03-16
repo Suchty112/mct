@@ -2572,6 +2572,10 @@
     {
       "key": "tow_trucks_missions",
       "caption": "Pomoc drogowa"
+    },
+    {
+      "key": "mountain_missions",
+      "caption": "Mountain Rescue"
     }
   ],
   "existing_mission_captions": [
