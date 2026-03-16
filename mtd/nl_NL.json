@@ -3026,6 +3026,10 @@
       "caption": "Berger"
     },
     {
+      "key": "mountain_missions",
+      "caption": "Mountain Rescue"
+    },
+    {
       "key": "military_police_missions",
       "caption": "KMAR"
     }
