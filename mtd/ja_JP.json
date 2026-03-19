@@ -2386,6 +2386,16 @@
       "id": 130,
       "caption": "2026 春イベントのミッション",
       "key": "AWARD_SPRING_MISSIONS_2026"
+    },
+    {
+      "id": 131,
+      "caption": "2026裏技発見はお手の物",
+      "key": "AWARD_EASTER_COLLECTION_2026"
+    },
+    {
+      "id": 132,
+      "caption": "2026 イースターエッグ探し",
+      "key": "AWARD_EASTER_MISSIONS_2026"
     }
   ],
   "filter_types": [
