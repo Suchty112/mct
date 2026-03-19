@@ -2908,6 +2908,16 @@
       "id": 141,
       "caption": "Missioni dell'evento di primavera 2026",
       "key": "AWARD_SPRING_MISSIONS_2026"
+    },
+    {
+      "id": 142,
+      "caption": "A caccia di uova di Pasqua 2026",
+      "key": "AWARD_EASTER_COLLECTION_2026"
+    },
+    {
+      "id": 143,
+      "caption": "Missioni dei coniglietti pasquali 2026",
+      "key": "AWARD_EASTER_MISSIONS_2026"
     }
   ],
   "filter_types": [
