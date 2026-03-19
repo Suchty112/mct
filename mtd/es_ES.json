@@ -2720,6 +2720,16 @@
       "id": 133,
       "caption": "Misiones de evento de primavera 2026",
       "key": "AWARD_SPRING_MISSIONS_2026"
+    },
+    {
+      "id": 134,
+      "caption": "Buscador de huevos de pascua 2026",
+      "key": "AWARD_EASTER_COLLECTION_2026"
+    },
+    {
+      "id": 135,
+      "caption": "Misiones del conejo de pascua 2026",
+      "key": "AWARD_EASTER_MISSIONS_2026"
     }
   ],
   "filter_types": [
