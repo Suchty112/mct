@@ -2509,6 +2509,16 @@
       "id": 134,
       "caption": "Vårevenemangsuppdrag 2026",
       "key": "AWARD_SPRING_MISSIONS_2026"
+    },
+    {
+      "id": 135,
+      "caption": "Påskäggshittare 2026",
+      "key": "AWARD_EASTER_COLLECTION_2026"
+    },
+    {
+      "id": 136,
+      "caption": "Påskhareuppdrag 2026",
+      "key": "AWARD_EASTER_MISSIONS_2026"
     }
   ],
   "filter_types": [
