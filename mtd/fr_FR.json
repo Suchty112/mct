@@ -1021,6 +1021,11 @@
       "type": "Integer"
     },
     {
+      "key": "carbon_dioxide_count",
+      "caption": "Extensions de poudre et de dioxyde de carbone requises",
+      "type": "Integer"
+    },
+    {
       "key": "need_railway_fire_engine_large",
       "caption": "FPTSR-RR requis",
       "type": "Integer"
@@ -7009,6 +7014,14 @@
     {
       "id": 914,
       "caption": "Typhon échelle 4"
+    },
+    {
+      "id": 915,
+      "caption": "Camion de lait de poule renversé"
+    },
+    {
+      "id": 916,
+      "caption": "Oeufs de Paques disparus"
     }
   ],
   "education_data": [
