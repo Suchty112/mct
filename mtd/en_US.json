@@ -971,6 +971,61 @@
       "type": "Integer"
     },
     {
+      "key": "mountain_value",
+      "caption": null,
+      "type": "Integer"
+    },
+    {
+      "key": "mountain_rescue_count",
+      "caption": "Required Mountain Rescue Station",
+      "type": "Integer"
+    },
+    {
+      "key": "mountain_lift_count",
+      "caption": "Required Sked",
+      "type": "Integer"
+    },
+    {
+      "key": "need_mountain_height_rescue",
+      "caption": "Required Mountain Height Rescue",
+      "type": "Integer"
+    },
+    {
+      "key": "need_mountain_snow",
+      "caption": null,
+      "type": "Integer"
+    },
+    {
+      "key": "need_mountain_lift",
+      "caption": "Required Sked",
+      "type": "Integer"
+    },
+    {
+      "key": "mountain_lift_2_count",
+      "caption": "Required  Litter",
+      "type": "Integer"
+    },
+    {
+      "key": "need_mountain_lift_2",
+      "caption": "Required  Litter",
+      "type": "Integer"
+    },
+    {
+      "key": "need_mountain_rescue_dogs",
+      "caption": "Required Mountain Dog",
+      "type": "Integer"
+    },
+    {
+      "key": "need_mountain_atv",
+      "caption": null,
+      "type": "Integer"
+    },
+    {
+      "key": "critical_care_quote",
+      "caption": "Critical Care quote",
+      "type": "Integer"
+    },
+    {
       "key": "need_arff_chance",
       "caption": "Probability of ARFF being required",
       "type": "Integer"
@@ -1218,6 +1273,36 @@
     {
       "key": "need_oneof_fire_rescue_or_ladder_chance",
       "caption": null,
+      "type": "Integer"
+    },
+    {
+      "key": "need_mountain_atv_chance",
+      "caption": null,
+      "type": "Integer"
+    },
+    {
+      "key": "need_mountain_height_rescue_chance",
+      "caption": "Probability that Mountain Height Rescue is required",
+      "type": "Integer"
+    },
+    {
+      "key": "need_mountain_rescue_dogs_chance",
+      "caption": "Probability that Mountain Dog is required",
+      "type": "Integer"
+    },
+    {
+      "key": "need_mountain_snow_chance",
+      "caption": null,
+      "type": "Integer"
+    },
+    {
+      "key": "need_mountain_lift_chance",
+      "caption": "Probability that Sked is required",
+      "type": "Integer"
+    },
+    {
+      "key": "need_mountain_lift_2_chance",
+      "caption": "Probability that  Litter is required",
       "type": "Integer"
     },
     {
@@ -1598,6 +1683,18 @@
     {
       "id": 89,
       "caption": "Hardware Store"
+    },
+    {
+      "id": 90,
+      "caption": "Mountain Trail"
+    },
+    {
+      "id": 91,
+      "caption": "Hiking Trail"
+    },
+    {
+      "id": 92,
+      "caption": "Climbinb Route"
     }
   ],
   "available_icons": [
@@ -1644,7 +1741,8 @@
     "boat",
     "cuffs",
     "lightningStrike",
-    "bridge"
+    "bridge",
+    "hiking"
   ],
   "building_types": [
     {
@@ -2345,6 +2443,12 @@
         }
       ],
       "generates_mission_types": ["tow_trucks_only"]
+    },
+    {
+      "id": 28,
+      "caption": "Mountain Rescue Station",
+      "key": "BUILDING_TYPE_MOUNTAIN_RESCUE",
+      "generates_mission_types": ["mountain"]
     }
   ],
   "awards": [
@@ -7579,6 +7683,42 @@
     {
       "id": 1117,
       "caption": "Missing Easter eggs"
+    },
+    {
+      "id": 1118,
+      "caption": "Skiing accidents"
+    },
+    {
+      "id": 1119,
+      "caption": "Hikers stranded on mountaintop"
+    },
+    {
+      "id": 1120,
+      "caption": "Small avalanche"
+    },
+    {
+      "id": 1121,
+      "caption": "Fall of serac"
+    },
+    {
+      "id": 1122,
+      "caption": "Hiker in distress due to bad weather conditions"
+    },
+    {
+      "id": 1123,
+      "caption": "Forest fire in high mountains"
+    },
+    {
+      "id": 1124,
+      "caption": "Mountainbiker hit a tree on a snow road"
+    },
+    {
+      "id": 1125,
+      "caption": "Moderate gravity avalanche"
+    },
+    {
+      "id": 1126,
+      "caption": "Climbing accidents"
     }
   ],
   "education_data": [
@@ -7845,6 +7985,18 @@
       "caption": "Critical Care",
       "duration": 432000,
       "education_key": "critical_care"
+    },
+    {
+      "id": 6,
+      "caption": "Mountain Rescue Certificate",
+      "duration": 432000,
+      "education_key": "mountain_rescue"
+    },
+    {
+      "id": 7,
+      "caption": "Mountain Dog Training",
+      "duration": 432000,
+      "education_key": "mountain_rescue_dogs"
     },
     {
       "id": 0,
