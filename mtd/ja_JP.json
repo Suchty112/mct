@@ -2416,6 +2416,11 @@
       "id": 132,
       "caption": "2026 イースターエッグ探し",
       "key": "AWARD_EASTER_MISSIONS_2026"
+    },
+    {
+      "id": 133,
+      "caption": "アライアンス・チャレンジ 2026年4月",
+      "key": "AWARD_ALLIANCE_CHALLENGE_APRIL_2026"
     }
   ],
   "filter_types": [
