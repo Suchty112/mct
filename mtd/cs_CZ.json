@@ -2712,6 +2712,11 @@
       "id": 145,
       "caption": "Hledač velikonočních vajíček 2026",
       "key": "AWARD_EASTER_MISSIONS_2026"
+    },
+    {
+      "id": 146,
+      "caption": "Alianční výzva duben 2026",
+      "key": "AWARD_ALLIANCE_CHALLENGE_APRIL_2026"
     }
   ],
   "filter_types": [
