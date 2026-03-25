@@ -2750,6 +2750,11 @@
       "id": 135,
       "caption": "Misiones del conejo de pascua 2026",
       "key": "AWARD_EASTER_MISSIONS_2026"
+    },
+    {
+      "id": 135,
+      "caption": "Reto de la Alianza Abril 2026",
+      "key": "AWARD_EASTER_MISSIONS_2026"
     }
   ],
   "filter_types": [
