@@ -2796,6 +2796,11 @@
       "id": 131,
       "caption": "Påskeegg-jeger 2026",
       "key": "AWARD_EASTER_MISSIONS_2026"
+    },
+    {
+      "id": 132,
+      "caption": "Allianseutfordringen April 2026",
+      "key": "AWARD_ALLIANCE_CHALLENGE_APRIL_2026"
     }
   ],
   "filter_types": [
