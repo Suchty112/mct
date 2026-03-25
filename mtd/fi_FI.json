@@ -2362,6 +2362,16 @@
       "id": 135,
       "caption": "Pääsiäistehtävät 2026",
       "key": "AWARD_EASTER_MISSIONS_2026"
+    },
+    {
+      "id": 136,
+      "caption": "Allianssin haaste huhtikuu 2026",
+      "key": "AWARD_ALLIANCE_CHALLENGE_APRIL_2026"
+    },
+    {
+      "id": 137,
+      "caption": "6. vuosipäivä",
+      "key": "AWARD_SIX_YEARS"
     }
   ],
   "filter_types": [
