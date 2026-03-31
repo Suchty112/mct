@@ -1846,6 +1846,54 @@
       "caption": "GOPR",
       "key": "BUILDING_TYPE_MOUNTAIN_RESCUE",
       "generates_mission_types": ["mountain"]
+    },
+    {
+      "id": 27,
+      "caption": "Przychodnia",
+      "key": "BUILDING_TYPE_CLINIC",
+      "extensions": [
+        {
+          "id": 0,
+          "caption": "Interna"
+        },
+        {
+          "id": 1,
+          "caption": "Chirurg ogólny"
+        },
+        {
+          "id": 2,
+          "caption": "Ginekologia"
+        },
+        {
+          "id": 3,
+          "caption": "Urologia"
+        },
+        {
+          "id": 4,
+          "caption": "Traumatologia"
+        },
+        {
+          "id": 5,
+          "caption": "Neurologia"
+        },
+        {
+          "id": 6,
+          "caption": "Neurochirurgia"
+        },
+        {
+          "id": 7,
+          "caption": "Kardiologia"
+        },
+        {
+          "id": 8,
+          "caption": "Kardiochirurgia"
+        },
+        {
+          "id": 9,
+          "caption": "Duży szpital"
+        }
+      ],
+      "generates_mission_types": ["ambulance"]
     }
   ],
   "awards": [
@@ -6149,6 +6197,26 @@
     {
       "id": 883,
       "caption": "Pożar w wieży kontroli"
+    },
+    {
+      "id": 884,
+      "caption": "Przewrócona ciężarówka z naczepą"
+    },
+    {
+      "id": 885,
+      "caption": "Masowe zdarzenie medyczne na dworcu kolejowym"
+    },
+    {
+      "id": 886,
+      "caption": "Przewóz pacjenta z samolotu"
+    },
+    {
+      "id": 887,
+      "caption": "Uraz spowodowany turbulencjami podczas lotu"
+    },
+    {
+      "id": 888,
+      "caption": "Wypadek podczas nurkowania"
     }
   ],
   "education_data": [
