@@ -801,6 +801,66 @@
       "type": "Integer"
     },
     {
+      "key": "wildfire_value",
+      "caption": null,
+      "type": "Integer"
+    },
+    {
+      "key": "wildfire_count",
+      "caption": "Požadován Záchranný útvar",
+      "type": "Integer"
+    },
+    {
+      "key": "need_wildfire_quad",
+      "caption": "Požadovaná hasičská čtyřkolka",
+      "type": "Integer"
+    },
+    {
+      "key": "fire_drone_count",
+      "caption": "Požadovaná Dronová služba HZS",
+      "type": "Integer"
+    },
+    {
+      "key": "need_wildfire_engine",
+      "caption": "Požadován CZS 40 \"Titan\"",
+      "type": "Integer"
+    },
+    {
+      "key": "need_fire_drone",
+      "caption": "Požadovaná Dronová služba HZS",
+      "type": "Integer"
+    },
+    {
+      "key": "fire_copter_station_count",
+      "caption": "Požadována Letecká základna HZS",
+      "type": "Integer"
+    },
+    {
+      "key": "heli_tank_count",
+      "caption": "Požadovaná Mobilní nádrž",
+      "type": "Integer"
+    },
+    {
+      "key": "need_helicopter_bucket",
+      "caption": "Požadovaný Bambi vak",
+      "type": "Integer"
+    },
+    {
+      "key": "need_wildfire_dozer",
+      "caption": "Požadovaný UDS",
+      "type": "Integer"
+    },
+    {
+      "key": "need_fire_aviation",
+      "caption": "Required airborne firefighting vehicles",
+      "type": "Integer"
+    },
+    {
+      "key": "helicopter_bucket_count",
+      "caption": "Požadovaný Bambi vak",
+      "type": "Integer"
+    },
+    {
       "key": "need_bomb_chance",
       "caption": "Pravděpodobnost, že bude potřeba Vozidlo pyrotechniků",
       "type": "Integer"
@@ -1068,6 +1128,36 @@
     {
       "key": "need_oneof_fire_engine_or_railway_fire_engine_large_chance",
       "caption": null,
+      "type": "Integer"
+    },
+    {
+      "key": "need_fire_drone_chance",
+      "caption": "Pravděpodobnost, že je požadována Dronová služba HZS",
+      "type": "Integer"
+    },
+    {
+      "key": "need_helicopter_bucket_chance",
+      "caption": "Probability of helicopter buckets being required",
+      "type": "Integer"
+    },
+    {
+      "key": "need_wildfire_quad_chance",
+      "caption": "Pravděpodobnost, že je požadována Hasičská čtyřkolka",
+      "type": "Integer"
+    },
+    {
+      "key": "need_wildfire_dozer_chance",
+      "caption": "Pravděpodobnost, že je vyžadován UDS",
+      "type": "Integer"
+    },
+    {
+      "key": "need_wildfire_engine_chance",
+      "caption": "Pravděpodobnost, že bude potřeba CZS 40 \"Titan\"",
+      "type": "Integer"
+    },
+    {
+      "key": "need_fire_aviation_chance",
+      "caption": "Probability of airborne firefighting vehicles",
       "type": "Integer"
     },
     {
@@ -1597,6 +1687,10 @@
         {
           "id": 18,
           "caption": "Železnice"
+        },
+        {
+          "id": 19,
+          "caption": "Záchranný útvar"
         }
       ],
       "generates_mission_types": ["fire"]
@@ -1990,6 +2084,11 @@
       "caption": "Horská záchranná stanice",
       "key": "BUILDING_TYPE_MOUNTAIN_RESCUE",
       "generates_mission_types": ["mountain"]
+    },
+    {
+      "id": 27,
+      "caption": "Letecká základna HZS",
+      "key": "BUILDING_TYPE_FEUERWEHRHUBSCHRAUBERLANDEPLATZ"
     }
   ],
   "awards": [
@@ -5737,6 +5836,102 @@
     {
       "id": 739,
       "caption": "Požár na řídicí věži"
+    },
+    {
+      "id": 740,
+      "caption": "Malý přírodní požár"
+    },
+    {
+      "id": 741,
+      "caption": "Střední přírodní požár"
+    },
+    {
+      "id": 742,
+      "caption": "Velký přírodní požár"
+    },
+    {
+      "id": 743,
+      "caption": "Rozsáhlý přírodní požár"
+    },
+    {
+      "id": 744,
+      "caption": "Malý lesní požár"
+    },
+    {
+      "id": 745,
+      "caption": "Střední lesní požár"
+    },
+    {
+      "id": 746,
+      "caption": "Velký lesní požár"
+    },
+    {
+      "id": 747,
+      "caption": "Rozsáhlý lesní požár"
+    },
+    {
+      "id": 748,
+      "caption": "Požár v kempu"
+    },
+    {
+      "id": 749,
+      "caption": "Požár chaty v kempu"
+    },
+    {
+      "id": 750,
+      "caption": "Dohašování malého přírodního požáru"
+    },
+    {
+      "id": 751,
+      "caption": "Dohašování středního přírodního požáru"
+    },
+    {
+      "id": 752,
+      "caption": "Dohašování velkého přírodního požáru"
+    },
+    {
+      "id": 753,
+      "caption": "Dohašování rozsáhlého přírodního požáru"
+    },
+    {
+      "id": 754,
+      "caption": "Děti zaseklé ve výtahu"
+    },
+    {
+      "id": 755,
+      "caption": "Zaměstnanec zaseklý v nákladním výtahu"
+    },
+    {
+      "id": 756,
+      "caption": "Lékař zaseklý v nemocničním výtahu"
+    },
+    {
+      "id": 757,
+      "caption": "Klaustrofobik zaseklý ve výtahu"
+    },
+    {
+      "id": 758,
+      "caption": "Nemohoucí senior za dveřmi bytu"
+    },
+    {
+      "id": 759,
+      "caption": "Zápach z bytu"
+    },
+    {
+      "id": 760,
+      "caption": "Kouř z bytu"
+    },
+    {
+      "id": 761,
+      "caption": "Teče voda z bytu"
+    },
+    {
+      "id": 762,
+      "caption": "Ozbrojená osoba v bytě"
+    },
+    {
+      "id": 763,
+      "caption": "Pomoc ZZS při snesení pacienta"
     }
   ],
   "education_data": [
@@ -5824,6 +6019,20 @@
       "caption": "Hasič - lezec",
       "duration": 604800,
       "education_key": "mountain_height_rescue"
+    },
+    {
+      "id": 14,
+      "caption": "Kvalifikace leteckého záchranáře",
+      "duration": 432000,
+      "education_key": "airborne_firefighting",
+      "date_start": "2025-03-10T10:00:00Z"
+    },
+    {
+      "id": 15,
+      "caption": "Hašení lesních požárů",
+      "duration": 432000,
+      "education_key": "wildfire",
+      "date_start": "2025-03-10T10:00:00Z"
     },
     {
       "id": 0,
