@@ -971,6 +971,11 @@
       "type": "Integer"
     },
     {
+      "key": "need_mountain_rescue_dogs",
+      "caption": "Required Mountain Dog",
+      "type": "Integer"
+    },
+    {
       "key": "need_mountain_snow",
       "caption": null,
       "type": "Integer"
@@ -991,13 +996,13 @@
       "type": "Integer"
     },
     {
-      "key": "need_mountain_rescue_dogs",
-      "caption": "Required Mountain Dog",
+      "key": "need_mountain_atv",
+      "caption": null,
       "type": "Integer"
     },
     {
-      "key": "need_mountain_atv",
-      "caption": null,
+      "key": "need_mountain_atv_tractive",
+      "caption": "Required ATV",
       "type": "Integer"
     },
     {
