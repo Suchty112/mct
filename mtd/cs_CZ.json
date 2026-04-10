@@ -5912,6 +5912,46 @@
     {
       "id": 763,
       "caption": "Pomoc ZZS při snesení pacienta"
+    },
+    {
+      "id": 764,
+      "caption": "Děti zaseklé ve výtahu"
+    },
+    {
+      "id": 765,
+      "caption": "Zaměstnanec zaseklý v nákladním výtahu"
+    },
+    {
+      "id": 766,
+      "caption": "Lékař zaseklý v nemocničním výtahu"
+    },
+    {
+      "id": 767,
+      "caption": "Klaustrofobik zaseklý ve výtahu"
+    },
+    {
+      "id": 768,
+      "caption": "Nemohoucí senior za dveřmi bytu"
+    },
+    {
+      "id": 769,
+      "caption": "Zápach z bytu"
+    },
+    {
+      "id": 770,
+      "caption": "Kouř z bytu"
+    },
+    {
+      "id": 771,
+      "caption": "Teče voda z bytu"
+    },
+    {
+      "id": 772,
+      "caption": "Ozbrojená osoba v bytě"
+    },
+    {
+      "id": 773,
+      "caption": "Pomoc ZZS při snesení pacienta"
     }
   ],
   "education_data": [
