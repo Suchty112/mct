@@ -826,6 +826,51 @@
       "type": "Integer"
     },
     {
+      "key": "bomb_disposal_count",
+      "caption": "Required Bomb Disposal HQ's",
+      "type": "Integer"
+    },
+    {
+      "key": "need_bomb_disposal_crew",
+      "caption": "Required EOD Response Vehicles",
+      "type": "Integer"
+    },
+    {
+      "key": "need_bomb_disposal_equipment",
+      "caption": "Required EOD Medium Equipment Vans",
+      "type": "Integer"
+    },
+    {
+      "key": "bomb_disposal_diver_count",
+      "caption": "Required Bomb Disposal Marine Unit Extensions",
+      "type": "Integer"
+    },
+    {
+      "key": "need_bomb_disposal_diver_crew",
+      "caption": "Required Marine EOD Response Vehicles",
+      "type": "Integer"
+    },
+    {
+      "key": "need_bomb_disposal_diver_equipment",
+      "caption": "Required Marine EOD Equipment Vans",
+      "type": "Integer"
+    },
+    {
+      "key": "need_drone",
+      "caption": "Required Drones",
+      "type": "Integer"
+    },
+    {
+      "key": "need_bomb_disposal_command",
+      "caption": "Required EOD Commanders",
+      "type": "Integer"
+    },
+    {
+      "key": "need_bomb_disposal_heavy_equipment",
+      "caption": "Required EOD Heavy Equipment Vehicles",
+      "type": "Integer"
+    },
+    {
       "key": "need_atv_carrier_chance",
       "caption": "Probability of ATV Carrier being required",
       "type": "Integer"
@@ -1046,11 +1091,6 @@
       "type": "Integer"
     },
     {
-      "key": "need_drone",
-      "caption": "Required Drones",
-      "type": "Integer"
-    },
-    {
       "key": "need_drone_chance",
       "caption": "Probability that Drone is required",
       "type": "Integer"
@@ -1203,6 +1243,36 @@
     {
       "key": "need_oneof_mountain_atv_or_search_and_rescue_atv_chance",
       "caption": null,
+      "type": "Integer"
+    },
+    {
+      "key": "need_bomb_disposal_command_chance",
+      "caption": "Probability that EOD Commander is required",
+      "type": "Integer"
+    },
+    {
+      "key": "need_bomb_disposal_crew_chance",
+      "caption": "Probability that EOD Response Vehicle is required",
+      "type": "Integer"
+    },
+    {
+      "key": "need_bomb_disposal_equipment_chance",
+      "caption": "Probability that EOD Medium Equipment Van is required",
+      "type": "Integer"
+    },
+    {
+      "key": "need_bomb_disposal_heavy_equipment_chance",
+      "caption": "Probability that EOD Heavy Equipment Vehicle is required",
+      "type": "Integer"
+    },
+    {
+      "key": "need_bomb_disposal_diver_crew_chance",
+      "caption": "Probability that Marine EOD Response Vehicles is required",
+      "type": "Integer"
+    },
+    {
+      "key": "need_bomb_disposal_diver_equipment_chance",
+      "caption": "Probability that Marine EOD Equipment Van is required",
       "type": "Integer"
     },
     {
@@ -2527,6 +2597,18 @@
         }
       ],
       "generates_mission_types": ["tow_trucks"]
+    },
+    {
+      "id": 35,
+      "caption": "Bomb Disposal HQ",
+      "key": "BUILDING_TYPE_BOMB_DISPOSAL",
+      "extensions": [
+        {
+          "id": 0,
+          "caption": "Marine Unit"
+        }
+      ],
+      "generates_mission_types": ["bomb_disposal"]
     }
   ],
   "awards": [
@@ -3252,6 +3334,10 @@
     {
       "key": "mountain_missions",
       "caption": "Mountain Rescue"
+    },
+    {
+      "key": "bomb_disposal_missions",
+      "caption": "Bomb Disposal HQ"
     }
   ],
   "existing_mission_captions": [
@@ -6570,6 +6656,50 @@
     {
       "id": 828,
       "caption": "Party centre on fire"
+    },
+    {
+      "id": 829,
+      "caption": "Unexploded WW2 Ordnance in Countryside"
+    },
+    {
+      "id": 830,
+      "caption": "Unexploded WW2 Ordnance on Quiet Beach"
+    },
+    {
+      "id": 831,
+      "caption": "Unexploded WW2 Ordnance on Busy Beach"
+    },
+    {
+      "id": 832,
+      "caption": "Unexploded WW2 Ordnance in Harbour"
+    },
+    {
+      "id": 833,
+      "caption": "Unexploded WW2 Ordnance in Marina"
+    },
+    {
+      "id": 834,
+      "caption": "Unexploded WW2 Ordnance Discovered at Small Train Station"
+    },
+    {
+      "id": 835,
+      "caption": "Unexploded WW2 Ordnance Discovered at Large Train Station"
+    },
+    {
+      "id": 836,
+      "caption": "Unexploded WW2 Grenade Located in Shed"
+    },
+    {
+      "id": 837,
+      "caption": "Unexploded WW2 Grenade Located in Loft"
+    },
+    {
+      "id": 838,
+      "caption": "Unexploded WW2 Bomb Located at Building Site (Small)"
+    },
+    {
+      "id": 839,
+      "caption": "Unexploded WW2 Bomb Located at Building Site (Large)"
     }
   ],
   "education_data": [
@@ -6718,6 +6848,24 @@
       "caption": "Mobile Operations Management",
       "duration": 432000,
       "education_key": "railway_police_command"
+    },
+    {
+      "id": 14,
+      "caption": "Bomb Disposal",
+      "duration": 259200,
+      "education_key": "bomb_disposal"
+    },
+    {
+      "id": 15,
+      "caption": "Marine Bomb Disposal",
+      "duration": 259200,
+      "education_key": "bomb_disposal_diver"
+    },
+    {
+      "id": 16,
+      "caption": "EOD Commander",
+      "duration": 432000,
+      "education_key": "bomb_disposal_command"
     },
     {
       "id": 0,
