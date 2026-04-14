@@ -2516,6 +2516,10 @@
     {
       "key": "mountain_missions",
       "caption": "Mountain Rescue"
+    },
+    {
+      "key": "bomb_disposal_missions",
+      "caption": "EOD HK"
     }
   ],
   "existing_mission_captions": [
