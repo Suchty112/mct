@@ -496,6 +496,16 @@
       "type": "Integer"
     },
     {
+      "key": "fire_support_count",
+      "caption": "Påkrævede brand udvidelse",
+      "type": "Integer"
+    },
+    {
+      "key": "need_foam",
+      "caption": "Påkrævet skum Tender",
+      "type": "Integer"
+    },
+    {
       "key": "ocean_value",
       "caption": null,
       "type": "Integer"
@@ -564,16 +574,6 @@
       "key": "required_personnel_educations",
       "caption": "Nødvendigt personale",
       "type": "Unknown"
-    },
-    {
-      "key": "fire_support_count",
-      "caption": "Påkrævede brand udvidelse",
-      "type": "Integer"
-    },
-    {
-      "key": "need_foam",
-      "caption": "Påkrævet skum Tender",
-      "type": "Integer"
     },
     {
       "key": "need_pump",
@@ -683,6 +683,46 @@
     {
       "key": "need_streifenwagen_chance",
       "caption": "Sandsynlighed for nødvendighed af politibil",
+      "type": "Integer"
+    },
+    {
+      "key": "bomb_disposal_count",
+      "caption": "Påkrævet EOD HK",
+      "type": "Integer"
+    },
+    {
+      "key": "need_bomb_disposal_command",
+      "caption": "Påkrævet EOD-leder",
+      "type": "Integer"
+    },
+    {
+      "key": "need_bomb_disposal_crew",
+      "caption": "Påkrævet EOD-udrykningskøretøj",
+      "type": "Integer"
+    },
+    {
+      "key": "need_bomb_disposal_equipment",
+      "caption": "Påkrævet EOD-sprængningsvogn",
+      "type": "Integer"
+    },
+    {
+      "key": "bomb_disposal_diver_count",
+      "caption": "Påkrævet Flådens EOD ",
+      "type": "Integer"
+    },
+    {
+      "key": "need_bomb_disposal_diver_crew",
+      "caption": "Påkrævet EOD-dykkerkøretøj",
+      "type": "Integer"
+    },
+    {
+      "key": "need_bomb_disposal_diver_equipment",
+      "caption": "Påkrævet Marine EOD-køretøj",
+      "type": "Integer"
+    },
+    {
+      "key": "need_bomb_drone",
+      "caption": "Påkrævet EOD-drone",
       "type": "Integer"
     },
     {
@@ -873,6 +913,36 @@
     {
       "key": "need_car_carrier_large_chance",
       "caption": "Chance for sværvogn påkrævet",
+      "type": "Integer"
+    },
+    {
+      "key": "need_bomb_disposal_command_chance",
+      "caption": "Chance for EOD-leder påkrævet",
+      "type": "Integer"
+    },
+    {
+      "key": "need_bomb_disposal_crew_chance",
+      "caption": null,
+      "type": "Integer"
+    },
+    {
+      "key": "need_bomb_disposal_equipment_chance",
+      "caption": "Chance for EOD-sprængningsvogn påkrævet",
+      "type": "Integer"
+    },
+    {
+      "key": "need_bomb_drone_chance",
+      "caption": "Chance for EOD-drone påkrævet",
+      "type": "Integer"
+    },
+    {
+      "key": "need_bomb_disposal_diver_crew_chance",
+      "caption": "Chance for EOD-dykkerkøretøj påkrævet",
+      "type": "Integer"
+    },
+    {
+      "key": "need_bomb_disposal_diver_equipment_chance",
+      "caption": "Chance for Marine EOD-køretøj påkrævet",
       "type": "Integer"
     },
     {
@@ -1726,6 +1796,18 @@
         }
       ],
       "generates_mission_types": ["tow_trucks"]
+    },
+    {
+      "id": 27,
+      "caption": "EOD HK",
+      "key": "BUILDING_TYPE_BOMB_DISPOSAL",
+      "extensions": [
+        {
+          "id": 0,
+          "caption": "Flådens EOD Udvidelse"
+        }
+      ],
+      "generates_mission_types": ["bomb_disposal"]
     }
   ],
   "awards": [
@@ -5470,6 +5552,42 @@
     {
       "id": 736,
       "caption": "Batteri til elbil i flammer"
+    },
+    {
+      "id": 737,
+      "caption": "Gammel ammunition fundet"
+    },
+    {
+      "id": 738,
+      "caption": "Gammel ammunition fundet i sø"
+    },
+    {
+      "id": 739,
+      "caption": "Gammel ammunition fundet i havn"
+    },
+    {
+      "id": 740,
+      "caption": "Gammel ammunition fundet på loft"
+    },
+    {
+      "id": 741,
+      "caption": "Gammel ammunition fundet i kælder"
+    },
+    {
+      "id": 742,
+      "caption": "Gammel ammunition fundet i kælder"
+    },
+    {
+      "id": 743,
+      "caption": "Mistænkelig genstand fundet på havn"
+    },
+    {
+      "id": 744,
+      "caption": "Mistænkelig genstand fundet i station"
+    },
+    {
+      "id": 745,
+      "caption": "Destruktion af ulovligt fyrværkeri"
     }
   ],
   "education_data": [
@@ -5575,6 +5693,30 @@
       "caption": "Politihest uddannelse",
       "duration": 345600,
       "education_key": "police_horse"
+    },
+    {
+      "id": 7,
+      "caption": "EOD-uddannelse",
+      "duration": 259200,
+      "education_key": "bomb_disposal"
+    },
+    {
+      "id": 8,
+      "caption": "EOD-leder uddannelse",
+      "duration": 432000,
+      "education_key": "bomb_disposal_command"
+    },
+    {
+      "id": 9,
+      "caption": "Droneoperatør uddannelse",
+      "duration": 432000,
+      "education_key": "bomb_drone"
+    },
+    {
+      "id": 10,
+      "caption": "EOD-dykker uddannelse",
+      "duration": 259200,
+      "education_key": "bomb_disposal_diver"
     },
     {
       "id": 0,
