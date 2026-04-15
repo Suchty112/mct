@@ -977,7 +977,7 @@
     },
     {
       "key": "need_mountain_snow",
-      "caption": null,
+      "caption": "Required Snow Trailer",
       "type": "Integer"
     },
     {
@@ -997,17 +997,12 @@
     },
     {
       "key": "need_mountain_atv",
-      "caption": null,
+      "caption": "Required ATV Trailer",
       "type": "Integer"
     },
     {
       "key": "need_mountain_atv_tractive",
       "caption": "Required ATV",
-      "type": "Integer"
-    },
-    {
-      "key": "critical_care_quote",
-      "caption": "Critical Care quote",
       "type": "Integer"
     },
     {
@@ -1262,7 +1257,7 @@
     },
     {
       "key": "need_mountain_atv_chance",
-      "caption": null,
+      "caption": "Probability that ATV Trailer is required",
       "type": "Integer"
     },
     {
@@ -1277,7 +1272,7 @@
     },
     {
       "key": "need_mountain_snow_chance",
-      "caption": null,
+      "caption": "Probability that Snow Trailer is required",
       "type": "Integer"
     },
     {
@@ -1288,6 +1283,11 @@
     {
       "key": "need_mountain_lift_2_chance",
       "caption": "Probability that  Litter is required",
+      "type": "Integer"
+    },
+    {
+      "key": "need_mountain_atv_tractive_chance",
+      "caption": "Probability that ATV is required",
       "type": "Integer"
     },
     {
