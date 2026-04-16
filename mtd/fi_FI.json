@@ -5364,6 +5364,14 @@
     {
       "id": 736,
       "caption": "200 Sähköauton akku palaa"
+    },
+    {
+      "id": 737,
+      "caption": "Henkilö jumissa ajoneuvon alla"
+    },
+    {
+      "id": 738,
+      "caption": "Savua yrityksen tiloista"
     }
   ],
   "education_data": [
