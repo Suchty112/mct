@@ -6201,6 +6201,14 @@
     {
       "id": 889,
       "caption": "Pożar akumulatora samochodu elektrycznego"
+    },
+    {
+      "id": 890,
+      "caption": "Osoba uwięziona pod pojazdem"
+    },
+    {
+      "id": 891,
+      "caption": "Dym wydobywający się z terenu firmy"
     }
   ],
   "education_data": [
