@@ -263,7 +263,7 @@
     {
       "key": "patient_modus",
       "caption": null,
-      "type": "Integer"
+      "type": "Unknown"
     },
     {
       "key": "task_tag",
@@ -726,6 +726,11 @@
       "type": "Integer"
     },
     {
+      "key": "need_lf_chance",
+      "caption": "Sandsynlighed for anmodning om brandbil",
+      "type": "Integer"
+    },
+    {
       "key": "need_arff_chance",
       "caption": "Chance for Crash Tender påkrævet",
       "type": "Integer"
@@ -778,11 +783,6 @@
     {
       "key": "need_k9_chance",
       "caption": "Sandsynlighed for nødvendighed af hundepatrulje",
-      "type": "Integer"
-    },
-    {
-      "key": "need_lf_chance",
-      "caption": "Sandsynlighed for anmodning om brandbil",
       "type": "Integer"
     },
     {
@@ -5588,6 +5588,18 @@
     {
       "id": 745,
       "caption": "Destruktion af ulovligt fyrværkeri"
+    },
+    {
+      "id": 746,
+      "caption": "Mistænkelig genstand fundet i offentlig bygning"
+    },
+    {
+      "id": 747,
+      "caption": "Ueksploderet ammunition fra Anden Verdenskrig"
+    },
+    {
+      "id": 748,
+      "caption": "Gruppe ramt af lyn"
     }
   ],
   "education_data": [
