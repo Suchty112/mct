@@ -1828,7 +1828,7 @@
           "caption": "Railway fire response"
         }
       ],
-      "generates_mission_types": ["fire"]
+      "generates_mission_types": ["fire", "bomb_disposal"]
     },
     {
       "id": 1,
@@ -2607,8 +2607,7 @@
           "id": 0,
           "caption": "Marine Unit"
         }
-      ],
-      "generates_mission_types": ["bomb_disposal"]
+      ]
     }
   ],
   "awards": [
