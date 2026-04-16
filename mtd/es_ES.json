@@ -5591,6 +5591,14 @@
     {
       "id": 698,
       "caption": "La batería del coche eléctrico está ardiendo"
+    },
+    {
+      "id": 699,
+      "caption": "Persona atrapada debajo de un vehículo"
+    },
+    {
+      "id": 700,
+      "caption": "Humo saliendo de las instalaciones de la empresa"
     }
   ],
   "education_data": [
