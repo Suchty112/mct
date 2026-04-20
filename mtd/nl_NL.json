@@ -11,9 +11,9 @@
       "type": "String"
     },
     {
-      "key": "mission_generation_types",
-      "caption": "Incident keuze",
-      "type": "Set"
+      "key": "credits",
+      "caption": "Gemiddeld aantal Credits",
+      "type": "Integer"
     },
     {
       "key": "fire_value",
@@ -21,24 +21,9 @@
       "type": "Integer"
     },
     {
-      "key": "credits",
-      "caption": "Gemiddeld aantal Credits",
-      "type": "Integer"
-    },
-    {
       "key": "feuerwache_count",
       "caption": "Benodigde brandweerposten",
       "type": "Integer"
-    },
-    {
-      "key": "poi_type",
-      "caption": "Point of Interest",
-      "type": "Unknown"
-    },
-    {
-      "key": "icon",
-      "caption": "Icon",
-      "type": "String"
     },
     {
       "key": "main_building",
@@ -48,6 +33,21 @@
     {
       "key": "filter_id",
       "caption": null,
+      "type": "String"
+    },
+    {
+      "key": "mission_generation_types",
+      "caption": "Incident keuze",
+      "type": "Set"
+    },
+    {
+      "key": "poi_type",
+      "caption": "Point of Interest",
+      "type": "Unknown"
+    },
+    {
+      "key": "icon",
+      "caption": "Icon",
       "type": "String"
     },
     {
@@ -141,16 +141,6 @@
       "type": "Integer"
     },
     {
-      "key": "subsequent_missions",
-      "caption": "Vervolginzet",
-      "type": "Unknown"
-    },
-    {
-      "key": "subsequent_missions_probabilities",
-      "caption": null,
-      "type": "Unknown"
-    },
-    {
       "key": "water_needed",
       "caption": "Water Benodigd",
       "type": "Integer"
@@ -176,6 +166,11 @@
       "type": "Unknown"
     },
     {
+      "key": "transport_need_quote",
+      "caption": "Waarschijnlijkheid dat een patiënt getransporteerd moet worden",
+      "type": "Integer"
+    },
+    {
       "key": "need_gwa",
       "caption": "Benodigde Adembeschermingsvoertuigen",
       "type": "Integer"
@@ -193,11 +188,6 @@
     {
       "key": "need_elw2_chance",
       "caption": "HOVD benodigd waarschijnlijkheid",
-      "type": "Integer"
-    },
-    {
-      "key": "transport_need_quote",
-      "caption": "Waarschijnlijkheid dat een patiënt getransporteerd moet worden",
       "type": "Integer"
     },
     {
@@ -494,6 +484,16 @@
       "key": "need_ovdp_chance",
       "caption": "Officier van Dienst Politie benodigd waarschijnlijkheid",
       "type": "Integer"
+    },
+    {
+      "key": "subsequent_missions",
+      "caption": "Vervolginzet",
+      "type": "Unknown"
+    },
+    {
+      "key": "subsequent_missions_probabilities",
+      "caption": null,
+      "type": "Unknown"
     },
     {
       "key": "ktw_value",
@@ -3052,7 +3052,7 @@
   "existing_mission_captions": [
     {
       "id": 0,
-      "caption": "Brandende afvalbak"
+      "caption": "Brandende afvalbak bij bushalte"
     },
     {
       "id": 1,
@@ -3192,7 +3192,7 @@
     },
     {
       "id": 35,
-      "caption": "Brand in ziekenhuis"
+      "caption": "Brand in ziekenhuis (Middel)"
     },
     {
       "id": 36,
@@ -3200,7 +3200,7 @@
     },
     {
       "id": 37,
-      "caption": "Brandende afvalbak"
+      "caption": "Brandende afvalbak bij tramhalte"
     },
     {
       "id": 38,
@@ -3208,11 +3208,11 @@
     },
     {
       "id": 39,
-      "caption": "Brandende afvalbak"
+      "caption": "Brandende afvalbak bij centraal station"
     },
     {
       "id": 40,
-      "caption": "Brandende afvalbak"
+      "caption": "Brandende afvalbak bij ziekenhuis"
     },
     {
       "id": 41,
@@ -3680,11 +3680,11 @@
     },
     {
       "id": 157,
-      "caption": "Brand in ziekenhuis"
+      "caption": "Brand in ziekenhuis (Groot)"
     },
     {
       "id": 158,
-      "caption": "Brand in ziekenhuis"
+      "caption": "Brand in ziekenhuis (Klein)"
     },
     {
       "id": 159,
@@ -6876,7 +6876,7 @@
     },
     {
       "id": 956,
-      "caption": "Brand in station"
+      "caption": "Brand in station (Klein)"
     },
     {
       "id": 957,
@@ -7853,6 +7853,34 @@
     {
       "id": 1200,
       "caption": "Rellen tijdens voetbal wedstrijd"
+    },
+    {
+      "id": 1201,
+      "caption": "Drone neergeschoten"
+    },
+    {
+      "id": 1202,
+      "caption": "Brand in ziekenhuis (Grip 1)"
+    },
+    {
+      "id": 1203,
+      "caption": "Brand in ziekenhuis (Grip 2)"
+    },
+    {
+      "id": 1204,
+      "caption": "Brand in station (Middel)"
+    },
+    {
+      "id": 1205,
+      "caption": "Brand in station (Groot)"
+    },
+    {
+      "id": 1206,
+      "caption": "Brand in station (Grip 1)"
+    },
+    {
+      "id": 1207,
+      "caption": "Brand in station (Grip 2)"
     }
   ],
   "education_data": [
