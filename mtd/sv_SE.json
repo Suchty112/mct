@@ -731,6 +731,41 @@
       "type": "Integer"
     },
     {
+      "key": "mountain_value",
+      "caption": null,
+      "type": "Integer"
+    },
+    {
+      "key": "mountain_rescue_count",
+      "caption": "Fjällräddningen krävs",
+      "type": "Integer"
+    },
+    {
+      "key": "mountain_cave_count",
+      "caption": "Grotträddare krävs",
+      "type": "Integer"
+    },
+    {
+      "key": "need_mountain_height_rescue",
+      "caption": "SUV krävs",
+      "type": "Integer"
+    },
+    {
+      "key": "need_mountain_cave_command",
+      "caption": "Grotträddare krävs",
+      "type": "Integer"
+    },
+    {
+      "key": "need_mountain_snow",
+      "caption": "Snöskoter krävs",
+      "type": "Integer"
+    },
+    {
+      "key": "need_mountain_rescue_dogs",
+      "caption": "Fjällräddarhund krävs",
+      "type": "Integer"
+    },
+    {
       "key": "need_arff_chance",
       "caption": "Sannolikhet för att Haveribil behövs",
       "type": "Integer"
@@ -893,6 +928,26 @@
     {
       "key": "need_search_and_rescue_helicopter_chance",
       "caption": "Sannolikhet att SAR-helikopter behövs",
+      "type": "Integer"
+    },
+    {
+      "key": "need_mountain_snow_chance",
+      "caption": "Sannolikhet att Snöskoter krävs",
+      "type": "Integer"
+    },
+    {
+      "key": "need_mountain_rescue_dogs_chance",
+      "caption": "Sannolikhet att Fjällräddarhund krävs",
+      "type": "Integer"
+    },
+    {
+      "key": "need_mountain_cave_command_chance",
+      "caption": "Sannolikhet att Grottfjällräddare krävs",
+      "type": "Integer"
+    },
+    {
+      "key": "need_mountain_height_rescue_chance",
+      "caption": "Sannolikhet att SUV krävs",
       "type": "Integer"
     },
     {
@@ -1258,6 +1313,22 @@
     {
       "id": 79,
       "caption": "Oil Rig"
+    },
+    {
+      "id": 80,
+      "caption": "Vandringsled"
+    },
+    {
+      "id": 81,
+      "caption": "Fjällstig"
+    },
+    {
+      "id": 82,
+      "caption": "Klätterled"
+    },
+    {
+      "id": 83,
+      "caption": "Grotta"
     }
   ],
   "available_icons": [
@@ -1303,7 +1374,8 @@
     "cuffs",
     "flood",
     "lightningStrike",
-    "bridge"
+    "bridge",
+    "hiking"
   ],
   "building_types": [
     {
@@ -1842,6 +1914,18 @@
       "caption": "Kustnära volontärgrupper",
       "key": "BUILDING_TYPE_COASTAL_RESCUE_SMALL",
       "generates_mission_types": ["coastal_rescue"]
+    },
+    {
+      "id": 29,
+      "caption": "Fjällräddningen",
+      "key": "BUILDING_TYPE_MOUNTAIN_RESCUE",
+      "extensions": [
+        {
+          "id": 0,
+          "caption": "Grotträddare"
+        }
+      ],
+      "generates_mission_types": ["mountain"]
     }
   ],
   "awards": [
@@ -5464,6 +5548,46 @@
     {
       "id": 719,
       "caption": "Rök från företagets lokaler"
+    },
+    {
+      "id": 720,
+      "caption": "Turister gick vilse i grottor"
+    },
+    {
+      "id": 721,
+      "caption": "Vandrare strandsatta på bergstopp"
+    },
+    {
+      "id": 722,
+      "caption": "Liten lavin"
+    },
+    {
+      "id": 723,
+      "caption": "Seracras"
+    },
+    {
+      "id": 724,
+      "caption": "Vandrare i nöd på grund av dåligt väder"
+    },
+    {
+      "id": 725,
+      "caption": "Måttlig lavin"
+    },
+    {
+      "id": 726,
+      "caption": "Säkringsfel under firning"
+    },
+    {
+      "id": 727,
+      "caption": "Tonåring fast i ett litet grottsystem"
+    },
+    {
+      "id": 728,
+      "caption": "Försenade vandrare"
+    },
+    {
+      "id": 729,
+      "caption": "Stenras över klättrare"
     }
   ],
   "education_data": [
@@ -5592,6 +5716,27 @@
       "caption": "MC-Ambulans",
       "duration": 259200,
       "education_key": "rapid_response_motorcycle"
+    },
+    {
+      "id": 2,
+      "caption": "Fjällräddningscertifikat",
+      "duration": 432000,
+      "education_key": "mountain_rescue",
+      "date_start": "2026-04-21T11:00:00Z"
+    },
+    {
+      "id": 3,
+      "caption": "Certifikat för grottfjällräddning",
+      "duration": 432000,
+      "education_key": "mountain_cave_rescue",
+      "date_start": "2026-04-21T11:00:00Z"
+    },
+    {
+      "id": 4,
+      "caption": "Träning av fjällräddningshundar",
+      "duration": 432000,
+      "education_key": "mountain_rescue_dogs",
+      "date_start": "2026-04-21T11:00:00Z"
     },
     {
       "id": 0,
