@@ -831,6 +831,36 @@
       "type": "Integer"
     },
     {
+      "key": "mountain_value",
+      "caption": null,
+      "type": "Integer"
+    },
+    {
+      "key": "mountain_rescue_count",
+      "caption": "Fjellredningsstasjon kreves",
+      "type": "Integer"
+    },
+    {
+      "key": "need_rescue_coordinator",
+      "caption": "Fjellredningskoordinator kreves",
+      "type": "Integer"
+    },
+    {
+      "key": "need_oneof_mountain_atv_or_mountain_command",
+      "caption": "Kräver terränghjuling för fjällräddning eller fjällräddningsledning",
+      "type": "Integer"
+    },
+    {
+      "key": "need_mountain_rescue_dogs",
+      "caption": "Fjellredningshunder kreves",
+      "type": "Integer"
+    },
+    {
+      "key": "mountain_paramedic_count",
+      "caption": "Fjellambulansearbeider kreves",
+      "type": "Integer"
+    },
+    {
       "key": "need_boot_chance",
       "caption": "Sannsynlighet for at lett redningsbåt trengs:",
       "type": "Integer"
@@ -1076,6 +1106,56 @@
       "type": "Integer"
     },
     {
+      "key": "need_mountain_atv",
+      "caption": "ATV kreves",
+      "type": "Integer"
+    },
+    {
+      "key": "need_mountain_atv_chance",
+      "caption": "Sannsynlighet for at ATV kreves",
+      "type": "Integer"
+    },
+    {
+      "key": "need_rescue_coordinator_chance",
+      "caption": "Sannsynlighet for at Fjellredningskoordinator kreves",
+      "type": "Integer"
+    },
+    {
+      "key": "need_mountain_rescue_dogs_chance",
+      "caption": "Sannsynlighet for at Fjellredningsenhet kreves",
+      "type": "Integer"
+    },
+    {
+      "key": "need_mountain_command",
+      "caption": "Fjellredningskommando kreves",
+      "type": "Integer"
+    },
+    {
+      "key": "need_mountain_command_chance",
+      "caption": "Sannsynlighet for at Fjellredningskommando kreves",
+      "type": "Integer"
+    },
+    {
+      "key": "need_mountain_height_rescue",
+      "caption": "Klatreutstyr kreves",
+      "type": "Integer"
+    },
+    {
+      "key": "need_mountain_height_rescue_chance",
+      "caption": "Sannsynlighet for Klatreutstyr at kreves",
+      "type": "Integer"
+    },
+    {
+      "key": "need_mountain_paramedic",
+      "caption": "Fjellambulansearbeider kreves",
+      "type": "Integer"
+    },
+    {
+      "key": "need_mountain_paramedic_chance",
+      "caption": "Sannsynlighet for at Fjellambulansearbeider kreves",
+      "type": "Integer"
+    },
+    {
       "key": "need_oneof_fire_engine_or_rescue_or_ladder_chance",
       "caption": null,
       "type": "Integer"
@@ -1098,6 +1178,11 @@
     {
       "key": "need_oneof_fire_engine_or_airport_fire_engine_large_chance",
       "caption": null,
+      "type": "Integer"
+    },
+    {
+      "key": "need_oneof_mountain_atv_or_mountain_command_chance",
+      "caption": "Sannolikhet att terränghjuling för fjällräddning eller fjällräddningsledning krävs",
       "type": "Integer"
     },
     {
@@ -1454,6 +1539,18 @@
     {
       "id": 83,
       "caption": "Hangar"
+    },
+    {
+      "id": 84,
+      "caption": "Tursti"
+    },
+    {
+      "id": 85,
+      "caption": "Fjellsti"
+    },
+    {
+      "id": 86,
+      "caption": "Klatrerute"
     }
   ],
   "available_icons": [
@@ -1498,7 +1595,8 @@
     "tornado",
     "bus",
     "lightningStrike",
-    "bridge"
+    "bridge",
+    "hiking"
   ],
   "building_types": [
     {
@@ -2124,6 +2222,12 @@
         }
       ],
       "generates_mission_types": ["tow_trucks"]
+    },
+    {
+      "id": 35,
+      "caption": "Fjellredningsstasjon",
+      "key": "BUILDING_TYPE_MOUNTAIN_RESCUE",
+      "generates_mission_types": ["mountain"]
     }
   ],
   "awards": [
@@ -5736,7 +5840,7 @@
     },
     {
       "id": 723,
-      "caption": "Empty Commercial Plane Fire"
+      "caption": "Tomt brann i kommersielt fly"
     },
     {
       "id": 724,
@@ -5748,15 +5852,15 @@
     },
     {
       "id": 726,
-      "caption": "Tanker Truck Explosion (Medium)"
+      "caption": "Tankbileksplosjon (Medium)"
     },
     {
       "id": 727,
-      "caption": "Tanker Truck Explosion (Large)"
+      "caption": "Tankbileksplosjon (Stor)"
     },
     {
       "id": 728,
-      "caption": "Tanker Truck Explosion (Major)"
+      "caption": "Tankbileksplosjon (Major)"
     },
     {
       "id": 729,
@@ -5845,6 +5949,38 @@
     {
       "id": 750,
       "caption": "Røyk fra bedriftens lokaler"
+    },
+    {
+      "id": 751,
+      "caption": "Sikringssvikt under rappellering"
+    },
+    {
+      "id": 752,
+      "caption": "Tenåring fanget i et lite grottesystem"
+    },
+    {
+      "id": 753,
+      "caption": "Fall under fjelløping"
+    },
+    {
+      "id": 754,
+      "caption": "Savnet turgåere"
+    },
+    {
+      "id": 755,
+      "caption": "SOS-lyssignal observert på hedeland"
+    },
+    {
+      "id": 756,
+      "caption": "Hjertestans under tur"
+    },
+    {
+      "id": 757,
+      "caption": "Steinras over klatrere"
+    },
+    {
+      "id": 758,
+      "caption": "Amatørutforskere fanget i en forlatt gruvesjakt"
     }
   ],
   "education_data": [
@@ -6067,6 +6203,27 @@
       "caption": "Intensivbehandling",
       "duration": 432000,
       "education_key": "critical_care"
+    },
+    {
+      "id": 3,
+      "caption": "Fjellredningssertifikat",
+      "duration": 432000,
+      "education_key": "mountain_rescue",
+      "date_start": "2026-04-21T11:00:00Z"
+    },
+    {
+      "id": 4,
+      "caption": "Trening av fjellredningshunder",
+      "duration": 432000,
+      "education_key": "mountain_rescue_dogs",
+      "date_start": "2026-04-21T11:00:00Z"
+    },
+    {
+      "id": 5,
+      "caption": "Trening for redningskoordinator",
+      "duration": 432000,
+      "education_key": "rescue_coordinator",
+      "date_start": "2026-04-21T11:00:00Z"
     }
   ]
 }
