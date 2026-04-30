@@ -3141,6 +3141,16 @@
       "id": 142,
       "caption": "Alliance Challenge April 2026",
       "key": "AWARD_ALLIANCE_CHALLENGE_APRIL_2026"
+    },
+    {
+      "id": 143,
+      "caption": "Mother's-Day missions 2026",
+      "key": "AWARD_MOTHERS_DAY_MISSIONS_2026"
+    },
+    {
+      "id": 144,
+      "caption": "Alliance Challenge May 2026",
+      "key": "AWARD_ALLIANCE_CHALLENGE_MAY_2026"
     }
   ],
   "filter_types": [
