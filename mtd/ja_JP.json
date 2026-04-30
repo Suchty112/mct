@@ -2401,6 +2401,16 @@
       "id": 133,
       "caption": "アライアンス・チャレンジ 2026年4月",
       "key": "AWARD_ALLIANCE_CHALLENGE_APRIL_2026"
+    },
+    {
+      "id": 134,
+      "caption": "マザーズデー ミッション 2026",
+      "key": "AWARD_MOTHERS_DAY_MISSIONS_2026"
+    },
+    {
+      "id": 135,
+      "caption": "アライアンス・チャレンジ 2026年5月",
+      "key": "AWARD_ALLIANCE_CHALLENGE_MAY_2026"
     }
   ],
   "filter_types": [
