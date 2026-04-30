@@ -3275,6 +3275,11 @@
       "id": 134,
       "caption": "Alliance Challenge April 2026",
       "key": "AWARD_ALLIANCE_CHALLENGE_APRIL_2026"
+    },
+    {
+      "id": 135,
+      "caption": "Alliance Challenge May 2026",
+      "key": "AWARD_ALLIANCE_CHALLENGE_MAY_2026"
     }
   ],
   "filter_types": [
