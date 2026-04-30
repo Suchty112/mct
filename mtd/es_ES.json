@@ -2735,6 +2735,11 @@
       "id": 135,
       "caption": "Reto de la Alianza Abril 2026",
       "key": "AWARD_EASTER_MISSIONS_2026"
+    },
+    {
+      "id": 136,
+      "caption": "Reto de la Alianza Mayo 2026",
+      "key": "AWARD_ALLIANCE_CHALLENGE_APRIL_2026"
     }
   ],
   "filter_types": [
