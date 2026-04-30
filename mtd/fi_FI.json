@@ -2352,6 +2352,16 @@
       "id": 137,
       "caption": "6. vuosipäivä",
       "key": "AWARD_SIX_YEARS"
+    },
+    {
+      "id": 138,
+      "caption": "Äitienpäivän tehtävät 2026",
+      "key": "AWARD_MOTHERS_DAY_MISSIONS_2026"
+    },
+    {
+      "id": 139,
+      "caption": "Allianssin haaste toukokuu 2026",
+      "key": "AWARD_ALLIANCE_CHALLENGE_MAY_2026"
     }
   ],
   "filter_types": [
