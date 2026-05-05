@@ -1670,6 +1670,54 @@
           "caption": "Lisäluokkahuone"
         }
       ]
+    },
+    {
+      "id": 28,
+      "caption": "Terveyskeskus",
+      "key": "BUILDING_TYPE_CLINIC",
+      "extensions": [
+        {
+          "id": 0,
+          "caption": "Yleislääkäri"
+        },
+        {
+          "id": 1,
+          "caption": "Yleiskirurgi"
+        },
+        {
+          "id": 2,
+          "caption": "Gynekologia"
+        },
+        {
+          "id": 3,
+          "caption": "Urologia"
+        },
+        {
+          "id": 4,
+          "caption": "Traumatologia"
+        },
+        {
+          "id": 5,
+          "caption": "Neurologia"
+        },
+        {
+          "id": 6,
+          "caption": "Aivokirurgia"
+        },
+        {
+          "id": 7,
+          "caption": "Kardiologia"
+        },
+        {
+          "id": 8,
+          "caption": "Sydänleikkaus"
+        },
+        {
+          "id": 9,
+          "caption": "Suuri sairaala"
+        }
+      ],
+      "generates_mission_types": ["ambulance"]
     }
   ],
   "awards": [
@@ -5561,6 +5609,12 @@
       "caption": "Vaativan hoitotason koulutus",
       "duration": 432000,
       "education_key": "critical_care"
+    },
+    {
+      "id": 1,
+      "caption": "Lääkäri",
+      "duration": 604800,
+      "education_key": "notarzt"
     },
     {
       "id": 0,
