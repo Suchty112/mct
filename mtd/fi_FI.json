@@ -5501,6 +5501,12 @@
       "education_key": "fire_boat"
     },
     {
+      "id": 11,
+      "caption": "Lääkäri",
+      "duration": 604800,
+      "education_key": "notarzt"
+    },
+    {
       "id": 0,
       "caption": "Poliisin lentotoiminta",
       "duration": 604800,
