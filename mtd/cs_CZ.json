@@ -426,8 +426,8 @@
       "type": "Integer"
     },
     {
-      "key": "need_fire_helicopter",
-      "caption": "Požadovaný Hasičský vrtulník S-70M",
+      "key": "need_helicopter_bucket",
+      "caption": "Požadovaný Bambi vak",
       "type": "Integer"
     },
     {
@@ -823,11 +823,6 @@
     {
       "key": "heli_tank_count",
       "caption": "Požadovaná Mobilní nádrž",
-      "type": "Integer"
-    },
-    {
-      "key": "need_helicopter_bucket",
-      "caption": "Požadovaný Bambi vak",
       "type": "Integer"
     },
     {
