@@ -1722,6 +1722,10 @@
     {
       "id": 65,
       "caption": "Raffinerie"
+    },
+    {
+      "id": 66,
+      "caption": "Schiffswerft"
     }
   ],
   "available_icons": [
@@ -7205,6 +7209,14 @@
     {
       "id": 968,
       "caption": "Brand im Fahrsilo"
+    },
+    {
+      "id": 969,
+      "caption": "Brand in Schiffswerft"
+    },
+    {
+      "id": 970,
+      "caption": "Brand in Schiffswerft"
     }
   ],
   "education_data": [
