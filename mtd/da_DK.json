@@ -263,7 +263,7 @@
     {
       "key": "patient_modus",
       "caption": null,
-      "type": "Unknown"
+      "type": "Integer"
     },
     {
       "key": "task_tag",
@@ -5610,6 +5610,18 @@
     {
       "id": 748,
       "caption": "Gruppe ramt af lyn"
+    },
+    {
+      "id": 749,
+      "caption": "forstuvet Ben"
+    },
+    {
+      "id": 750,
+      "caption": "Forstuvet arm"
+    },
+    {
+      "id": 751,
+      "caption": "Forvredet ankel"
     }
   ],
   "education_data": [
