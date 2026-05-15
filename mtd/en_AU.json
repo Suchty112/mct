@@ -5821,6 +5821,18 @@
     {
       "id": 825,
       "caption": "Smoke coming from company premises"
+    },
+    {
+      "id": 826,
+      "caption": "Sprained leg"
+    },
+    {
+      "id": 827,
+      "caption": "Sprained arm"
+    },
+    {
+      "id": 828,
+      "caption": "Sprained ankle"
     }
   ],
   "education_data": [
