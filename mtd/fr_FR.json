@@ -7028,6 +7028,18 @@
     {
       "id": 920,
       "caption": "Collision entre un skieur et une motoneige"
+    },
+    {
+      "id": 921,
+      "caption": "Accident par chute de hauteur (R+3)"
+    },
+    {
+      "id": 922,
+      "caption": "Accident par chute de hauteur (R+4)"
+    },
+    {
+      "id": 923,
+      "caption": "Découverte de colis piégés à bord d’un paquebot amarré à quai"
     }
   ],
   "education_data": [
