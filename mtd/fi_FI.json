@@ -5430,6 +5430,18 @@
     {
       "id": 738,
       "caption": "Savua yrityksen tiloista"
+    },
+    {
+      "id": 739,
+      "caption": "Nyrjähtänyt jalka"
+    },
+    {
+      "id": 740,
+      "caption": "Nyrjähtänyt käsivarsi"
+    },
+    {
+      "id": 741,
+      "caption": "Nyrjähtänyt nilkka"
     }
   ],
   "education_data": [
