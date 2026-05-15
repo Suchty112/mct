@@ -5489,6 +5489,18 @@
     {
       "id": 710,
       "caption": "Fumo proveniente das instalações da empresa"
+    },
+    {
+      "id": 711,
+      "caption": "Entorse na perna"
+    },
+    {
+      "id": 712,
+      "caption": "Entorse no braço"
+    },
+    {
+      "id": 713,
+      "caption": "Entorse no tornozelo"
     }
   ],
   "education_data": [
