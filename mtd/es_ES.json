@@ -5604,6 +5604,18 @@
     {
       "id": 700,
       "caption": "Humo saliendo de las instalaciones de la empresa"
+    },
+    {
+      "id": 701,
+      "caption": "Esguince en la pierna"
+    },
+    {
+      "id": 702,
+      "caption": "Esguince en el brazo"
+    },
+    {
+      "id": 703,
+      "caption": "Esguince de tobillo"
     }
   ],
   "education_data": [
