@@ -231,13 +231,13 @@
       "type": "Integer"
     },
     {
-      "key": "need_gwmess",
-      "caption": "Benodigde Verkenningseenheden",
+      "key": "bereitschaftspolizei_count",
+      "caption": "Benodigd aantal Hoofdbureau's",
       "type": "Integer"
     },
     {
-      "key": "need_gwmess_chance",
-      "caption": "Verkenningseenheden benodigd waarschijnlijkheid",
+      "key": "need_gwmess",
+      "caption": "Benodigde Verkenningseenheden",
       "type": "Integer"
     },
     {
@@ -246,8 +246,8 @@
       "type": "Integer"
     },
     {
-      "key": "need_gwgefahrgut_chance",
-      "caption": "Aantal Adviseurs Gevaarlijke Stoffen benodigd waarschijnlijkheid",
+      "key": "need_ovdp",
+      "caption": "Benodigde Officiers van Dienst Politie",
       "type": "Integer"
     },
     {
@@ -271,11 +271,6 @@
       "type": "Integer"
     },
     {
-      "key": "need_ovdp",
-      "caption": "Benodigde Officiers van Dienst Politie",
-      "type": "Integer"
-    },
-    {
       "key": "need_mass_casualty_advanced",
       "caption": "Benodigde GGB",
       "type": "Integer"
@@ -288,6 +283,16 @@
     {
       "key": "nef_need_quote",
       "caption": "MMT-Arts benodigd waarschijnlijkheid",
+      "type": "Integer"
+    },
+    {
+      "key": "need_gwmess_chance",
+      "caption": "Verkenningseenheden benodigd waarschijnlijkheid",
+      "type": "Integer"
+    },
+    {
+      "key": "need_gwgefahrgut_chance",
+      "caption": "Aantal Adviseurs Gevaarlijke Stoffen benodigd waarschijnlijkheid",
       "type": "Integer"
     },
     {
@@ -363,11 +368,6 @@
     {
       "key": "possible_prisoner",
       "caption": "Maximaal aantal gevangenen",
-      "type": "Integer"
-    },
-    {
-      "key": "bereitschaftspolizei_count",
-      "caption": "Benodigd aantal Hoofdbureau's",
       "type": "Integer"
     },
     {
@@ -1226,6 +1226,66 @@
       "type": "Integer"
     },
     {
+      "key": "need_industrial_response_engine",
+      "caption": "Benodigde SB-BA, SB-IB of AS",
+      "type": "Integer"
+    },
+    {
+      "key": "need_industrial_response_engine_chance",
+      "caption": "SB-BA, SB-IB of AS benodigd waarschijnlijkheid",
+      "type": "Integer"
+    },
+    {
+      "key": "need_industrial_response_fire_engine",
+      "caption": "Benodigde TS-IB",
+      "type": "Integer"
+    },
+    {
+      "key": "need_industrial_response_fire_engine_chance",
+      "caption": "TS-IB benodigd waarschijnlijkheid",
+      "type": "Integer"
+    },
+    {
+      "key": "need_hazard_response_material",
+      "caption": "Benodigde GSH, DB-GS of RC-Gevaarlijke Stoffen",
+      "type": "Integer"
+    },
+    {
+      "key": "need_hazard_response_material_chance",
+      "caption": "GSH, DB-GS of RC-Gevaarlijke Stoffen benodigd waarschijnlijkheid",
+      "type": "Integer"
+    },
+    {
+      "key": "need_hazard_response_suits",
+      "caption": "Benodigde GPH, DB-GP of RC-Gaspakken",
+      "type": "Integer"
+    },
+    {
+      "key": "need_hazard_response_suits_chance",
+      "caption": "GPH, DB-GP of RC-Gaspakken benodigd waarschijnlijkheid",
+      "type": "Integer"
+    },
+    {
+      "key": "need_hazard_response_disinfection",
+      "caption": "Benodigde DB-BO, TS-BO of BOH-DC",
+      "type": "Integer"
+    },
+    {
+      "key": "need_hazard_response_disinfection_chance",
+      "caption": "DB-BO, TS-BO or BOH-DC benodigd waarschijnlijkheid",
+      "type": "Integer"
+    },
+    {
+      "key": "need_hazard_response_disinfection_large",
+      "caption": "Benodigde DB-GO, TS-GO of GOH-DC",
+      "type": "Integer"
+    },
+    {
+      "key": "need_hazard_response_disinfection_large_chance",
+      "caption": "DB-GO, TS-GO or GOH-DC benodigd waarschijnlijkheid",
+      "type": "Integer"
+    },
+    {
       "key": "personal_min_polizei",
       "caption": "Gemiddeld minimaal benodigde personen (politie) ",
       "type": "Integer"
@@ -1696,6 +1756,14 @@
         {
           "id": 22,
           "caption": "Team Digitale Verkenning"
+        },
+        {
+          "id": 23,
+          "caption": "Industriële Brandbestrijding"
+        },
+        {
+          "id": 24,
+          "caption": "Incidentbestrijding Gevaarlijke Stoffen"
         }
       ],
       "generates_mission_types": ["fire"]
@@ -3206,7 +3274,7 @@
     },
     {
       "id": 36,
-      "caption": "Brandende goederenwagon"
+      "caption": "Brandende goederenwagon (Groot)"
     },
     {
       "id": 37,
@@ -3874,7 +3942,7 @@
     },
     {
       "id": 203,
-      "caption": "Verkeersongeval met gevaarlijke stoffen"
+      "caption": "Verkeersongeval met gevaarlijke stoffen (Klein)"
     },
     {
       "id": 204,
@@ -4078,11 +4146,11 @@
     },
     {
       "id": 254,
-      "caption": "Brandende goederenwagon"
+      "caption": "Brandende goederenwagon (Klein)"
     },
     {
       "id": 255,
-      "caption": "Brandende goederenwagon"
+      "caption": "Brandende goederenwagon (Middel)"
     },
     {
       "id": 256,
@@ -5866,7 +5934,7 @@
     },
     {
       "id": 701,
-      "caption": "Auto verongelukt door vuurwerk op de weg"
+      "caption": "Lekkage gevaarlijke stoffen (Klein)"
     },
     {
       "id": 702,
@@ -6110,7 +6178,7 @@
     },
     {
       "id": 762,
-      "caption": "Lekkage gevaarlijke stoffen"
+      "caption": "Lekkage gevaarlijke stoffen (Middel)"
     },
     {
       "id": 763,
@@ -8051,6 +8119,18 @@
       "duration": 604800,
       "education_key": "drone_fire",
       "date_start": "2026-02-17T11:00:00Z"
+    },
+    {
+      "id": 25,
+      "caption": "Gevaarlijke Stoffen Eenheid",
+      "duration": 432000,
+      "education_key": "hazard_material_response"
+    },
+    {
+      "id": 26,
+      "caption": "Ontsmettings Eenheid",
+      "duration": 432000,
+      "education_key": "hazard_suits_response"
     },
     {
       "id": 0,
