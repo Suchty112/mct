@@ -811,6 +811,26 @@
       "type": "Integer"
     },
     {
+      "key": "geo_poi",
+      "caption": null,
+      "type": "Integer"
+    },
+    {
+      "key": "highway_police_count",
+      "caption": "Benötigte Autobahnpolizeiwachen",
+      "type": "Integer"
+    },
+    {
+      "key": "highway_police_value",
+      "caption": null,
+      "type": "Integer"
+    },
+    {
+      "key": "need_highway_police",
+      "caption": "Benötigte FuStW (AP)",
+      "type": "Integer"
+    },
+    {
       "key": "water_damage_pump_count",
       "caption": "Fachgruppen Wasserschaden/Pumpen",
       "type": "Integer"
@@ -1446,6 +1466,11 @@
       "type": "Integer"
     },
     {
+      "key": "need_highway_police_chance",
+      "caption": "FuStW (AP) Anforderungswahrscheinlichkeit",
+      "type": "Integer"
+    },
+    {
       "key": "personal_min_thw",
       "caption": "Durchschnittliche min. Personalanzahl (THW)",
       "type": "Integer"
@@ -1778,7 +1803,8 @@
     "hiking",
     "cycling",
     "boat",
-    "bridge"
+    "bridge",
+    "highway"
   ],
   "building_types": [
     {
@@ -2081,6 +2107,10 @@
         {
           "id": 15,
           "caption": "Großgewahrsam"
+        },
+        {
+          "id": 16,
+          "caption": "Autobahnpolizei"
         }
       ],
       "generates_mission_types": ["police"]
@@ -2506,6 +2536,54 @@
       "id": 28,
       "caption": "Hubschrauberstation (Seenotrettung)",
       "key": "BUILDING_TYPE_WATER_RESCUE_HELIPORT"
+    },
+    {
+      "id": 29,
+      "caption": "Autobahnpolizei",
+      "key": "BUILDING_TYPE_HIGHWAY_POLICE",
+      "extensions": [
+        {
+          "id": 0,
+          "caption": "Zelle"
+        },
+        {
+          "id": 1,
+          "caption": "Zelle"
+        },
+        {
+          "id": 2,
+          "caption": "Zelle"
+        },
+        {
+          "id": 3,
+          "caption": "Zelle"
+        },
+        {
+          "id": 4,
+          "caption": "Zelle"
+        },
+        {
+          "id": 5,
+          "caption": "Zelle"
+        },
+        {
+          "id": 6,
+          "caption": "Zelle"
+        },
+        {
+          "id": 7,
+          "caption": "Zelle"
+        },
+        {
+          "id": 8,
+          "caption": "Zelle"
+        },
+        {
+          "id": 9,
+          "caption": "Zelle"
+        }
+      ],
+      "generates_mission_types": ["highway_police"]
     }
   ],
   "awards": [
@@ -3336,6 +3414,10 @@
     {
       "key": "mountain_missions",
       "caption": "Bergrettung"
+    },
+    {
+      "key": "highway_police_missions",
+      "caption": "Autobahnpolizei"
     }
   ],
   "existing_mission_captions": [
@@ -7222,6 +7304,134 @@
     {
       "id": 970,
       "caption": "Brand in Schiffswerft"
+    },
+    {
+      "id": 971,
+      "caption": "Angefahrene Person auf Autobahn"
+    },
+    {
+      "id": 972,
+      "caption": "Trunkenheitsfahrt auf Autobahn"
+    },
+    {
+      "id": 973,
+      "caption": "Motorradunfall auf Autobahn"
+    },
+    {
+      "id": 974,
+      "caption": "Pannenfahrzeug auf Autobahn"
+    },
+    {
+      "id": 975,
+      "caption": "Verkehrsbehinderung auf Autobahn"
+    },
+    {
+      "id": 976,
+      "caption": "Wildunfall auf Autobahn"
+    },
+    {
+      "id": 977,
+      "caption": "Geisterfahrer auf Autobahn"
+    },
+    {
+      "id": 978,
+      "caption": "Absicherung Pannen-LKW auf Autobahn"
+    },
+    {
+      "id": 979,
+      "caption": "Fahndung auf Autobahn nach KFZ-Diebstahl"
+    },
+    {
+      "id": 980,
+      "caption": "Fahndung auf Autobahn nach Kraftstoffdiebstahl"
+    },
+    {
+      "id": 981,
+      "caption": "Ausgelöste Höhenkontrolle auf Autobahn"
+    },
+    {
+      "id": 982,
+      "caption": "Verdächtiges Fahrzeug auf Autobahn"
+    },
+    {
+      "id": 983,
+      "caption": "Autobahnbereitschaft"
+    },
+    {
+      "id": 984,
+      "caption": "Großangelegte LKW-Kontrolle"
+    },
+    {
+      "id": 985,
+      "caption": "Großangelegte PKW-Kontrolle"
+    },
+    {
+      "id": 986,
+      "caption": "Absicherung Schwertransport"
+    },
+    {
+      "id": 987,
+      "caption": "Verkehrsunfall auf Autobahn"
+    },
+    {
+      "id": 988,
+      "caption": "Verkehrsunfall auf Autobahn (Person eingeklemmt)"
+    },
+    {
+      "id": 989,
+      "caption": "Verkehrsunfall auf Autobahn (mit Verletzten)"
+    },
+    {
+      "id": 990,
+      "caption": "Versorgung von Personen im Stau"
+    },
+    {
+      "id": 991,
+      "caption": "LKW verliert Ladung"
+    },
+    {
+      "id": 992,
+      "caption": "Pannenfahrzeug auf Standstreifen"
+    },
+    {
+      "id": 993,
+      "caption": "Gegenstand auf Fahrbahn"
+    },
+    {
+      "id": 994,
+      "caption": "Person auf Autobahn"
+    },
+    {
+      "id": 995,
+      "caption": "Übermüdeter PKW-Fahrer"
+    },
+    {
+      "id": 996,
+      "caption": "Übermüdeter LKW-Fahrer"
+    },
+    {
+      "id": 997,
+      "caption": "Gefahr auf Autobahn durch Baustelle"
+    },
+    {
+      "id": 998,
+      "caption": "Hochzeits-Korso auf Autobahn"
+    },
+    {
+      "id": 999,
+      "caption": "Fan-Korso auf Autobahn"
+    },
+    {
+      "id": 1000,
+      "caption": "Rettungsgasse kontrollieren"
+    },
+    {
+      "id": 1001,
+      "caption": "Ölspur auf Autobahn"
+    },
+    {
+      "id": 1002,
+      "caption": "Ladungsbergung eines LKW auf Autobahn"
     }
   ],
   "education_data": [
@@ -7506,6 +7716,12 @@
       "caption": "Lautsprecheroperator",
       "duration": 259200,
       "education_key": "police_speaker_operator"
+    },
+    {
+      "id": 14,
+      "caption": "Autobahnpolizei",
+      "duration": 259200,
+      "education_key": "highway_police"
     },
     {
       "id": 0,
