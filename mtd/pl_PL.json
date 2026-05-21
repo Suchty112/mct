@@ -2586,6 +2586,16 @@
       "id": 143,
       "caption": "Wyzwanie sojuszu maj 2026 r.",
       "key": "AWARD_ALLIANCE_CHALLENGE_MAY_2026"
+    },
+    {
+      "id": 144,
+      "caption": "Misje na Dzień Matki 2026",
+      "key": "AWARD_MOTHERS_DAY_MISSIONS_2026"
+    },
+    {
+      "id": 145,
+      "caption": "Wyzwanie sojuszu czerwiec 2026 r.",
+      "key": "AWARD_ALLIANCE_CHALLENGE_JUNE_2026"
     }
   ],
   "filter_types": [
@@ -6226,6 +6236,14 @@
     {
       "id": 894,
       "caption": "Skręcona kostka"
+    },
+    {
+      "id": 895,
+      "caption": "Kibice biją się podczas meczu siatkówki"
+    },
+    {
+      "id": 896,
+      "caption": "Kibice biją się podczas meczu koszykówki"
     }
   ],
   "education_data": [
