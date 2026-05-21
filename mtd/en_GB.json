@@ -3280,6 +3280,11 @@
       "id": 135,
       "caption": "Alliance Challenge May 2026",
       "key": "AWARD_ALLIANCE_CHALLENGE_MAY_2026"
+    },
+    {
+      "id": 136,
+      "caption": "Alliance Challenge June 2026",
+      "key": "AWARD_ALLIANCE_CHALLENGE_JUNE_2026"
     }
   ],
   "filter_types": [
@@ -6724,6 +6729,14 @@
     {
       "id": 844,
       "caption": "Sprained ankle"
+    },
+    {
+      "id": 845,
+      "caption": "Fans fight at volleyball match"
+    },
+    {
+      "id": 846,
+      "caption": "Fans fight at basketball game"
     }
   ],
   "education_data": [
