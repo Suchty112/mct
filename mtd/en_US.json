@@ -3151,6 +3151,21 @@
       "id": 144,
       "caption": "Alliance Challenge May 2026",
       "key": "AWARD_ALLIANCE_CHALLENGE_MAY_2026"
+    },
+    {
+      "id": 145,
+      "caption": "Alliance Challenge June 2026",
+      "key": "AWARD_ALLIANCE_CHALLENGE_JUNE_2026"
+    },
+    {
+      "id": 146,
+      "caption": "11th Anniversary",
+      "key": "AWARD_ELEVEN_YEARS"
+    },
+    {
+      "id": 147,
+      "caption": "Father's day 2026",
+      "key": "AWARD_FATHERS_DAY_MISSIONS_2026"
     }
   ],
   "filter_types": [
@@ -7747,6 +7762,14 @@
     {
       "id": 1133,
       "caption": "Sprained ankle"
+    },
+    {
+      "id": 1134,
+      "caption": "Fans fight at volleyball match"
+    },
+    {
+      "id": 1135,
+      "caption": "Fans fight at basketball game"
     }
   ],
   "education_data": [
