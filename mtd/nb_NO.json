@@ -2890,6 +2890,11 @@
       "id": 133,
       "caption": "Allianseutfordring mai 2026",
       "key": "AWARD_ALLIANCE_CHALLENGE_MAY_2026"
+    },
+    {
+      "id": 134,
+      "caption": "Allianseutfordring juni 2026",
+      "key": "AWARD_ALLIANCE_CHALLENGE_JUNE_2026"
     }
   ],
   "filter_types": [
@@ -5998,6 +6003,14 @@
     {
       "id": 761,
       "caption": "Forstuet ankel"
+    },
+    {
+      "id": 762,
+      "caption": "Fans slåss under volleyballkamp"
+    },
+    {
+      "id": 763,
+      "caption": "Fans slåss under basketballkamp"
     }
   ],
   "education_data": [
