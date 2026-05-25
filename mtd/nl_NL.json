@@ -701,6 +701,11 @@
       "type": "Integer"
     },
     {
+      "key": "need_traffic_patrol",
+      "caption": "Benodigde SIV-P of DM-P",
+      "type": "Integer"
+    },
+    {
       "key": "need_coastal_helicopter_chance",
       "caption": "Kans dat een SAR-heli benodigd is",
       "type": "Integer"
@@ -764,11 +769,6 @@
       "key": "followup_mission_only",
       "caption": "Kan alleen een verspreiding van een andere inzet zijn",
       "type": "Boolean"
-    },
-    {
-      "key": "need_traffic_patrol",
-      "caption": "Benodigde SIV-P of DM-P",
-      "type": "Integer"
     },
     {
       "key": "need_lf_chance",
@@ -7368,7 +7368,7 @@
     },
     {
       "id": 1057,
-      "caption": "LZV met pech op snelweg"
+      "caption": "Autobrand op snelweg"
     },
     {
       "id": 1058,
@@ -7620,7 +7620,7 @@
     },
     {
       "id": 1120,
-      "caption": "Dubbele trailer defect op snelweg"
+      "caption": "LZV met pech op snelweg"
     },
     {
       "id": 1121,
