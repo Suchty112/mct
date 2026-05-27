@@ -846,6 +846,21 @@
       "type": "Integer"
     },
     {
+      "key": "mass_casualty_count",
+      "caption": "Požadované prodloužení pro hromadné ztráty",
+      "type": "Integer"
+    },
+    {
+      "key": "need_ems_mobile_command",
+      "caption": "Hledám záchranáře",
+      "type": "Integer"
+    },
+    {
+      "key": "need_mass_casualty_equipment",
+      "caption": "Požadované vybavení pro hromadné zranění",
+      "type": "Integer"
+    },
+    {
       "key": "need_boot_chance",
       "caption": "Pravděpodobnost, že bude potřeba Přívěs se člunem",
       "type": "Integer"
@@ -1138,6 +1153,16 @@
     {
       "key": "need_fire_aviation_chance",
       "caption": "Probability of airborne firefighting vehicles",
+      "type": "Integer"
+    },
+    {
+      "key": "need_mass_casualty_equipment_chance",
+      "caption": "Pravděpodobnost, že bude potřeba vybavení pro hromadné oběti",
+      "type": "Integer"
+    },
+    {
+      "key": "need_ems_mobile_command_chance",
+      "caption": "Pravděpodobnost, že bude potřeba záchranář",
       "type": "Integer"
     },
     {
@@ -1702,6 +1727,14 @@
         {
           "id": 0,
           "caption": "Velká stanice záchranné služby"
+        },
+        {
+          "id": 1,
+          "caption": "Rozšíření pro hromadné oběti"
+        },
+        {
+          "id": 2,
+          "caption": "Rozšíření přívěsu pro hromadné oběti"
         }
       ],
       "generates_mission_types": ["ambulance"]
@@ -5988,6 +6021,18 @@
     {
       "id": 777,
       "caption": "Záchrana osob ze zaseknuté lanovky"
+    },
+    {
+      "id": 778,
+      "caption": "Davová tlačenice na festivalu"
+    },
+    {
+      "id": 779,
+      "caption": "Hromadný příjem nemocných osob"
+    },
+    {
+      "id": 780,
+      "caption": "Panika na diskotéce"
     }
   ],
   "education_data": [
@@ -6185,6 +6230,20 @@
       "caption": "Horolezecké lezení",
       "duration": 432000,
       "education_key": "mountain_height_rescue"
+    },
+    {
+      "id": 6,
+      "caption": "Mobilní velení záchranné služby",
+      "duration": 432000,
+      "education_key": "ems_mobile_command",
+      "date_start": "2026-05-27T11:00:00Z"
+    },
+    {
+      "id": 7,
+      "caption": "Reakce na speciální operace",
+      "duration": 432000,
+      "education_key": "special_operation_response",
+      "date_start": "2026-05-27T11:00:00Z"
     },
     {
       "id": 0,
