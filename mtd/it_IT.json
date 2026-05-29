@@ -6374,6 +6374,34 @@
     {
       "id": 843,
       "caption": "Tifosi si picchiano durante una partita di basket"
+    },
+    {
+      "id": 844,
+      "caption": "Požár ve středovém pásu"
+    },
+    {
+      "id": 845,
+      "caption": "Incendio in zona impervia (PICCOLO)"
+    },
+    {
+      "id": 846,
+      "caption": "Incendio in zona impervia (MEDIO)"
+    },
+    {
+      "id": 847,
+      "caption": "Incendio in zona impervia (GRANDE)"
+    },
+    {
+      "id": 848,
+      "caption": "Incendio in zona impervia (GRANDISSIMO)"
+    },
+    {
+      "id": 849,
+      "caption": "Incidente in autostrada"
+    },
+    {
+      "id": 850,
+      "caption": "Auto in doppia fila"
     }
   ],
   "education_data": [
