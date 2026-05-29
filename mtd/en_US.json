@@ -1727,7 +1727,8 @@
     "cuffs",
     "lightningStrike",
     "bridge",
-    "hiking"
+    "hiking",
+    "cycling"
   ],
   "building_types": [
     {
@@ -7770,6 +7771,30 @@
     {
       "id": 1135,
       "caption": "Fans fight at basketball game"
+    },
+    {
+      "id": 1136,
+      "caption": "Truck overturned by strong winds"
+    },
+    {
+      "id": 1137,
+      "caption": "Cyclist blown over by strong winds"
+    },
+    {
+      "id": 1138,
+      "caption": "Roof tiles loose in the gutter"
+    },
+    {
+      "id": 1139,
+      "caption": "Roof tiles loose on the roof"
+    },
+    {
+      "id": 1140,
+      "caption": "Gutter at risk of being blown off"
+    },
+    {
+      "id": 1141,
+      "caption": "Solar panels at risk of falling off the roof"
     }
   ],
   "education_data": [
