@@ -121,6 +121,11 @@
       "type": "Boolean"
     },
     {
+      "key": "date_start",
+      "caption": "Start datum",
+      "type": "Datetime"
+    },
+    {
       "key": "alternate_value_overlay_requirements",
       "caption": null,
       "type": "Unknown"
@@ -251,11 +256,6 @@
       "type": "Integer"
     },
     {
-      "key": "date_start",
-      "caption": "Start datum",
-      "type": "Datetime"
-    },
-    {
       "key": "foam_needed",
       "caption": "SVM benodigd",
       "type": "Integer"
@@ -351,16 +351,6 @@
       "type": "Integer"
     },
     {
-      "key": "need_oneof_fire_engine_or_rescue",
-      "caption": "Benodigde tankautospuiten of hulpverleningsvoertuigen",
-      "type": "Integer"
-    },
-    {
-      "key": "patient_modus",
-      "caption": null,
-      "type": "Unknown"
-    },
-    {
       "key": "police_value",
       "caption": null,
       "type": "Integer"
@@ -416,6 +406,11 @@
       "type": "Integer"
     },
     {
+      "key": "patient_modus",
+      "caption": null,
+      "type": "Unknown"
+    },
+    {
       "key": "crashed_car_icons",
       "caption": null,
       "type": "Unknown"
@@ -468,6 +463,11 @@
     {
       "key": "need_police_motorcycle",
       "caption": "Benodigde DM-P",
+      "type": "Integer"
+    },
+    {
+      "key": "need_oneof_fire_engine_or_rescue",
+      "caption": "Benodigde tankautospuiten of hulpverleningsvoertuigen",
       "type": "Integer"
     },
     {
@@ -1620,6 +1620,7 @@
     "medicalstore",
     "cat",
     "blast",
+    "constructioncrane",
     "theft",
     "baseball",
     "ambulance",
@@ -1637,7 +1638,6 @@
     "dancinghall",
     "planecrash",
     "icy_road",
-    "constructioncrane",
     "cannabis",
     "tramway",
     "fallingrocks",
@@ -3988,11 +3988,11 @@
     },
     {
       "id": 212,
-      "caption": "Omgeslagen zeilboot"
+      "caption": "Omgeslagen Zeilboot"
     },
     {
       "id": 213,
-      "caption": "Omgeslagen zeilboot"
+      "caption": "Omgeslagen Zeilboot"
     },
     {
       "id": 214,
@@ -6184,7 +6184,7 @@
     },
     {
       "id": 761,
-      "caption": "Lekkage gevaarlijke stoffen (Klein)"
+      "caption": "Lekkage gevaarlijke stoffen"
     },
     {
       "id": 762,
