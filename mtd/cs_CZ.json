@@ -6033,6 +6033,34 @@
     {
       "id": 780,
       "caption": "Panika na diskotéce"
+    },
+    {
+      "id": 781,
+      "caption": "Požár ve středovém pásu"
+    },
+    {
+      "id": 782,
+      "caption": "Požár v nepřístupném terénu (malý)"
+    },
+    {
+      "id": 783,
+      "caption": "Požár v nepřístupném terénu (střední)"
+    },
+    {
+      "id": 784,
+      "caption": "Požár v nepřístupném terénu (velký)"
+    },
+    {
+      "id": 785,
+      "caption": "Požár v nepřístupném terénu (rozsáhlý)"
+    },
+    {
+      "id": 786,
+      "caption": "Dopravní nehoda na dálnici"
+    },
+    {
+      "id": 787,
+      "caption": "Auto v druhé řadě (dvojité parkování)"
     }
   ],
   "education_data": [
