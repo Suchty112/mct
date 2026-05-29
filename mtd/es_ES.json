@@ -5629,6 +5629,34 @@
     {
       "id": 705,
       "caption": "Pelea entre aficionados en partido de baloncesto"
+    },
+    {
+      "id": 706,
+      "caption": "Incendio en la mediana"
+    },
+    {
+      "id": 707,
+      "caption": "Incendio en zona de difícil acceso (pequeño)"
+    },
+    {
+      "id": 708,
+      "caption": "Incendio en zona de difícil acceso (mediano)"
+    },
+    {
+      "id": 709,
+      "caption": "Incendio en zona de difícil acceso (grande)"
+    },
+    {
+      "id": 710,
+      "caption": "Incendio en zona de difícil acceso (masivo)"
+    },
+    {
+      "id": 711,
+      "caption": "Accidente en autopista"
+    },
+    {
+      "id": 712,
+      "caption": "Coche en doble fila (estacionamiento ilegal)"
     }
   ],
   "education_data": [
