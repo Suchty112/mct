@@ -1739,7 +1739,8 @@
     "stadium",
     "river",
     "lightningStrike",
-    "bridge"
+    "bridge",
+    "cycling"
   ],
   "building_types": [
     {
@@ -6737,6 +6738,30 @@
     {
       "id": 846,
       "caption": "Fans fight at basketball game"
+    },
+    {
+      "id": 847,
+      "caption": "Truck overturned by strong winds"
+    },
+    {
+      "id": 848,
+      "caption": "Cyclist blown over by strong winds"
+    },
+    {
+      "id": 849,
+      "caption": "Roof tiles loose in the gutter"
+    },
+    {
+      "id": 850,
+      "caption": "Roof tiles loose on the roof"
+    },
+    {
+      "id": 851,
+      "caption": "Gutter at risk of being blown off"
+    },
+    {
+      "id": 852,
+      "caption": "Solar panels at risk of falling off the roof"
     }
   ],
   "education_data": [
