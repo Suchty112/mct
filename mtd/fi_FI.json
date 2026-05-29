@@ -5455,6 +5455,34 @@
     {
       "id": 743,
       "caption": "361 Fanit tappelevat koripallo-ottelussa"
+    },
+    {
+      "id": 744,
+      "caption": "Palo keskikaistalla"
+    },
+    {
+      "id": 745,
+      "caption": "Palo vaikeakulkuisessa maastossa (pieni)"
+    },
+    {
+      "id": 746,
+      "caption": "Palo vaikeakulkuisessa maastossa (keskisuuri)"
+    },
+    {
+      "id": 747,
+      "caption": "Palo vaikeakulkuisessa maastossa (suuri)"
+    },
+    {
+      "id": 748,
+      "caption": "Palo vaikeakulkuisessa maastossa (erittäin suuri / laaja)"
+    },
+    {
+      "id": 749,
+      "caption": "Liikenneonnettomuus moottoritiellä"
+    },
+    {
+      "id": 750,
+      "caption": "Auto pysäköitynä toiseen riviin (laittomasti)"
     }
   ],
   "education_data": [
