@@ -5514,6 +5514,34 @@
     {
       "id": 715,
       "caption": "Torcedores brigam durante jogo de basquete"
+    },
+    {
+      "id": 716,
+      "caption": "Incêndio no separador central"
+    },
+    {
+      "id": 717,
+      "caption": "Incêndio em zona de difícil acesso (pequeno)"
+    },
+    {
+      "id": 718,
+      "caption": "Incêndio em zona de difícil acesso (médio)"
+    },
+    {
+      "id": 719,
+      "caption": "Incêndio em zona de difícil acesso (grande)"
+    },
+    {
+      "id": 720,
+      "caption": "Incêndio em zona de difícil acesso (muito grande)"
+    },
+    {
+      "id": 721,
+      "caption": "Acidente na autoestrada"
+    },
+    {
+      "id": 722,
+      "caption": "Carro em segunda fila (estacionamento ilegal)"
     }
   ],
   "education_data": [
