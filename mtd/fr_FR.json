@@ -7054,6 +7054,30 @@
     {
       "id": 924,
       "caption": "Refus d’obtempérer"
+    },
+    {
+      "id": 925,
+      "caption": "Explosion dans une fonderie liée au contact eau/métal en fusion"
+    },
+    {
+      "id": 926,
+      "caption": "Personne tombée dans un puits de fort"
+    },
+    {
+      "id": 927,
+      "caption": "Détenu évadé sous escorte hospitalière"
+    },
+    {
+      "id": 928,
+      "caption": "Tremblements de terre - Échelle de Richter 8"
+    },
+    {
+      "id": 929,
+      "caption": "Ouverture de bouche a incendie sauvage"
+    },
+    {
+      "id": 930,
+      "caption": "Feu de poids lourd électrique"
     }
   ],
   "education_data": [
