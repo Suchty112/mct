@@ -5623,6 +5623,34 @@
     {
       "id": 734,
       "caption": "Fans slåss under basketmatch"
+    },
+    {
+      "id": 735,
+      "caption": "Brand i mitträcke"
+    },
+    {
+      "id": 736,
+      "caption": "Brand i otillgänglig terräng (liten)"
+    },
+    {
+      "id": 737,
+      "caption": "Brand i otillgänglig terräng (medelstor)"
+    },
+    {
+      "id": 738,
+      "caption": "Brand i otillgänglig terräng (stor)"
+    },
+    {
+      "id": 739,
+      "caption": "Brand i otillgänglig terräng (mycket stor)"
+    },
+    {
+      "id": 740,
+      "caption": "Trafikolycka på motorväg"
+    },
+    {
+      "id": 741,
+      "caption": "Bil i andra raden (olagligt parkerad)"
     }
   ],
   "education_data": [
