@@ -5640,6 +5640,34 @@
     {
       "id": 753,
       "caption": "Fans slås ved basketballkamp"
+    },
+    {
+      "id": 754,
+      "caption": "Brand i midterrabat"
+    },
+    {
+      "id": 755,
+      "caption": "Brand i utilgængeligt terræn (lille)"
+    },
+    {
+      "id": 756,
+      "caption": "Brand i utilgængeligt terræn (mellemstor)"
+    },
+    {
+      "id": 757,
+      "caption": "Brand i utilgængeligt terræn (stor)"
+    },
+    {
+      "id": 758,
+      "caption": "Brand i utilgængeligt terræn (meget stor)"
+    },
+    {
+      "id": 759,
+      "caption": "Trafikulykke på motorvej"
+    },
+    {
+      "id": 760,
+      "caption": "Bil i anden række (ulovligt parkeret)"
     }
   ],
   "education_data": [
