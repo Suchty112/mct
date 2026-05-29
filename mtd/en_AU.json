@@ -1286,7 +1286,8 @@
     "glasses",
     "flood",
     "lightningStrike",
-    "bridge"
+    "bridge",
+    "cycling"
   ],
   "building_types": [
     {
@@ -5846,6 +5847,30 @@
     {
       "id": 830,
       "caption": "Fans fight at basketball game"
+    },
+    {
+      "id": 831,
+      "caption": "Truck overturned by strong winds"
+    },
+    {
+      "id": 832,
+      "caption": "Cyclist blown over by strong winds"
+    },
+    {
+      "id": 833,
+      "caption": "Roof tiles loose in the gutter"
+    },
+    {
+      "id": 834,
+      "caption": "Roof tiles loose on the roof"
+    },
+    {
+      "id": 835,
+      "caption": "Gutter at risk of being blown off"
+    },
+    {
+      "id": 836,
+      "caption": "Solar panels at risk of falling off the roof"
     }
   ],
   "education_data": [
