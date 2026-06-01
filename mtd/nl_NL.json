@@ -121,11 +121,6 @@
       "type": "Boolean"
     },
     {
-      "key": "date_start",
-      "caption": "Start datum",
-      "type": "Datetime"
-    },
-    {
       "key": "alternate_value_overlay_requirements",
       "caption": null,
       "type": "Unknown"
@@ -254,6 +249,11 @@
       "key": "need_ovdp",
       "caption": "Benodigde Officiers van Dienst Politie",
       "type": "Integer"
+    },
+    {
+      "key": "date_start",
+      "caption": "Start datum",
+      "type": "Datetime"
     },
     {
       "key": "foam_needed",
@@ -1657,7 +1657,8 @@
     "stabbing",
     "xmas",
     "snowy",
-    "tractor"
+    "tractor",
+    "cycling"
   ],
   "building_types": [
     {
@@ -7973,6 +7974,30 @@
     {
       "id": 1208,
       "caption": "Persoon bekneld in airco unit"
+    },
+    {
+      "id": 1209,
+      "caption": "Vrachtwagen omgewaaid"
+    },
+    {
+      "id": 1210,
+      "caption": "Fietser omgewaaid"
+    },
+    {
+      "id": 1211,
+      "caption": "Dakpannen los in dakgoot"
+    },
+    {
+      "id": 1212,
+      "caption": "Dakpannen los op dak"
+    },
+    {
+      "id": 1213,
+      "caption": "Dakgoot dreigt los te waaien"
+    },
+    {
+      "id": 1214,
+      "caption": "Zonnepanelen dreigen van dak te vallen"
     }
   ],
   "education_data": [
