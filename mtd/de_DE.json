@@ -7437,6 +7437,10 @@
     {
       "id": 1002,
       "caption": "Ladungsbergung eines LKW auf Autobahn"
+    },
+    {
+      "id": 1003,
+      "caption": "Platzverweis missachtet"
     }
   ],
   "education_data": [
