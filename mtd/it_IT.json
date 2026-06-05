@@ -136,6 +136,16 @@
       "type": "Integer"
     },
     {
+      "key": "need_streifenwagen",
+      "caption": "Pattuglie richieste",
+      "type": "Integer"
+    },
+    {
+      "key": "max_municipal_police_replacing_fustw",
+      "caption": "Quantità massima di Veicoli Della Polizia Locale che possono sostituire le Auto Di Pattuglia",
+      "type": "Integer"
+    },
+    {
       "key": "foam_needed",
       "caption": "Schiuma richiesta",
       "type": "Integer"
@@ -144,11 +154,6 @@
       "key": "date_start",
       "caption": "È attiva solo dal",
       "type": "Datetime"
-    },
-    {
-      "key": "need_streifenwagen",
-      "caption": "Pattuglie richieste",
-      "type": "Integer"
     },
     {
       "key": "need_elw1",
@@ -166,6 +171,11 @@
       "type": "Integer"
     },
     {
+      "key": "need_lf_chance",
+      "caption": "Possibilità che venga richiesta un APS/ABP",
+      "type": "Integer"
+    },
+    {
       "key": "brandmeldeanlage_possible",
       "caption": null,
       "type": "Boolean"
@@ -178,11 +188,6 @@
     {
       "key": "need_oneof_fire_engine_or_rescue",
       "caption": "APS/ABP o Unità polisoccorso richiesto",
-      "type": "Integer"
-    },
-    {
-      "key": "max_municipal_police_replacing_fustw",
-      "caption": "Quantità massima di Veicoli Della Polizia Locale che possono sostituire le Auto Di Pattuglia",
       "type": "Integer"
     },
     {
@@ -501,13 +506,13 @@
       "type": "Integer"
     },
     {
-      "key": "fire_aviation_count",
-      "caption": "Base Aerea Antincendio",
+      "key": "need_fire_aviation",
+      "caption": "Mezzi Aerei Antincendio Richiesti",
       "type": "Integer"
     },
     {
-      "key": "need_fire_aviation",
-      "caption": "Mezzi Aerei Antincendio Richiesti",
+      "key": "fire_aviation_count",
+      "caption": "Base Aerea Antincendio",
       "type": "Integer"
     },
     {
@@ -923,11 +928,6 @@
     {
       "key": "need_k9_chance",
       "caption": "Possibilità che sia richiesta un unità cinofila antidroga",
-      "type": "Integer"
-    },
-    {
-      "key": "need_lf_chance",
-      "caption": "Possibilità che venga richiesta un APS/ABP",
       "type": "Integer"
     },
     {
@@ -6033,7 +6033,7 @@
     },
     {
       "id": 758,
-      "caption": "Incendio in azienda (grande)"
+      "caption": "Incendio in azienda agricola (GRANDE)"
     },
     {
       "id": 759,
