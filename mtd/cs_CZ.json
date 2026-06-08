@@ -847,17 +847,17 @@
     },
     {
       "key": "mass_casualty_count",
-      "caption": "Požadované prodloužení pro hromadné ztráty",
+      "caption": "Požadované rozšíření pro hromadné oběti",
       "type": "Integer"
     },
     {
       "key": "need_ems_mobile_command",
-      "caption": "Hledám záchranáře",
+      "caption": "Povinné Vedoucí zásahu",
       "type": "Integer"
     },
     {
       "key": "need_mass_casualty_equipment",
-      "caption": "Požadované vybavení pro hromadné zranění",
+      "caption": "Požadovaný Nafukovací stan",
       "type": "Integer"
     },
     {
@@ -1157,12 +1157,22 @@
     },
     {
       "key": "need_mass_casualty_equipment_chance",
-      "caption": "Pravděpodobnost, že bude potřeba vybavení pro hromadné oběti",
+      "caption": "Pravděpodobnost, že bude potřeba Nafukovací stan",
+      "type": "Integer"
+    },
+    {
+      "key": "need_mass_casualty_equipment_2",
+      "caption": "Požadovaná Sada nosítek",
+      "type": "Integer"
+    },
+    {
+      "key": "need_mass_casualty_equipment_2_chance",
+      "caption": "Pravděpodobnost, že bude potřeba Sada nosítek",
       "type": "Integer"
     },
     {
       "key": "need_ems_mobile_command_chance",
-      "caption": "Pravděpodobnost, že bude potřeba záchranář",
+      "caption": "Pravděpodobnost, že je vyžadován Vedoucí zásah",
       "type": "Integer"
     },
     {
@@ -6261,14 +6271,14 @@
     },
     {
       "id": 6,
-      "caption": "Mobilní velení záchranné služby",
+      "caption": "Hasič - zdravotník",
       "duration": 432000,
       "education_key": "ems_mobile_command",
       "date_start": "2026-05-27T11:00:00Z"
     },
     {
       "id": 7,
-      "caption": "Reakce na speciální operace",
+      "caption": "Tým pro speciální činnosti",
       "duration": 432000,
       "education_key": "special_operation_response",
       "date_start": "2026-05-27T11:00:00Z"
