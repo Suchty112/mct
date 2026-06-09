@@ -196,6 +196,56 @@
       "type": "Datetime"
     },
     {
+      "key": "mass_casualty_count",
+      "caption": "Požadované rozšíření pro hromadné oběti",
+      "type": "Integer"
+    },
+    {
+      "key": "mass_casualty_equipment_count",
+      "caption": "Požadovaný Nafukovací stan",
+      "type": "Integer"
+    },
+    {
+      "key": "mass_casualty_equipment_2_count",
+      "caption": "Požadovaná Sada nosítek",
+      "type": "Integer"
+    },
+    {
+      "key": "need_mass_casualty_equipment",
+      "caption": "Požadovaný Nafukovací stan",
+      "type": "Integer"
+    },
+    {
+      "key": "need_mass_casualty_equipment_2",
+      "caption": "Požadovaná Sada nosítek",
+      "type": "Integer"
+    },
+    {
+      "key": "need_ems_operations_support",
+      "caption": "Požadovaná jednotka podpory záchranné služby",
+      "type": "Integer"
+    },
+    {
+      "key": "need_ems_mobile_command",
+      "caption": "Povinné Vedoucí zásahu",
+      "type": "Integer"
+    },
+    {
+      "key": "need_ambulance_mass_casualty_large",
+      "caption": "Požadované Velkokapacitní vozidlo",
+      "type": "Integer"
+    },
+    {
+      "key": "need_ambulance_mass_casualty_small",
+      "caption": "Požadovaný Přívěs pro nafukovací stan",
+      "type": "Integer"
+    },
+    {
+      "key": "need_ambulance_mass_casualty",
+      "caption": "Požadovaná Dodávka pro mimořádnou událost",
+      "type": "Integer"
+    },
+    {
       "key": "need_kdow_orgl",
       "caption": "Požadován inspektor provozu",
       "type": "Integer"
@@ -208,6 +258,11 @@
     {
       "key": "patient_allow_first_responder_full",
       "caption": "First respondeři se mohou plně postarat o pacienty\"",
+      "type": "Integer"
+    },
+    {
+      "key": "need_ambulance_and_fire_rescue",
+      "caption": "Požadovaná Hasičská sanitka",
       "type": "Integer"
     },
     {
@@ -846,21 +901,6 @@
       "type": "Integer"
     },
     {
-      "key": "mass_casualty_count",
-      "caption": "Požadované rozšíření pro hromadné oběti",
-      "type": "Integer"
-    },
-    {
-      "key": "need_ems_mobile_command",
-      "caption": "Povinné Vedoucí zásahu",
-      "type": "Integer"
-    },
-    {
-      "key": "need_mass_casualty_equipment",
-      "caption": "Požadovaný Nafukovací stan",
-      "type": "Integer"
-    },
-    {
       "key": "need_boot_chance",
       "caption": "Pravděpodobnost, že bude potřeba Přívěs se člunem",
       "type": "Integer"
@@ -1156,13 +1196,13 @@
       "type": "Integer"
     },
     {
-      "key": "need_mass_casualty_equipment_chance",
-      "caption": "Pravděpodobnost, že bude potřeba Nafukovací stan",
+      "key": "need_ambulance_mass_casualty_chance",
+      "caption": "Pravděpodobnost, že bude potřeba Dodávka pro mimořádnou událost",
       "type": "Integer"
     },
     {
-      "key": "need_mass_casualty_equipment_2",
-      "caption": "Požadovaná Sada nosítek",
+      "key": "need_mass_casualty_equipment_chance",
+      "caption": "Pravděpodobnost, že bude potřeba Nafukovací stan",
       "type": "Integer"
     },
     {
@@ -1173,6 +1213,31 @@
     {
       "key": "need_ems_mobile_command_chance",
       "caption": "Pravděpodobnost, že je vyžadován Vedoucí zásah",
+      "type": "Integer"
+    },
+    {
+      "key": "need_ems_operations_support_chance",
+      "caption": "Pravděpodobnost, že bude potřeba jednotka podpory záchranné služby",
+      "type": "Integer"
+    },
+    {
+      "key": "need_ambulance_mass_casualty_large_chance",
+      "caption": "Pravděpodobnost, že je vyžadováno Velkokapacitní vozidlo",
+      "type": "Integer"
+    },
+    {
+      "key": "need_ambulance_mass_casualty_small_chance",
+      "caption": "Pravděpodobnost, že je vyžadován Přívěs pro nafukovací stan",
+      "type": "Integer"
+    },
+    {
+      "key": "need_ambulance_mass_casualty_chance",
+      "caption": "Pravděpodobnost, že bude potřeba Dodávka pro mimořádnou událost",
+      "type": "Integer"
+    },
+    {
+      "key": "need_ambulance_and_fire_rescue_chance",
+      "caption": "Pravděpodobnost, že bude potřeba Hasičská sanitka",
       "type": "Integer"
     },
     {
