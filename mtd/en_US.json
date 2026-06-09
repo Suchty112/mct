@@ -1006,6 +1006,41 @@
       "type": "Integer"
     },
     {
+      "key": "container_count",
+      "caption": "Required Container Slot",
+      "type": "Integer"
+    },
+    {
+      "key": "need_breathing_protection_container",
+      "caption": "Required FBPC",
+      "type": "Integer"
+    },
+    {
+      "key": "need_fire_flood_equipment_container",
+      "caption": "Required FWDC",
+      "type": "Integer"
+    },
+    {
+      "key": "need_fire_water_carrier_container",
+      "caption": "Required WTC",
+      "type": "Integer"
+    },
+    {
+      "key": "need_hazmat_container",
+      "caption": "Required HazMat",
+      "type": "Integer"
+    },
+    {
+      "key": "need_fire_command_and_command_advanced_container",
+      "caption": "Required ICPC",
+      "type": "Integer"
+    },
+    {
+      "key": "need_fire_water_and_foam_carrier_container",
+      "caption": "Required CWFT",
+      "type": "Integer"
+    },
+    {
       "key": "need_arff_chance",
       "caption": "Probability of ARFF being required",
       "type": "Integer"
@@ -1288,6 +1323,46 @@
     {
       "key": "need_mountain_atv_tractive_chance",
       "caption": "Probability that ATV is required",
+      "type": "Integer"
+    },
+    {
+      "key": "need_hazmat_container_chance",
+      "caption": "Probability that HazMat is required",
+      "type": "Integer"
+    },
+    {
+      "key": "need_fire_water_carrier_container_chance",
+      "caption": "Probability that WTC is required",
+      "type": "Integer"
+    },
+    {
+      "key": "need_breathing_protection_container_chance",
+      "caption": "Probability that FBPC is required",
+      "type": "Integer"
+    },
+    {
+      "key": "need_fire_search_and_rescue_container",
+      "caption": "Required USARC",
+      "type": "Integer"
+    },
+    {
+      "key": "need_fire_search_and_rescue_container_chance",
+      "caption": "Probability that USARC is required",
+      "type": "Integer"
+    },
+    {
+      "key": "need_fire_command_and_command_advanced_container_chance",
+      "caption": "Probability that ICPC is required",
+      "type": "Integer"
+    },
+    {
+      "key": "need_fire_water_and_foam_carrier_container_chance",
+      "caption": "Probability that CWFT is required",
+      "type": "Integer"
+    },
+    {
+      "key": "need_fire_flood_equipment_container_chance",
+      "caption": "Probability that FWDC is required",
       "type": "Integer"
     },
     {
@@ -1787,6 +1862,46 @@
         {
           "id": 12,
           "caption": "Tow Truck Extension"
+        },
+        {
+          "id": 13,
+          "caption": "Container Slot"
+        },
+        {
+          "id": 14,
+          "caption": "Container Slot"
+        },
+        {
+          "id": 15,
+          "caption": "Container Slot"
+        },
+        {
+          "id": 16,
+          "caption": "Container Slot"
+        },
+        {
+          "id": 17,
+          "caption": "Container Slot"
+        },
+        {
+          "id": 18,
+          "caption": "Container Slot"
+        },
+        {
+          "id": 19,
+          "caption": "Container Slot"
+        },
+        {
+          "id": 20,
+          "caption": "Container Slot"
+        },
+        {
+          "id": 21,
+          "caption": "Container Slot"
+        },
+        {
+          "id": 22,
+          "caption": "Container Slot"
         }
       ],
       "generates_mission_types": ["fire"]
@@ -7795,6 +7910,38 @@
     {
       "id": 1141,
       "caption": "Solar panels at risk of falling off the roof"
+    },
+    {
+      "id": 1142,
+      "caption": "Accidental spillage of chemical drums"
+    },
+    {
+      "id": 1143,
+      "caption": "Major fire in a museum"
+    },
+    {
+      "id": 1144,
+      "caption": "Oil spill"
+    },
+    {
+      "id": 1145,
+      "caption": "Fire at a magnesium manufacturing plant"
+    },
+    {
+      "id": 1146,
+      "caption": "Fire and explosion in a propane warehouse"
+    },
+    {
+      "id": 1147,
+      "caption": "Fire in a photovoltaic panel manufacturing plant"
+    },
+    {
+      "id": 1148,
+      "caption": "Cleanup of areas damaged by fires of oil or chemical origin"
+    },
+    {
+      "id": 1149,
+      "caption": "Preventive decontamination at high-risk hazardous materials facilities"
     }
   ],
   "education_data": [
@@ -7929,6 +8076,13 @@
       "caption": "Critical Care",
       "duration": 432000,
       "education_key": "critical_care"
+    },
+    {
+      "id": 22,
+      "caption": "Hooklift Truck Driving",
+      "duration": 345600,
+      "education_key": "pod_tractive",
+      "date_start": "2026-06-09T13:00:00Z"
     },
     {
       "id": 0,
