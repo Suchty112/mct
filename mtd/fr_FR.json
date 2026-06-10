@@ -1056,6 +1056,71 @@
       "type": "Integer"
     },
     {
+      "key": "railway_modules_count",
+      "caption": "Extension requise pour Modules véhicule de tunnel",
+      "type": "Integer"
+    },
+    {
+      "key": "railway_exploration_count",
+      "caption": "Extension requise pour les Explorations de longues durées",
+      "type": "Integer"
+    },
+    {
+      "key": "need_railway_modules_fire",
+      "caption": "FPTL Tu requis",
+      "type": "Integer"
+    },
+    {
+      "key": "need_railway_modules_fire_large",
+      "caption": "FPTGP Tu requis",
+      "type": "Integer"
+    },
+    {
+      "key": "need_railway_modules_utility",
+      "caption": "VTU Tu requis",
+      "type": "Integer"
+    },
+    {
+      "key": "need_railway_modules_water_carrier",
+      "caption": "CCR Tu requis",
+      "type": "Integer"
+    },
+    {
+      "key": "need_railway_modules_elw",
+      "caption": "VPR Tu requis",
+      "type": "Integer"
+    },
+    {
+      "key": "need_railway_modules_support",
+      "caption": "VSAV Tu",
+      "type": "Integer"
+    },
+    {
+      "key": "need_railway_exploration",
+      "caption": "VGELD requis",
+      "type": "Integer"
+    },
+    {
+      "key": "need_railway_exploration_carrier",
+      "caption": "FGELD requis",
+      "type": "Integer"
+    },
+    {
+      "key": "need_railway_exploration_robot",
+      "caption": "COLOSSUS requis",
+      "type": "Integer"
+    },
+    {
+      "key": "need_railway_exploration_transport_robot",
+      "caption": "MULE requis",
+      "type": "Integer"
+    },
+    {
+      "key": "need_railway_exploration_mining",
+      "caption": "VGREX requis",
+      "type": "Integer"
+    },
+    {
       "key": "need_boot_chance",
       "caption": "Probabilité qu'un BLS ou CSL soit requis",
       "type": "Integer"
@@ -1518,6 +1583,61 @@
     {
       "key": "need_railway_recovery_large_chance",
       "caption": "Probabilité que le NEF soit requis",
+      "type": "Integer"
+    },
+    {
+      "key": "need_railway_exploration_chance",
+      "caption": "Probabilité que VGELD soit nécessaire",
+      "type": "Integer"
+    },
+    {
+      "key": "need_railway_exploration_carrier_chance",
+      "caption": "Probabilité que le FGELD soit requis",
+      "type": "Integer"
+    },
+    {
+      "key": "need_railway_exploration_mining_chance",
+      "caption": "Probabilité que VGREX soit requis",
+      "type": "Integer"
+    },
+    {
+      "key": "need_railway_exploration_robot_chance",
+      "caption": "Probabilité que COLOSSUS soit requis",
+      "type": "Integer"
+    },
+    {
+      "key": "need_railway_exploration_transport_robot_chance",
+      "caption": "Probabilité que le MULE soit requis",
+      "type": "Integer"
+    },
+    {
+      "key": "need_railway_modules_fire_chance",
+      "caption": "Probabilité que le FPTL Tu soit requis",
+      "type": "Integer"
+    },
+    {
+      "key": "need_railway_modules_fire_large_chance",
+      "caption": "Probabilité que le FPTGP Tu soit requis",
+      "type": "Integer"
+    },
+    {
+      "key": "need_railway_modules_utility_chance",
+      "caption": "Probabilité que VTU Tu soit requis",
+      "type": "Integer"
+    },
+    {
+      "key": "need_railway_modules_water_carrier_chance",
+      "caption": "Probabilité que le CCR Tu soit requis",
+      "type": "Integer"
+    },
+    {
+      "key": "need_railway_modules_elw_chance",
+      "caption": "Probabilité que VPR Tu soit requis",
+      "type": "Integer"
+    },
+    {
+      "key": "need_railway_modules_support_chance",
+      "caption": "Probabilité que le VSAV Tu soit requis",
       "type": "Integer"
     },
     {
@@ -2000,6 +2120,14 @@
         {
           "id": 23,
           "caption": "Extension pour véhicule ferroviaire"
+        },
+        {
+          "id": 24,
+          "caption": "Extension pour Explorations de longues durées"
+        },
+        {
+          "id": 25,
+          "caption": "Extension pour Modules véhicule de tunnel"
         }
       ],
       "generates_mission_types": ["fire"]
@@ -7078,6 +7206,38 @@
     {
       "id": 930,
       "caption": "Feu de poids lourd électrique"
+    },
+    {
+      "id": 931,
+      "caption": "Feu de VL en tunnel avec reconnaissance longue distance"
+    },
+    {
+      "id": 932,
+      "caption": "Feu de bus en tunnel bidirectionnel"
+    },
+    {
+      "id": 933,
+      "caption": "Feu de train dans un tunnel"
+    },
+    {
+      "id": 934,
+      "caption": "Panne électrique totale en tunnel – reconnaissance longue durée"
+    },
+    {
+      "id": 935,
+      "caption": "Emballement thermique d’un véhicule électrique en zone inaccessible"
+    },
+    {
+      "id": 936,
+      "caption": "Recherche d’un agent d’exploitation porté disparu dans les galeries techniques du tunnel"
+    },
+    {
+      "id": 937,
+      "caption": "Feu dans le tunnel d’un fort de la Première Guerre mondiale"
+    },
+    {
+      "id": 938,
+      "caption": "Feu d’un poids lourd transportant des matières dangereuses, reconnaissance en ambiance toxique"
     }
   ],
   "education_data": [
@@ -7146,6 +7306,18 @@
       "caption": "Télépilote robotique",
       "duration": 345600,
       "education_key": "railway_electronics"
+    },
+    {
+      "id": 11,
+      "caption": "Certification exploration longue durée",
+      "duration": 345600,
+      "education_key": "railway_exploration"
+    },
+    {
+      "id": 12,
+      "caption": "Extraction en milieux dangereux",
+      "duration": 345600,
+      "education_key": "railway_mining"
     },
     {
       "id": 0,
