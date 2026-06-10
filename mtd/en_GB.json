@@ -3286,6 +3286,11 @@
       "id": 136,
       "caption": "Alliance Challenge June 2026",
       "key": "AWARD_ALLIANCE_CHALLENGE_JUNE_2026"
+    },
+    {
+      "id": 137,
+      "caption": "Football Event 2026",
+      "key": "AWARD_WC2026_MISSIONS"
     }
   ],
   "filter_types": [
