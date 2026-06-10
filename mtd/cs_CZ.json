@@ -2924,6 +2924,11 @@
       "id": 150,
       "caption": "Den otců 2026",
       "key": "AWARD_FATHERS_DAY_MISSIONS_2026"
+    },
+    {
+      "id": 151,
+      "caption": "Fotbalová událost 2026",
+      "key": "AWARD_WC2026_MISSIONS"
     }
   ],
   "filter_types": [
