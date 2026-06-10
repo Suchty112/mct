@@ -2421,6 +2421,11 @@
       "id": 137,
       "caption": "2026年父の日",
       "key": "AWARD_FATHERS_DAY_MISSIONS_2026"
+    },
+    {
+      "id": 138,
+      "caption": "サッカーイベント2026",
+      "key": "AWARD_WC2026_MISSIONS"
     }
   ],
   "filter_types": [
