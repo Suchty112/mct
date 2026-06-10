@@ -2596,6 +2596,11 @@
       "id": 145,
       "caption": "Wyzwanie sojuszu czerwiec 2026 r.",
       "key": "AWARD_ALLIANCE_CHALLENGE_JUNE_2026"
+    },
+    {
+      "id": 146,
+      "caption": "Wydarzenie piłkarskie 2026",
+      "key": "AWARD_WC2026_MISSIONS"
     }
   ],
   "filter_types": [
