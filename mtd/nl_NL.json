@@ -3074,6 +3074,11 @@
       "id": 169,
       "caption": "Vaderdag 2026",
       "key": "AWARD_FATHERS_DAY_MISSIONS_2026"
+    },
+    {
+      "id": 170,
+      "caption": "Voetbal Event 2026",
+      "key": "AWARD_WC2026_MISSIONS"
     }
   ],
   "filter_types": [
