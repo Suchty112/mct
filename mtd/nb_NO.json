@@ -2895,6 +2895,11 @@
       "id": 134,
       "caption": "Allianseutfordring juni 2026",
       "key": "AWARD_ALLIANCE_CHALLENGE_JUNE_2026"
+    },
+    {
+      "id": 135,
+      "caption": "Fotballarrangement 2026",
+      "key": "AWARD_WC2026_MISSIONS"
     }
   ],
   "filter_types": [
