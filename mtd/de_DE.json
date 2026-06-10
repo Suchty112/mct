@@ -3361,6 +3361,11 @@
       "id": 164,
       "caption": "Verbands-Herausforderung Juni 2026",
       "key": "AWARD_ALLIANCE_CHALLENGE_JUNE_2026"
+    },
+    {
+      "id": 165,
+      "caption": "Fußball-Event 2026",
+      "key": "AWARD_WC2026_MISSIONS"
     }
   ],
   "filter_types": [
