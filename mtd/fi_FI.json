@@ -283,7 +283,7 @@
     {
       "key": "probability_modifier",
       "caption": null,
-      "type": "Unknown"
+      "type": "Integer"
     },
     {
       "key": "sicherheitswache",
@@ -2415,6 +2415,11 @@
       "id": 140,
       "caption": "Allianssin haaste kesäkuu 2026",
       "key": "AWARD_ALLIANCE_CHALLENGE_JUNE_2026"
+    },
+    {
+      "id": 141,
+      "caption": "Jalkapallotapahtuma 2026",
+      "key": "AWARD_WC2026_MISSIONS"
     }
   ],
   "filter_types": [
