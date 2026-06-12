@@ -5656,6 +5656,18 @@
     {
       "id": 741,
       "caption": "Bil i andra raden (olagligt parkerad)"
+    },
+    {
+      "id": 742,
+      "caption": "Saknad spelare"
+    },
+    {
+      "id": 743,
+      "caption": "Tränare utom kontroll"
+    },
+    {
+      "id": 744,
+      "caption": "Biljettförfalskning"
     }
   ],
   "education_data": [
