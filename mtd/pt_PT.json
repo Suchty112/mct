@@ -5547,6 +5547,18 @@
     {
       "id": 722,
       "caption": "Carro em segunda fila (estacionamento ilegal)"
+    },
+    {
+      "id": 723,
+      "caption": "Jogador desaparecido"
+    },
+    {
+      "id": 724,
+      "caption": "Treinador fora de controlo"
+    },
+    {
+      "id": 725,
+      "caption": "Falsificação de bilhetes"
     }
   ],
   "education_data": [
