@@ -6407,6 +6407,18 @@
     {
       "id": 850,
       "caption": "Auto in doppia fila"
+    },
+    {
+      "id": 851,
+      "caption": "Giocatore scomparso"
+    },
+    {
+      "id": 852,
+      "caption": "Allenatore fuori controllo"
+    },
+    {
+      "id": 853,
+      "caption": "Contraffazione di biglietti"
     }
   ],
   "education_data": [
