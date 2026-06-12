@@ -6277,6 +6277,18 @@
     {
       "id": 903,
       "caption": "Samochód zaparkowany w drugim rzędzie (nielegalnie)"
+    },
+    {
+      "id": 904,
+      "caption": "Zaginiony zawodnik"
+    },
+    {
+      "id": 905,
+      "caption": "Trener poza kontrolą"
+    },
+    {
+      "id": 906,
+      "caption": "Fałszerstwo biletów"
     }
   ],
   "education_data": [
