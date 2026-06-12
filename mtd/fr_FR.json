@@ -7243,6 +7243,18 @@
     {
       "id": 938,
       "caption": "Feu d’un poids lourd transportant des matières dangereuses, reconnaissance en ambiance toxique"
+    },
+    {
+      "id": 939,
+      "caption": "Joueur disparu"
+    },
+    {
+      "id": 940,
+      "caption": "Entraîneur hors de contrôle"
+    },
+    {
+      "id": 941,
+      "caption": "Falsification de billets"
     }
   ],
   "education_data": [
