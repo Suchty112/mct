@@ -5488,6 +5488,18 @@
     {
       "id": 750,
       "caption": "Auto pysäköitynä toiseen riviin (laittomasti)"
+    },
+    {
+      "id": 751,
+      "caption": "Kadonnut pelaaja"
+    },
+    {
+      "id": 752,
+      "caption": "Hallitsematon valmentaja"
+    },
+    {
+      "id": 753,
+      "caption": "Lippuväärennös"
     }
   ],
   "education_data": [
