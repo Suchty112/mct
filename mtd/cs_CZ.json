@@ -6141,6 +6141,18 @@
     {
       "id": 787,
       "caption": "Auto v druhé řadě (dvojité parkování)"
+    },
+    {
+      "id": 788,
+      "caption": "Chybějící hráč"
+    },
+    {
+      "id": 789,
+      "caption": "Trenér mimo kontrolu"
+    },
+    {
+      "id": 790,
+      "caption": "Padělání vstupenek"
     }
   ],
   "education_data": [
