@@ -6044,6 +6044,18 @@
     {
       "id": 770,
       "caption": "Bil i annen rad (ulovlig parkering)"
+    },
+    {
+      "id": 771,
+      "caption": "Savnet spiller"
+    },
+    {
+      "id": 772,
+      "caption": "Trener ute av kontroll"
+    },
+    {
+      "id": 773,
+      "caption": "Billettforfalskning"
     }
   ],
   "education_data": [
