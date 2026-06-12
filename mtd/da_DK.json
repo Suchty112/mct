@@ -5673,6 +5673,18 @@
     {
       "id": 760,
       "caption": "Bil i anden række (ulovligt parkeret)"
+    },
+    {
+      "id": 761,
+      "caption": "Manglende spiller"
+    },
+    {
+      "id": 762,
+      "caption": "Træner ude af kontrol"
+    },
+    {
+      "id": 763,
+      "caption": "Billetforfalskning"
     }
   ],
   "education_data": [
