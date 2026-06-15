@@ -1241,6 +1241,16 @@
       "type": "Integer"
     },
     {
+      "key": "need_grtw",
+      "caption": null,
+      "type": "Integer"
+    },
+    {
+      "key": "need_grtw_chance",
+      "caption": null,
+      "type": "Integer"
+    },
+    {
       "key": "personal_min_thw",
       "caption": null,
       "type": "Integer"
