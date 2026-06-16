@@ -7959,6 +7959,18 @@
     {
       "id": 1152,
       "caption": "Ticket forgery"
+    },
+    {
+      "id": 1153,
+      "caption": "Fire in inaccessible terrain"
+    },
+    {
+      "id": 1154,
+      "caption": "Washing machine on fire"
+    },
+    {
+      "id": 1155,
+      "caption": "Dryer on fire"
     }
   ],
   "education_data": [
