@@ -5888,6 +5888,18 @@
     {
       "id": 839,
       "caption": "Ticket forgery"
+    },
+    {
+      "id": 840,
+      "caption": "Fire in inaccessible terrain"
+    },
+    {
+      "id": 841,
+      "caption": "Washing machine on fire"
+    },
+    {
+      "id": 842,
+      "caption": "Dryer on fire"
     }
   ],
   "education_data": [
