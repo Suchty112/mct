@@ -253,7 +253,7 @@
     {
       "key": "duration",
       "caption": null,
-      "type": "Integer"
+      "type": "ActiveSupport::Duration"
     },
     {
       "key": "need_rtw",
@@ -4534,117 +4534,117 @@
     {
       "id": 0,
       "caption": "유해물질",
-      "duration": 259200,
+      "duration": "259200",
       "education_key": "gw_gefahrgut"
     },
     {
       "id": 1,
       "caption": "이동 지휘",
-      "duration": 432000,
+      "duration": "432000",
       "education_key": "elw2"
     },
     {
       "id": 2,
       "caption": "공항 소방 훈련",
-      "duration": 259200,
+      "duration": "259200",
       "education_key": "arff"
     },
     {
       "id": 3,
       "caption": "신속 수상 구조",
-      "duration": 345600,
+      "duration": "345600",
       "education_key": "gw_wasserrettung"
     },
     {
       "id": 4,
       "caption": "원양 항해",
-      "duration": 432000,
+      "duration": "432000",
       "education_key": "ocean_navigation"
     },
     {
       "id": 5,
       "caption": "비상 계단 훈련",
-      "duration": 604800,
+      "duration": "604800",
       "education_key": "rettungstreppe"
     },
     {
       "id": 6,
       "caption": "피어싱 노즐 교육",
-      "duration": 518400,
+      "duration": "518400",
       "education_key": "piercing_nozzle"
     },
     {
       "id": 0,
       "caption": "경찰 항공",
-      "duration": 604800,
+      "duration": "604800",
       "education_key": "polizeihubschrauber",
       "hidden": true
     },
     {
       "id": 1,
       "caption": "특수화기전술조",
-      "duration": 432000,
+      "duration": "432000",
       "education_key": "swat"
     },
     {
       "id": 2,
       "caption": "K-9",
-      "duration": 432000,
+      "duration": "432000",
       "education_key": "k9",
       "hidden": true
     },
     {
       "id": 3,
       "caption": "싸이카",
-      "duration": 259200,
+      "duration": "259200",
       "education_key": "police_motorcycle"
     },
     {
       "id": 4,
       "caption": "진압 경찰 교육",
-      "duration": 172800,
+      "duration": "172800",
       "education_key": "riot_police"
     },
     {
       "id": 5,
       "caption": "진압경찰장비교육",
-      "duration": 432000,
+      "duration": "432000",
       "education_key": "riot_police_equipment"
     },
     {
       "id": 6,
       "caption": "물대포 작전 훈련",
-      "duration": 604800,
+      "duration": "604800",
       "education_key": "police_wasserwerfer"
     },
     {
       "id": 0,
       "caption": "중환자 치료 훈련",
-      "duration": 432000,
+      "duration": "432000",
       "education_key": "critical_care"
     },
     {
       "id": 1,
       "caption": "긴급 이송용 오토바이",
-      "duration": 259200,
+      "duration": "259200",
       "education_key": "rapid_response_motorcycle"
     },
     {
       "id": 0,
       "caption": "해양 구조 조종사 훈련",
-      "duration": 432000,
+      "duration": "432000",
       "education_key": "coastal_rescue_pilot"
     },
     {
       "id": 1,
       "caption": "원양 항해",
-      "duration": 432000,
+      "duration": "432000",
       "education_key": "ocean_navigation"
     },
     {
       "id": 2,
       "caption": "호버 보트 사령관",
-      "duration": 432000,
+      "duration": "432000",
       "education_key": "hover_boat_elw"
     }
   ]
