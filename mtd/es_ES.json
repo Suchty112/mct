@@ -791,6 +791,76 @@
       "type": "Integer"
     },
     {
+      "key": "wildfire_value",
+      "caption": null,
+      "type": "Integer"
+    },
+    {
+      "key": "wildfire_count",
+      "caption": "Incendio forestal requerido",
+      "type": "Integer"
+    },
+    {
+      "key": "need_wildfire_atv",
+      "caption": "Transporte 4x4 requerido",
+      "type": "Integer"
+    },
+    {
+      "key": "need_wildfire_engine_atv",
+      "caption": "Se requiere un 4x4 Autoextincion",
+      "type": "Integer"
+    },
+    {
+      "key": "fire_aviation_count",
+      "caption": "Base Aérea de Bomberos requerida",
+      "type": "Integer"
+    },
+    {
+      "key": "wildfire_plane_count",
+      "caption": "Hangar de aviones para incendios forestales",
+      "type": "Integer"
+    },
+    {
+      "key": "need_fire_helicopter_2",
+      "caption": "Requerido Helicóptero Brigadas",
+      "type": "Integer"
+    },
+    {
+      "key": "need_wildfire_engine_2",
+      "caption": "Requerido Bomba Forestal Pesada",
+      "type": "Integer"
+    },
+    {
+      "key": "need_wildfire_tanker",
+      "caption": "Se requiere Nodriza 4x4",
+      "type": "Integer"
+    },
+    {
+      "key": "need_fire_aviation",
+      "caption": "Hidroavión requerido",
+      "type": "Integer"
+    },
+    {
+      "key": "helicopter_bucket_count",
+      "caption": "Cubo Bambi necesario",
+      "type": "Integer"
+    },
+    {
+      "key": "need_fire_helicopter",
+      "caption": "Se requiere Helicóptero con Bambi",
+      "type": "Integer"
+    },
+    {
+      "key": "need_helicopter_bucket",
+      "caption": "Cubo Bambi necesario",
+      "type": "Integer"
+    },
+    {
+      "key": "need_wildfire_engine",
+      "caption": "Bomba Rural Pesada requerida",
+      "type": "Integer"
+    },
+    {
       "key": "need_elw2_chance",
       "caption": "Probabilidad de que se necesiten unidades de mando",
       "type": "Integer"
@@ -1068,6 +1138,51 @@
     {
       "key": "need_mountain_snow_chance",
       "caption": "Se requiere remolque para moto de nieve de probabilidad",
+      "type": "Integer"
+    },
+    {
+      "key": "need_fire_helicopter_chance",
+      "caption": "Probabilidad de que se requiera Helicóptero con Bambi",
+      "type": "Integer"
+    },
+    {
+      "key": "need_fire_helicopter_2_chance",
+      "caption": "Probabilidad de que se requiera Helicóptero Brigadas",
+      "type": "Integer"
+    },
+    {
+      "key": "need_fire_aviation_chance",
+      "caption": "Probabilidad de que se requiera Hidroavión",
+      "type": "Integer"
+    },
+    {
+      "key": "need_wildfire_atv_chance",
+      "caption": "Probabilidad de que se requiera transporte 4x4",
+      "type": "Integer"
+    },
+    {
+      "key": "need_wildfire_engine_chance",
+      "caption": "Probabilidad de que se requiera Bomba Rural Pesada",
+      "type": "Integer"
+    },
+    {
+      "key": "need_wildfire_engine_2_chance",
+      "caption": "Probabilidad de que se requiera Bomba Forestal Pesada",
+      "type": "Integer"
+    },
+    {
+      "key": "need_wildfire_engine_atv_chance",
+      "caption": null,
+      "type": "Integer"
+    },
+    {
+      "key": "need_wildfire_tanker_chance",
+      "caption": "Probabilidad de que se requiera Nodriza 4x4",
+      "type": "Integer"
+    },
+    {
+      "key": "need_helicopter_bucket_chance",
+      "caption": "Probability of helicopter buckets being required",
       "type": "Integer"
     },
     {
@@ -1528,6 +1643,10 @@
         {
           "id": 10,
           "caption": "GRAE"
+        },
+        {
+          "id": 11,
+          "caption": "Incendio forestal"
         }
       ],
       "generates_mission_types": ["fire"]
@@ -2058,6 +2177,29 @@
       "caption": "Estación de GREIM",
       "key": "BUILDING_TYPE_MOUNTAIN_RESCUE",
       "generates_mission_types": ["mountain"]
+    },
+    {
+      "id": 32,
+      "caption": "Base Aérea de Bomberos",
+      "key": "BUILDING_TYPE_FIRE_AVIATION_STATION",
+      "extensions": [
+        {
+          "id": 0,
+          "caption": "Hangar de aviones para incendios forestales"
+        },
+        {
+          "id": 1,
+          "caption": "Hangar adicional para aviones de extinción de incendios forestales"
+        },
+        {
+          "id": 2,
+          "caption": "Hangar adicional para aviones de extinción de incendios forestales"
+        },
+        {
+          "id": 3,
+          "caption": "Hangar adicional para aviones de extinción de incendios forestales"
+        }
+      ]
     }
   ],
   "awards": [
@@ -5674,6 +5816,50 @@
     {
       "id": 715,
       "caption": "Falsificación de entradas"
+    },
+    {
+      "id": 716,
+      "caption": "Conato en área recreativa"
+    },
+    {
+      "id": 717,
+      "caption": "Tormenta de fuego en la sierra"
+    },
+    {
+      "id": 718,
+      "caption": "Incendio forestal avanzando hacia un pueblo"
+    },
+    {
+      "id": 719,
+      "caption": "Incendio en barranco de dificil acceso"
+    },
+    {
+      "id": 720,
+      "caption": "Foco en Terreno Escarpado"
+    },
+    {
+      "id": 721,
+      "caption": "Incendio en cosechadora"
+    },
+    {
+      "id": 722,
+      "caption": "Incendio provocado por una empresa constructora cerca del bosque"
+    },
+    {
+      "id": 723,
+      "caption": "Incendio Forestal de Gran Magnitud"
+    },
+    {
+      "id": 724,
+      "caption": "Sabotaje en línea eléctrica provoca incendio forestal"
+    },
+    {
+      "id": 725,
+      "caption": "Quema Agrícola Descontrolada"
+    },
+    {
+      "id": 726,
+      "caption": "Rescate de Senderistas Atrapados por las Llamas"
     }
   ],
   "education_data": [
@@ -5762,6 +5948,20 @@
       "duration": 432000,
       "education_key": "mountain_rescue",
       "date_start": "2025-11-18T09:00:00Z"
+    },
+    {
+      "id": 14,
+      "caption": "Calificación de rescatista aéreo",
+      "duration": 432000,
+      "education_key": "airborne_firefighting",
+      "date_start": "2026-06-17T11:00:00Z"
+    },
+    {
+      "id": 15,
+      "caption": "Extinción de incendios forestales",
+      "duration": 432000,
+      "education_key": "wildfire",
+      "date_start": "2026-06-17T11:00:00Z"
     },
     {
       "id": 0,
