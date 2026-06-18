@@ -842,7 +842,7 @@
     },
     {
       "key": "helicopter_bucket_count",
-      "caption": "Cubo Bambi necesario",
+      "caption": "Cesta Bambi necesario",
       "type": "Integer"
     },
     {
@@ -852,7 +852,7 @@
     },
     {
       "key": "need_helicopter_bucket",
-      "caption": "Cubo Bambi necesario",
+      "caption": "Cesta Bambi necesario",
       "type": "Integer"
     },
     {
