@@ -351,6 +351,16 @@
       "type": "Integer"
     },
     {
+      "key": "mountain_rescue_count",
+      "caption": "Required Mountain Rescue Station",
+      "type": "Integer"
+    },
+    {
+      "key": "need_oneof_mountain_atv_or_search_and_rescue_atv",
+      "caption": "Required Mountain Rescue 4x4 or SAR 4x4",
+      "type": "Integer"
+    },
+    {
       "key": "patient_modus",
       "caption": null,
       "type": "Integer"
@@ -743,16 +753,6 @@
     {
       "key": "mountain_value",
       "caption": null,
-      "type": "Integer"
-    },
-    {
-      "key": "mountain_rescue_count",
-      "caption": "Required Mountain Rescue Station",
-      "type": "Integer"
-    },
-    {
-      "key": "need_oneof_mountain_atv_or_search_and_rescue_atv",
-      "caption": "Required Mountain Rescue 4x4 or SAR 4x4",
       "type": "Integer"
     },
     {
