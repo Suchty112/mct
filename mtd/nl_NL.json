@@ -3079,6 +3079,11 @@
       "id": 170,
       "caption": "Voetbal Event 2026",
       "key": "AWARD_WC2026_MISSIONS"
+    },
+    {
+      "id": 171,
+      "caption": "Zomer Event 2026",
+      "key": "AWARD_SUMMER_2026"
     }
   ],
   "filter_types": [
