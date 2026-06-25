@@ -2595,6 +2595,11 @@
       "id": 144,
       "caption": "Evento de futebol 2026",
       "key": "AWARD_WC2026_MISSIONS"
+    },
+    {
+      "id": 145,
+      "caption": "Evento de Verão 2026",
+      "key": "AWARD_SUMMER_2026"
     }
   ],
   "filter_types": [
