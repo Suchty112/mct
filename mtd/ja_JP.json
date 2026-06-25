@@ -2426,6 +2426,11 @@
       "id": 138,
       "caption": "サッカーイベント2026",
       "key": "AWARD_WC2026_MISSIONS"
+    },
+    {
+      "id": 139,
+      "caption": "2026 夏のイベント",
+      "key": "AWARD_SUMMER_2026"
     }
   ],
   "filter_types": [
