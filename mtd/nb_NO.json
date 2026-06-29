@@ -278,7 +278,7 @@
     {
       "key": "duration",
       "caption": null,
-      "type": "Integer"
+      "type": "ActiveSupport::Duration"
     },
     {
       "key": "need_rtw",
@@ -6067,243 +6067,243 @@
     {
       "id": 0,
       "caption": "CBRNe-enhet",
-      "duration": 259200,
+      "duration": "259200",
       "education_key": "gw_gefahrgut"
     },
     {
       "id": 1,
       "caption": "Skadestedsledelse",
-      "duration": 432000,
+      "duration": "432000",
       "education_key": "elw2"
     },
     {
       "id": 2,
       "caption": "Lufthavnbetjent brann",
-      "duration": 259200,
+      "duration": "259200",
       "education_key": "arff"
     },
     {
       "id": 3,
       "caption": "Overflatereddere-trening",
-      "duration": 345600,
+      "duration": "345600",
       "education_key": "gw_wasserrettung"
     },
     {
       "id": 4,
       "caption": "Skipsnavigering",
-      "duration": 432000,
+      "duration": "432000",
       "education_key": "ocean_navigation"
     },
     {
       "id": 5,
       "caption": "Redningsdykker kurs",
-      "duration": 432000,
+      "duration": "432000",
       "education_key": "gw_taucher"
     },
     {
       "id": 6,
       "caption": "Skogbrann helikopterutdanning",
-      "duration": 432000,
+      "duration": "432000",
       "education_key": "airborne_firefighting"
     },
     {
       "id": 7,
       "caption": "ATV",
-      "duration": 259200,
+      "duration": "259200",
       "education_key": "atv"
     },
     {
       "id": 8,
       "caption": "skjæreslukker opplæring",
-      "duration": 518400,
+      "duration": "518400",
       "education_key": "piercing_nozzle"
     },
     {
       "id": 9,
       "caption": "Opplæring i skadebegrensning",
-      "duration": 432000,
+      "duration": "432000",
       "education_key": "flood_equipment"
     },
     {
       "id": 10,
       "caption": "RVR-trening",
-      "duration": 432000,
+      "duration": "432000",
       "education_key": "damage_control"
     },
     {
       "id": 11,
       "caption": "Sivilforsvarets fagledertrening",
-      "duration": 604800,
+      "duration": "604800",
       "education_key": "technical_aid_command"
     },
     {
       "id": 12,
       "caption": "Opplæring i dekontaminering",
-      "duration": 432000,
+      "duration": "432000",
       "education_key": "decontamination_personnel"
     },
     {
       "id": 13,
       "caption": "USAR Trening",
-      "duration": 259200,
+      "duration": "259200",
       "education_key": "search_and_rescue"
     },
     {
       "id": 14,
       "caption": "Hundefører Trening",
-      "duration": 432000,
+      "duration": "432000",
       "education_key": "rescue_dogs"
     },
     {
       "id": 15,
       "caption": "Advansert førstehjelp Trening",
-      "duration": 432000,
+      "duration": "432000",
       "education_key": "first_aid_advanced"
     },
     {
       "id": 16,
       "caption": "Krokbilsjåfør",
-      "duration": 345600,
+      "duration": "345600",
       "education_key": "pod_tractive",
-      "date_start": "2025-11-18T09:00:00Z"
+      "date_start": "2025-11-18 09:00:00 UTC"
     },
     {
       "id": 17,
       "caption": "Tungberging",
-      "duration": 345600,
+      "duration": "345600",
       "education_key": "tow_trucks"
     },
     {
       "id": 0,
       "caption": "Politihelikopterflyvning",
-      "duration": 604800,
+      "duration": "604800",
       "education_key": "polizeihubschrauber"
     },
     {
       "id": 1,
       "caption": "Våpentrening",
-      "duration": 432000,
+      "duration": "432000",
       "education_key": "swat"
     },
     {
       "id": 2,
       "caption": "Hundepatrulje",
-      "duration": 432000,
+      "duration": "432000",
       "education_key": "k9"
     },
     {
       "id": 3,
       "caption": "Politimotorsykkel",
-      "duration": 259200,
+      "duration": "259200",
       "education_key": "police_motorcycle"
     },
     {
       "id": 4,
       "caption": "Utrykningspoliti",
-      "duration": 259200,
+      "duration": "259200",
       "education_key": "traffic_police"
     },
     {
       "id": 5,
       "caption": "Demonstrasjonstrent",
-      "duration": 172800,
+      "duration": "172800",
       "education_key": "riot_police"
     },
     {
       "id": 6,
       "caption": "Ridekurs",
-      "duration": 345600,
+      "duration": "345600",
       "education_key": "police_horse"
     },
     {
       "id": 7,
       "caption": "Demonstrasjonstrent innsatsleder",
-      "duration": 604800,
+      "duration": "604800",
       "education_key": "riot_police_command"
     },
     {
       "id": 8,
       "caption": "Droneoperatør",
-      "duration": 345600,
+      "duration": "345600",
       "education_key": "fbi_drone_operator"
     },
     {
       "id": 9,
       "caption": "Innsatsledelse",
-      "duration": 432000,
+      "duration": "432000",
       "education_key": "police_service_group_leader"
     },
     {
       "id": 0,
-      "caption": "\u003Cspan class=\"translation_missing localeapp\" title=\"translation missing: nb_NO.education.notarzt\"\u003ENotarzt\u003C/span\u003E",
-      "duration": 604800,
+      "caption": "<span class=\"translation_missing localeapp\" title=\"translation missing: nb_NO.education.notarzt\">Notarzt</span>",
+      "duration": "604800",
       "education_key": "notarzt",
       "hidden": true
     },
     {
       "id": 1,
-      "caption": "\u003Cspan class=\"translation_missing localeapp\" title=\"translation missing: nb_NO.education.lna\"\u003ELna\u003C/span\u003E",
-      "duration": 777600,
+      "caption": "<span class=\"translation_missing localeapp\" title=\"translation missing: nb_NO.education.lna\">Lna</span>",
+      "duration": "777600",
       "education_key": "lna",
       "hidden": true
     },
     {
       "id": 2,
-      "caption": "\u003Cspan class=\"translation_missing localeapp\" title=\"translation missing: nb_NO.education.orgl\"\u003EOrgl\u003C/span\u003E",
-      "duration": 950400,
+      "caption": "<span class=\"translation_missing localeapp\" title=\"translation missing: nb_NO.education.orgl\">Orgl</span>",
+      "duration": "950400",
       "education_key": "orgl",
       "hidden": true
     },
     {
       "id": 3,
       "caption": "Intensivbehandling",
-      "duration": 432000,
+      "duration": "432000",
       "education_key": "critical_care"
     },
     {
       "id": 4,
       "caption": "Ambulansemotorsykkel",
-      "duration": 259200,
+      "duration": "259200",
       "education_key": "rapid_response_motorcycle"
     },
     {
       "id": 0,
       "caption": "Operasjonsleder for redningshelikoptre",
-      "duration": 432000,
+      "duration": "432000",
       "education_key": "coastal_rescue_pilot"
     },
     {
       "id": 1,
       "caption": "Skipsnavigering",
-      "duration": 432000,
+      "duration": "432000",
       "education_key": "ocean_navigation"
     },
     {
       "id": 2,
       "caption": "Intensivbehandling",
-      "duration": 432000,
+      "duration": "432000",
       "education_key": "critical_care"
     },
     {
       "id": 3,
       "caption": "Fjellredningssertifikat",
-      "duration": 432000,
+      "duration": "432000",
       "education_key": "mountain_rescue",
-      "date_start": "2026-04-21T11:00:00Z"
+      "date_start": "2026-04-21 11:00:00 UTC"
     },
     {
       "id": 4,
       "caption": "Trening av fjellredningshunder",
-      "duration": 432000,
+      "duration": "432000",
       "education_key": "mountain_rescue_dogs",
-      "date_start": "2026-04-21T11:00:00Z"
+      "date_start": "2026-04-21 11:00:00 UTC"
     },
     {
       "id": 5,
       "caption": "Trening for redningskoordinator",
-      "duration": 432000,
+      "duration": "432000",
       "education_key": "rescue_coordinator",
-      "date_start": "2026-04-21T11:00:00Z"
+      "date_start": "2026-04-21 11:00:00 UTC"
     }
   ]
 }
