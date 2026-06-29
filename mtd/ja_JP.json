@@ -263,7 +263,7 @@
     {
       "key": "duration",
       "caption": null,
-      "type": "Integer"
+      "type": "ActiveSupport::Duration"
     },
     {
       "key": "need_rtw",
@@ -5185,150 +5185,150 @@
     {
       "id": 0,
       "caption": "危険物取扱車両",
-      "duration": 259200,
+      "duration": "259200",
       "education_key": "gw_gefahrgut"
     },
     {
       "id": 1,
       "caption": "指令",
-      "duration": 432000,
+      "duration": "432000",
       "education_key": "elw2"
     },
     {
       "id": 2,
       "caption": "空港消防士トレーニング",
-      "duration": 259200,
+      "duration": "259200",
       "education_key": "arff"
     },
     {
       "id": 3,
       "caption": "氾濫河川救助",
-      "duration": 345600,
+      "duration": "345600",
       "education_key": "gw_wasserrettung"
     },
     {
       "id": 4,
       "caption": "航海士",
-      "duration": 432000,
+      "duration": "432000",
       "education_key": "ocean_navigation"
     },
     {
       "id": 5,
       "caption": "ピアスノズルトレーニング",
-      "duration": 518400,
+      "duration": "518400",
       "education_key": "piercing_nozzle"
     },
     {
       "id": 6,
       "caption": "レスキューステアトレーニング",
-      "duration": 604800,
+      "duration": "604800",
       "education_key": "rettungstreppe"
     },
     {
       "id": 7,
       "caption": "集中治療訓練",
-      "duration": 432000,
+      "duration": "432000",
       "education_key": "critical_care"
     },
     {
       "id": 8,
       "caption": "大型レッカー車",
-      "duration": 345600,
+      "duration": "345600",
       "education_key": "tow_trucks"
     },
     {
       "id": 9,
       "caption": "山岳救助隊養成",
-      "duration": 259200,
+      "duration": "259200",
       "education_key": "mountain_rescue",
-      "date_start": "2025-12-02T09:00:00Z"
+      "date_start": "2025-12-02 09:00:00 UTC"
     },
     {
       "id": 10,
       "caption": "無人航空機隊",
-      "duration": 432000,
+      "duration": "432000",
       "education_key": "mountain_rescue_drone",
-      "date_start": "2025-12-02T09:00:00Z"
+      "date_start": "2025-12-02 09:00:00 UTC"
     },
     {
       "id": 0,
       "caption": "警察航空隊",
-      "duration": 604800,
+      "duration": "604800",
       "education_key": "polizeihubschrauber",
       "hidden": true
     },
     {
       "id": 1,
       "caption": "SWAT",
-      "duration": 432000,
+      "duration": "432000",
       "education_key": "swat",
       "hidden": true
     },
     {
       "id": 2,
       "caption": "イヌ",
-      "duration": 432000,
+      "duration": "432000",
       "education_key": "k9"
     },
     {
       "id": 3,
       "caption": "警察用オートバイ",
-      "duration": 259200,
+      "duration": "259200",
       "education_key": "police_motorcycle",
       "hidden": true
     },
     {
       "id": 4,
       "caption": "機動隊訓練",
-      "duration": 172800,
+      "duration": "172800",
       "education_key": "riot_police"
     },
     {
       "id": 5,
       "caption": "ポリスコマンドトレーニング",
-      "duration": 432000,
+      "duration": "432000",
       "education_key": "riot_police_command"
     },
     {
       "id": 6,
       "caption": "機動隊装備訓練",
-      "duration": 432000,
+      "duration": "432000",
       "education_key": "riot_police_equipment"
     },
     {
       "id": 7,
       "caption": "水鉄砲操作訓練",
-      "duration": 604800,
+      "duration": "604800",
       "education_key": "police_wasserwerfer"
     },
     {
       "id": 0,
       "caption": "集中治療訓練",
-      "duration": 432000,
+      "duration": "432000",
       "education_key": "critical_care"
     },
     {
       "id": 1,
       "caption": "救急バイク",
-      "duration": 259200,
+      "duration": "259200",
       "education_key": "rapid_response_motorcycle"
     },
     {
       "id": 0,
       "caption": "沿岸救助パイロット",
-      "duration": 432000,
+      "duration": "432000",
       "education_key": "coastal_rescue_pilot"
     },
     {
       "id": 1,
       "caption": "航海士",
-      "duration": 432000,
+      "duration": "432000",
       "education_key": "ocean_navigation"
     },
     {
       "id": 2,
       "caption": "沿岸救助要員",
-      "duration": 432000,
+      "duration": "432000",
       "education_key": "coastal_rescue"
     }
   ]
