@@ -3371,6 +3371,11 @@
       "id": 166,
       "caption": "Sommer-Einsätze 2026",
       "key": "AWARD_SUMMER_2026"
+    },
+    {
+      "id": 167,
+      "caption": "13. Jubiläum!",
+      "key": "AWARD_THIRTEEN_YEARS"
     }
   ],
   "filter_types": [
