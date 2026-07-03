@@ -1221,6 +1221,11 @@
         "care_service_equipment_value": "Required Field Kitchens"
       },
       "type": "Integer"
+    },
+    {
+      "key": "care_includes_staff_members",
+      "caption": "Required fire care service staff",
+      "type": "Integer"
     }
   ],
   "pois": [
