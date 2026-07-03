@@ -1381,6 +1381,11 @@
         "care_service_equipment_value": "Required Field Kitchens"
       },
       "type": "Integer"
+    },
+    {
+      "key": "care_includes_staff_members",
+      "caption": "Required fire care service staff",
+      "type": "Integer"
     }
   ],
   "pois": [
@@ -7985,6 +7990,10 @@
     {
       "id": 1156,
       "caption": "Illegal opening of fire hydrants"
+    },
+    {
+      "id": 1157,
+      "caption": "Acute Behavioural Disturbance"
     }
   ],
   "education_data": [
