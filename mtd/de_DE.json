@@ -1481,6 +1481,11 @@
         "care_service_equipment_value": "Benötigte Betreuungs- und Verpflegungsausstattung"
       },
       "type": "Integer"
+    },
+    {
+      "key": "care_includes_staff_members",
+      "caption": "Benötigtes Feuerwehr-Verpflegungseinheit Personal",
+      "type": "Integer"
     }
   ],
   "pois": [
@@ -7480,6 +7485,10 @@
     {
       "id": 1009,
       "caption": "Eingestürzte VIP-Lounge"
+    },
+    {
+      "id": 1010,
+      "caption": "Absicherung Volksfest (klein)"
     }
   ],
   "education_data": [
