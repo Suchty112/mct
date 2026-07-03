@@ -1291,6 +1291,11 @@
         "care_service_equipment_value": "Required Care Vehicles"
       },
       "type": "Integer"
+    },
+    {
+      "key": "care_includes_staff_members",
+      "caption": "Care for Personnel Required",
+      "type": "Integer"
     }
   ],
   "pois": [
@@ -6902,11 +6907,15 @@
     },
     {
       "id": 859,
-      "caption": "Illegal opening of fire hydrants"
+      "caption": "Tampering with fire hydrants"
     },
     {
       "id": 860,
       "caption": "Dog loose on road"
+    },
+    {
+      "id": 861,
+      "caption": "Knifepoint Robbery of a Person"
     }
   ],
   "education_data": [
