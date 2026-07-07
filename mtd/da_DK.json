@@ -298,7 +298,7 @@
     {
       "key": "duration",
       "caption": null,
-      "type": "Integer"
+      "type": "ActiveSupport::Duration"
     },
     {
       "key": "need_rtw",
@@ -5701,164 +5701,164 @@
     {
       "id": 0,
       "caption": "Gift og kemikalie-enhed",
-      "duration": 259200,
+      "duration": "259200",
       "education_key": "gw_gefahrgut"
     },
     {
       "id": 1,
       "caption": "Mobilkommando",
-      "duration": 432000,
+      "duration": "432000",
       "education_key": "elw2"
     },
     {
       "id": 2,
       "caption": "Lufthavns Uddannelse",
-      "duration": 604800,
+      "duration": "604800",
       "education_key": "arff"
     },
     {
       "id": 3,
       "caption": "Overfladeredderkursus",
-      "duration": 345600,
+      "duration": "345600",
       "education_key": "gw_wasserrettung"
     },
     {
       "id": 4,
       "caption": "Maritim Navigation",
-      "duration": 432000,
+      "duration": "432000",
       "education_key": "ocean_navigation",
       "hidden": true
     },
     {
       "id": 5,
       "caption": "Redningsdykkeruddannelse",
-      "duration": 432000,
+      "duration": "432000",
       "education_key": "gw_taucher"
     },
     {
       "id": 6,
       "caption": "Akutlæge",
-      "duration": 432000,
+      "duration": "432000",
       "education_key": "critical_care"
     },
     {
       "id": 7,
       "caption": "Indsatsleder Sund",
-      "duration": 259200,
+      "duration": "259200",
       "education_key": "orgl"
     },
     {
       "id": 8,
       "caption": "Redningshundefører uddannelse",
-      "duration": 432000,
+      "duration": "432000",
       "education_key": "rescue_dogs"
     },
     {
       "id": 9,
       "caption": "Sværvognsuddannelse",
-      "duration": 432000,
+      "duration": "432000",
       "education_key": "tow_trucks"
     },
     {
       "id": 0,
       "caption": "Politihelikopterobservatør",
-      "duration": 604800,
+      "duration": "604800",
       "education_key": "polizeihubschrauber"
     },
     {
       "id": 1,
       "caption": "Aktionsstyrken",
-      "duration": 432000,
+      "duration": "432000",
       "education_key": "swat"
     },
     {
       "id": 2,
       "caption": "Hundefører",
-      "duration": 432000,
+      "duration": "432000",
       "education_key": "k9"
     },
     {
       "id": 3,
       "caption": "Politimotorcykel",
-      "duration": 259200,
+      "duration": "259200",
       "education_key": "police_motorcycle"
     },
     {
       "id": 4,
       "caption": "Indsatsledelse Politi",
-      "duration": 259200,
+      "duration": "259200",
       "education_key": "elw_police"
     },
     {
       "id": 5,
       "caption": "Urobetjente uddannelse",
-      "duration": 172800,
+      "duration": "172800",
       "education_key": "riot_police"
     },
     {
       "id": 6,
       "caption": "Politihest uddannelse",
-      "duration": 345600,
+      "duration": "345600",
       "education_key": "police_horse"
     },
     {
       "id": 7,
       "caption": "EOD-uddannelse",
-      "duration": 259200,
+      "duration": "259200",
       "education_key": "bomb_disposal"
     },
     {
       "id": 8,
       "caption": "EOD-leder uddannelse",
-      "duration": 432000,
+      "duration": "432000",
       "education_key": "bomb_disposal_command"
     },
     {
       "id": 9,
       "caption": "Droneoperatør uddannelse",
-      "duration": 432000,
+      "duration": "432000",
       "education_key": "bomb_drone"
     },
     {
       "id": 10,
       "caption": "EOD-dykker uddannelse",
-      "duration": 259200,
+      "duration": "259200",
       "education_key": "bomb_disposal_diver"
     },
     {
       "id": 0,
       "caption": "Akutlæge",
-      "duration": 432000,
+      "duration": "432000",
       "education_key": "critical_care"
     },
     {
       "id": 1,
       "caption": "Indsatsleder Sund",
-      "duration": 259200,
+      "duration": "259200",
       "education_key": "orgl"
     },
     {
       "id": 0,
       "caption": "Kystrednings Redningshelikopterpilot",
-      "duration": 432000,
+      "duration": "432000",
       "education_key": "coastal_rescue_pilot"
     },
     {
       "id": 1,
       "caption": "Maritim Politi",
-      "duration": 259200,
+      "duration": "259200",
       "education_key": "law_enforcement_marine"
     },
     {
       "id": 2,
       "caption": "Maritim Navigation",
-      "duration": 604800,
+      "duration": "604800",
       "education_key": "ocean_navigation"
     },
     {
       "id": 3,
       "caption": "Kystredder",
-      "duration": 432000,
+      "duration": "432000",
       "education_key": "coastal_rescue"
     }
   ]
