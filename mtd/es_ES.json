@@ -283,7 +283,7 @@
     {
       "key": "duration",
       "caption": null,
-      "type": "Integer"
+      "type": "ActiveSupport::Duration"
     },
     {
       "key": "rth_need_quote",
@@ -5876,203 +5876,203 @@
     {
       "id": 0,
       "caption": "Hazmat",
-      "duration": 259200,
+      "duration": "259200",
       "education_key": "gw_gefahrgut"
     },
     {
       "id": 1,
       "caption": "Mando móvil",
-      "duration": 432000,
+      "duration": "432000",
       "education_key": "elw2"
     },
     {
       "id": 2,
       "caption": "Formación ARFF Aircraft Rescue and Firefighting",
-      "duration": 432000,
+      "duration": "432000",
       "education_key": "arff"
     },
     {
       "id": 3,
       "caption": "Rescata acuático rápido",
-      "duration": 345600,
+      "duration": "345600",
       "education_key": "gw_wasserrettung"
     },
     {
       "id": 4,
       "caption": "Formación de Navegación en Oceáno",
-      "duration": 432000,
+      "duration": "432000",
       "education_key": "ocean_navigation",
       "hidden": true
     },
     {
       "id": 5,
       "caption": "Formación de buzo de rescate",
-      "duration": 432000,
+      "duration": "432000",
       "education_key": "gw_taucher"
     },
     {
       "id": 6,
       "caption": "Formación de rescate con cuerdas",
-      "duration": 432000,
+      "duration": "432000",
       "education_key": "gw_hoehenrettung"
     },
     {
       "id": 7,
       "caption": "Formación ARFF - Lanza de perforación",
-      "duration": 518400,
+      "duration": "518400",
       "education_key": "piercing_nozzle"
     },
     {
       "id": 8,
       "caption": "Formación ARFF - Mando aeroportuario",
-      "duration": 518400,
+      "duration": "518400",
       "education_key": "elw_airport"
     },
     {
       "id": 9,
       "caption": "Formación ARFF - Autoescalera de rescate",
-      "duration": 604800,
+      "duration": "604800",
       "education_key": "rettungstreppe"
     },
     {
       "id": 10,
       "caption": "Médico de Urgencias",
-      "duration": 432000,
+      "duration": "432000",
       "education_key": "critical_care"
     },
     {
       "id": 11,
       "caption": "Enfermera",
-      "duration": 432000,
+      "duration": "432000",
       "education_key": "nurse"
     },
     {
       "id": 12,
       "caption": "Vehículo pesado",
-      "duration": 345600,
+      "duration": "345600",
       "education_key": "tow_trucks"
     },
     {
       "id": 13,
       "caption": "CAEM - Centro de Adiestramientos Específicos de Montaña",
-      "duration": 432000,
+      "duration": "432000",
       "education_key": "mountain_rescue",
-      "date_start": "2025-11-18T09:00:00Z"
+      "date_start": "2025-11-18 09:00:00 UTC"
     },
     {
       "id": 14,
       "caption": "Calificación de rescatista aéreo",
-      "duration": 432000,
+      "duration": "432000",
       "education_key": "airborne_firefighting",
-      "date_start": "2026-06-17T11:00:00Z"
+      "date_start": "2026-06-17 11:00:00 UTC"
     },
     {
       "id": 15,
       "caption": "Extinción de incendios forestales",
-      "duration": 432000,
+      "duration": "432000",
       "education_key": "wildfire",
-      "date_start": "2026-06-17T11:00:00Z"
+      "date_start": "2026-06-17 11:00:00 UTC"
     },
     {
       "id": 0,
       "caption": "Piloto de Helicóptero",
-      "duration": 604800,
+      "duration": "604800",
       "education_key": "polizeihubschrauber"
     },
     {
       "id": 1,
       "caption": "Fuerzas Especiales",
-      "duration": 432000,
+      "duration": "432000",
       "education_key": "swat"
     },
     {
       "id": 2,
       "caption": "Guía Canino",
-      "duration": 432000,
+      "duration": "432000",
       "education_key": "k9"
     },
     {
       "id": 3,
       "caption": "Motorista",
-      "duration": 259200,
+      "duration": "259200",
       "education_key": "police_motorcycle"
     },
     {
       "id": 4,
       "caption": "Educación de la policía antidisturbios",
-      "duration": 172800,
+      "duration": "172800",
       "education_key": "riot_police"
     },
     {
       "id": 5,
       "caption": "Entrenamiento de mando de policía antidisturbios",
-      "duration": 604800,
+      "duration": "604800",
       "education_key": "riot_police_command"
     },
     {
       "id": 6,
       "caption": "Educación sobre el equipo de la policía antidisturbios",
-      "duration": 432000,
+      "duration": "432000",
       "education_key": "riot_police_equipment"
     },
     {
       "id": 7,
       "caption": "Capacitación en operación de cañones de agua",
-      "duration": 604800,
+      "duration": "604800",
       "education_key": "police_wasserwerfer"
     },
     {
       "id": 8,
       "caption": "Entrenamiento de líder de equipo de policía",
-      "duration": 432000,
+      "duration": "432000",
       "education_key": "police_service_group_leader"
     },
     {
       "id": 9,
       "caption": "Entrenamiento Montado",
-      "duration": 345600,
+      "duration": "345600",
       "education_key": "police_horse"
     },
     {
       "id": 10,
       "caption": "Formación GEAS",
-      "duration": 432000,
+      "duration": "432000",
       "education_key": "coastal_command"
     },
     {
       "id": 0,
       "caption": "Médico de Urgencias",
-      "duration": 432000,
+      "duration": "432000",
       "education_key": "critical_care"
     },
     {
       "id": 1,
       "caption": "Motocicleta de intervención rápida",
-      "duration": 259200,
+      "duration": "259200",
       "education_key": "rapid_response_motorcycle"
     },
     {
       "id": 2,
       "caption": "Enfermera",
-      "duration": 432000,
+      "duration": "432000",
       "education_key": "nurse"
     },
     {
       "id": 0,
       "caption": "Formación en operaciones de rescate aéreo",
-      "duration": 432000,
+      "duration": "432000",
       "education_key": "coastal_rescue_pilot"
     },
     {
       "id": 1,
       "caption": "Formación de Navegación en Oceáno",
-      "duration": 432000,
+      "duration": "432000",
       "education_key": "ocean_navigation"
     },
     {
       "id": 2,
       "caption": "Formación de buzos de salvamento",
-      "duration": 432000,
+      "duration": "432000",
       "education_key": "coastal_support"
     }
   ]
