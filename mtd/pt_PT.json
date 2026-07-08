@@ -741,6 +741,11 @@
       "type": "Integer"
     },
     {
+      "key": "need_kdow_orgl_chance",
+      "caption": "Probabilidade de requerer Líder de ambulância:",
+      "type": "Integer"
+    },
+    {
       "key": "need_bomb_chance",
       "caption": "Probabilidade de requerer um Inativação de Explosivos e Segurança em Subsolo",
       "type": "Integer"
@@ -5569,6 +5574,22 @@
     {
       "id": 725,
       "caption": "Falsificação de bilhetes"
+    },
+    {
+      "id": 726,
+      "caption": "Estilhaços de vidro no olho"
+    },
+    {
+      "id": 727,
+      "caption": "Milionário da loteria assaltado"
+    },
+    {
+      "id": 728,
+      "caption": "Arrombamento em casa de leilões"
+    },
+    {
+      "id": 729,
+      "caption": "Pessoa cai em silo e fica presa"
     }
   ],
   "education_data": [
