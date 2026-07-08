@@ -3302,6 +3302,11 @@
       "id": 150,
       "caption": "Independence Day 2026",
       "key": "AWARD_INDEPENDENCE_2026"
+    },
+    {
+      "id": 151,
+      "caption": "Soccer Collection Event 2026",
+      "key": "AWARD_WC2026_COLLECTION"
     }
   ],
   "filter_types": [
