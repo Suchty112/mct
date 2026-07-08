@@ -401,6 +401,26 @@
       "type": "Integer"
     },
     {
+      "key": "alliance_event_credits",
+      "caption": "Alliance Event Credits",
+      "type": "Integer"
+    },
+    {
+      "key": "event_currency",
+      "caption": "Event Credits",
+      "type": "Integer"
+    },
+    {
+      "key": "season_event",
+      "caption": "Football",
+      "type": "Symbol"
+    },
+    {
+      "key": "football_count",
+      "caption": "Football level needed",
+      "type": "Integer"
+    },
+    {
       "key": "need_oneof_police_drone_or_helicopter",
       "caption": "Required Police Helicopters or Drones",
       "type": "Integer"
@@ -6921,6 +6941,14 @@
     {
       "id": 861,
       "caption": "Knifepoint Robbery of a Person"
+    },
+    {
+      "id": 862,
+      "caption": "ANPR Activation - High Risk Missing Person"
+    },
+    {
+      "id": 863,
+      "caption": "Fallen Down Stairs"
     }
   ],
   "education_data": [
