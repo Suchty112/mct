@@ -746,6 +746,26 @@
       "type": "Integer"
     },
     {
+      "key": "alliance_event_credits",
+      "caption": "Alliance Event Credits",
+      "type": "Integer"
+    },
+    {
+      "key": "event_currency",
+      "caption": "Event Credits",
+      "type": "Integer"
+    },
+    {
+      "key": "season_event",
+      "caption": "Soccer",
+      "type": "Symbol"
+    },
+    {
+      "key": "football_count",
+      "caption": "Soccer level needed",
+      "type": "Integer"
+    },
+    {
       "key": "brush_command_count",
       "caption": "Required Wildland Commando Extensions",
       "type": "Integer"
@@ -7999,6 +8019,22 @@
     {
       "id": 1157,
       "caption": "Acute Behavioural Disturbance"
+    },
+    {
+      "id": 1158,
+      "caption": "Glass shards in the eye"
+    },
+    {
+      "id": 1159,
+      "caption": "Lotto millionaire robbed"
+    },
+    {
+      "id": 1160,
+      "caption": "Burglary in Auction House"
+    },
+    {
+      "id": 1161,
+      "caption": "Person falls into a silo and gets stuck"
     }
   ],
   "education_data": [
