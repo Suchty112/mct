@@ -691,6 +691,11 @@
       "type": "Integer"
     },
     {
+      "key": "need_kdow_orgl_chance",
+      "caption": "Prawdopodobieństwo że Szefa służb ratownictwa medycznego potrzebny",
+      "type": "Integer"
+    },
+    {
       "key": "need_boot_chance",
       "caption": null,
       "type": "Integer"
@@ -6299,6 +6304,22 @@
     {
       "id": 906,
       "caption": "Fałszerstwo biletów"
+    },
+    {
+      "id": 907,
+      "caption": "Odłamki szkła w oku"
+    },
+    {
+      "id": 908,
+      "caption": "Napad na milionera z loterii"
+    },
+    {
+      "id": 909,
+      "caption": "Włamanie do domu aukcyjnego"
+    },
+    {
+      "id": 910,
+      "caption": "Osoba wpadła do silosu – uwięziona"
     }
   ],
   "education_data": [
