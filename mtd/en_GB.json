@@ -3404,6 +3404,11 @@
       "id": 138,
       "caption": "Summer Event 2026",
       "key": "AWARD_SUMMER_2026"
+    },
+    {
+      "id": 139,
+      "caption": "Football Collection Event 2026",
+      "key": "AWARD_WC2026_COLLECTION"
     }
   ],
   "filter_types": [
