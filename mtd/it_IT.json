@@ -6429,6 +6429,34 @@
     {
       "id": 853,
       "caption": "Contraffazione di biglietti"
+    },
+    {
+      "id": 854,
+      "caption": "Lite in spiaggia"
+    },
+    {
+      "id": 855,
+      "caption": "Piccolo Natante Capovolto"
+    },
+    {
+      "id": 856,
+      "caption": "Grande Natante Capovolto"
+    },
+    {
+      "id": 857,
+      "caption": "Natante Scomparso"
+    },
+    {
+      "id": 858,
+      "caption": "Soccorso in Acque Profonde"
+    },
+    {
+      "id": 859,
+      "caption": "Marinai Intrappolati in Nave Ribaltata"
+    },
+    {
+      "id": 860,
+      "caption": "Persona Dispersa in Mare"
     }
   ],
   "education_data": [
