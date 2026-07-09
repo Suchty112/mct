@@ -731,6 +731,11 @@
       "type": "Integer"
     },
     {
+      "key": "need_elw_police_chance",
+      "caption": "Sandsynlighed for nødvendighed af Indsatsleder Politi",
+      "type": "Integer"
+    },
+    {
       "key": "need_arff_chance",
       "caption": "Chance for Crash Tender påkrævet",
       "type": "Integer"
@@ -748,11 +753,6 @@
     {
       "key": "need_elw2_chance",
       "caption": "Sandsynlighed for nødvendighed af ledelses- og kommunikationsmodul",
-      "type": "Integer"
-    },
-    {
-      "key": "need_elw_police_chance",
-      "caption": "Sandsynlighed for nødvendighed af Indsatsleder Politi",
       "type": "Integer"
     },
     {
@@ -2575,6 +2575,11 @@
       "id": 153,
       "caption": "Sommerbegivenhed 2026",
       "key": "AWARD_SUMMER_2026"
+    },
+    {
+      "id": 154,
+      "caption": "Alliancens udfordring juli 2026",
+      "key": "AWARD_ALLIANCE_CHALLENGE_JULY_2026"
     }
   ],
   "filter_types": [
@@ -5695,6 +5700,22 @@
     {
       "id": 763,
       "caption": "Billetforfalskning"
+    },
+    {
+      "id": 764,
+      "caption": "Glasskår i øjet"
+    },
+    {
+      "id": 765,
+      "caption": "Røveri mod en lotto-millionær"
+    },
+    {
+      "id": 766,
+      "caption": "Indbrud i Auktionshus"
+    },
+    {
+      "id": 767,
+      "caption": "Person røget ned i en silo og sidder fast"
     }
   ],
   "education_data": [
