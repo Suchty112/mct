@@ -2616,6 +2616,11 @@
       "id": 147,
       "caption": "Impreza letnia 2026",
       "key": "AWARD_SUMMER_2026"
+    },
+    {
+      "id": 148,
+      "caption": "Wyzwanie sojuszu lipiec 2026 r.",
+      "key": "AWARD_ALLIANCE_CHALLENGE_JULY_2026"
     }
   ],
   "filter_types": [
