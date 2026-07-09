@@ -2436,6 +2436,11 @@
       "id": 139,
       "caption": "2026 夏のイベント",
       "key": "AWARD_SUMMER_2026"
+    },
+    {
+      "id": 140,
+      "caption": "アライアンス・チャレンジ 2026年7月",
+      "key": "AWARD_ALLIANCE_CHALLENGE_JULY_2026"
     }
   ],
   "filter_types": [
@@ -5184,6 +5189,22 @@
     {
       "id": 671,
       "caption": "チケット偽造"
+    },
+    {
+      "id": 672,
+      "caption": "眼にガラス片"
+    },
+    {
+      "id": 673,
+      "caption": "宝くじ当選者が強盗被害"
+    },
+    {
+      "id": 674,
+      "caption": "オークションハウスで侵入窃盗"
+    },
+    {
+      "id": 675,
+      "caption": "人物がサイロに転落・閉じ込め"
     }
   ],
   "education_data": [
