@@ -2430,6 +2430,11 @@
       "id": 142,
       "caption": "Kesätapahtuma 2026",
       "key": "AWARD_SUMMER_2026"
+    },
+    {
+      "id": 143,
+      "caption": "Alliance Challenge heinäkuu 2026",
+      "key": "AWARD_ALLIANCE_CHALLENGE_JULY_2026"
     }
   ],
   "filter_types": [
