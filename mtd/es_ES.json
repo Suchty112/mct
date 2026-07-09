@@ -2902,6 +2902,11 @@
       "id": 140,
       "caption": "Evento de verano 2026",
       "key": "AWARD_SUMMER_2026"
+    },
+    {
+      "id": 141,
+      "caption": "Desafío de la Alianza Julio de 2026",
+      "key": "AWARD_ALLIANCE_CHALLENGE_JULY_2026"
     }
   ],
   "filter_types": [
@@ -5870,6 +5875,22 @@
     {
       "id": 726,
       "caption": "Rescate de Senderistas Atrapados por las Llamas"
+    },
+    {
+      "id": 727,
+      "caption": "Cristales en el ojo"
+    },
+    {
+      "id": 728,
+      "caption": "Robo a millonario de la lotería"
+    },
+    {
+      "id": 729,
+      "caption": "Robo con allanamiento en casa de subastas"
+    },
+    {
+      "id": 730,
+      "caption": "Persona cae en un silo y queda atrapada"
     }
   ],
   "education_data": [
