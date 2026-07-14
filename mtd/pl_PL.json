@@ -696,6 +696,46 @@
       "type": "Integer"
     },
     {
+      "key": "need_railway_fire_engine_large",
+      "caption": "Wymagany Wóz produko-gaśniczy szynowo-drogowy",
+      "type": "Integer"
+    },
+    {
+      "key": "need_railway_fire_engine",
+      "caption": "Wymagane Pojazd szynowo-drogowy",
+      "type": "Integer"
+    },
+    {
+      "key": "railway_fire_count",
+      "caption": "Wymagane Pożar kolei",
+      "type": "Integer"
+    },
+    {
+      "key": "need_railway_recovery_large",
+      "caption": "Potrzebny Kolejowy podnośnik koszowy",
+      "type": "Integer"
+    },
+    {
+      "key": "need_railway_recovery",
+      "caption": "Wymagana Lora pomocnicza",
+      "type": "Integer"
+    },
+    {
+      "key": "need_railway_fire_platform_container",
+      "caption": "Wymagany Ciężki pojazd szynowo-drogowy",
+      "type": "Integer"
+    },
+    {
+      "key": "need_railway_fire_equipment_container",
+      "caption": "Wymagany Nośnik gąsienicowy",
+      "type": "Integer"
+    },
+    {
+      "key": "need_railway_fan",
+      "caption": "Wymagana Przenośna suwnica bramowa",
+      "type": "Integer"
+    },
+    {
       "key": "need_boot_chance",
       "caption": null,
       "type": "Integer"
@@ -958,6 +998,41 @@
     {
       "key": "need_mountain_atv_chance",
       "caption": "Prawdopodobieństwo, że ATV jest wymagane",
+      "type": "Integer"
+    },
+    {
+      "key": "need_railway_fire_engine_chance",
+      "caption": "Prawdopodobieństwo, że wymagany jest Pojazd szynowo-drogowy",
+      "type": "Integer"
+    },
+    {
+      "key": "need_railway_fire_engine_large_chance",
+      "caption": "Prawdopodobieństwo, że wymagany jest Wóz produko-gaśniczy szynowo-drogowy",
+      "type": "Integer"
+    },
+    {
+      "key": "need_railway_fire_platform_container_chance",
+      "caption": "Prawdopodobieństwo, że wymagany jest Ciężki pojazd szynowo-drogowy",
+      "type": "Integer"
+    },
+    {
+      "key": "need_railway_fire_equipment_container_chance",
+      "caption": "Prawdopodobieństwo, że wymagany jest Nośnik gąsienicowy",
+      "type": "Integer"
+    },
+    {
+      "key": "need_railway_fan_chance",
+      "caption": "Prawdopodobieństwo, że wymagana jest Przenośna suwnica bramowa",
+      "type": "Integer"
+    },
+    {
+      "key": "need_railway_recovery_chance",
+      "caption": "Prawdopodobieństwo, że potrzebna jest Lora pomocnicza",
+      "type": "Integer"
+    },
+    {
+      "key": "need_railway_recovery_large_chance",
+      "caption": "Prawdopodobieństwo, że wymagany jest Kolejowy podnośnik koszowy",
       "type": "Integer"
     },
     {
@@ -1251,6 +1326,10 @@
     {
       "id": 66,
       "caption": "Stok narciarski"
+    },
+    {
+      "id": 67,
+      "caption": "Tor kolejowy"
     }
   ],
   "available_icons": [
@@ -1391,6 +1470,10 @@
         {
           "id": 19,
           "caption": "Duża remiza strażacka"
+        },
+        {
+          "id": 20,
+          "caption": "Pożar kolei"
         }
       ],
       "generates_mission_types": ["fire"]
@@ -6325,6 +6408,38 @@
     {
       "id": 910,
       "caption": "Osoba wpadła do silosu – uwięziona"
+    },
+    {
+      "id": 911,
+      "caption": "Pożar lokomotywy elektrycznej na szlaku"
+    },
+    {
+      "id": 912,
+      "caption": "Zerwanie sieci trakcyjnej na przejeździe kolejowo-drogowym"
+    },
+    {
+      "id": 913,
+      "caption": "Zderzenie dwóch lokomotyw manewrowych"
+    },
+    {
+      "id": 914,
+      "caption": "Wykolejenie pociągu roboczego (infrastruktura)"
+    },
+    {
+      "id": 915,
+      "caption": "Pożar wagonu do przewozu samochodów na peronie metra"
+    },
+    {
+      "id": 916,
+      "caption": "Pożar transformatora w podstacji elektrycznej"
+    },
+    {
+      "id": 917,
+      "caption": "Pożar skarpy przy torach kolejowych"
+    },
+    {
+      "id": 918,
+      "caption": "Ewakuacja medyczna – pożar kolejowy"
     }
   ],
   "education_data": [
@@ -6419,6 +6534,20 @@
       "caption": "Szkolenie w zakresie pojazdów ciężkich",
       "duration": 345600,
       "education_key": "tow_trucks"
+    },
+    {
+      "id": 15,
+      "caption": "Taktyka gaszenia pożarów kolejowych",
+      "duration": 432000,
+      "education_key": "railway_fire",
+      "date_start": "2026-07-14T12:00:00Z"
+    },
+    {
+      "id": 16,
+      "caption": "Szkolenie z zakresu stosowania urządzeń SRK",
+      "duration": 345600,
+      "education_key": "railway_electronics",
+      "date_start": "2026-07-14T12:00:00Z"
     },
     {
       "id": 0,
