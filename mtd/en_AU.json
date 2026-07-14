@@ -691,6 +691,36 @@
       "type": "Integer"
     },
     {
+      "key": "coastal_helicopter_count",
+      "caption": "Required Coastal Helicopter Hangar",
+      "type": "Integer"
+    },
+    {
+      "key": "need_coastal_boat",
+      "caption": "Required Small Coastal Boat",
+      "type": "Integer"
+    },
+    {
+      "key": "need_coastal_helicopter",
+      "caption": "Required Coastal Helicopter",
+      "type": "Integer"
+    },
+    {
+      "key": "need_coastal_command",
+      "caption": "Required Lifeguard Supervisor",
+      "type": "Integer"
+    },
+    {
+      "key": "coastal_plane_count",
+      "caption": "Required  Coastal Plane Hangar",
+      "type": "Integer"
+    },
+    {
+      "key": "need_coastal_plane",
+      "caption": "Required Coastal Guard Plane",
+      "type": "Integer"
+    },
+    {
       "key": "need_boot_chance",
       "caption": null,
       "type": "Integer"
@@ -893,6 +923,26 @@
     {
       "key": "need_police_boat_chance",
       "caption": "Probability that Patrol Cutter is required",
+      "type": "Integer"
+    },
+    {
+      "key": "need_coastal_helicopter_chance",
+      "caption": "Probability that Coastal Helicopter is required",
+      "type": "Integer"
+    },
+    {
+      "key": "need_coastal_plane_chance",
+      "caption": "Probability that Coastal Guard Plane is required",
+      "type": "Integer"
+    },
+    {
+      "key": "need_coastal_boat_chance",
+      "caption": "Probability that Small Coastal Boat is required",
+      "type": "Integer"
+    },
+    {
+      "key": "need_coastal_command_chance",
+      "caption": "Probability that Lifeguard Supervisor is required",
       "type": "Integer"
     },
     {
@@ -1250,6 +1300,14 @@
     {
       "id": 82,
       "caption": "Market"
+    },
+    {
+      "id": 83,
+      "caption": "Coast Line"
+    },
+    {
+      "id": 84,
+      "caption": "Oil Rig"
     }
   ],
   "available_icons": [
@@ -1292,7 +1350,8 @@
     "flood",
     "lightningStrike",
     "bridge",
-    "cycling"
+    "cycling",
+    "boat"
   ],
   "building_types": [
     {
@@ -1781,6 +1840,53 @@
       "caption": "Police Boat Dock",
       "key": "BUILDING_TYPE_POLICE_BOAT_DOCK",
       "generates_mission_types": ["police_ocean"]
+    },
+    {
+      "id": 28,
+      "caption": "Water Rescue Heliport",
+      "key": "BUILDING_TYPE_WATER_RESCUE_HELIPORT",
+      "extensions": [
+        {
+          "id": 0,
+          "caption": "Coastal Helicopter Hangar"
+        },
+        {
+          "id": 1,
+          "caption": "Coastal Plane Hangar"
+        },
+        {
+          "id": 2,
+          "caption": "Additional Coastal Helicopter Hangar"
+        },
+        {
+          "id": 3,
+          "caption": "Additional Coastal Plane Hangar"
+        },
+        {
+          "id": 4,
+          "caption": "Additional Coastal Helicopter Hangar"
+        },
+        {
+          "id": 5,
+          "caption": "Additional Coastal Plane Hangar"
+        },
+        {
+          "id": 6,
+          "caption": "Additional Coastal Helicopter Hangar"
+        },
+        {
+          "id": 7,
+          "caption": "Additional Coastal Plane Hangar"
+        },
+        {
+          "id": 8,
+          "caption": "Additional Coastal Helicopter Hangar"
+        },
+        {
+          "id": 9,
+          "caption": "Additional Coastal Plane Hangar"
+        }
+      ]
     }
   ],
   "awards": [
@@ -5939,6 +6045,34 @@
     {
       "id": 848,
       "caption": "Person falls into a silo and gets stuck"
+    },
+    {
+      "id": 849,
+      "caption": "Lack of oxygen onboard"
+    },
+    {
+      "id": 850,
+      "caption": "Fishing boat in distress"
+    },
+    {
+      "id": 851,
+      "caption": "Vessel Taking on Water"
+    },
+    {
+      "id": 852,
+      "caption": "Overturned Small Vessel"
+    },
+    {
+      "id": 853,
+      "caption": "Oil Rig Explosion"
+    },
+    {
+      "id": 854,
+      "caption": "Smuggling via Boat"
+    },
+    {
+      "id": 855,
+      "caption": "Distressed Yacht Caught in Hurricane"
     }
   ],
   "education_data": [
@@ -6063,6 +6197,20 @@
       "caption": "SES Rescue",
       "duration": 345600,
       "education_key": "gw_wasserrettung"
+    },
+    {
+      "id": 4,
+      "caption": "Coastal Rescue Pilot Training",
+      "duration": 432000,
+      "education_key": "coastal_rescue_pilot",
+      "date_start": "2026-07-14T12:00:00.000+10:00"
+    },
+    {
+      "id": 5,
+      "caption": "Coastal Rescue Command",
+      "duration": 432000,
+      "education_key": "coastal_command",
+      "date_start": "2026-07-14T12:00:00.000+10:00"
     }
   ]
 }
