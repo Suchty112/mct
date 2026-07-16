@@ -366,6 +366,11 @@
       "type": "Integer"
     },
     {
+      "key": "custom_spawn_area",
+      "caption": "Custom Mission Spawn Area",
+      "type": "Boolean"
+    },
+    {
       "key": "max_police_building",
       "caption": "Max. police stations",
       "type": "Integer"
@@ -504,11 +509,6 @@
       "key": "need_large_coastal_boat",
       "caption": "Required ILBs",
       "type": "Integer"
-    },
-    {
-      "key": "custom_spawn_area",
-      "caption": "Custom Mission Spawn Area",
-      "type": "Boolean"
     },
     {
       "key": "groups",
