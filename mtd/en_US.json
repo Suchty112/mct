@@ -746,26 +746,6 @@
       "type": "Integer"
     },
     {
-      "key": "alliance_event_credits",
-      "caption": "Alliance Event Credits",
-      "type": "Integer"
-    },
-    {
-      "key": "event_currency",
-      "caption": "Event Credits",
-      "type": "Integer"
-    },
-    {
-      "key": "season_event",
-      "caption": "Soccer",
-      "type": "Symbol"
-    },
-    {
-      "key": "football_count",
-      "caption": "Soccer level needed",
-      "type": "Integer"
-    },
-    {
       "key": "brush_command_count",
       "caption": "Required Wildland Commando Extensions",
       "type": "Integer"
