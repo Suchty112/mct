@@ -366,11 +366,6 @@
       "type": "Integer"
     },
     {
-      "key": "custom_spawn_area",
-      "caption": "Custom Mission Spawn Area",
-      "type": "Boolean"
-    },
-    {
       "key": "max_police_building",
       "caption": "Max. police stations",
       "type": "Integer"
@@ -403,26 +398,6 @@
     {
       "key": "personal_min_polizei",
       "caption": "Average min . Police Personnel",
-      "type": "Integer"
-    },
-    {
-      "key": "alliance_event_credits",
-      "caption": "Alliance Event Credits",
-      "type": "Integer"
-    },
-    {
-      "key": "event_currency",
-      "caption": "Event Credits",
-      "type": "Integer"
-    },
-    {
-      "key": "season_event",
-      "caption": "Football",
-      "type": "Symbol"
-    },
-    {
-      "key": "football_count",
-      "caption": "Football level needed",
       "type": "Integer"
     },
     {
@@ -509,6 +484,11 @@
       "key": "need_large_coastal_boat",
       "caption": "Required ILBs",
       "type": "Integer"
+    },
+    {
+      "key": "custom_spawn_area",
+      "caption": "Custom Mission Spawn Area",
+      "type": "Boolean"
     },
     {
       "key": "groups",
@@ -4845,7 +4825,7 @@
     },
     {
       "id": 336,
-      "caption": "Inflate football"
+      "caption": "Inflate Soccer ball"
     },
     {
       "id": 337,
@@ -6281,7 +6261,7 @@
     },
     {
       "id": 695,
-      "caption": "Football player slipped in shower"
+      "caption": "Soccer player slipped in shower"
     },
     {
       "id": 696,
