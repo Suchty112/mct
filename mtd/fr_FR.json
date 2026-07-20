@@ -461,26 +461,6 @@
       "type": "Integer"
     },
     {
-      "key": "alliance_event_credits",
-      "caption": "Crédits de l'événement de l'Alliance",
-      "type": "Integer"
-    },
-    {
-      "key": "event_currency",
-      "caption": "Crédits de l'événement",
-      "type": "Integer"
-    },
-    {
-      "key": "season_event",
-      "caption": "Football",
-      "type": "Symbol"
-    },
-    {
-      "key": "football_count",
-      "caption": "Niveau requis en football",
-      "type": "Integer"
-    },
-    {
       "key": "need_foam",
       "caption": "FMOGP nécessaires",
       "type": "Integer"
@@ -6554,7 +6534,7 @@
     },
     {
       "id": 756,
-      "caption": "Prise d otage( arbitres)"
+      "caption": "Prise d'otage (arbitres)"
     },
     {
       "id": 757,
