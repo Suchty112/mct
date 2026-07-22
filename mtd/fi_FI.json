@@ -293,7 +293,7 @@
     {
       "key": "duration",
       "caption": null,
-      "type": "Integer"
+      "type": "ActiveSupport::Duration"
     },
     {
       "key": "need_gwa",
@@ -5537,220 +5537,220 @@
     {
       "id": 0,
       "caption": "Kemikaalitorjunta",
-      "duration": 259200,
+      "duration": "259200",
       "education_key": "gw_gefahrgut"
     },
     {
       "id": 1,
       "caption": "Johtokeskus",
-      "duration": 432000,
+      "duration": "432000",
       "education_key": "elw2"
     },
     {
       "id": 2,
       "caption": "ARFF",
-      "duration": 259200,
+      "duration": "259200",
       "education_key": "arff"
     },
     {
       "id": 3,
       "caption": "Pintapelastuskurssi",
-      "duration": 345600,
+      "duration": "345600",
       "education_key": "gw_wasserrettung"
     },
     {
       "id": 4,
       "caption": "RVL Merenkulku",
-      "duration": 432000,
+      "duration": "432000",
       "education_key": "ocean_navigation",
       "hidden": true
     },
     {
       "id": 5,
       "caption": "Vaativan hoitotason koulutus",
-      "duration": 432000,
+      "duration": "432000",
       "education_key": "critical_care"
     },
     {
       "id": 6,
       "caption": "Lentoaseman johtajakoulutus",
-      "duration": 172800,
+      "duration": "172800",
       "education_key": "elw_airport"
     },
     {
       "id": 7,
       "caption": "Pelastusportaiden koulutus",
-      "duration": 432000,
+      "duration": "432000",
       "education_key": "rettungstreppe"
     },
     {
       "id": 8,
       "caption": "Vesivahinkopumppauskoulutus",
-      "duration": 432000,
+      "duration": "432000",
       "education_key": "flood_equipment"
     },
     {
       "id": 9,
       "caption": "Vesipelastuskurssi",
-      "duration": 432000,
+      "duration": "432000",
       "education_key": "gw_taucher"
     },
     {
       "id": 10,
       "caption": "Veneenkuljettajakurssi",
-      "duration": 432000,
+      "duration": "432000",
       "education_key": "fire_boat"
     },
     {
       "id": 11,
       "caption": "Lääkäri",
-      "duration": 604800,
+      "duration": "604800",
       "education_key": "notarzt"
     },
     {
       "id": 0,
       "caption": "Poliisin lentotoiminta",
-      "duration": 604800,
+      "duration": "604800",
       "education_key": "polizeihubschrauber"
     },
     {
       "id": 1,
       "caption": "VATI",
-      "duration": 432000,
+      "duration": "432000",
       "education_key": "swat"
     },
     {
       "id": 2,
       "caption": "Koirapoliisitoiminta",
-      "duration": 432000,
+      "duration": "432000",
       "education_key": "k9"
     },
     {
       "id": 3,
       "caption": "Poliisimoottoripyörä",
-      "duration": 259200,
+      "duration": "259200",
       "education_key": "police_motorcycle"
     },
     {
       "id": 4,
       "caption": "Alipäällystökoulutus",
-      "duration": 604800,
+      "duration": "604800",
       "education_key": "police_service_group_leader"
     },
     {
       "id": 5,
       "caption": "Vaativa ajotapavalvonta",
-      "duration": 432000,
+      "duration": "432000",
       "education_key": "traffic_police"
     },
     {
       "id": 6,
       "caption": "Raskaan liikenteen valvonta",
-      "duration": 432000,
+      "duration": "432000",
       "education_key": "heavy_traffic_control"
     },
     {
       "id": 7,
       "caption": "TEPO-koulutus",
-      "duration": 432000,
+      "duration": "432000",
       "education_key": "fbi_bomb_tech"
     },
     {
       "id": 8,
       "caption": "Joukkojenhallintakoulutus",
-      "duration": 172800,
+      "duration": "172800",
       "education_key": "riot_police"
     },
     {
       "id": 9,
       "caption": "Neuvottelijakoulutus",
-      "duration": 604800,
+      "duration": "604800",
       "education_key": "tactical_negotiator"
     },
     {
       "id": 10,
       "caption": "Väkivaltarikostutkinta",
-      "duration": 604800,
+      "duration": "604800",
       "education_key": "criminal_investigation"
     },
     {
       "id": 11,
       "caption": "Huumausainerikostutkinta",
-      "duration": 604800,
+      "duration": "604800",
       "education_key": "narcotics_investigation"
     },
     {
       "id": 12,
       "caption": "Tekninen tutkinta",
-      "duration": 604800,
+      "duration": "604800",
       "education_key": "technical_investigation"
     },
     {
       "id": 13,
       "caption": "Palonsyyntutkinta",
-      "duration": 604800,
+      "duration": "604800",
       "education_key": "arson_investigator"
     },
     {
       "id": 14,
       "caption": "Omaisuusrikostutkinta",
-      "duration": 604800,
+      "duration": "604800",
       "education_key": "property_investigation"
     },
     {
       "id": 15,
       "caption": "RVL Merenkulku",
-      "duration": 432000,
+      "duration": "432000",
       "education_key": "ocean_navigation",
       "hidden": true
     },
     {
       "id": 16,
       "caption": "RVL Merivartija",
-      "duration": 259200,
+      "duration": "259200",
       "education_key": "law_enforcement_marine",
       "hidden": true
     },
     {
       "id": 0,
       "caption": "Vaativan hoitotason koulutus",
-      "duration": 432000,
+      "duration": "432000",
       "education_key": "critical_care"
     },
     {
       "id": 1,
       "caption": "Lääkäri",
-      "duration": 604800,
+      "duration": "604800",
       "education_key": "notarzt"
     },
     {
       "id": 0,
       "caption": "RVL Rajavartija",
-      "duration": 432000,
+      "duration": "432000",
       "education_key": "border_patrol"
     },
     {
       "id": 1,
       "caption": "RVL Koiranohjaaja",
-      "duration": 259200,
+      "duration": "259200",
       "education_key": "border_dogs"
     },
     {
       "id": 2,
       "caption": "RVL Merenkulku",
-      "duration": 432000,
+      "duration": "432000",
       "education_key": "ocean_navigation"
     },
     {
       "id": 3,
       "caption": "RVL Merivartija",
-      "duration": 259200,
+      "duration": "259200",
       "education_key": "law_enforcement_marine"
     },
     {
       "id": 4,
       "caption": "Poliisin lentotoiminta",
-      "duration": 604800,
+      "duration": "604800",
       "education_key": "polizeihubschrauber"
     }
   ]
