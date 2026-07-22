@@ -308,7 +308,7 @@
     {
       "key": "duration",
       "caption": null,
-      "type": "Integer"
+      "type": "ActiveSupport::Duration"
     },
     {
       "key": "need_k9",
@@ -5705,180 +5705,180 @@
     {
       "id": 0,
       "caption": "Farligt gods",
-      "duration": 259200,
+      "duration": "259200",
       "education_key": "gw_gefahrgut"
     },
     {
       "id": 1,
       "caption": "Räddningsledning",
-      "duration": 432000,
+      "duration": "432000",
       "education_key": "elw2"
     },
     {
       "id": 2,
       "caption": "Brandbekämpning på flygplatsen",
-      "duration": 259200,
+      "duration": "259200",
       "education_key": "arff"
     },
     {
       "id": 3,
       "caption": "Livräddning",
-      "duration": 345600,
+      "duration": "345600",
       "education_key": "gw_wasserrettung"
     },
     {
       "id": 4,
       "caption": "Havsnavigering",
-      "duration": 432000,
+      "duration": "432000",
       "education_key": "ocean_navigation"
     },
     {
       "id": 5,
       "caption": "Dykarutbildning",
-      "duration": 432000,
+      "duration": "432000",
       "education_key": "gw_taucher"
     },
     {
       "id": 6,
       "caption": "Luftburen brandbekämparutbildning",
-      "duration": 432000,
+      "duration": "432000",
       "education_key": "airborne_firefighting"
     },
     {
       "id": 7,
       "caption": "Insatsutbildning",
-      "duration": 259200,
+      "duration": "259200",
       "education_key": "coresponder"
     },
     {
       "id": 8,
       "caption": "Utbildning för Vattenskärare",
-      "duration": 432000,
+      "duration": "432000",
       "education_key": "piercing_nozzle"
     },
     {
       "id": 9,
       "caption": "Intensivvårdsutbildning",
-      "duration": 432000,
+      "duration": "432000",
       "education_key": "critical_care"
     },
     {
       "id": 10,
       "caption": "Bärgningsbilar stora",
-      "duration": 432000,
+      "duration": "432000",
       "education_key": "tow_trucks"
     },
     {
       "id": 0,
       "caption": "Polishelikopterpilotutbildning",
-      "duration": 604800,
+      "duration": "604800",
       "education_key": "polizeihubschrauber"
     },
     {
       "id": 1,
       "caption": "Insatspolisutbildning",
-      "duration": 432000,
+      "duration": "432000",
       "education_key": "swat"
     },
     {
       "id": 2,
       "caption": "Hundförarutbildning",
-      "duration": 432000,
+      "duration": "432000",
       "education_key": "k9"
     },
     {
       "id": 3,
       "caption": "MC-Polisutbildning",
-      "duration": 259200,
+      "duration": "259200",
       "education_key": "police_motorcycle"
     },
     {
       "id": 4,
       "caption": "Rytteriutbildning",
-      "duration": 259200,
+      "duration": "259200",
       "education_key": "police_horse"
     },
     {
       "id": 5,
       "caption": "Trafikpolisutbildning",
       "education_key": "traffic_police",
-      "duration": 432000
+      "duration": "432000"
     },
     {
       "id": 6,
       "caption": "Bombskyddsutbildning",
       "education_key": "fbi_bomb_tech",
-      "duration": 432000
+      "duration": "432000"
     },
     {
       "id": 7,
       "caption": "Utbildning till yttrebefäl",
       "education_key": "police_service_group_leader",
-      "duration": 432000
+      "duration": "432000"
     },
     {
       "id": 0,
       "caption": "Intensivvårdsutbildning",
-      "duration": 432000,
+      "duration": "432000",
       "education_key": "critical_care"
     },
     {
       "id": 1,
       "caption": "MC-Ambulans",
-      "duration": 259200,
+      "duration": "259200",
       "education_key": "rapid_response_motorcycle"
     },
     {
       "id": 2,
       "caption": "Fjällräddningscertifikat",
-      "duration": 432000,
+      "duration": "432000",
       "education_key": "mountain_rescue",
-      "date_start": "2026-04-21T11:00:00Z"
+      "date_start": "2026-04-21 11:00:00 UTC"
     },
     {
       "id": 3,
       "caption": "Certifikat för grottfjällräddning",
-      "duration": 432000,
+      "duration": "432000",
       "education_key": "mountain_cave_rescue",
-      "date_start": "2026-04-21T11:00:00Z"
+      "date_start": "2026-04-21 11:00:00 UTC"
     },
     {
       "id": 4,
       "caption": "Träning av fjällräddningshundar",
-      "duration": 432000,
+      "duration": "432000",
       "education_key": "mountain_rescue_dogs",
-      "date_start": "2026-04-21T11:00:00Z"
+      "date_start": "2026-04-21 11:00:00 UTC"
     },
     {
       "id": 0,
       "caption": "Utbildning av livräddare",
-      "duration": 432000,
+      "duration": "432000",
       "education_key": "coastal_rescue"
     },
     {
       "id": 1,
       "caption": "Räddningsinsats",
-      "duration": 432000,
+      "duration": "432000",
       "education_key": "coastal_rescue_pilot"
     },
     {
       "id": 2,
       "caption": "Utbildning av systemoperatörer",
-      "duration": 432000,
+      "duration": "432000",
       "education_key": "heavy_machinery"
     },
     {
       "id": 3,
       "caption": "Havsnavigering",
-      "duration": 432000,
+      "duration": "432000",
       "education_key": "ocean_navigation"
     },
     {
       "id": 4,
-      "caption": "\u003Cspan class=\"translation_missing localeapp\" title=\"translation missing: sv_SE.education.coastal_fire_rescue\"\u003ECoastal Fire Rescue\u003C/span\u003E",
-      "duration": 432000,
+      "caption": "<span class=\"translation_missing localeapp\" title=\"translation missing: sv_SE.education.coastal_fire_rescue\">Coastal Fire Rescue</span>",
+      "duration": "432000",
       "education_key": "coastal_fire_rescue",
-      "date_start": "2025-09-25T09:00:00Z"
+      "date_start": "2025-09-25 09:00:00 UTC"
     }
   ]
 }
