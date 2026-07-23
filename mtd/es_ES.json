@@ -2907,6 +2907,11 @@
       "id": 141,
       "caption": "Desafío de la Alianza Julio de 2026",
       "key": "AWARD_ALLIANCE_CHALLENGE_JULY_2026"
+    },
+    {
+      "id": 142,
+      "caption": "Aficionado al girasol 2026",
+      "key": "AWARD_SUMMER_COLLECTION_2026"
     }
   ],
   "filter_types": [
