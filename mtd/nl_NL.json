@@ -251,11 +251,6 @@
       "type": "Integer"
     },
     {
-      "key": "date_start",
-      "caption": "Start datum",
-      "type": "Datetime"
-    },
-    {
       "key": "foam_needed",
       "caption": "SVM benodigd",
       "type": "Integer"
@@ -361,6 +356,11 @@
       "type": "Integer"
     },
     {
+      "key": "date_start",
+      "caption": "Start datum",
+      "type": "Datetime"
+    },
+    {
       "key": "hondengeleider_count",
       "caption": "Benodigde Hondenbrigade uitbreidingen",
       "type": "Integer"
@@ -396,6 +396,11 @@
       "type": "Unknown"
     },
     {
+      "key": "patient_modus",
+      "caption": null,
+      "type": "Unknown"
+    },
+    {
       "key": "possible_patient_gender",
       "caption": "Mogelijk patiënt geslacht",
       "type": "String"
@@ -404,11 +409,6 @@
       "key": "need_elw1_chance",
       "caption": "OvD-B benodigd waarschijnlijkheid",
       "type": "Integer"
-    },
-    {
-      "key": "patient_modus",
-      "caption": null,
-      "type": "Unknown"
     },
     {
       "key": "crashed_car_icons",
@@ -886,6 +886,36 @@
       "type": "Integer"
     },
     {
+      "key": "railway_count",
+      "caption": "Benodigde Standplaats Incidentenbestrijding spoor",
+      "type": "Integer"
+    },
+    {
+      "key": "need_railway_fire_engine",
+      "caption": "Benodigde DB-ICB of TS-Spoor",
+      "type": "Integer"
+    },
+    {
+      "key": "need_railway_elw",
+      "caption": "Benodigde OvD-ICB",
+      "type": "Integer"
+    },
+    {
+      "key": "need_railway_recovery",
+      "caption": "Benodigde VW-VZ-ICB",
+      "type": "Integer"
+    },
+    {
+      "key": "railway_fire_count",
+      "caption": "Benodigde Incidentenbestrijding spoor",
+      "type": "Integer"
+    },
+    {
+      "key": "need_railway_electric_response",
+      "caption": "Benodigde BM-VTHS of BU-VTHS",
+      "type": "Integer"
+    },
+    {
       "key": "need_arff_chance",
       "caption": "Crashtender benodigd waarschijnlijkheid ",
       "type": "Integer"
@@ -1283,6 +1313,46 @@
     {
       "key": "need_hazard_response_disinfection_large_chance",
       "caption": "DB-GO, TS-GO or GOH-DC benodigd waarschijnlijkheid",
+      "type": "Integer"
+    },
+    {
+      "key": "need_railway_fire_engine_chance",
+      "caption": "DB-ICB of TS-Spoor benodigd waarschijnlijkheid",
+      "type": "Integer"
+    },
+    {
+      "key": "need_railway_elw_chance",
+      "caption": "OvD-ICB benodigd waarschijnlijkheid",
+      "type": "Integer"
+    },
+    {
+      "key": "need_railway_recovery_chance",
+      "caption": "VW-VZ-ICB benodigd waarschijnlijkheid",
+      "type": "Integer"
+    },
+    {
+      "key": "need_railway_material",
+      "caption": "Benodigde GM-ICB",
+      "type": "Integer"
+    },
+    {
+      "key": "need_railway_material_chance",
+      "caption": "GM-ICB benodigd waarschijnlijkheid",
+      "type": "Integer"
+    },
+    {
+      "key": "need_railway_fire_equipment_container",
+      "caption": "Benodigde HSH-ICB of VW-HS",
+      "type": "Integer"
+    },
+    {
+      "key": "need_railway_fire_equipment_container_chance",
+      "caption": "Benodigde HSH-ICB of VW-HS",
+      "type": "Integer"
+    },
+    {
+      "key": "need_railway_electric_response_chance",
+      "caption": "BM-VTHS of BU-VTHS benodigd waarschijnlijkheid",
       "type": "Integer"
     },
     {
@@ -1770,6 +1840,10 @@
         {
           "id": 24,
           "caption": "Incidentbestrijding Gevaarlijke Stoffen"
+        },
+        {
+          "id": 25,
+          "caption": "Incidentenbestrijding spoor"
         }
       ],
       "generates_mission_types": ["fire"]
@@ -2277,6 +2351,34 @@
           "caption": "Extra klaslokaal"
         }
       ]
+    },
+    {
+      "id": 27,
+      "caption": "Standplaats Incidentenbestrijding spoor",
+      "key": "BUILDING_TYPE_RAILWAY",
+      "extensions": [
+        {
+          "id": 0,
+          "caption": "Haakarmbak parkeerplaats"
+        },
+        {
+          "id": 1,
+          "caption": "Haakarmbak parkeerplaats"
+        },
+        {
+          "id": 2,
+          "caption": "Haakarmbak parkeerplaats"
+        },
+        {
+          "id": 3,
+          "caption": "Haakarmbak parkeerplaats"
+        },
+        {
+          "id": 4,
+          "caption": "Haakarmbak parkeerplaats"
+        }
+      ],
+      "generates_mission_types": ["railway"]
     }
   ],
   "awards": [
@@ -3099,6 +3201,11 @@
       "id": 173,
       "caption": "Race Event 2026",
       "key": "AWARD_RACING_2026"
+    },
+    {
+      "id": 174,
+      "caption": "Zonnebloem enthousiast 2026",
+      "key": "AWARD_SUMMER_COLLECTION_2026"
     }
   ],
   "filter_types": [
@@ -3161,6 +3268,10 @@
     {
       "key": "military_police_missions",
       "caption": "KMAR"
+    },
+    {
+      "key": "railway_missions",
+      "caption": "Spoor Inzetten"
     }
   ],
   "existing_mission_captions": [
@@ -3318,7 +3429,7 @@
     },
     {
       "id": 38,
-      "caption": "Brandende afvalbak"
+      "caption": "Brandende afvalbak bij station"
     },
     {
       "id": 39,
@@ -4334,11 +4445,11 @@
     },
     {
       "id": 292,
-      "caption": "Ongeval met trein en vrachtwagen"
+      "caption": "Ongeval met trein en vrachtwagen (THV Klein)"
     },
     {
       "id": 293,
-      "caption": "Ongeval met trein en vrachtwagen"
+      "caption": "Ongeval met trein en vrachtwagen (THV Middel)"
     },
     {
       "id": 294,
@@ -4418,15 +4529,15 @@
     },
     {
       "id": 313,
-      "caption": "Brand in passagierstrein"
+      "caption": "Brand in passagierstrein (Klein)"
     },
     {
       "id": 314,
-      "caption": "Brand in passagierstrein"
+      "caption": "Brand in passagierstrein (Middel)"
     },
     {
       "id": 315,
-      "caption": "Brand in passagierstrein"
+      "caption": "Brand in passagierstrein (Groot)"
     },
     {
       "id": 316,
@@ -5590,7 +5701,7 @@
     },
     {
       "id": 606,
-      "caption": "Onbevoegden op spoor"
+      "caption": "Onbevoegde op spoor"
     },
     {
       "id": 607,
@@ -8051,6 +8162,54 @@
     {
       "id": 1221,
       "caption": "Ongeval met elektrische step"
+    },
+    {
+      "id": 1222,
+      "caption": "Boom op spoor"
+    },
+    {
+      "id": 1223,
+      "caption": "Dier op spoor"
+    },
+    {
+      "id": 1224,
+      "caption": "Stilgevallen trein"
+    },
+    {
+      "id": 1225,
+      "caption": "Brand in bovenleiding"
+    },
+    {
+      "id": 1226,
+      "caption": "Brand in spoorwissel"
+    },
+    {
+      "id": 1227,
+      "caption": "Brand in passagierstrein (Grip 1)"
+    },
+    {
+      "id": 1228,
+      "caption": "Trein ontspoord na botsing met goederentrein"
+    },
+    {
+      "id": 1229,
+      "caption": "Dieseltrein met gevaarlijke stoffen ontspoord"
+    },
+    {
+      "id": 1230,
+      "caption": "Brand in tram (Klein)"
+    },
+    {
+      "id": 1231,
+      "caption": "Brand in tram (Middel)"
+    },
+    {
+      "id": 1232,
+      "caption": "Brand in tram (Groot)"
+    },
+    {
+      "id": 1233,
+      "caption": "Brand in tram (Grip 1)"
     }
   ],
   "education_data": [
@@ -8219,6 +8378,18 @@
       "caption": "Ontsmettings Eenheid",
       "duration": 432000,
       "education_key": "hazard_suits_response"
+    },
+    {
+      "id": 27,
+      "caption": "Incidentenbestrijder spoor",
+      "duration": 432000,
+      "education_key": "railway_fire"
+    },
+    {
+      "id": 28,
+      "caption": "Officier van Dienst Incidentenbestrijding spoor",
+      "duration": 604800,
+      "education_key": "railway_elw"
     },
     {
       "id": 0,
