@@ -258,7 +258,7 @@
     {
       "key": "duration",
       "caption": null,
-      "type": "Integer"
+      "type": "ActiveSupport::Duration"
     },
     {
       "key": "need_rtw",
@@ -5606,204 +5606,204 @@
     {
       "id": 0,
       "caption": "Matérias Perigosas",
-      "duration": 259200,
+      "duration": "259200",
       "education_key": "gw_gefahrgut"
     },
     {
       "id": 1,
       "caption": "Comando Avançado",
-      "duration": 432000,
+      "duration": "432000",
       "education_key": "elw2"
     },
     {
       "id": 2,
       "caption": "Resgate e Combate a Incêndios em Aeronaves",
-      "duration": 259200,
+      "duration": "259200",
       "education_key": "arff"
     },
     {
       "id": 3,
       "caption": "Resgate Aquático Rápido",
-      "duration": 345600,
+      "duration": "345600",
       "education_key": "gw_wasserrettung",
       "hidden": true
     },
     {
       "id": 4,
       "caption": "Condutor de Embarcações de Socorro",
-      "duration": 432000,
+      "duration": "432000",
       "education_key": "ocean_navigation"
     },
     {
       "id": 5,
       "caption": "Salvamento em Grande Ângulo",
-      "duration": 259200,
+      "duration": "259200",
       "education_key": "fwk"
     },
     {
       "id": 6,
       "caption": "Carta de Manobrador de Máquinas",
-      "duration": 259200,
+      "duration": "259200",
       "education_key": "heavy_machinery"
     },
     {
       "id": 7,
       "caption": "Carta de Pesados",
-      "duration": 172800,
+      "duration": "172800",
       "education_key": "truck_drivers_license"
     },
     {
       "id": 8,
       "caption": "Brevet",
-      "duration": 432000,
+      "duration": "432000",
       "education_key": "airborne_firefighting"
     },
     {
       "id": 9,
       "caption": "Equipa de Reconhecimento e Avaliação da Situação",
-      "duration": 432000,
+      "duration": "432000",
       "education_key": "elw3"
     },
     {
       "id": 10,
       "caption": "Curso de Mergulho",
-      "duration": 432000,
+      "duration": "432000",
       "education_key": "gw_taucher"
     },
     {
       "id": 11,
       "caption": "Operadores de Sistemas de Assistência e Socorro",
-      "duration": 172800,
+      "duration": "172800",
       "education_key": "elw_airport"
     },
     {
       "id": 12,
       "caption": "Resgate e Combate Especial a Incêndios em Aeronaves",
-      "duration": 172800,
+      "duration": "172800",
       "education_key": "piercing_nozzle"
     },
     {
       "id": 13,
       "caption": "Operador de Escadas",
-      "duration": 432000,
+      "duration": "432000",
       "education_key": "rettungstreppe"
     },
     {
       "id": 14,
       "caption": "Suporte Avançado de Vida",
-      "duration": 432000,
+      "duration": "432000",
       "education_key": "critical_care"
     },
     {
       "id": 15,
       "caption": "Camião de reboque grande",
-      "duration": 432000,
+      "duration": "432000",
       "education_key": "tow_trucks"
     },
     {
       "id": 0,
       "caption": "Inativação de Explosivos e Segurança em Subsolo",
-      "duration": 259200,
+      "duration": "259200",
       "education_key": "fbi_bomb_tech"
     },
     {
       "id": 1,
       "caption": "Carta de Motociclo",
-      "duration": 259200,
+      "duration": "259200",
       "education_key": "police_motorcycle"
     },
     {
       "id": 2,
       "caption": "Controlador de Trânsito",
       "education_key": "traffic_police",
-      "duration": 432000
+      "duration": "432000"
     },
     {
       "id": 3,
       "caption": "Comando Avançado",
       "education_key": "riot_police_command",
-      "duration": 604800
+      "duration": "604800"
     },
     {
       "id": 4,
       "caption": "Cinotécnia",
       "education_key": "k9",
-      "duration": 432000
+      "duration": "432000"
     },
     {
       "id": 5,
       "caption": "Corpo/Unidade de Intervenção - Ordem Publica",
       "education_key": "riot_police",
-      "duration": 172800
+      "duration": "172800"
     },
     {
       "id": 6,
       "caption": "Operações Especiais",
       "education_key": "swat",
-      "duration": 432000
+      "duration": "432000"
     },
     {
       "id": 0,
       "caption": "Suporte Avançado de Vida",
-      "duration": 432000,
+      "duration": "432000",
       "education_key": "critical_care"
     },
     {
       "id": 1,
       "caption": "Carta de Motociclo",
-      "duration": 259200,
+      "duration": "259200",
       "education_key": "rapid_response_motorcycle"
     },
     {
       "id": 2,
       "caption": "Líder de ambulância",
-      "duration": 604800,
+      "duration": "604800",
       "education_key": "orgl"
     },
     {
       "id": 3,
       "caption": "Certificado de Salvamento em Montanha",
-      "duration": 259200,
+      "duration": "259200",
       "education_key": "mountain_rescue",
-      "date_start": "2025-12-02T11:00:00Z"
+      "date_start": "2025-12-02 11:00:00 UTC"
     },
     {
       "id": 4,
       "caption": "Certificado de Salvamento em Cavernas",
-      "duration": 432000,
+      "duration": "432000",
       "education_key": "mountain_cave_rescue",
-      "date_start": "2025-12-02T11:00:00Z"
+      "date_start": "2025-12-02 11:00:00 UTC"
     },
     {
       "id": 5,
       "caption": "Certificado da UEPS",
-      "duration": 432000,
+      "duration": "432000",
       "education_key": "mountain_command",
-      "date_start": "2025-12-02T11:00:00Z"
+      "date_start": "2025-12-02 11:00:00 UTC"
     },
     {
       "id": 6,
       "caption": "Esquadrão 751 da Força Aérea",
-      "duration": 432000,
+      "duration": "432000",
       "education_key": "helicopter_pilot",
-      "date_start": "2025-12-02T11:00:00Z"
+      "date_start": "2025-12-02 11:00:00 UTC"
     },
     {
       "id": 0,
       "caption": "Polícia Marítima",
-      "duration": 432000,
+      "duration": "432000",
       "education_key": "coastal_rescue"
     },
     {
       "id": 1,
       "caption": "Grupo de Ações Táticas",
-      "duration": 259200,
+      "duration": "259200",
       "education_key": "law_enforcement_marine"
     },
     {
       "id": 2,
       "caption": "Navegação em Oceano",
-      "duration": 432000,
+      "duration": "432000",
       "education_key": "coastal_ocean_navigation"
     }
   ]
