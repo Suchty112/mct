@@ -3391,6 +3391,11 @@
       "id": 169,
       "caption": "Sonnenblumen-Enthusiast 2026",
       "key": "AWARD_SUMMER_COLLECTION_2026"
+    },
+    {
+      "id": 170,
+      "caption": "Verbands-Herausforderung August 2026",
+      "key": "AWARD_ALLIANCE_CHALLENGE_AUGUST_2026"
     }
   ],
   "filter_types": [
