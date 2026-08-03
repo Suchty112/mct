@@ -383,7 +383,7 @@
     {
       "key": "duration",
       "caption": null,
-      "type": "Integer"
+      "type": "ActiveSupport::Duration"
     },
     {
       "key": "need_rtw",
@@ -6478,273 +6478,273 @@
     {
       "id": 0,
       "caption": "N.B.C.R.",
-      "duration": 259200,
+      "duration": "259200",
       "education_key": "gw_gefahrgut"
     },
     {
       "id": 1,
       "caption": "Corso per funzionario (UCL)",
-      "duration": 432000,
+      "duration": "432000",
       "education_key": "elw2"
     },
     {
       "id": 2,
       "caption": "Soccorso Antincendio Aeroportuale",
-      "duration": 259200,
+      "duration": "259200",
       "education_key": "arff",
       "hidden": true
     },
     {
       "id": 3,
       "caption": "Corso per operatore tecnico SAF",
-      "duration": 259200,
+      "duration": "259200",
       "education_key": "gw_wasserrettung"
     },
     {
       "id": 4,
       "caption": "Navigazione in Oceano",
-      "duration": 432000,
+      "duration": "432000",
       "education_key": "ocean_navigation",
       "hidden": true
     },
     {
       "id": 5,
       "caption": "Corso autista di Autogrù",
-      "duration": 259200,
+      "duration": "259200",
       "education_key": "fwk"
     },
     {
       "id": 6,
       "caption": "Corso medico di emergenza",
-      "duration": 604800,
+      "duration": "604800",
       "education_key": "notarzt"
     },
     {
       "id": 7,
       "caption": "Corso per operatore tecnico NSSA",
-      "duration": 432000,
+      "duration": "432000",
       "education_key": "gw_taucher"
     },
     {
       "id": 8,
       "caption": "Autista Movimento Terra",
-      "duration": 259200,
+      "duration": "259200",
       "education_key": "heavy_machinery"
     },
     {
       "id": 9,
       "caption": "Pilota Velivoli Antincendio",
-      "duration": 432000,
+      "duration": "432000",
       "education_key": "airborne_firefighting"
     },
     {
       "id": 10,
       "caption": "Direttore Operazioni Spegnimento",
-      "duration": 259200,
+      "duration": "259200",
       "education_key": "elw3"
     },
     {
       "id": 11,
       "caption": "Autista Mezzi Pesanti",
-      "duration": 172800,
+      "duration": "172800",
       "education_key": "truck_drivers_license"
     },
     {
       "id": 12,
       "caption": "Corso Operatore MaxiEmergenze",
-      "duration": 432000,
+      "duration": "432000",
       "education_key": "mass_casualty"
     },
     {
       "id": 13,
       "caption": "Soccorso Antincendio Aeroportuale",
-      "duration": 432000,
+      "duration": "432000",
       "education_key": "arff"
     },
     {
       "id": 14,
       "caption": "Soccorso Antincendio Industriale",
-      "duration": 432000,
+      "duration": "432000",
       "education_key": "irff"
     },
     {
       "id": 15,
       "caption": "Automezzo Soccorso Aeroportuale",
-      "duration": 604800,
+      "duration": "604800",
       "education_key": "rettungstreppe"
     },
     {
       "id": 16,
       "caption": "Responsabile Operazioni di Soccorso",
-      "duration": 604800,
+      "duration": "604800",
       "education_key": "elw_airport"
     },
     {
       "id": 17,
       "caption": "Abilitazione Automezzo Anfibio",
-      "duration": 432000,
+      "duration": "432000",
       "education_key": "amphibious_rescue"
     },
     {
       "id": 18,
       "caption": "Formazione per Operatorii Cinofili SAR",
-      "duration": 691200,
+      "duration": "691200",
       "education_key": "rescue_dogs"
     },
     {
       "id": 19,
       "caption": "Formazione USAR",
-      "duration": 604800,
+      "duration": "604800",
       "education_key": "search_and_rescue"
     },
     {
       "id": 20,
       "caption": "Investigazioni Scientifiche",
-      "duration": 432000,
+      "duration": "432000",
       "education_key": "fire_investigator"
     },
     {
       "id": 0,
       "caption": "Reparto volo della polizia",
-      "duration": 604800,
+      "duration": "604800",
       "education_key": "polizeihubschrauber"
     },
     {
       "id": 1,
       "caption": "Specializzazione antisommossa/UOPI",
-      "duration": 432000,
+      "duration": "432000",
       "education_key": "swat"
     },
     {
       "id": 2,
       "caption": "Specializzazione unità cinofila",
-      "duration": 432000,
+      "duration": "432000",
       "education_key": "k9"
     },
     {
       "id": 3,
       "caption": "Specializzazione motociclista",
-      "duration": 259200,
+      "duration": "259200",
       "education_key": "police_motorcycle"
     },
     {
       "id": 4,
       "caption": "Corso Artificieri",
-      "duration": 259200,
+      "duration": "259200",
       "education_key": "fbi_bomb_tech"
     },
     {
       "id": 5,
       "caption": "Operatore Idrante Antisommossa",
-      "duration": 604800,
+      "duration": "604800",
       "education_key": "police_wasserwerfer"
     },
     {
       "id": 6,
       "caption": "Investigazioni Scientifiche",
-      "duration": 432000,
+      "duration": "432000",
       "education_key": "criminal_investigation"
     },
     {
       "id": 7,
       "caption": "Police Operations Management",
-      "duration": 432000,
+      "duration": "432000",
       "education_key": "elw_police",
-      "date_start": "2025-10-22T08:00:00Z"
+      "date_start": "2025-10-22 08:00:00 UTC"
     },
     {
       "id": 0,
       "caption": "Corso medico di emergenza",
-      "duration": 604800,
+      "duration": "604800",
       "education_key": "notarzt"
     },
     {
       "id": 1,
-      "caption": "\u003Cspan class=\"translation_missing localeapp\" title=\"translation missing: it_IT.education.lna\"\u003ELna\u003C/span\u003E",
-      "duration": 777600,
+      "caption": "<span class=\"translation_missing localeapp\" title=\"translation missing: it_IT.education.lna\">Lna</span>",
+      "duration": "777600",
       "education_key": "lna",
       "hidden": true
     },
     {
       "id": 2,
-      "caption": "\u003Cspan class=\"translation_missing localeapp\" title=\"translation missing: it_IT.education.orgl\"\u003EOrgl\u003C/span\u003E",
-      "duration": 950400,
+      "caption": "<span class=\"translation_missing localeapp\" title=\"translation missing: it_IT.education.orgl\">Orgl</span>",
+      "duration": "950400",
       "education_key": "orgl",
       "hidden": true
     },
     {
       "id": 3,
       "caption": "Corso Operatore MaxiEmergenze",
-      "duration": 432000,
+      "duration": "432000",
       "education_key": "mass_casualty"
     },
     {
       "id": 4,
       "caption": "Tecnico di Soccorso Alpino",
-      "duration": 432000,
+      "duration": "432000",
       "education_key": "mountain_rescue"
     },
     {
       "id": 5,
       "caption": "Medico Soccorso Alpino",
-      "duration": 432000,
+      "duration": "432000",
       "education_key": "mountain_emergency_doctor"
     },
     {
       "id": 6,
       "caption": "Tecnico di Soccorso Speleologico",
-      "duration": 432000,
+      "duration": "432000",
       "education_key": "mountain_cave_rescue"
     },
     {
       "id": 7,
       "caption": "Tecnico di Ricerca",
-      "duration": 432000,
+      "duration": "432000",
       "education_key": "mountain_command"
     },
     {
       "id": 8,
       "caption": "Pilota SAPR",
-      "duration": 432000,
+      "duration": "432000",
       "education_key": "mountain_rescue_drone"
     },
     {
       "id": 9,
       "caption": "Formazione per Operatori Cinofili SAR",
-      "duration": 432000,
+      "duration": "432000",
       "education_key": "mountain_rescue_dogs",
-      "date_start": "2026-01-14T10:00:00Z"
+      "date_start": "2026-01-14 10:00:00 UTC"
     },
     {
       "id": 10,
       "caption": "Corso per Tecnico di Elisoccorso",
-      "duration": 432000,
+      "duration": "432000",
       "education_key": "heli_tech",
-      "date_start": "2026-01-14T10:00:00Z"
+      "date_start": "2026-01-14 10:00:00 UTC"
     },
     {
       "id": 11,
       "caption": "Addestramento per cani da valanga",
-      "duration": 432000,
+      "duration": "432000",
       "education_key": "mountain_snow_dogs",
-      "date_start": "2026-01-14T10:00:00Z"
+      "date_start": "2026-01-14 10:00:00 UTC"
     },
     {
       "id": 0,
       "caption": "Pilota Guardia Costiera",
-      "duration": 432000,
+      "duration": "432000",
       "education_key": "coastal_rescue_pilot"
     },
     {
       "id": 1,
       "caption": "Polizia Marittima",
-      "duration": 259200,
+      "duration": "259200",
       "education_key": "law_enforcement_marine"
     },
     {
       "id": 2,
       "caption": "Navigazione in Oceano",
-      "duration": 432000,
+      "duration": "432000",
       "education_key": "ocean_navigation"
     }
   ]
