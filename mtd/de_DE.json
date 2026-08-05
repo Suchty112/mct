@@ -3425,7 +3425,7 @@
     {
       "id": 171,
       "caption": "Tierfreund",
-      "key": null
+      "key": "AWARD_ANIMAL_RESCUE"
     }
   ],
   "filter_types": [
@@ -7589,7 +7589,7 @@
     },
     {
       "id": 1023,
-      "caption": "Pferd auf Feldmark entlaufen"
+      "caption": "Entlaufenes Pferd"
     },
     {
       "id": 1024,
