@@ -7293,6 +7293,30 @@
     {
       "id": 943,
       "caption": "Collision entre une moto et un vélo"
+    },
+    {
+      "id": 944,
+      "caption": "Feu de trottinette électrique"
+    },
+    {
+      "id": 945,
+      "caption": "Incendie dans un camp précaire"
+    },
+    {
+      "id": 946,
+      "caption": "Violences urbaines dans un quartier sensible"
+    },
+    {
+      "id": 947,
+      "caption": "Évacuation de la population en raison de la progression d’un feu de forêt"
+    },
+    {
+      "id": 948,
+      "caption": "Feu de forêt incontrôlable en libre progression"
+    },
+    {
+      "id": 949,
+      "caption": "Camping-car tombé dans l’eau"
     }
   ],
   "education_data": [
