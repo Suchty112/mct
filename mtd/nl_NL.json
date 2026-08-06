@@ -916,6 +916,21 @@
       "type": "Integer"
     },
     {
+      "key": "disaster_response_count",
+      "caption": "STH Uitbreidingen",
+      "type": "Integer"
+    },
+    {
+      "key": "need_disaster_response",
+      "caption": "Benodigde TS-STH",
+      "type": "Integer"
+    },
+    {
+      "key": "need_disaster_response_equipment",
+      "caption": "Benodigde HVH-STH",
+      "type": "Integer"
+    },
+    {
       "key": "need_arff_chance",
       "caption": "Crashtender benodigd waarschijnlijkheid ",
       "type": "Integer"
@@ -1086,18 +1101,8 @@
       "type": "Integer"
     },
     {
-      "key": "need_disaster_response",
-      "caption": "Benodigde TS-STH",
-      "type": "Integer"
-    },
-    {
       "key": "need_disaster_response_chance",
       "caption": "TS-STH benodigd waarschijnlijkheid",
-      "type": "Integer"
-    },
-    {
-      "key": "need_disaster_response_equipment",
-      "caption": "Benodigde HVH-STH",
       "type": "Integer"
     },
     {
@@ -8215,6 +8220,14 @@
     {
       "id": 1233,
       "caption": "Brand in tram (Grip 1)"
+    },
+    {
+      "id": 1234,
+      "caption": "Woonhuis ingestort"
+    },
+    {
+      "id": 1235,
+      "caption": "Woningbrand"
     }
   ],
   "education_data": [
