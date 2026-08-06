@@ -263,7 +263,7 @@
     {
       "key": "patient_modus",
       "caption": null,
-      "type": "Integer"
+      "type": "Unknown"
     },
     {
       "key": "task_tag",
@@ -5726,6 +5726,26 @@
     {
       "id": 767,
       "caption": "Person røget ned i en silo og sidder fast"
+    },
+    {
+      "id": 768,
+      "caption": "Kolonihavehus i brand"
+    },
+    {
+      "id": 769,
+      "caption": "Kollega i knibe"
+    },
+    {
+      "id": 770,
+      "caption": "Mand fundet i vejkanten"
+    },
+    {
+      "id": 771,
+      "caption": "Brækket hofte"
+    },
+    {
+      "id": 772,
+      "caption": "Barn sluger magneter"
     }
   ],
   "education_data": [
