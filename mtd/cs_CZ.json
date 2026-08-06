@@ -861,6 +861,11 @@
       "type": "Integer"
     },
     {
+      "key": "groups",
+      "caption": "Restricted Vehicle Types",
+      "type": "Unknown"
+    },
+    {
       "key": "need_boot_chance",
       "caption": "Pravděpodobnost, že bude potřeba Přívěs se člunem",
       "type": "Integer"
@@ -6199,6 +6204,22 @@
     {
       "id": 794,
       "caption": "Pád osoby do sila – osoba uvězněna"
+    },
+    {
+      "id": 795,
+      "caption": "Pohřešované dítě na letní oslavě"
+    },
+    {
+      "id": 796,
+      "caption": "Zranění ve vodě po bodnutí rybou"
+    },
+    {
+      "id": 797,
+      "caption": "Popálený člověk při grilování"
+    },
+    {
+      "id": 798,
+      "caption": "Nehoda vodního skútru na jezeře"
     }
   ],
   "education_data": [
