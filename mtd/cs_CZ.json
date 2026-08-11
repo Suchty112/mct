@@ -866,6 +866,26 @@
       "type": "Unknown"
     },
     {
+      "key": "criminal_investigation_count",
+      "caption": "Požadovaná SKPV",
+      "type": "Integer"
+    },
+    {
+      "key": "need_police_investigation",
+      "caption": "Požadovaná Policejní vyšetřování",
+      "type": "Integer"
+    },
+    {
+      "key": "need_criminal_investigation",
+      "caption": "Požadovaná SKPV",
+      "type": "Integer"
+    },
+    {
+      "key": "police_investigation_count",
+      "caption": "Required Police Investigation Extension",
+      "type": "Integer"
+    },
+    {
       "key": "need_boot_chance",
       "caption": "Pravděpodobnost, že bude potřeba Přívěs se člunem",
       "type": "Integer"
@@ -1248,6 +1268,16 @@
     {
       "key": "need_grtw_chance",
       "caption": null,
+      "type": "Integer"
+    },
+    {
+      "key": "need_police_investigation_chance",
+      "caption": "Pravděpodobnost požadavku na Policejní vyšetřování",
+      "type": "Integer"
+    },
+    {
+      "key": "need_criminal_investigation_chance",
+      "caption": "Pravděpodobnost požadavku na SKPV",
       "type": "Integer"
     },
     {
@@ -2008,6 +2038,14 @@
         {
           "id": 25,
           "caption": "Velké vězení"
+        },
+        {
+          "id": 26,
+          "caption": "SKPV"
+        },
+        {
+          "id": 27,
+          "caption": "Další místa SKPV"
         }
       ],
       "generates_mission_types": ["police"]
@@ -6220,6 +6258,18 @@
     {
       "id": 798,
       "caption": "Nehoda vodního skútru na jezeře"
+    },
+    {
+      "id": 799,
+      "caption": "Nález těla"
+    },
+    {
+      "id": 800,
+      "caption": "Hledání důkazů v domě"
+    },
+    {
+      "id": 801,
+      "caption": "Podezření na žhářství"
     }
   ],
   "education_data": [
@@ -6381,6 +6431,13 @@
       "caption": "Školení pořádkové policie",
       "duration": 172800,
       "education_key": "riot_police"
+    },
+    {
+      "id": 9,
+      "caption": "SKPV",
+      "duration": 432000,
+      "education_key": "criminal_investigation",
+      "date_start": "2026-08-01T11:00:00Z"
     },
     {
       "id": 0,
