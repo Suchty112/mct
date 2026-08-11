@@ -2134,7 +2134,7 @@
     },
     {
       "id": 10,
-      "caption": "Prison",
+      "caption": "Prison (Alliance)",
       "key": "BUILDING_TYPE_POLIZEIZELLE",
       "extensions": [
         {
@@ -2555,6 +2555,97 @@
       "caption": "Mountain Rescue Station",
       "key": "BUILDING_TYPE_MOUNTAIN_RESCUE",
       "generates_mission_types": ["mountain"]
+    },
+    {
+      "id": 29,
+      "caption": "Prison",
+      "key": "BUILDING_TYPE_PRISON",
+      "extensions": [
+        {
+          "id": 0,
+          "caption": "Prison cell"
+        },
+        {
+          "id": 1,
+          "caption": "Additional cell"
+        },
+        {
+          "id": 2,
+          "caption": "Additional cell"
+        },
+        {
+          "id": 3,
+          "caption": "Additional cell"
+        },
+        {
+          "id": 4,
+          "caption": "Additional cell"
+        },
+        {
+          "id": 5,
+          "caption": "Additional cell"
+        },
+        {
+          "id": 6,
+          "caption": "Additional cell"
+        },
+        {
+          "id": 7,
+          "caption": "Additional cell"
+        },
+        {
+          "id": 8,
+          "caption": "Additional cell"
+        },
+        {
+          "id": 9,
+          "caption": "Additional cell"
+        },
+        {
+          "id": 10,
+          "caption": "Additional cell"
+        },
+        {
+          "id": 11,
+          "caption": "Additional cell"
+        },
+        {
+          "id": 12,
+          "caption": "Additional cell"
+        },
+        {
+          "id": 13,
+          "caption": "Additional cell"
+        },
+        {
+          "id": 14,
+          "caption": "Additional cell"
+        },
+        {
+          "id": 15,
+          "caption": "Additional cell"
+        },
+        {
+          "id": 16,
+          "caption": "Additional cell"
+        },
+        {
+          "id": 17,
+          "caption": "Additional cell"
+        },
+        {
+          "id": 18,
+          "caption": "Additional cell"
+        },
+        {
+          "id": 19,
+          "caption": "Additional cell"
+        },
+        {
+          "id": 20,
+          "caption": "Large Prison"
+        }
+      ]
     }
   ],
   "awards": [
