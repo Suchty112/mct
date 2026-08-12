@@ -288,7 +288,7 @@
     {
       "key": "duration",
       "caption": null,
-      "type": "Integer"
+      "type": "ActiveSupport::Duration"
     },
     {
       "key": "need_rtw",
@@ -6276,223 +6276,223 @@
     {
       "id": 0,
       "caption": "Nebezpečné látky",
-      "duration": 259200,
+      "duration": "259200",
       "education_key": "gw_gefahrgut"
     },
     {
       "id": 1,
       "caption": "MOS (mobilní operační středisko)",
-      "duration": 432000,
+      "duration": "432000",
       "education_key": "elw2"
     },
     {
       "id": 2,
       "caption": "Školení letištních hasičů",
-      "duration": 432000,
+      "duration": "432000",
       "education_key": "arff"
     },
     {
       "id": 3,
       "caption": "Záchrana z vody",
-      "duration": 259200,
+      "duration": "259200",
       "education_key": "gw_wasserrettung"
     },
     {
       "id": 4,
       "caption": "Vodní navigace",
-      "duration": 432000,
+      "duration": "432000",
       "education_key": "ocean_navigation",
       "hidden": true
     },
     {
       "id": 5,
       "caption": "Potápěč",
-      "duration": 432000,
+      "duration": "432000",
       "education_key": "gw_taucher"
     },
     {
       "id": 6,
       "caption": "Kurz jeřábníka",
-      "duration": 345600,
+      "duration": "345600",
       "education_key": "fwk"
     },
     {
       "id": 7,
       "caption": "Školení na obsluhu záchranných evakuačních schodů",
-      "duration": 604800,
+      "duration": "604800",
       "education_key": "rettungstreppe"
     },
     {
       "id": 8,
       "caption": "Obsluha nosiče kontejnerů",
-      "duration": 259200,
+      "duration": "259200",
       "education_key": "pod_tractive"
     },
     {
       "id": 9,
       "caption": "Školení drážních hasičů",
-      "duration": 259200,
+      "duration": "259200",
       "education_key": "railway_fire"
     },
     {
       "id": 10,
       "caption": "Řízení drážního vozidla",
-      "duration": 604800,
+      "duration": "604800",
       "education_key": "railway_two_way"
     },
     {
       "id": 11,
       "caption": "Školení v oblasti železničního vyšetřování",
-      "duration": 432000,
+      "duration": "432000",
       "education_key": "railway_investigation"
     },
     {
       "id": 12,
       "caption": "Obsluha tanku",
-      "duration": 604800,
+      "duration": "604800",
       "education_key": "railway_recovery"
     },
     {
       "id": 13,
       "caption": "Hasič - lezec",
-      "duration": 604800,
+      "duration": "604800",
       "education_key": "mountain_height_rescue"
     },
     {
       "id": 14,
       "caption": "Kvalifikace leteckého záchranáře",
-      "duration": 432000,
+      "duration": "432000",
       "education_key": "airborne_firefighting",
-      "date_start": "2025-03-10T10:00:00Z"
+      "date_start": "2025-03-10 10:00:00 UTC"
     },
     {
       "id": 15,
       "caption": "Hašení lesních požárů",
-      "duration": 432000,
+      "duration": "432000",
       "education_key": "wildfire",
-      "date_start": "2025-03-10T10:00:00Z"
+      "date_start": "2025-03-10 10:00:00 UTC"
     },
     {
       "id": 0,
-      "caption": "\u003Cspan class=\"translation_missing localeapp\" title=\"translation missing: cs_CZ.education.thw_zug\"\u003EThw Zug\u003C/span\u003E",
-      "duration": 604800,
+      "caption": "<span class=\"translation_missing localeapp\" title=\"translation missing: cs_CZ.education.thw_zug\">Thw Zug</span>",
+      "duration": "604800",
       "education_key": "thw_zugtrupp"
     },
     {
       "id": 0,
       "caption": "Kurz Letecké služby PČR",
-      "duration": 604800,
+      "duration": "604800",
       "education_key": "polizeihubschrauber"
     },
     {
       "id": 1,
       "caption": "URNA",
-      "duration": 432000,
+      "duration": "432000",
       "education_key": "swat"
     },
     {
       "id": 2,
       "caption": "Kynologové Policie",
-      "duration": 432000,
+      "duration": "432000",
       "education_key": "k9"
     },
     {
       "id": 3,
       "caption": "Policejní motocykl",
-      "duration": 259200,
+      "duration": "259200",
       "education_key": "police_motorcycle"
     },
     {
       "id": 4,
       "caption": "Policejní pyrotechnik",
-      "duration": 259200,
+      "duration": "259200",
       "education_key": "fbi_bomb_tech"
     },
     {
       "id": 5,
       "caption": "Vyšetřovatel DN",
-      "duration": 259200,
+      "duration": "259200",
       "education_key": "traffic_police"
     },
     {
       "id": 6,
       "caption": "Školení velitele složky PČR",
-      "duration": 604800,
+      "duration": "604800",
       "education_key": "riot_police_command"
     },
     {
       "id": 7,
       "caption": "Jezdec na koni",
-      "duration": 345600,
+      "duration": "345600",
       "education_key": "police_horse"
     },
     {
       "id": 8,
       "caption": "Školení pořádkové policie",
-      "duration": 172800,
+      "duration": "172800",
       "education_key": "riot_police"
     },
     {
       "id": 9,
       "caption": "SKPV",
-      "duration": 432000,
+      "duration": "432000",
       "education_key": "criminal_investigation",
-      "date_start": "2026-08-01T11:00:00Z"
+      "date_start": "2026-08-01 11:00:00 UTC"
     },
     {
       "id": 0,
       "caption": "Školení inspektora provozu",
-      "duration": 259200,
+      "duration": "259200",
       "education_key": "orgl"
     },
     {
       "id": 1,
       "caption": "Školení lékaře",
-      "duration": 432000,
+      "duration": "432000",
       "education_key": "critical_care"
     },
     {
       "id": 2,
       "caption": "Certifikát horské záchrany",
-      "duration": 432000,
+      "duration": "432000",
       "education_key": "mountain_rescue"
     },
     {
       "id": 3,
       "caption": "Jízda horské záchranné služby",
-      "duration": 432000,
+      "duration": "432000",
       "education_key": "mountain_rescue_atv"
     },
     {
       "id": 4,
       "caption": "Výcvik salašnických psů",
-      "duration": 432000,
+      "duration": "432000",
       "education_key": "mountain_rescue_dogs"
     },
     {
       "id": 5,
       "caption": "Horolezecké lezení",
-      "duration": 432000,
+      "duration": "432000",
       "education_key": "mountain_height_rescue"
     },
     {
       "id": 6,
       "caption": "Hasič - zdravotník",
-      "duration": 432000,
+      "duration": "432000",
       "education_key": "ems_mobile_command",
-      "date_start": "2026-05-27T11:00:00Z"
+      "date_start": "2026-05-27 11:00:00 UTC"
     },
     {
       "id": 7,
       "caption": "Tým pro speciální činnosti",
-      "duration": 432000,
+      "duration": "432000",
       "education_key": "special_operation_response",
-      "date_start": "2026-05-27T11:00:00Z"
+      "date_start": "2026-05-27 11:00:00 UTC"
     },
     {
       "id": 0,
       "caption": "Vodní záchranná služba",
-      "duration": 259200,
+      "duration": "259200",
       "education_key": "water_rescue_service"
     }
   ]
