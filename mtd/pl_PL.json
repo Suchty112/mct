@@ -348,7 +348,7 @@
     {
       "key": "duration",
       "caption": null,
-      "type": "Integer"
+      "type": "ActiveSupport::Duration"
     },
     {
       "key": "possible_prisoner_min",
@@ -6472,223 +6472,223 @@
     {
       "id": 0,
       "caption": "Ratownictwo chemiczne",
-      "duration": 259200,
+      "duration": "259200",
       "education_key": "gw_gefahrgut"
     },
     {
       "id": 1,
       "caption": "Szkolenie w dowodzeniu",
-      "duration": 432000,
+      "duration": "432000",
       "education_key": "elw2"
     },
     {
       "id": 2,
       "caption": "Szkolenie SP LSP",
-      "duration": 259200,
+      "duration": "259200",
       "education_key": "arff",
       "hidden": true
     },
     {
       "id": 3,
       "caption": "Szybkie ratownictwo wodne",
-      "duration": 345600,
+      "duration": "345600",
       "education_key": "gw_wasserrettung"
     },
     {
       "id": 4,
       "caption": "Kurs Nurka MSWiA",
-      "duration": 432000,
+      "duration": "432000",
       "education_key": "gw_taucher"
     },
     {
       "id": 5,
       "caption": "Nawigacja oceaniczna",
-      "duration": 432000,
+      "duration": "432000",
       "education_key": "ocean_navigation",
       "hidden": true
     },
     {
       "id": 6,
       "caption": "Ratownictwo wysokościowe",
-      "duration": 432000,
+      "duration": "432000",
       "education_key": "gw_hoehenrettung"
     },
     {
       "id": 7,
       "caption": "Lekarz",
-      "duration": 259200,
+      "duration": "259200",
       "education_key": "critical_care"
     },
     {
       "id": 8,
       "caption": "Szkolenie poszukiwawczo - ratownicze",
-      "duration": 259200,
+      "duration": "259200",
       "education_key": "search_and_rescue"
     },
     {
       "id": 9,
       "caption": "Przewodnik psa ratowniczego",
-      "duration": 432000,
+      "duration": "432000",
       "education_key": "rescue_dogs"
     },
     {
       "id": 10,
       "caption": "Szkolenie z obsługi schodów ratowniczych",
-      "duration": 432000,
+      "duration": "432000",
       "education_key": "rettungstreppe"
     },
     {
       "id": 11,
       "caption": "Szkolenie pilota samolotu gaśniczego",
-      "duration": 432000,
+      "duration": "432000",
       "education_key": "fire_aviation"
     },
     {
       "id": 12,
       "caption": "Szkolenie z obsługi drona",
-      "duration": 345600,
+      "duration": "345600",
       "education_key": "drone"
     },
     {
       "id": 13,
       "caption": "Szkolenie z obsługi robota CBRNE",
-      "duration": 604800,
+      "duration": "604800",
       "education_key": "hazmat_drone"
     },
     {
       "id": 14,
       "caption": "Szkolenie w zakresie pojazdów ciężkich",
-      "duration": 345600,
+      "duration": "345600",
       "education_key": "tow_trucks"
     },
     {
       "id": 15,
       "caption": "Taktyka gaszenia pożarów kolejowych",
-      "duration": 432000,
+      "duration": "432000",
       "education_key": "railway_fire",
-      "date_start": "2026-07-14T12:00:00Z"
+      "date_start": "2026-07-14 12:00:00 UTC"
     },
     {
       "id": 16,
       "caption": "Szkolenie z zakresu stosowania urządzeń SRK",
-      "duration": 345600,
+      "duration": "345600",
       "education_key": "railway_electronics",
-      "date_start": "2026-07-14T12:00:00Z"
+      "date_start": "2026-07-14 12:00:00 UTC"
     },
     {
       "id": 0,
       "caption": "Lotnictwo policyjne",
-      "duration": 604800,
+      "duration": "604800",
       "education_key": "polizeihubschrauber"
     },
     {
       "id": 1,
       "caption": "SPKP",
-      "duration": 432000,
+      "duration": "432000",
       "education_key": "swat"
     },
     {
       "id": 2,
       "caption": "K-9",
-      "duration": 432000,
+      "duration": "432000",
       "education_key": "k9"
     },
     {
       "id": 3,
       "caption": "Motocykl Policyjny",
-      "duration": 259200,
+      "duration": "259200",
       "education_key": "police_motorcycle"
     },
     {
       "id": 4,
       "caption": "Szkolenie WRD",
-      "duration": 259200,
+      "duration": "259200",
       "education_key": "traffic_police"
     },
     {
       "id": 5,
       "caption": "Szkolenie OPP",
-      "duration": 172800,
+      "duration": "172800",
       "education_key": "riot_police"
     },
     {
       "id": 6,
       "caption": "Policyjny ratownik medyczny",
-      "duration": 432000,
+      "duration": "432000",
       "education_key": "riot_police_ambulance"
     },
     {
       "id": 7,
       "caption": "Szkolenie policyjnego dowódcy",
-      "duration": 604800,
+      "duration": "604800",
       "education_key": "police_service_group_leader"
     },
     {
       "id": 8,
       "caption": "Szkolenie w zakresie pojazdów ciężkich",
-      "duration": 345600,
+      "duration": "345600",
       "education_key": "tow_trucks"
     },
     {
       "id": 0,
       "hidden": true,
       "caption": "Lekarz",
-      "duration": 604800,
+      "duration": "604800",
       "education_key": "notarzt"
     },
     {
       "id": 1,
       "hidden": true,
-      "caption": "\u003Cspan class=\"translation_missing localeapp\" title=\"translation missing: pl_PL.education.lna\"\u003ELna\u003C/span\u003E",
-      "duration": 777600,
+      "caption": "<span class=\"translation_missing localeapp\" title=\"translation missing: pl_PL.education.lna\">Lna</span>",
+      "duration": "777600",
       "education_key": "lna"
     },
     {
       "id": 2,
       "caption": "Szefa służb ratownictwa medycznego",
-      "duration": 604800,
+      "duration": "604800",
       "education_key": "orgl"
     },
     {
       "id": 3,
       "caption": "Szybkie ratownictwo wodne",
-      "duration": 345600,
+      "duration": "345600",
       "education_key": "gw_wasserrettung"
     },
     {
       "id": 4,
       "caption": "Kurs Nurka MSWiA",
-      "duration": 432000,
+      "duration": "432000",
       "education_key": "gw_taucher"
     },
     {
       "id": 5,
       "caption": "Lekarz",
-      "duration": 259200,
+      "duration": "259200",
       "education_key": "critical_care"
     },
     {
       "id": 6,
       "caption": "Motoambulans",
-      "duration": 172800,
+      "duration": "172800",
       "education_key": "rapid_response_motorcycle"
     },
     {
       "id": 7,
       "caption": "Certyfikat Ratownictwa Górskiego",
-      "duration": 432000,
+      "duration": "432000",
       "education_key": "mountain_rescue"
     },
     {
       "id": 8,
       "caption": "Szkolenie psów ratowniczych",
-      "duration": 432000,
+      "duration": "432000",
       "education_key": "mountain_rescue_dogs"
     },
     {
       "id": 9,
       "caption": "Certyfikat ratownictwa jaskiniowego",
-      "duration": 432000,
+      "duration": "432000",
       "education_key": "mountain_cave_rescue"
     }
   ]
