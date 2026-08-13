@@ -378,7 +378,7 @@
     {
       "key": "duration",
       "caption": null,
-      "type": "Integer"
+      "type": "ActiveSupport::Duration"
     },
     {
       "key": "need_rtw",
@@ -6970,291 +6970,291 @@
     {
       "id": 0,
       "caption": "HazMat",
-      "duration": 259200,
+      "duration": "259200",
       "education_key": "gw_gefahrgut"
     },
     {
       "id": 1,
       "caption": "Mobile command",
-      "duration": 432000,
+      "duration": "432000",
       "education_key": "elw2"
     },
     {
       "id": 2,
       "caption": "Aircraft Rescue and Firefighting",
-      "duration": 432000,
+      "duration": "432000",
       "education_key": "arff"
     },
     {
       "id": 3,
       "caption": "Lifeguard Training",
-      "duration": 259200,
+      "duration": "259200",
       "education_key": "gw_wasserrettung"
     },
     {
       "id": 4,
       "caption": "Lifeboat Operations Training",
-      "duration": 432000,
+      "duration": "432000",
       "education_key": "ocean_navigation",
       "hidden": true
     },
     {
       "id": 5,
       "caption": "Co-Responder Training",
-      "duration": 259200,
+      "duration": "259200",
       "education_key": "coresponder"
     },
     {
       "id": 6,
       "caption": "High Volume Pump Training",
-      "duration": 259200,
+      "duration": "259200",
       "education_key": "pump"
     },
     {
       "id": 7,
       "caption": "HART Training",
-      "duration": 432000,
+      "duration": "432000",
       "education_key": "hazard_response_ems",
       "hidden": true
     },
     {
       "id": 8,
       "caption": "Drone Operator Training",
-      "duration": 432000,
+      "duration": "432000",
       "education_key": "drone"
     },
     {
       "id": 9,
       "caption": "Railway Fire",
-      "duration": 432000,
+      "duration": "432000",
       "education_key": "railway_fire"
     },
     {
       "id": 0,
       "caption": "Police aviation",
-      "duration": 604800,
+      "duration": "604800",
       "education_key": "polizeihubschrauber"
     },
     {
       "id": 1,
       "caption": "Firearms training",
-      "duration": 432000,
+      "duration": "432000",
       "education_key": "swat"
     },
     {
       "id": 2,
       "caption": "Dog handling",
-      "duration": 432000,
+      "duration": "432000",
       "education_key": "k9"
     },
     {
       "id": 3,
       "caption": "Roads Policing Officer Training",
-      "duration": 259200,
+      "duration": "259200",
       "education_key": "traffic_police"
     },
     {
       "id": 4,
       "caption": "Level 1 Public Order Training",
-      "duration": 432000,
+      "duration": "432000",
       "education_key": "level_1_public_order"
     },
     {
       "id": 5,
       "caption": "Level 2 Public Order Training",
-      "duration": 432000,
+      "duration": "432000",
       "education_key": "level_2_public_order"
     },
     {
       "id": 6,
       "caption": "Police Medic Training",
-      "duration": 345600,
+      "duration": "345600",
       "education_key": "police_medic"
     },
     {
       "id": 7,
       "caption": "Police Sergeant Training",
-      "duration": 345600,
+      "duration": "345600",
       "education_key": "police_sergeant"
     },
     {
       "id": 8,
       "caption": "Police Inspector Training",
-      "duration": 345600,
+      "duration": "345600",
       "education_key": "police_inspector"
     },
     {
       "id": 9,
       "caption": "Mounted Training",
-      "duration": 345600,
+      "duration": "345600",
       "education_key": "police_horse"
     },
     {
       "id": 10,
       "caption": "Police Search Advisor Training",
-      "duration": 259200,
+      "duration": "259200",
       "education_key": "search_and_rescue"
     },
     {
       "id": 11,
       "caption": "Drone Operator Training",
-      "duration": 432000,
+      "duration": "432000",
       "education_key": "drone"
     },
     {
       "id": 12,
       "caption": "Railway Policing",
-      "duration": 432000,
+      "duration": "432000",
       "education_key": "railway_police"
     },
     {
       "id": 13,
       "caption": "Mobile Operations Management",
-      "duration": 432000,
+      "duration": "432000",
       "education_key": "railway_police_command"
     },
     {
       "id": 14,
       "caption": "Bomb Disposal",
-      "duration": 259200,
+      "duration": "259200",
       "education_key": "bomb_disposal"
     },
     {
       "id": 15,
       "caption": "Marine Bomb Disposal",
-      "duration": 259200,
+      "duration": "259200",
       "education_key": "bomb_disposal_diver"
     },
     {
       "id": 16,
       "caption": "EOD Commander",
-      "duration": 432000,
+      "duration": "432000",
       "education_key": "bomb_disposal_command"
     },
     {
       "id": 0,
       "caption": "Critical care",
-      "duration": 432000,
+      "duration": "432000",
       "education_key": "critical_care"
     },
     {
       "id": 1,
       "caption": "HART Training",
-      "duration": 432000,
+      "duration": "432000",
       "education_key": "hazard_response_ems"
     },
     {
       "id": 2,
       "caption": "Tactical Command Course",
-      "duration": 432000,
+      "duration": "432000",
       "education_key": "elw2_ems"
     },
     {
       "id": 3,
       "caption": "SORT Training",
-      "duration": 259200,
+      "duration": "259200",
       "education_key": "special_operation_response"
     },
     {
       "id": 4,
       "caption": "Ambulance Officer",
-      "duration": 432000,
+      "duration": "432000",
       "education_key": "ems_mobile_command"
     },
     {
       "id": 5,
       "caption": "Midwifery Training",
-      "duration": 432000,
+      "duration": "432000",
       "education_key": "midwife"
     },
     {
       "id": 6,
       "caption": "Specialist Paramedic Training",
-      "duration": 432000,
+      "duration": "432000",
       "education_key": "paramedic_advanced"
     },
     {
       "id": 0,
       "caption": "Coastal Air Rescue Operations Training",
-      "duration": 432000,
+      "duration": "432000",
       "education_key": "coastal_rescue_pilot"
     },
     {
       "id": 1,
       "caption": "Coastal Command Training",
-      "duration": 432000,
+      "duration": "432000",
       "education_key": "coastal_command"
     },
     {
       "id": 2,
       "caption": "Mud Rescue Training",
-      "duration": 259200,
+      "duration": "259200",
       "education_key": "coastal_mud_rescue"
     },
     {
       "id": 3,
       "caption": "Lifeboat Operations Training",
-      "duration": 432000,
+      "duration": "432000",
       "education_key": "ocean_navigation"
     },
     {
       "id": 4,
       "caption": "Rope Rescue Training",
-      "duration": 259200,
+      "duration": "259200",
       "education_key": "gw_hoehenrettung"
     },
     {
       "id": 5,
       "caption": "Flood First Responder Training",
-      "duration": 259200,
+      "duration": "259200",
       "education_key": "flood_equipment"
     },
     {
       "id": 6,
       "caption": "Lifeguard Training",
-      "duration": 259200,
+      "duration": "259200",
       "education_key": "gw_wasserrettung"
     },
     {
       "id": 7,
       "caption": "Jet Ski Handling",
-      "duration": 259200,
+      "duration": "259200",
       "education_key": "jetski"
     },
     {
       "id": 8,
       "caption": "Hovercraft Commander Training",
-      "duration": 259200,
+      "duration": "259200",
       "education_key": "hover_boat_elw"
     },
     {
       "id": 9,
       "caption": "Coastguard Search Advisor Training",
-      "duration": 259200,
+      "duration": "259200",
       "education_key": "search_and_rescue"
     },
     {
       "id": 10,
       "caption": "Search Management Training",
-      "duration": 432000,
+      "duration": "432000",
       "education_key": "search_and_rescue_command"
     },
     {
       "id": 11,
       "caption": "Drone Operator Training",
-      "duration": 432000,
+      "duration": "432000",
       "education_key": "drone"
     },
     {
       "id": 12,
       "caption": "Dog handling",
-      "duration": 432000,
+      "duration": "432000",
       "education_key": "rescue_dogs"
     },
     {
       "id": 13,
       "caption": "Cave Rescue Training",
-      "duration": 432000,
+      "duration": "432000",
       "education_key": "mountain_cave_rescue"
     }
   ]
