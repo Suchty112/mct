@@ -323,7 +323,7 @@
     {
       "key": "duration",
       "caption": null,
-      "type": "Integer"
+      "type": "ActiveSupport::Duration"
     },
     {
       "key": "possible_prisoner_min",
@@ -1977,7 +1977,7 @@
     },
     {
       "id": 19,
-      "caption": "\u003Cspan class=\"translation_missing localeapp\" title=\"translation missing: en_AU.award.autumn_missions\"\u003EAutumn Missions\u003C/span\u003E",
+      "caption": "<span class=\"translation_missing localeapp\" title=\"translation missing: en_AU.award.autumn_missions\">Autumn Missions</span>",
       "key": "AWARD_AUTUMN_MISSIONS"
     },
     {
@@ -6105,138 +6105,138 @@
     {
       "id": 0,
       "caption": "HAZMAT Course",
-      "duration": 259200,
+      "duration": "259200",
       "education_key": "gw_gefahrgut"
     },
     {
       "id": 1,
       "caption": "Mobile command",
-      "duration": 432000,
+      "duration": "432000",
       "education_key": "elw2"
     },
     {
       "id": 2,
       "caption": "ULFV Crash Tender-Training",
-      "duration": 259200,
+      "duration": "259200",
       "education_key": "arff"
     },
     {
       "id": 3,
       "caption": "SES Rescue",
-      "duration": 345600,
+      "duration": "345600",
       "education_key": "gw_wasserrettung",
       "hidden": true
     },
     {
       "id": 4,
       "caption": "Ocean Navigation",
-      "duration": 432000,
+      "duration": "432000",
       "education_key": "ocean_navigation",
       "hidden": true
     },
     {
       "id": 5,
       "caption": "Intensive Care Education",
-      "duration": 432000,
+      "duration": "432000",
       "education_key": "critical_care"
     },
     {
       "id": 6,
       "caption": "Airborne firefighting",
-      "duration": 432000,
+      "duration": "432000",
       "education_key": "airborne_firefighting"
     },
     {
       "id": 7,
       "caption": "Emergency Stairs Training",
-      "duration": 604800,
+      "duration": "604800",
       "education_key": "rettungstreppe"
     },
     {
       "id": 0,
       "caption": "Police Air Wing",
-      "duration": 604800,
+      "duration": "604800",
       "education_key": "polizeihubschrauber"
     },
     {
       "id": 1,
       "caption": "TOG",
-      "duration": 432000,
+      "duration": "432000",
       "education_key": "swat"
     },
     {
       "id": 2,
       "caption": "K-9",
-      "duration": 432000,
+      "duration": "432000",
       "education_key": "k9"
     },
     {
       "id": 3,
       "caption": "Police Motorcycle",
-      "duration": 259200,
+      "duration": "259200",
       "education_key": "police_motorcycle"
     },
     {
       "id": 4,
       "caption": "Mounted Police Training",
-      "duration": 259200,
+      "duration": "259200",
       "education_key": "police_horse"
     },
     {
       "id": 5,
       "caption": "Riot Police Equipment Training",
       "education_key": "riot_police_equipment",
-      "duration": 432000
+      "duration": "432000"
     },
     {
       "id": 6,
       "caption": "Senior Sergeant",
       "education_key": "police_service_group_leader",
-      "duration": 432000
+      "duration": "432000"
     },
     {
       "id": 0,
       "caption": "Intensive Care Education",
-      "duration": 432000,
+      "duration": "432000",
       "education_key": "critical_care"
     },
     {
       "id": 0,
       "caption": "Boat Captain Training",
-      "duration": 259200,
+      "duration": "259200",
       "education_key": "coastal_rescue"
     },
     {
       "id": 1,
       "caption": "Ocean Navigation",
-      "duration": 432000,
+      "duration": "432000",
       "education_key": "ocean_navigation"
     },
     {
       "id": 2,
       "caption": "Mobile Command Training",
-      "duration": 259200,
+      "duration": "259200",
       "education_key": "water_rescue_elw2"
     },
     {
       "id": 3,
       "caption": "SES Rescue",
-      "duration": 345600,
+      "duration": "345600",
       "education_key": "gw_wasserrettung"
     },
     {
       "id": 4,
       "caption": "Coastal Rescue Pilot Training",
-      "duration": 432000,
+      "duration": "432000",
       "education_key": "coastal_rescue_pilot",
-      "date_start": "2026-07-14T12:00:00.000+10:00"
+      "date_start": "2026-07-14 12:00:00 +1000"
     },
     {
       "id": 5,
       "caption": "Coastal Rescue Command",
-      "duration": 432000,
+      "duration": "432000",
       "education_key": "coastal_command",
-      "date_start": "2026-07-14T12:00:00.000+10:00"
+      "date_start": "2026-07-14 12:00:00 +1000"
     }
   ]
 }
