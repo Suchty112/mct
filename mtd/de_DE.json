@@ -1504,7 +1504,7 @@
     },
     {
       "key": "care_includes_staff_members",
-      "caption": "Benötigtes Feuerwehr-Verpflegungseinheit Personal",
+      "caption": "Benötigtes Verpflegungspersonal für Einsatzkräfte",
       "type": "Integer"
     }
   ],
@@ -7610,6 +7610,14 @@
     {
       "id": 1028,
       "caption": "Brand eines Großbatteriespeichers"
+    },
+    {
+      "id": 1029,
+      "caption": "Großflächiger Waldbrand"
+    },
+    {
+      "id": 1030,
+      "caption": "Evakuierung Gefahrengebiet"
     }
   ],
   "education_data": [
