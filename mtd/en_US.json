@@ -298,7 +298,7 @@
     {
       "key": "duration",
       "caption": null,
-      "type": "Integer"
+      "type": "ActiveSupport::Duration"
     },
     {
       "key": "need_rtw",
@@ -2966,7 +2966,7 @@
     },
     {
       "id": 65,
-      "caption": "\u003Cspan class=\"translation_missing localeapp\" title=\"translation missing: en_US.award.thanksgiving_2023\"\u003EThanksgiving 2023\u003C/span\u003E",
+      "caption": "<span class=\"translation_missing localeapp\" title=\"translation missing: en_US.award.thanksgiving_2023\">Thanksgiving 2023</span>",
       "key": "AWARD_THANKSGIVING_MISSIONS_2023"
     },
     {
@@ -8143,326 +8143,326 @@
     {
       "id": 0,
       "caption": "HazMat",
-      "duration": 259200,
+      "duration": "259200",
       "education_key": "gw_gefahrgut"
     },
     {
       "id": 1,
       "caption": "Mobile command",
-      "duration": 432000,
+      "duration": "432000",
       "education_key": "elw2"
     },
     {
       "id": 2,
       "caption": "ARFF-Training",
-      "duration": 259200,
+      "duration": "259200",
       "education_key": "arff"
     },
     {
       "id": 3,
       "caption": "Swift water rescue",
-      "duration": 345600,
+      "duration": "345600",
       "education_key": "gw_wasserrettung"
     },
     {
       "id": 4,
       "caption": "Ocean Navigation",
-      "duration": 432000,
+      "duration": "432000",
       "education_key": "ocean_navigation"
     },
     {
       "id": 5,
       "caption": "Airborne firefighting",
-      "duration": 432000,
+      "duration": "432000",
       "education_key": "airborne_firefighting"
     },
     {
       "id": 6,
       "caption": "Heavy Machinery Operating",
-      "duration": 259200,
+      "duration": "259200",
       "education_key": "heavy_machinery"
     },
     {
       "id": 7,
       "caption": "Truck Driver's License",
-      "duration": 172800,
+      "duration": "172800",
       "education_key": "truck_drivers_license"
     },
     {
       "id": 8,
       "caption": "ALS Medical Training for Fire Apparatus",
-      "duration": 259200,
+      "duration": "259200",
       "education_key": "ambulance_fire_truck"
     },
     {
       "id": 9,
       "caption": "Tactical Medic Training",
-      "duration": 345600,
+      "duration": "345600",
       "education_key": "ambulance_police_car"
     },
     {
       "id": 10,
       "caption": "EMS Mobile Command",
-      "duration": 604800,
+      "duration": "604800",
       "education_key": "ems_mobile_command"
     },
     {
       "id": 11,
       "caption": "Law Enforcement for Arson Investigation",
-      "duration": 345600,
+      "duration": "345600",
       "education_key": "fire_investigator"
     },
     {
       "id": 12,
       "caption": "Lifeguard Supervisor",
-      "duration": 432000,
+      "duration": "432000",
       "education_key": "coastal_command"
     },
     {
       "id": 13,
       "caption": "Lifeguard Training",
-      "duration": 432000,
+      "duration": "432000",
       "education_key": "coastal_rescue"
     },
     {
       "id": 14,
       "caption": "Wildland Lead Pilot Training",
-      "duration": 604800,
+      "duration": "604800",
       "education_key": "brush_air_command"
     },
     {
       "id": 15,
       "caption": "Wildland Mobile Command Center Training",
-      "duration": 432000,
+      "duration": "432000",
       "education_key": "elw3"
     },
     {
       "id": 16,
       "caption": "Smoke Jumper Training",
-      "duration": 259200,
+      "duration": "259200",
       "education_key": "smoke_jumper"
     },
     {
       "id": 17,
       "caption": "Hotshot Crew Training",
-      "duration": 259200,
+      "duration": "259200",
       "education_key": "hotshot"
     },
     {
       "id": 18,
       "caption": "Traffic Control Training",
-      "duration": 259200,
+      "duration": "259200",
       "education_key": "traffic_control"
     },
     {
       "id": 19,
       "caption": "Search and Rescue Training",
-      "duration": 345600,
+      "duration": "345600",
       "education_key": "search_and_rescue"
     },
     {
       "id": 20,
       "caption": "Technical Rescue Training",
-      "duration": 345600,
+      "duration": "345600",
       "education_key": "technical_rescue"
     },
     {
       "id": 21,
       "caption": "Critical Care",
-      "duration": 432000,
+      "duration": "432000",
       "education_key": "critical_care"
     },
     {
       "id": 22,
       "caption": "Hooklift Truck Driving",
-      "duration": 345600,
+      "duration": "345600",
       "education_key": "pod_tractive",
-      "date_start": "2026-06-09T13:00:00Z"
+      "date_start": "2026-06-09 13:00:00 UTC"
     },
     {
       "id": 0,
       "caption": "Police Aviation",
-      "duration": 604800,
+      "duration": "604800",
       "education_key": "polizeihubschrauber"
     },
     {
       "id": 1,
       "caption": "SWAT",
-      "duration": 432000,
+      "duration": "432000",
       "education_key": "swat"
     },
     {
       "id": 2,
       "caption": "K-9",
-      "duration": 432000,
+      "duration": "432000",
       "education_key": "k9"
     },
     {
       "id": 3,
       "caption": "Police Motorcycle",
-      "duration": 259200,
+      "duration": "259200",
       "education_key": "police_motorcycle"
     },
     {
       "id": 4,
       "caption": "FBI Mobile Center Commander",
-      "duration": 604800,
+      "duration": "604800",
       "education_key": "fbi_mcc"
     },
     {
       "id": 5,
       "caption": "FBI Bomb Technician",
-      "duration": 432000,
+      "duration": "432000",
       "education_key": "fbi_bomb_tech"
     },
     {
       "id": 6,
       "caption": "Drone Operator",
-      "duration": 432000,
+      "duration": "432000",
       "education_key": "fbi_drone_operator"
     },
     {
       "id": 7,
       "caption": "Police Supervisor / Sheriff",
-      "duration": 432000,
+      "duration": "432000",
       "education_key": "sheriff"
     },
     {
       "id": 8,
       "caption": "Environmental Game Warden",
-      "duration": 345600,
+      "duration": "345600",
       "education_key": "game_warden"
     },
     {
       "id": 9,
       "caption": "Ocean Navigation",
-      "duration": 432000,
+      "duration": "432000",
       "education_key": "ocean_navigation"
     },
     {
       "id": 10,
       "caption": "Riot Police Training",
-      "duration": 259200,
+      "duration": "259200",
       "education_key": "riot_police"
     },
     {
       "id": 11,
       "caption": "Police Operations Management",
-      "duration": 432000,
+      "duration": "432000",
       "education_key": "elw_police"
     },
     {
       "id": 12,
       "caption": "Tactical Rescue Training",
-      "duration": 432000,
+      "duration": "432000",
       "education_key": "tactical_medic"
     },
     {
       "id": 13,
       "caption": "Sharpshooter Training",
-      "duration": 432000,
+      "duration": "432000",
       "education_key": "sniper"
     },
     {
       "id": 14,
       "caption": "Traffic Control Training",
-      "duration": 259200,
+      "duration": "259200",
       "education_key": "traffic_control"
     },
     {
       "id": 15,
       "caption": "Swift water rescue",
-      "duration": 345600,
+      "duration": "345600",
       "education_key": "gw_wasserrettung"
     },
     {
       "id": 0,
       "caption": "ALS Medical Training for Fire Apparatus",
-      "duration": 259200,
+      "duration": "259200",
       "education_key": "ambulance_fire_truck"
     },
     {
       "id": 1,
       "caption": "Tactical Medic Training",
-      "duration": 345600,
+      "duration": "345600",
       "education_key": "ambulance_police_car"
     },
     {
       "id": 2,
       "caption": "Hazmat Medic Training",
-      "duration": 259200,
+      "duration": "259200",
       "education_key": "gw_gefahrgut"
     },
     {
       "id": 3,
       "caption": "EMS Mobile Command",
-      "duration": 604800,
+      "duration": "604800",
       "education_key": "ems_mobile_command"
     },
     {
       "id": 4,
       "caption": "Truck Driver's License",
-      "duration": 172800,
+      "duration": "172800",
       "education_key": "truck_drivers_license"
     },
     {
       "id": 5,
       "caption": "Critical Care",
-      "duration": 432000,
+      "duration": "432000",
       "education_key": "critical_care"
     },
     {
       "id": 6,
       "caption": "Mountain Rescue Certificate",
-      "duration": 432000,
+      "duration": "432000",
       "education_key": "mountain_rescue"
     },
     {
       "id": 7,
       "caption": "Mountain Dog Training",
-      "duration": 432000,
+      "duration": "432000",
       "education_key": "mountain_rescue_dogs"
     },
     {
       "id": 0,
       "caption": "Coastal Air Rescue Operations",
-      "duration": 432000,
+      "duration": "432000",
       "education_key": "coastal_rescue_pilot"
     },
     {
       "id": 1,
       "caption": "Lifeguard Supervisor",
-      "duration": 432000,
+      "duration": "432000",
       "education_key": "coastal_command"
     },
     {
       "id": 2,
       "caption": "Lifeguard Training",
-      "duration": 432000,
+      "duration": "432000",
       "education_key": "coastal_rescue"
     },
     {
       "id": 3,
       "caption": "TACLET",
-      "duration": 259200,
+      "duration": "259200",
       "education_key": "law_enforcement_marine"
     },
     {
       "id": 4,
       "caption": "Ocean Navigation",
-      "duration": 432000,
+      "duration": "432000",
       "education_key": "ocean_navigation"
     },
     {
       "id": 5,
       "caption": "Swift water rescue",
-      "duration": 345600,
+      "duration": "345600",
       "education_key": "gw_wasserrettung"
     },
     {
       "id": 6,
       "caption": "Sharpshooter Training",
-      "duration": 432000,
+      "duration": "432000",
       "education_key": "sniper"
     }
   ]
