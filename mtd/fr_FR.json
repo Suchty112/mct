@@ -318,7 +318,7 @@
     {
       "key": "duration",
       "caption": null,
-      "type": "Integer"
+      "type": "ActiveSupport::Duration"
     },
     {
       "key": "followup_missions",
@@ -7323,265 +7323,265 @@
     {
       "id": 0,
       "caption": "Véhicules risques chimiques",
-      "duration": 259200,
+      "duration": "259200",
       "education_key": "gw_gefahrgut"
     },
     {
       "id": 1,
       "caption": "Commandement mobile",
-      "duration": 432000,
+      "duration": "432000",
       "education_key": "elw2"
     },
     {
       "id": 2,
       "caption": "SSLIA",
-      "duration": 432000,
+      "duration": "432000",
       "education_key": "arff"
     },
     {
       "id": 3,
       "caption": "SAV (Sauvetage Aquatique)",
-      "duration": 259200,
+      "duration": "259200",
       "education_key": "gw_wasserrettung"
     },
     {
       "id": 4,
       "caption": "Certificat de surveillance et sauvetage aquatique",
-      "duration": 432000,
+      "duration": "432000",
       "education_key": "ocean_navigation"
     },
     {
       "id": 5,
       "caption": "IMP (Intervention en Milieu Périlleux)",
-      "duration": 345600,
+      "duration": "345600",
       "education_key": "gw_hoehenrettung"
     },
     {
       "id": 6,
       "caption": "PLG (Plongeur)",
-      "duration": 432000,
+      "duration": "432000",
       "education_key": "gw_taucher"
     },
     {
       "id": 7,
       "caption": "Médecin",
-      "duration": 432000,
+      "duration": "432000",
       "education_key": "critical_care"
     },
     {
       "id": 8,
       "caption": "Formation risques radiologiques",
-      "duration": 345600,
+      "duration": "345600",
       "education_key": "decontamination_radiology"
     },
     {
       "id": 9,
       "caption": "Conducteur de train",
-      "duration": 432000,
+      "duration": "432000",
       "education_key": "railway_fire"
     },
     {
       "id": 10,
       "caption": "Télépilote robotique",
-      "duration": 345600,
+      "duration": "345600",
       "education_key": "railway_electronics"
     },
     {
       "id": 11,
       "caption": "Certification exploration longue durée",
-      "duration": 345600,
+      "duration": "345600",
       "education_key": "railway_exploration"
     },
     {
       "id": 12,
       "caption": "Extraction en milieux dangereux",
-      "duration": 345600,
+      "duration": "345600",
       "education_key": "railway_mining"
     },
     {
       "id": 0,
       "caption": "Licence de Pilote",
-      "duration": 604800,
+      "duration": "604800",
       "education_key": "polizeihubschrauber"
     },
     {
       "id": 1,
       "caption": "Formation d'intervention d'élite",
-      "duration": 259200,
+      "duration": "259200",
       "education_key": "swat"
     },
     {
       "id": 2,
       "caption": "Maître chien",
-      "duration": 432000,
+      "duration": "432000",
       "education_key": "k9"
     },
     {
       "id": 3,
       "caption": "Formation Motocycliste",
-      "duration": 259200,
+      "duration": "259200",
       "education_key": "police_motorcycle"
     },
     {
       "id": 4,
       "caption": "Commandement Mobile",
-      "duration": 604800,
+      "duration": "604800",
       "education_key": "riot_police_command"
     },
     {
       "id": 5,
       "caption": "Lanceur d'eau",
-      "duration": 604800,
+      "duration": "604800",
       "education_key": "police_wasserwerfer"
     },
     {
       "id": 6,
       "caption": "Armurier",
-      "duration": 604800,
+      "duration": "604800",
       "education_key": "riot_police_equipment"
     },
     {
       "id": 7,
       "caption": "Formation de médecin d'intervention",
-      "duration": 432000,
+      "duration": "432000",
       "education_key": "swat_physician"
     },
     {
       "id": 8,
       "caption": "Formation de négociateur",
-      "duration": 432000,
+      "duration": "432000",
       "education_key": "swat_negotiation"
     },
     {
       "id": 9,
       "caption": "Surveillance et intervention",
-      "duration": 432000,
+      "duration": "432000",
       "education_key": "police_monitoring"
     },
     {
       "id": 10,
       "caption": "Intervention rapide",
-      "duration": 432000,
+      "duration": "432000",
       "education_key": "police_rapid_patrol"
     },
     {
       "id": 11,
       "caption": "Technicien en identification criminelle",
-      "duration": 432000,
+      "duration": "432000",
       "education_key": "criminal_investigation"
     },
     {
       "id": 12,
       "caption": "Officier de police judiciaire",
-      "duration": 432000,
+      "duration": "432000",
       "education_key": "police_law"
     },
     {
       "id": 13,
       "caption": "Brevet de Sauvetage en Montagne",
-      "duration": 259200,
+      "duration": "259200",
       "education_key": "mountain_rescue"
     },
     {
       "id": 14,
       "caption": "Médecine d'urgence de sauvetage en montagne",
-      "duration": 432000,
+      "duration": "432000",
       "education_key": "mountain_rescue_medic"
     },
     {
       "id": 15,
       "caption": "Formation des opérateurs de drones",
-      "duration": 432000,
+      "duration": "432000",
       "education_key": "mountain_rescue_drone"
     },
     {
       "id": 16,
       "caption": "Formation d'opérateur de remorque d'hélicoptère",
-      "duration": 432000,
+      "duration": "432000",
       "education_key": "mountain_rescue_helicopter_trailer"
     },
     {
       "id": 0,
       "caption": "DSM",
-      "duration": 604800,
+      "duration": "604800",
       "education_key": "orgl"
     },
     {
       "id": 1,
       "caption": "Médecin",
-      "duration": 432000,
+      "duration": "432000",
       "education_key": "critical_care"
     },
     {
       "id": 0,
       "caption": "Formation Pilote d'Intervention",
-      "duration": 432000,
+      "duration": "432000",
       "education_key": "intervention_pilot"
     },
     {
       "id": 1,
       "caption": "BNSSA",
-      "duration": 432000,
+      "duration": "432000",
       "education_key": "coastal_rescue"
     },
     {
       "id": 2,
       "caption": "Accréditation nautique",
-      "duration": 259200,
+      "duration": "259200",
       "education_key": "law_enforcement_marine"
     },
     {
       "id": 3,
       "caption": "Certificat de surveillance et sauvetage aquatique",
-      "duration": 432000,
+      "duration": "432000",
       "education_key": "ocean_navigation"
     },
     {
       "id": 4,
       "caption": "Formation de mécanicien",
-      "duration": 432000,
+      "duration": "432000",
       "education_key": "airborne_firefighting"
     },
     {
       "id": 5,
       "caption": "Formation des commandants d’intervention en cas de catastrophe",
-      "duration": 432000,
+      "duration": "432000",
       "education_key": "disaster_response_command"
     },
     {
       "id": 6,
       "caption": "Formation risques chimiques",
-      "duration": 345600,
+      "duration": "345600",
       "education_key": "decontamination_chemicals"
     },
     {
       "id": 7,
       "caption": "Formation risques radiologiques",
-      "duration": 345600,
+      "duration": "345600",
       "education_key": "decontamination_radiology"
     },
     {
       "id": 8,
       "caption": "Formation démineur",
-      "duration": 604800,
+      "duration": "604800",
       "education_key": "fbi_bomb_tech"
     },
     {
       "id": 9,
       "caption": "Formation pilote à distance",
-      "duration": 345600,
+      "duration": "345600",
       "education_key": "bomb_drone"
     },
     {
       "id": 10,
       "caption": "Sauvetage et déblaiement",
-      "duration": 345600,
+      "duration": "345600",
       "education_key": "disaster_response"
     },
     {
       "id": 11,
       "caption": "Formation équipe cynophile",
-      "duration": 259200,
+      "duration": "259200",
       "education_key": "rescue_dogs"
     }
   ]
