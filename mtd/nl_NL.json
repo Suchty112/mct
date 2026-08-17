@@ -443,7 +443,7 @@
     {
       "key": "duration",
       "caption": null,
-      "type": "Integer"
+      "type": "ActiveSupport::Duration"
     },
     {
       "key": "prisoner_transport_count",
@@ -8234,359 +8234,359 @@
     {
       "id": 0,
       "caption": "Verkenningseenheid Brandweer",
-      "duration": 259200,
+      "duration": "259200",
       "education_key": "gw_messtechnik"
     },
     {
       "id": 1,
       "caption": "Hoofd Officier van Dienst - Brandweer",
-      "duration": 604800,
+      "duration": "604800",
       "education_key": "elw2"
     },
     {
       "id": 2,
       "caption": "Adviseur Gevaarlijke Stoffen",
-      "duration": 518400,
+      "duration": "518400",
       "education_key": "gw_gefahrgut"
     },
     {
       "id": 3,
       "caption": "Brandweerchauffeur-zwaar",
-      "duration": 172800,
+      "duration": "172800",
       "education_key": "wechsellader"
     },
     {
       "id": 4,
       "caption": "Duiker/Duikploegleider",
-      "duration": 604800,
+      "duration": "604800",
       "education_key": "gw_taucher"
     },
     {
       "id": 5,
       "caption": "Vliegtuigbrandbestrijding",
-      "duration": 604800,
+      "duration": "604800",
       "education_key": "arff"
     },
     {
       "id": 6,
       "caption": "Airport Fire Officer / On Scene Commander",
-      "duration": 604800,
+      "duration": "604800",
       "education_key": "elw_airport"
     },
     {
       "id": 7,
       "caption": "Oppervlakteredder",
-      "duration": 604800,
+      "duration": "604800",
       "education_key": "oppervlakteredder"
     },
     {
       "id": 8,
       "caption": "Voorlichter",
-      "duration": 432000,
+      "duration": "432000",
       "education_key": "spokesman"
     },
     {
       "id": 9,
       "caption": "Waterredding",
-      "duration": 259200,
+      "duration": "259200",
       "education_key": "gw_wasserrettung",
       "hidden": true
     },
     {
       "id": 10,
       "caption": "Weginspecteur",
-      "duration": 259200,
+      "duration": "259200",
       "education_key": "technical_aid"
     },
     {
       "id": 11,
       "caption": "Fire Bucket Operator",
-      "duration": 864000,
+      "duration": "864000",
       "education_key": "airborne_firefighting"
     },
     {
       "id": 12,
       "caption": "Handcrew",
-      "duration": 604800,
+      "duration": "604800",
       "education_key": "wildfire"
     },
     {
       "id": 13,
       "caption": "Landelijk Adviseur Natuurbranden",
-      "duration": 432000,
+      "duration": "432000",
       "education_key": "wildfire_command"
     },
     {
       "id": 14,
       "caption": "Teamleider STH",
-      "duration": 604800,
+      "duration": "604800",
       "education_key": "disaster_response_command"
     },
     {
       "id": 15,
       "caption": "Teamlid STH",
-      "duration": 432000,
+      "duration": "432000",
       "education_key": "disaster_response"
     },
     {
       "id": 16,
       "caption": "Teamlid USAR",
-      "duration": 604800,
+      "duration": "604800",
       "education_key": "search_and_rescue"
     },
     {
       "id": 17,
       "caption": "Hondengeleider USAR",
-      "duration": 691200,
+      "duration": "691200",
       "education_key": "rescue_dogs"
     },
     {
       "id": 18,
       "caption": "Noodhulpteam",
-      "duration": 432000,
+      "duration": "432000",
       "education_key": "mass_casualty"
     },
     {
       "id": 19,
       "caption": "Geneeskundige bijstandsverlener",
-      "duration": 604800,
+      "duration": "604800",
       "education_key": "mass_casualty_and_emergency_doctor"
     },
     {
       "id": 20,
       "caption": "Berger Training",
-      "duration": 345600,
+      "duration": "345600",
       "education_key": "tow_trucks"
     },
     {
       "id": 21,
       "caption": "Pelotonscommandant Logistiek",
-      "duration": 604800,
+      "duration": "604800",
       "education_key": "care_service_command"
     },
     {
       "id": 22,
       "caption": "Verzorger",
-      "duration": 604800,
+      "duration": "604800",
       "education_key": "care_service",
-      "date_start": "2025-11-18T12:00:00Z"
+      "date_start": "2025-11-18 12:00:00 UTC"
     },
     {
       "id": 23,
       "caption": "Hygiënemedewerker",
-      "duration": 604800,
+      "duration": "604800",
       "education_key": "clean_service",
-      "date_start": "2025-11-18T12:00:00Z"
+      "date_start": "2025-11-18 12:00:00 UTC"
     },
     {
       "id": 24,
       "caption": "TDV Drone Flightcrew",
-      "duration": 604800,
+      "duration": "604800",
       "education_key": "drone_fire",
-      "date_start": "2026-02-17T11:00:00Z"
+      "date_start": "2026-02-17 11:00:00 UTC"
     },
     {
       "id": 25,
       "caption": "Gevaarlijke Stoffen Eenheid",
-      "duration": 432000,
+      "duration": "432000",
       "education_key": "hazard_material_response"
     },
     {
       "id": 26,
       "caption": "Ontsmettings Eenheid",
-      "duration": 432000,
+      "duration": "432000",
       "education_key": "hazard_suits_response"
     },
     {
       "id": 27,
       "caption": "Incidentenbestrijder spoor",
-      "duration": 432000,
+      "duration": "432000",
       "education_key": "railway_fire"
     },
     {
       "id": 28,
       "caption": "Officier van Dienst Incidentenbestrijding spoor",
-      "duration": 604800,
+      "duration": "604800",
       "education_key": "railway_elw"
     },
     {
       "id": 0,
       "caption": "Politiehelikopter",
-      "duration": 604800,
+      "duration": "604800",
       "education_key": "polizeihubschrauber"
     },
     {
       "id": 1,
       "caption": "Officier van Dienst - Politie",
-      "duration": 604800,
+      "duration": "604800",
       "education_key": "ovd_p"
     },
     {
       "id": 2,
       "caption": "Mobiele Eenheid",
-      "duration": 345600,
+      "duration": "345600",
       "education_key": "police_mobiele_eenheid"
     },
     {
       "id": 3,
       "caption": "Hondengeleider",
-      "duration": 604800,
+      "duration": "604800",
       "education_key": "hondengeleider"
     },
     {
       "id": 4,
       "caption": "Operator AT",
-      "duration": 864000,
+      "duration": "864000",
       "education_key": "operator_at"
     },
     {
       "id": 5,
       "caption": "Biketeam",
-      "duration": 259200,
+      "duration": "259200",
       "education_key": "bike_police"
     },
     {
       "id": 6,
       "caption": "ME - Aanhoudingseenheid",
-      "duration": 432000,
+      "duration": "432000",
       "education_key": "detention_unit"
     },
     {
       "id": 7,
       "caption": "Bereden Brigade",
       "education_key": "police_horse",
-      "duration": 345600
+      "duration": "345600"
     },
     {
       "id": 8,
       "caption": "ME - Waterwerper",
-      "duration": 432000,
+      "duration": "432000",
       "education_key": "police_wasserwerfer"
     },
     {
       "id": 9,
       "caption": "Chauffeur Dienst Infra",
-      "duration": 345600,
+      "duration": "345600",
       "education_key": "traffic_police"
     },
     {
       "id": 10,
       "caption": "Verkeersongevallen Analist",
-      "duration": 604800,
+      "duration": "604800",
       "education_key": "traffic_inspector"
     },
     {
       "id": 11,
       "caption": "Motoragent",
-      "duration": 172800,
+      "duration": "172800",
       "education_key": "police_motorcycle"
     },
     {
       "id": 12,
       "caption": "Berger Training",
-      "duration": 345600,
+      "duration": "345600",
       "education_key": "tow_trucks"
     },
     {
       "id": 13,
       "caption": "Bomverkenner",
-      "duration": 345600,
+      "duration": "345600",
       "education_key": "bomb_disposal_patrol",
-      "date_start": "2025-07-22T10:00:00Z"
+      "date_start": "2025-07-22 10:00:00 UTC"
     },
     {
       "id": 14,
       "caption": "Drone Flightcrew",
-      "duration": 604800,
+      "duration": "604800",
       "education_key": "drone_police",
-      "date_start": "2026-02-17T11:00:00Z"
+      "date_start": "2026-02-17 11:00:00 UTC"
     },
     {
       "id": 0,
       "caption": "MMT-Bemanningslid",
-      "duration": 604800,
+      "duration": "604800",
       "education_key": "notarzt"
     },
     {
       "id": 1,
       "caption": "Officier van Dienst Geneeskunde",
-      "duration": 950400,
+      "duration": "950400",
       "education_key": "orgl"
     },
     {
       "id": 2,
       "caption": "Noodhulpteam",
-      "duration": 432000,
+      "duration": "432000",
       "education_key": "mass_casualty"
     },
     {
       "id": 3,
       "caption": "Geneeskundige bijstandsverlener",
-      "duration": 604800,
+      "duration": "604800",
       "education_key": "mass_casualty_and_emergency_doctor"
     },
     {
       "id": 4,
       "caption": "Intensive Care Team",
-      "duration": 259200,
+      "duration": "259200",
       "education_key": "intensive_care"
     },
     {
       "id": 0,
       "caption": "SAR Helicopter",
-      "duration": 604800,
+      "duration": "604800",
       "education_key": "coastal_rescue_pilot"
     },
     {
       "id": 1,
       "caption": "Water handhaving",
-      "duration": 432000,
+      "duration": "432000",
       "education_key": "law_enforcement_marine"
     },
     {
       "id": 2,
       "caption": "Groot vaarbewijs",
-      "duration": 604800,
+      "duration": "604800",
       "education_key": "ocean_navigation"
     },
     {
       "id": 3,
       "caption": "Waterredding",
-      "duration": 259200,
+      "duration": "259200",
       "education_key": "gw_wasserrettung"
     },
     {
       "id": 0,
       "caption": "Marechaussee",
-      "duration": 345600,
+      "duration": "345600",
       "education_key": "military_police"
     },
     {
       "id": 1,
       "caption": "Mobiele Eenheid",
-      "duration": 345600,
+      "duration": "345600",
       "education_key": "police_mobiele_eenheid"
     },
     {
       "id": 2,
       "caption": "Bomontmanteling",
-      "duration": 604800,
+      "duration": "604800",
       "education_key": "bomb_disposal",
-      "date_start": "2025-07-22T07:00:00Z"
+      "date_start": "2025-07-22 07:00:00 UTC"
     },
     {
       "id": 3,
       "caption": "Hondengeleider EOD",
-      "duration": 604800,
+      "duration": "604800",
       "education_key": "bomb_disposal_dogs",
-      "date_start": "2025-07-22T07:00:00Z"
+      "date_start": "2025-07-22 07:00:00 UTC"
     },
     {
       "id": 4,
       "caption": "Duiker Defensie",
-      "duration": 604800,
+      "duration": "604800",
       "education_key": "bomb_disposal_diver",
-      "date_start": "2025-07-22T07:00:00Z"
+      "date_start": "2025-07-22 07:00:00 UTC"
     }
   ]
 }
