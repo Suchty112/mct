@@ -856,6 +856,71 @@
       "type": "Integer"
     },
     {
+      "key": "need_oneof_streifenwagen_or_coastal_command",
+      "caption": "Pattuglie o Guardia Costiera richiesto",
+      "type": "Integer"
+    },
+    {
+      "key": "need_rescueboat",
+      "caption": "Idroambulanza richieste",
+      "type": "Integer"
+    },
+    {
+      "key": "fire_boat_dock_count",
+      "caption": "Moli dei vigili del fuoco richiesti",
+      "type": "Integer"
+    },
+    {
+      "key": "need_fire_boat",
+      "caption": "Motobarche antincendio richieste ",
+      "type": "Integer"
+    },
+    {
+      "key": "need_coastal_dinghy_fire",
+      "caption": "Gommoni del fuoco richiesti",
+      "type": "Integer"
+    },
+    {
+      "key": "need_coastal_jetski_fire",
+      "caption": "Moto d'acqua del fuoco richieste",
+      "type": "Integer"
+    },
+    {
+      "key": "police_boat_dock_count",
+      "caption": "Moli della Polizia richiesti",
+      "type": "Integer"
+    },
+    {
+      "key": "need_fire_boat_large",
+      "caption": "Motobarche antincendio grandi richieste",
+      "type": "Integer"
+    },
+    {
+      "key": "need_police_boat",
+      "caption": "Motovedette della polizia richieste ",
+      "type": "Integer"
+    },
+    {
+      "key": "need_police_boat_large",
+      "caption": "Pattugliatori d'altura richiesti",
+      "type": "Integer"
+    },
+    {
+      "key": "need_coastal_jetski_police",
+      "caption": "Moto d'acqua della polizia richieste",
+      "type": "Integer"
+    },
+    {
+      "key": "need_coastal_dinghy_police",
+      "caption": "Gommoni della polizia richiesti",
+      "type": "Integer"
+    },
+    {
+      "key": "police_boat_value",
+      "caption": null,
+      "type": "Integer"
+    },
+    {
       "key": "need_bomb_chance",
       "caption": "Possibilità che siano richiesti gli artificieri",
       "type": "Integer"
@@ -1131,6 +1196,11 @@
       "type": "Integer"
     },
     {
+      "key": "need_oneof_streifenwagen_or_coastal_command_chance",
+      "caption": null,
+      "type": "Integer"
+    },
+    {
       "key": "need_mountain_command_chance",
       "caption": "Probabilità che sia richiesto l'AF/CCR",
       "type": "Integer"
@@ -1168,6 +1238,51 @@
     {
       "key": "need_mountain_snow_dogs_chance",
       "caption": "Probabilità che sia richiesto Cane da Valanga",
+      "type": "Integer"
+    },
+    {
+      "key": "need_fire_boat_large_chance",
+      "caption": "Probabilità che sia necessaria la Motobarca antincendio grande",
+      "type": "Integer"
+    },
+    {
+      "key": "need_fire_boat_chance",
+      "caption": "Probabilità che sia richiesta la Motobarca antincendio",
+      "type": "Integer"
+    },
+    {
+      "key": "need_police_boat_large_chance",
+      "caption": "Probabilità che sia richiesto il Pattugliatore d'Altura della polizia",
+      "type": "Integer"
+    },
+    {
+      "key": "need_police_boat_chance",
+      "caption": "Probabilità che venga richiesta la Motovedetta della polizia",
+      "type": "Integer"
+    },
+    {
+      "key": "need_coastal_dinghy_fire_chance",
+      "caption": "Probabilità che sia richiesto il Gommone del fuoco",
+      "type": "Integer"
+    },
+    {
+      "key": "need_coastal_jetski_fire_chance",
+      "caption": "Probabilità che sia necessaria la Moto d'acqua del fuoco",
+      "type": "Integer"
+    },
+    {
+      "key": "need_coastal_dinghy_police_chance",
+      "caption": "Probabilità che venga richiesto il Gommone della polizia",
+      "type": "Integer"
+    },
+    {
+      "key": "need_coastal_jetski_police_chance",
+      "caption": "Probabilità che sia necessaria la Moto d'acqua della polizia",
+      "type": "Integer"
+    },
+    {
+      "key": "need_rescueboat_chance",
+      "caption": "Probabilità che sia necessaria la Idroambulanza",
       "type": "Integer"
     },
     {
@@ -2094,6 +2209,10 @@
         {
           "id": 0,
           "caption": "Unità Terrestri"
+        },
+        {
+          "id": 1,
+          "caption": "Espansione balneare "
         }
       ],
       "generates_mission_types": ["coastal_rescue", "coastal_rescue_ocean"]
@@ -2211,6 +2330,18 @@
       "caption": "Stazione Soccorso Alpino",
       "key": "BUILDING_TYPE_MOUNTAIN_RESCUE",
       "generates_mission_types": ["mountain"]
+    },
+    {
+      "id": 32,
+      "caption": "Molo dei vigili del fuoco",
+      "key": "BUILDING_TYPE_FIRE_BOAT_DOCK",
+      "generates_mission_types": ["fire_ocean"]
+    },
+    {
+      "id": 33,
+      "caption": "Molo della Polizia",
+      "key": "BUILDING_TYPE_POLICE_BOAT_DOCK",
+      "generates_mission_types": ["police_ocean"]
     }
   ],
   "awards": [
@@ -6488,6 +6619,118 @@
     {
       "id": 864,
       "caption": "Moto d'acqua sotto costa"
+    },
+    {
+      "id": 865,
+      "caption": "Bagnante in difficoltà"
+    },
+    {
+      "id": 866,
+      "caption": "Incendio piccola imbarcazione"
+    },
+    {
+      "id": 867,
+      "caption": "Incendio piccola imbarcazione"
+    },
+    {
+      "id": 868,
+      "caption": "Incendio piccola imbarcazione"
+    },
+    {
+      "id": 869,
+      "caption": "Incendio barca a vela"
+    },
+    {
+      "id": 870,
+      "caption": "Incendio yacht"
+    },
+    {
+      "id": 871,
+      "caption": "Incendio nave cargo"
+    },
+    {
+      "id": 872,
+      "caption": "Incendio nave da crociera"
+    },
+    {
+      "id": 873,
+      "caption": "Incendio nave"
+    },
+    {
+      "id": 874,
+      "caption": "Incendio petroliera"
+    },
+    {
+      "id": 875,
+      "caption": "Controllo doganale sotto costa"
+    },
+    {
+      "id": 876,
+      "caption": "Intercettazione motoscafo"
+    },
+    {
+      "id": 877,
+      "caption": "Rissa a bordo di uno yact"
+    },
+    {
+      "id": 878,
+      "caption": "Contrasto al narcotraffico"
+    },
+    {
+      "id": 879,
+      "caption": "Controllo doganale piccola imbarcazione"
+    },
+    {
+      "id": 880,
+      "caption": "Contrasto all'immigrazione clandestina"
+    },
+    {
+      "id": 881,
+      "caption": "Controllo fiscale piccola imbarcazione"
+    },
+    {
+      "id": 882,
+      "caption": "Controllo fiscale sotto costa"
+    },
+    {
+      "id": 883,
+      "caption": "Accoltellamento"
+    },
+    {
+      "id": 884,
+      "caption": "Scippo"
+    },
+    {
+      "id": 885,
+      "caption": "Cellulare Rubato"
+    },
+    {
+      "id": 886,
+      "caption": "Erba che brucia"
+    },
+    {
+      "id": 887,
+      "caption": "Foglie che bruciano"
+    },
+    {
+      "id": 888,
+      "caption": "Piccolo campo in fiamme"
+    },
+    {
+      "id": 889,
+      "caption": "Arbusti in Fiamme"
+    },
+    {
+      "id": 890,
+      "caption": "Infarto"
+    },
+    {
+      "id": 891,
+      "caption": "Intossicazione da alcol"
+    },
+    {
+      "id": 892,
+      "caption": "Trauma Distorsivo"
     }
   ],
   "education_data": [
@@ -6620,6 +6863,13 @@
       "education_key": "fire_investigator"
     },
     {
+      "id": 21,
+      "caption": "Antincendio marittimo",
+      "duration": "432000",
+      "education_key": "firefighting_marine",
+      "date_start": "2026-08-18 11:00:00 UTC"
+    },
+    {
       "id": 0,
       "caption": "Reparto volo della polizia",
       "duration": "604800",
@@ -6667,6 +6917,13 @@
       "duration": "432000",
       "education_key": "elw_police",
       "date_start": "2025-10-22 08:00:00 UTC"
+    },
+    {
+      "id": 8,
+      "caption": "Polizia Marittima",
+      "duration": "259200",
+      "education_key": "law_enforcement_marine",
+      "date_start": "2026-08-18 11:00:00 UTC"
     },
     {
       "id": 0,
@@ -6762,6 +7019,20 @@
       "caption": "Navigazione in Oceano",
       "duration": "432000",
       "education_key": "ocean_navigation"
+    },
+    {
+      "id": 3,
+      "caption": "Antincendio marittimo",
+      "duration": "432000",
+      "education_key": "firefighting_marine",
+      "date_start": "2026-08-18 11:00:00 UTC"
+    },
+    {
+      "id": 4,
+      "caption": "Corso medico di emergenza",
+      "duration": "604800",
+      "education_key": "notarzt",
+      "date_start": "2026-08-18 11:00:00 UTC"
     }
   ]
 }
