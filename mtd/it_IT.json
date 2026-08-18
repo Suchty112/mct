@@ -882,7 +882,7 @@
     },
     {
       "key": "need_coastal_jetski_fire",
-      "caption": "Moto d'acqua del fuoco richieste",
+      "caption": "Moto d’acqua dei vigili del fuoco richieste",
       "type": "Integer"
     },
     {
@@ -1262,12 +1262,12 @@
     },
     {
       "key": "need_coastal_dinghy_fire_chance",
-      "caption": "Probabilità che sia richiesto il Gommone del fuoco",
+      "caption": "Probabilità che sia richiesto il Gommone dei vigili del fuoco",
       "type": "Integer"
     },
     {
       "key": "need_coastal_jetski_fire_chance",
-      "caption": "Probabilità che sia necessaria la Moto d'acqua del fuoco",
+      "caption": "Probabilità che sia necessaria la Moto d’acqua dei vigili del fuoco",
       "type": "Integer"
     },
     {
