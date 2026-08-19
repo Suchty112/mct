@@ -3457,6 +3457,11 @@
       "id": 152,
       "caption": "Défi de l'Alliance Août 2026",
       "key": "AWARD_ALLIANCE_CHALLENGE_AUGUST_2026"
+    },
+    {
+      "id": 153,
+      "caption": "Défi de l'Alliance Septembre 2026",
+      "key": "AWARD_ALLIANCE_CHALLENGE_SEPTEMBER_2026"
     }
   ],
   "filter_types": [
