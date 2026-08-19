@@ -3426,6 +3426,11 @@
       "id": 171,
       "caption": "Tierfreund",
       "key": "AWARD_ANIMAL_RESCUE"
+    },
+    {
+      "id": 172,
+      "caption": "Verbands-Herausforderung September 2026",
+      "key": "AWARD_ALLIANCE_CHALLENGE_SEPTEMBER_2026"
     }
   ],
   "filter_types": [
