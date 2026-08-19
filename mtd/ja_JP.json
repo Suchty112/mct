@@ -2451,6 +2451,11 @@
       "id": 142,
       "caption": "アライアンス・チャレンジ 2026年8月",
       "key": "AWARD_ALLIANCE_CHALLENGE_AUGUST_2026"
+    },
+    {
+      "id": 143,
+      "caption": "アライアンス・チャレンジ 2026年9月",
+      "key": "AWARD_ALLIANCE_CHALLENGE_SEPTEMBER_2026"
     }
   ],
   "filter_types": [
