@@ -121,12 +121,37 @@
       "type": "Boolean"
     },
     {
-      "key": "alternate_value_overlay_requirements",
+      "key": "rettungswache_count",
+      "caption": "Benodigd aantal Ambulancestandplaatsen",
+      "type": "Integer"
+    },
+    {
+      "key": "possible_patient",
+      "caption": "Maximale aantal patiënten",
+      "type": "Integer"
+    },
+    {
+      "key": "transport_need_quote",
+      "caption": "Waarschijnlijkheid dat een patiënt getransporteerd moet worden",
+      "type": "Integer"
+    },
+    {
+      "key": "nef_need_quote",
+      "caption": "MMT-Arts benodigd waarschijnlijkheid",
+      "type": "Integer"
+    },
+    {
+      "key": "patient_extension_id",
+      "caption": "Gespecialiseerde afdeling voor patiënten",
+      "type": "Unknown"
+    },
+    {
+      "key": "crashed_car_large_icons",
       "caption": null,
       "type": "Unknown"
     },
     {
-      "key": "alternate_value_overlays",
+      "key": "additive_value_overlays",
       "caption": null,
       "type": "Unknown"
     },
@@ -151,24 +176,14 @@
       "type": "Integer"
     },
     {
-      "key": "rettungswache_count",
-      "caption": "Benodigd aantal Ambulancestandplaatsen",
-      "type": "Integer"
-    },
-    {
-      "key": "possible_patient",
-      "caption": "Maximale aantal patiënten",
-      "type": "Integer"
-    },
-    {
-      "key": "patient_extension_id",
-      "caption": "Gespecialiseerde afdeling voor patiënten",
+      "key": "alternate_value_overlay_requirements",
+      "caption": null,
       "type": "Unknown"
     },
     {
-      "key": "transport_need_quote",
-      "caption": "Waarschijnlijkheid dat een patiënt getransporteerd moet worden",
-      "type": "Integer"
+      "key": "alternate_value_overlays",
+      "caption": null,
+      "type": "Unknown"
     },
     {
       "key": "need_gwa",
@@ -204,11 +219,6 @@
       "key": "possible_patient_min",
       "caption": "Minimaal aantal patiënten",
       "type": "Integer"
-    },
-    {
-      "key": "additive_value_overlays",
-      "caption": null,
-      "type": "Unknown"
     },
     {
       "key": "brandmeldeanlage_possible",
@@ -273,11 +283,6 @@
     {
       "key": "need_mass_casualty",
       "caption": "Benodigde NHT",
-      "type": "Integer"
-    },
-    {
-      "key": "nef_need_quote",
-      "caption": "MMT-Arts benodigd waarschijnlijkheid",
       "type": "Integer"
     },
     {
@@ -389,11 +394,6 @@
       "key": "technical_aid_count",
       "caption": "RWS / Signalisatie benodigd",
       "type": "Integer"
-    },
-    {
-      "key": "crashed_car_large_icons",
-      "caption": null,
-      "type": "Unknown"
     },
     {
       "key": "patient_modus",
@@ -733,6 +733,26 @@
     {
       "key": "max_police_building",
       "caption": "Maximale aantal politiebureaus",
+      "type": "Integer"
+    },
+    {
+      "key": "alliance_event_credits",
+      "caption": "Verband Event Credits",
+      "type": "Integer"
+    },
+    {
+      "key": "event_currency",
+      "caption": "Event Credits",
+      "type": "Integer"
+    },
+    {
+      "key": "season_event",
+      "caption": "Voetbal",
+      "type": "Symbol"
+    },
+    {
+      "key": "summer_count",
+      "caption": "Zomer niveau nodig",
       "type": "Integer"
     },
     {
@@ -3344,7 +3364,7 @@
     },
     {
       "id": 13,
-      "caption": "Brandende vrachtwagen"
+      "caption": "Brandende vrachtwagen (Middel)"
     },
     {
       "id": 14,
@@ -4080,7 +4100,7 @@
     },
     {
       "id": 197,
-      "caption": "Brandende vrachtwagen"
+      "caption": "Brandende vrachtwagen (klein)"
     },
     {
       "id": 198,
@@ -4344,11 +4364,11 @@
     },
     {
       "id": 263,
-      "caption": "Brandende personenauto in parkeergarage"
+      "caption": "Brandende personenauto in parkeergarage (Klein)"
     },
     {
       "id": 264,
-      "caption": "Brandende personenauto in parkeergarage"
+      "caption": "Brandende personenauto in parkeergarage (Middel)"
     },
     {
       "id": 265,
@@ -5680,11 +5700,11 @@
     },
     {
       "id": 597,
-      "caption": "Brand in asielzoekerscentrum"
+      "caption": "Brand in asielzoekerscentrum (klein)"
     },
     {
       "id": 598,
-      "caption": "Brand in asielzoekerscentrum (wasserette)"
+      "caption": "Brand in asielzoekerscentrum (middel)"
     },
     {
       "id": 599,
@@ -8233,6 +8253,14 @@
     {
       "id": 1235,
       "caption": "Woningbrand"
+    },
+    {
+      "id": 1236,
+      "caption": "Persoon opgesloten in sauna"
+    },
+    {
+      "id": 1237,
+      "caption": "Personen opgesloten in sauna"
     }
   ],
   "education_data": [
