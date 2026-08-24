@@ -386,6 +386,26 @@
       "type": "Integer"
     },
     {
+      "key": "alliance_event_credits",
+      "caption": "Alliance Event Credits",
+      "type": "Integer"
+    },
+    {
+      "key": "event_currency",
+      "caption": "Event Credits",
+      "type": "Integer"
+    },
+    {
+      "key": "season_event",
+      "caption": "Football",
+      "type": "Symbol"
+    },
+    {
+      "key": "summer_count",
+      "caption": "Summer level needed",
+      "type": "Integer"
+    },
+    {
       "key": "riot_police_count",
       "caption": "Required Riot Police Extensions",
       "type": "Integer"
