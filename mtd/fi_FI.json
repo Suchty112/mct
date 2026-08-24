@@ -281,8 +281,23 @@
       "type": "Datetime"
     },
     {
-      "key": "probability_modifier",
-      "caption": null,
+      "key": "alliance_event_credits",
+      "caption": "Allianssin tapahtuman krediitit",
+      "type": "Integer"
+    },
+    {
+      "key": "event_currency",
+      "caption": "Tapahtuman krediitit",
+      "type": "Integer"
+    },
+    {
+      "key": "season_event",
+      "caption": "Jalkapallo",
+      "type": "Symbol"
+    },
+    {
+      "key": "summer_count",
+      "caption": "Tarvittava kesätaso",
       "type": "Integer"
     },
     {
@@ -333,6 +348,11 @@
     {
       "key": "need_swat_personal",
       "caption": "Vaaditut VATI-koulutetut (VATI-ajoneuvoissa)",
+      "type": "Integer"
+    },
+    {
+      "key": "probability_modifier",
+      "caption": null,
       "type": "Integer"
     },
     {
