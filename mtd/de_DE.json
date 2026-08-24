@@ -547,7 +547,7 @@
     },
     {
       "key": "event_currency",
-      "caption": "Event Credits",
+      "caption": "Event-Credits",
       "type": "Integer"
     },
     {
