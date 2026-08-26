@@ -122,7 +122,7 @@
     },
     {
       "key": "need_oneof_fire_engine_or_rescue_or_ladder",
-      "caption": "Fourgons d’incendie, véhicules de secours routier ou moyens elévateur aérien requis",
+      "caption": "Fourgons d’incendie, véhicules de secours routier moyen ou moyens elévateur aérien requis",
       "type": "Integer"
     },
     {
@@ -172,7 +172,7 @@
     },
     {
       "key": "need_rw",
-      "caption": "Véhicule de secours routier requis",
+      "caption": "Véhicule de secours routier moyen requis",
       "type": "Integer"
     },
     {
@@ -197,7 +197,7 @@
     },
     {
       "key": "need_oneof_fire_engine_or_rescue",
-      "caption": "Fourgons d’incendie ou véhicules de secours routier requis",
+      "caption": "Fourgons d’incendie ou véhicules de secours routier moyen requis",
       "type": "Integer"
     },
     {
