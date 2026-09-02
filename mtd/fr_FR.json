@@ -747,7 +747,7 @@
     },
     {
       "key": "need_decontamination_measurement",
-      "caption": "Unités de mesure de décontamination requises",
+      "caption": "VDIP requis",
       "type": "Integer"
     },
     {
@@ -1307,7 +1307,7 @@
     },
     {
       "key": "need_decontamination_measurement_chance",
-      "caption": "Probabilité que l’unité de mesure de décontamination soit requise",
+      "caption": "Probabilité que VDIP soit requise",
       "type": "Integer"
     },
     {
