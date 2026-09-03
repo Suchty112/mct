@@ -871,6 +871,11 @@
       "type": "Integer"
     },
     {
+      "key": "airport_police_count",
+      "caption": "Required Aviation policing Extensions",
+      "type": "Integer"
+    },
+    {
       "key": "need_atv_carrier_chance",
       "caption": "Probability of ATV Carrier being required",
       "type": "Integer"
@@ -6969,6 +6974,18 @@
     {
       "id": 868,
       "caption": "Lost Child at Beach - Coastguard Search"
+    },
+    {
+      "id": 869,
+      "caption": "Airside Tresspasser"
+    },
+    {
+      "id": 870,
+      "caption": "Illegal Plantation (Medium)"
+    },
+    {
+      "id": 871,
+      "caption": "Dog Over Cliff"
     }
   ],
   "education_data": [
