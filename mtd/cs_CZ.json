@@ -861,11 +861,6 @@
       "type": "Integer"
     },
     {
-      "key": "groups",
-      "caption": "Restricted Vehicle Types",
-      "type": "Unknown"
-    },
-    {
       "key": "criminal_investigation_count",
       "caption": "Požadovaná SKPV",
       "type": "Integer"
@@ -6275,6 +6270,22 @@
     {
       "id": 801,
       "caption": "Podezření na žhářství"
+    },
+    {
+      "id": 802,
+      "caption": "Kontrola automatického požárního poplachového systému"
+    },
+    {
+      "id": 803,
+      "caption": "Tenista zasažen tenisovým míčkem do břicha"
+    },
+    {
+      "id": 804,
+      "caption": "Osoba spadla ze skateboardu"
+    },
+    {
+      "id": 805,
+      "caption": "Rvačka fanoušků na házenkářském utkání"
     }
   ],
   "education_data": [
