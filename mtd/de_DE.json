@@ -3894,7 +3894,7 @@
     },
     {
       "id": 98,
-      "caption": "Angefahrene Person"
+      "caption": "Angefahrener Fußgänger"
     },
     {
       "id": 99,
@@ -7627,6 +7627,10 @@
     {
       "id": 1031,
       "caption": "Person in Müllwagen eingeklemmt"
+    },
+    {
+      "id": 1032,
+      "caption": "Massenkarambolage auf Autobahn"
     }
   ],
   "education_data": [
