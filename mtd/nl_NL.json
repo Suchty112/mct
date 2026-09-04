@@ -176,6 +176,11 @@
       "type": "Integer"
     },
     {
+      "key": "date_end",
+      "caption": "Eind datum",
+      "type": "Datetime"
+    },
+    {
       "key": "alternate_value_overlay_requirements",
       "caption": null,
       "type": "Unknown"
@@ -224,11 +229,6 @@
       "key": "brandmeldeanlage_possible",
       "caption": null,
       "type": "Boolean"
-    },
-    {
-      "key": "date_end",
-      "caption": "Eind datum",
-      "type": "Datetime"
     },
     {
       "key": "need_elw3",
@@ -8241,10 +8241,6 @@
     {
       "id": 1237,
       "caption": "Personen opgesloten in sauna"
-    },
-    {
-      "id": 1238,
-      "caption": "Fans vechten tijdens handbalwedstrijd"
     }
   ],
   "education_data": [
