@@ -176,11 +176,6 @@
       "type": "Integer"
     },
     {
-      "key": "date_end",
-      "caption": "Eind datum",
-      "type": "Datetime"
-    },
-    {
       "key": "alternate_value_overlay_requirements",
       "caption": null,
       "type": "Unknown"
@@ -229,6 +224,11 @@
       "key": "brandmeldeanlage_possible",
       "caption": null,
       "type": "Boolean"
+    },
+    {
+      "key": "date_end",
+      "caption": "Eind datum",
+      "type": "Datetime"
     },
     {
       "key": "need_elw3",
@@ -3356,7 +3356,7 @@
     },
     {
       "id": 16,
-      "caption": "Brand in woonwagen"
+      "caption": "Brand in woonwagen (Middel)"
     },
     {
       "id": 17,
@@ -4076,7 +4076,7 @@
     },
     {
       "id": 196,
-      "caption": "Brand in woonwagen"
+      "caption": "Brand in woonwagen (Klein)"
     },
     {
       "id": 197,
