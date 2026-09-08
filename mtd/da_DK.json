@@ -263,7 +263,7 @@
     {
       "key": "patient_modus",
       "caption": null,
-      "type": "Unknown"
+      "type": "Integer"
     },
     {
       "key": "task_tag",
