@@ -966,6 +966,11 @@
       "key": "care_includes_staff_members",
       "caption": "Required fire care service staff",
       "type": "Integer"
+    },
+    {
+      "key": "care_education_per_affected_people",
+      "caption": "Care for Affected Required",
+      "type": "Integer"
     }
   ],
   "pois": [
