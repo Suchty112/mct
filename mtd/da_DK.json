@@ -736,6 +736,36 @@
       "type": "Integer"
     },
     {
+      "key": "civil_patrolcar_value",
+      "caption": null,
+      "type": "Integer"
+    },
+    {
+      "key": "criminal_investigation_count",
+      "caption": "Påkrævede Efterforskningsafdeling Udvidelser",
+      "type": "Integer"
+    },
+    {
+      "key": "need_civil_patrolcar",
+      "caption": "Påkrævede civil patruljevogn",
+      "type": "Integer"
+    },
+    {
+      "key": "need_oneof_police_patrol_or_motorcycle",
+      "caption": "Påkrævet patruljevogn eller politimotorcykel",
+      "type": "Integer"
+    },
+    {
+      "key": "need_k9_chance",
+      "caption": "Sandsynlighed for nødvendighed af hundepatrulje",
+      "type": "Integer"
+    },
+    {
+      "key": "need_civil_patrolcar_chance",
+      "caption": "Sandsynlighed for nødvendighed af civil patruljevogn",
+      "type": "Integer"
+    },
+    {
       "key": "need_arff_chance",
       "caption": "Chance for Crash Tender påkrævet",
       "type": "Integer"
@@ -778,11 +808,6 @@
     {
       "key": "need_hose_chance",
       "caption": "Chance for Slange Tender påkrævet",
-      "type": "Integer"
-    },
-    {
-      "key": "need_k9_chance",
-      "caption": "Sandsynlighed for nødvendighed af hundepatrulje",
       "type": "Integer"
     },
     {
@@ -943,6 +968,11 @@
     {
       "key": "need_bomb_disposal_diver_equipment_chance",
       "caption": "Chance for Marine EOD-køretøj påkrævet",
+      "type": "Integer"
+    },
+    {
+      "key": "need_oneof_police_patrol_or_motorcycle_chance",
+      "caption": null,
       "type": "Integer"
     },
     {
@@ -1558,6 +1588,10 @@
         {
           "id": 14,
           "caption": "Stort fængsel"
+        },
+        {
+          "id": 15,
+          "caption": "Efterforskningsafdeling Udvidelse"
         }
       ],
       "generates_mission_types": ["police"]
@@ -5772,6 +5806,30 @@
     {
       "id": 776,
       "caption": "fans slås ved håndboldkamp"
+    },
+    {
+      "id": 777,
+      "caption": "Fuldbyrdelse af ransagningskendelse"
+    },
+    {
+      "id": 778,
+      "caption": "Indbrud i museum"
+    },
+    {
+      "id": 779,
+      "caption": "Indbrud i villa"
+    },
+    {
+      "id": 780,
+      "caption": "Indbrud i villa - gerningsmand til stede"
+    },
+    {
+      "id": 781,
+      "caption": "Indbrud i villa - gerningsmand flygtet"
+    },
+    {
+      "id": 782,
+      "caption": "Bortførelse"
     }
   ],
   "education_data": [
@@ -5901,6 +5959,12 @@
       "caption": "EOD-dykker uddannelse",
       "duration": "259200",
       "education_key": "bomb_disposal_diver"
+    },
+    {
+      "id": 11,
+      "caption": "Kriminalassistent",
+      "duration": "604800",
+      "education_key": "criminal_investigation"
     },
     {
       "id": 0,
