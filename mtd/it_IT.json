@@ -3109,6 +3109,11 @@
       "id": 153,
       "caption": "Sfida dell'Alleanza settembre 2026",
       "key": "AWARD_ALLIANCE_CHALLENGE_SEPTEMBER_2026"
+    },
+    {
+      "id": 154,
+      "caption": "Missioni d'autunno 2026",
+      "key": "AWARD_AUTUMN_MISSIONS_2026"
     }
   ],
   "filter_types": [
