@@ -3226,6 +3226,11 @@
       "id": 176,
       "caption": "Alliantie Uitdaging september 2026",
       "key": "AWARD_ALLIANCE_CHALLENGE_SEPTEMBER_2026"
+    },
+    {
+      "id": 177,
+      "caption": "Herfstevenement 2026",
+      "key": "AWARD_AUTUMN_MISSIONS_2026"
     }
   ],
   "filter_types": [
