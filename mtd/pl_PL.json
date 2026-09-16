@@ -2724,6 +2724,11 @@
       "id": 151,
       "caption": "Wyzwanie sojuszu we wrześniu 2026 r.",
       "key": "AWARD_ALLIANCE_CHALLENGE_SEPTEMBER_2026"
+    },
+    {
+      "id": 152,
+      "caption": "Jesienne misje 2026",
+      "key": "AWARD_AUTUMN_MISSIONS_2026"
     }
   ],
   "filter_types": [
