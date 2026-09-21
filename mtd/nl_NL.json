@@ -456,6 +456,11 @@
       "type": "Integer"
     },
     {
+      "key": "duration_text",
+      "caption": "Duur",
+      "type": "String"
+    },
+    {
       "key": "personnel_educations_count",
       "caption": "Personeel getrained met",
       "type": "Unknown"
@@ -539,11 +544,6 @@
       "key": "possible_prisoner_min",
       "caption": null,
       "type": "Integer"
-    },
-    {
-      "key": "duration_text",
-      "caption": "Duur",
-      "type": "String"
     },
     {
       "key": "police_horse_count",
@@ -8251,6 +8251,22 @@
     {
       "id": 1237,
       "caption": "Personen opgesloten in sauna"
+    },
+    {
+      "id": 1238,
+      "caption": "Brand in diervoerfabriek (Klein)"
+    },
+    {
+      "id": 1239,
+      "caption": "Brand in diervoerfabriek (Middel)"
+    },
+    {
+      "id": 1240,
+      "caption": "Brand in diervoerfabriek (Groot)"
+    },
+    {
+      "id": 1241,
+      "caption": "Brand in diervoerfabriek (Grip 1)"
     }
   ],
   "education_data": [
