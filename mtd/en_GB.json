@@ -537,7 +537,7 @@
     },
     {
       "key": "need_coastal_support",
-      "caption": "Required Support Units",
+      "caption": "Required Coastguard Support Units",
       "type": "Integer"
     },
     {
@@ -876,6 +876,41 @@
       "type": "Integer"
     },
     {
+      "key": "lifeguard_station_count",
+      "caption": "Required Lifeguard Stations",
+      "type": "Integer"
+    },
+    {
+      "key": "need_oneof_lifeguard_quad_or_atv",
+      "caption": "Required Lifeguard Quadbikes or Lifeguard 4x4's",
+      "type": "Integer"
+    },
+    {
+      "key": "need_large_coastal_boat_chance",
+      "caption": "Probability that ILB is required",
+      "type": "Integer"
+    },
+    {
+      "key": "need_lifeguard_quad",
+      "caption": "Required Lifeguard Quadbikes",
+      "type": "Integer"
+    },
+    {
+      "key": "need_lifeguard_atv",
+      "caption": "Required Lifeguard 4x4's",
+      "type": "Integer"
+    },
+    {
+      "key": "lifeguard_trailer_count",
+      "caption": "Required Lifeguard Trailer Extensions",
+      "type": "Integer"
+    },
+    {
+      "key": "need_oneof_coastal_jetski_or_boat",
+      "caption": "Required Inland Rescue Boat or Rescue Watercraft",
+      "type": "Integer"
+    },
+    {
       "key": "need_atv_carrier_chance",
       "caption": "Probability of ATV Carrier being required",
       "type": "Integer"
@@ -982,7 +1017,7 @@
     },
     {
       "key": "need_coastal_support_chance",
-      "caption": "Probability that Support Unit is required",
+      "caption": "Probability that Coastguard Support Unit is required",
       "type": "Integer"
     },
     {
@@ -993,11 +1028,6 @@
     {
       "key": "need_coastal_boat_chance",
       "caption": "Probability that Inland Rescue Boat (Trailer) is required",
-      "type": "Integer"
-    },
-    {
-      "key": "need_large_coastal_boat_chance",
-      "caption": "Probability that ILB is required",
       "type": "Integer"
     },
     {
@@ -1278,6 +1308,26 @@
     {
       "key": "need_bomb_disposal_diver_equipment_chance",
       "caption": "Probability that Marine EOD Equipment Van is required",
+      "type": "Integer"
+    },
+    {
+      "key": "need_lifeguard_quad_chance",
+      "caption": "Probability that Lifeguard Quadbike is required",
+      "type": "Integer"
+    },
+    {
+      "key": "need_lifeguard_atv_chance",
+      "caption": "Probability that Lifeguard 4x4 is required",
+      "type": "Integer"
+    },
+    {
+      "key": "need_oneof_lifeguard_quad_or_atv_chance",
+      "caption": null,
+      "type": "Integer"
+    },
+    {
+      "key": "need_oneof_coastal_jetski_or_boat_chance",
+      "caption": null,
       "type": "Integer"
     },
     {
@@ -2727,6 +2777,22 @@
           "caption": "Large Prison"
         }
       ]
+    },
+    {
+      "id": 37,
+      "caption": "Lifeguard Station",
+      "key": "BUILDING_TYPE_LIFEGUARD_STATION",
+      "extensions": [
+        {
+          "id": 0,
+          "caption": "Inland Rescue Boat Extension"
+        },
+        {
+          "id": 1,
+          "caption": "Rescue Watercraft Extension"
+        }
+      ],
+      "generates_mission_types": ["lifeguard"]
     }
   ],
   "awards": [
@@ -3444,6 +3510,11 @@
       "id": 144,
       "caption": "Autumn Missions 2026",
       "key": "AWARD_AUTUMN_MISSIONS_2026"
+    },
+    {
+      "id": 145,
+      "caption": "7th Anniversary",
+      "key": "AWARD_SEVEN_YEARS"
     }
   ],
   "filter_types": [
@@ -6996,6 +7067,46 @@
     {
       "id": 871,
       "caption": "Dog Over Cliff"
+    },
+    {
+      "id": 872,
+      "caption": "Investigate small vessel adrift"
+    },
+    {
+      "id": 873,
+      "caption": "Palm oil washed up on beach"
+    },
+    {
+      "id": 874,
+      "caption": "Investigate vessel aground on sandbank"
+    },
+    {
+      "id": 875,
+      "caption": "Ship with engine failure"
+    },
+    {
+      "id": 876,
+      "caption": "Person cut by glass on beach"
+    },
+    {
+      "id": 877,
+      "caption": "Person suffering from heatstroke on beach"
+    },
+    {
+      "id": 878,
+      "caption": "Beach patrol"
+    },
+    {
+      "id": 879,
+      "caption": "Missing child on beach initial search"
+    },
+    {
+      "id": 880,
+      "caption": "Jellyfish sting (Anaphylaxis)"
+    },
+    {
+      "id": 881,
+      "caption": "Swimmer in difficulty close to sea cave"
     }
   ],
   "education_data": [
