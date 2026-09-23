@@ -1361,6 +1361,26 @@
       "type": "Integer"
     },
     {
+      "key": "need_thatched_firefighting",
+      "caption": "Benodigde DB-RI of RIA",
+      "type": "Integer"
+    },
+    {
+      "key": "need_thatched_firefighting_chance",
+      "caption": "DB-RI of RIA benodigd waarschijnlijkheid",
+      "type": "Integer"
+    },
+    {
+      "key": "need_livestock_hoist",
+      "caption": "Benodigde DB-VI of VIA",
+      "type": "Integer"
+    },
+    {
+      "key": "need_livestock_hoist_chance",
+      "caption": "DB-VI of VIA benodigd waarschijnlijkheid",
+      "type": "Integer"
+    },
+    {
       "key": "personal_min_polizei",
       "caption": "Gemiddeld minimaal benodigde personen (politie) ",
       "type": "Integer"
@@ -1854,6 +1874,14 @@
         {
           "id": 25,
           "caption": "Incidentenbestrijding spoor"
+        },
+        {
+          "id": 26,
+          "caption": "Rietkapbrandbestrijding"
+        },
+        {
+          "id": 27,
+          "caption": "Veetakels"
         }
       ],
       "generates_mission_types": ["fire"]
@@ -8267,6 +8295,78 @@
     {
       "id": 1241,
       "caption": "Brand in diervoerfabriek (Grip 1)"
+    },
+    {
+      "id": 1242,
+      "caption": "Rietenkapbrand (Klein)"
+    },
+    {
+      "id": 1243,
+      "caption": "Rietkapbrand (Middel)"
+    },
+    {
+      "id": 1244,
+      "caption": "Rietkapbrand (Groot)"
+    },
+    {
+      "id": 1245,
+      "caption": "Rietkapbrand (Grip 1)"
+    },
+    {
+      "id": 1246,
+      "caption": "Rietkapbrand (Grip 2)"
+    },
+    {
+      "id": 1247,
+      "caption": "Blikseminslag rietenkap (Klein)"
+    },
+    {
+      "id": 1248,
+      "caption": "Blikseminslag rietenkap (Middel)"
+    },
+    {
+      "id": 1249,
+      "caption": "Blikseminslag rietenkap (Groot)"
+    },
+    {
+      "id": 1250,
+      "caption": "Blikseminslag rietenkap (Grip 1)"
+    },
+    {
+      "id": 1251,
+      "caption": "Blikseminslag rietenkap (Grip 2)"
+    },
+    {
+      "id": 1252,
+      "caption": "Brand in rietenkap na werkzaamheden (Klein)"
+    },
+    {
+      "id": 1253,
+      "caption": "Brand in rietenkap na werkzaamheden (Middel)"
+    },
+    {
+      "id": 1254,
+      "caption": "Brand in rietenkap na werkzaamheden (Groot)"
+    },
+    {
+      "id": 1255,
+      "caption": "Brand in rietenkap na werkzaamheden (Grip 1)"
+    },
+    {
+      "id": 1256,
+      "caption": "Brand in rietenkap na werkzaamheden (Grip 2)"
+    },
+    {
+      "id": 1257,
+      "caption": "Varken in gierput"
+    },
+    {
+      "id": 1258,
+      "caption": "Geit in gierput"
+    },
+    {
+      "id": 1259,
+      "caption": "Ezel in sloot"
     }
   ],
   "education_data": [
@@ -8447,6 +8547,18 @@
       "caption": "Officier van Dienst Incidentenbestrijding spoor",
       "duration": "604800",
       "education_key": "railway_elw"
+    },
+    {
+      "id": 29,
+      "caption": "Specialist Rietdakbrandbestrijder",
+      "duration": "432000",
+      "education_key": "thatched_roof_firefighting"
+    },
+    {
+      "id": 30,
+      "caption": "Veeredder",
+      "duration": "432000",
+      "education_key": "livestock_hoist"
     },
     {
       "id": 0,
