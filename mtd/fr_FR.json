@@ -221,11 +221,6 @@
       "type": "Datetime"
     },
     {
-      "key": "patrol_based",
-      "caption": "Kann nur auf Streifenfahrten auftreten",
-      "type": "Unknown"
-    },
-    {
       "key": "police_value",
       "caption": null,
       "type": "Integer"
@@ -311,6 +306,36 @@
       "type": "Integer"
     },
     {
+      "key": "railway_fire_count",
+      "caption": "Extension du Véhicule Ferroviaire requise",
+      "type": "Integer"
+    },
+    {
+      "key": "need_railway_exploration",
+      "caption": "VGELD requis",
+      "type": "Integer"
+    },
+    {
+      "key": "need_railway_exploration_carrier",
+      "caption": "FGELD requis",
+      "type": "Integer"
+    },
+    {
+      "key": "need_railway_exploration_robot",
+      "caption": "COLOSSUS requis",
+      "type": "Integer"
+    },
+    {
+      "key": "personnel_educations_count",
+      "caption": "Personnel requis disponible",
+      "type": "Unknown"
+    },
+    {
+      "key": "required_personnel_educations",
+      "caption": "Formations requise",
+      "type": "Unknown"
+    },
+    {
       "key": "max_police_building",
       "caption": "Max. de postes de police",
       "type": "Integer"
@@ -324,6 +349,16 @@
       "key": "duration",
       "caption": null,
       "type": "ActiveSupport::Duration"
+    },
+    {
+      "key": "need_railway_fire_engine_large",
+      "caption": "FPTSR-RR requis",
+      "type": "Integer"
+    },
+    {
+      "key": "need_railway_fire_engine",
+      "caption": "VÉHICULE RAIL ROUTE requis",
+      "type": "Integer"
     },
     {
       "key": "followup_missions",
@@ -379,11 +414,6 @@
       "key": "need_gwwasserrettung",
       "caption": "VPL requis",
       "type": "Integer"
-    },
-    {
-      "key": "required_personnel_educations",
-      "caption": "Formations requise",
-      "type": "Unknown"
     },
     {
       "key": "rescue_helicopter_count",
@@ -619,11 +649,6 @@
       "key": "need_coastal_boat",
       "caption": "Canot de Sauvetage Léger requis",
       "type": "Integer"
-    },
-    {
-      "key": "personnel_educations_count",
-      "caption": "Personnel requis disponible",
-      "type": "Unknown"
     },
     {
       "key": "need_oneof_fire_engine_or_airport_fire_engine_or_engine_large",
@@ -1001,23 +1026,8 @@
       "type": "Integer"
     },
     {
-      "key": "railway_fire_count",
-      "caption": "Extension du Véhicule Ferroviaire requise",
-      "type": "Integer"
-    },
-    {
       "key": "carbon_dioxide_count",
       "caption": "Extensions de poudre et de dioxyde de carbone requises",
-      "type": "Integer"
-    },
-    {
-      "key": "need_railway_fire_engine_large",
-      "caption": "FPTSR-RR requis",
-      "type": "Integer"
-    },
-    {
-      "key": "need_railway_fire_engine",
-      "caption": "VÉHICULE RAIL ROUTE requis",
       "type": "Integer"
     },
     {
@@ -1098,21 +1108,6 @@
     {
       "key": "need_railway_modules_support",
       "caption": "VSAV Tu",
-      "type": "Integer"
-    },
-    {
-      "key": "need_railway_exploration",
-      "caption": "VGELD requis",
-      "type": "Integer"
-    },
-    {
-      "key": "need_railway_exploration_carrier",
-      "caption": "FGELD requis",
-      "type": "Integer"
-    },
-    {
-      "key": "need_railway_exploration_robot",
-      "caption": "COLOSSUS requis",
       "type": "Integer"
     },
     {
