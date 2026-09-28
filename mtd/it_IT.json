@@ -131,11 +131,6 @@
       "type": "Unknown"
     },
     {
-      "key": "need_oneof_fire_engine_or_rescue_or_ladder",
-      "caption": "APS/ABP, Unità polisoccorso o Autoscale richiesto",
-      "type": "Integer"
-    },
-    {
       "key": "need_streifenwagen",
       "caption": "Pattuglie richieste",
       "type": "Integer"
@@ -143,6 +138,11 @@
     {
       "key": "max_municipal_police_replacing_fustw",
       "caption": "Quantità massima di Veicoli Della Polizia Locale che possono sostituire le Auto Di Pattuglia",
+      "type": "Integer"
+    },
+    {
+      "key": "need_oneof_fire_engine_or_rescue_or_ladder",
+      "caption": "APS/ABP, Unità polisoccorso o Autoscale richiesto",
       "type": "Integer"
     },
     {
