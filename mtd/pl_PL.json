@@ -736,6 +736,76 @@
       "type": "Integer"
     },
     {
+      "key": "need_oneof_fire_engine_or_airport_fire_engine",
+      "caption": "Wymagane wóz strażacki lub SSR",
+      "type": "Integer"
+    },
+    {
+      "key": "need_oneof_fire_command_or_airport_fire_command",
+      "caption": "Wymagane SLOp lub SLDł",
+      "type": "Integer"
+    },
+    {
+      "key": "need_oneof_airport_fire_engine_or_engine_large",
+      "caption": "Wymagane SSR lub SP LSP",
+      "type": "Integer"
+    },
+    {
+      "key": "need_kdow_orgl",
+      "caption": "Wymagane Szefa służb ratownictwa medycznego",
+      "type": "Integer"
+    },
+    {
+      "key": "need_airport_rescue",
+      "caption": "Wymagana Przyczepa rataa",
+      "type": "Integer"
+    },
+    {
+      "key": "airport_2_count",
+      "caption": "Wymagane przedłużenie operacji chirurgicznych",
+      "type": "Integer"
+    },
+    {
+      "key": "need_oneof_fire_engine_or_airport_fire_engine_large",
+      "caption": "Wymagane wóz strażacki lub SP LSP",
+      "type": "Integer"
+    },
+    {
+      "key": "need_oneof_fire_command_advanced_or_airport_fire_command",
+      "caption": "Wymagane SDŁ lub SLDł",
+      "type": "Integer"
+    },
+    {
+      "key": "need_arff",
+      "caption": "Wymagany SP LSP",
+      "type": "Integer"
+    },
+    {
+      "key": "need_elw_airport",
+      "caption": "Wymagana karta SLDł",
+      "type": "Integer"
+    },
+    {
+      "key": "need_airport_equipment",
+      "caption": "Wymagany samochód sprzętowy",
+      "type": "Integer"
+    },
+    {
+      "key": "need_airport_command",
+      "caption": "Wymagany samochód dowodzenia",
+      "type": "Integer"
+    },
+    {
+      "key": "need_oneof_fire_ladder_or_rescue_stairs",
+      "caption": "Wymagane drabina mechaniczna lub schody ratunkowe",
+      "type": "Integer"
+    },
+    {
+      "key": "need_oneof_fire_engine_or_airport_fire_engine_or_engine_large",
+      "caption": "Wymagane wóz strażacki, SSR lub SP LSP",
+      "type": "Integer"
+    },
+    {
       "key": "need_boot_chance",
       "caption": null,
       "type": "Integer"
@@ -956,6 +1026,41 @@
       "type": "Integer"
     },
     {
+      "key": "need_oneof_fire_engine_or_airport_fire_engine_chance",
+      "caption": null,
+      "type": "Integer"
+    },
+    {
+      "key": "need_oneof_fire_engine_or_airport_fire_engine_large_chance",
+      "caption": null,
+      "type": "Integer"
+    },
+    {
+      "key": "need_oneof_fire_command_or_airport_fire_command_chance",
+      "caption": null,
+      "type": "Integer"
+    },
+    {
+      "key": "need_oneof_airport_fire_engine_or_engine_large_chance",
+      "caption": null,
+      "type": "Integer"
+    },
+    {
+      "key": "need_oneof_fire_command_advanced_or_airport_fire_command_chance",
+      "caption": null,
+      "type": "Integer"
+    },
+    {
+      "key": "need_oneof_fire_ladder_or_rescue_stairs_chance",
+      "caption": null,
+      "type": "Integer"
+    },
+    {
+      "key": "need_oneof_fire_engine_or_airport_fire_engine_or_engine_large_chance",
+      "caption": null,
+      "type": "Integer"
+    },
+    {
       "key": "need_car_carrier",
       "caption": "Laweta drogowa",
       "type": "Integer"
@@ -1033,6 +1138,66 @@
     {
       "key": "need_railway_recovery_large_chance",
       "caption": "Prawdopodobieństwo, że wymagany jest Kolejowy podnośnik koszowy",
+      "type": "Integer"
+    },
+    {
+      "key": "need_arff_chance",
+      "caption": "Szanse, że potrzebny będzie SP LSP",
+      "type": "Integer"
+    },
+    {
+      "key": "need_airport_equipment_chance",
+      "caption": "Prawdopodobieństwo, że potrzebny jest Samochód sprzętowy",
+      "type": "Integer"
+    },
+    {
+      "key": "need_airport_command_chance",
+      "caption": "Prawdopodobieństwo, że potrzebny jest Samochód dowodzenia",
+      "type": "Integer"
+    },
+    {
+      "key": "need_rettungstreppe_chance",
+      "caption": "Prawdopodobieństwo, że wymagane są schody ratunkowe",
+      "type": "Integer"
+    },
+    {
+      "key": "need_riv",
+      "caption": "Wymagany SSR",
+      "type": "Integer"
+    },
+    {
+      "key": "need_riv_chance",
+      "caption": "Prawdopodobieństwo, że SSR jest wymagany",
+      "type": "Integer"
+    },
+    {
+      "key": "need_elw_airport_chance",
+      "caption": "Prawdopodobieństwo, że wymagane jest SLDł",
+      "type": "Integer"
+    },
+    {
+      "key": "need_airport_rescue_chance",
+      "caption": "Prawdopodobieństwo, że wymagane jest Przyczepa odpada",
+      "type": "Integer"
+    },
+    {
+      "key": "need_airport_police",
+      "caption": "Wymagany samochód Policji lotniskowej",
+      "type": "Integer"
+    },
+    {
+      "key": "need_airport_police_chance",
+      "caption": "Prawdopodobieństwo, że wymagany jest Samochód Policji lotniskowej",
+      "type": "Integer"
+    },
+    {
+      "key": "need_bike_ambulance",
+      "caption": "Wymagany motocykl raty",
+      "type": "Integer"
+    },
+    {
+      "key": "need_bike_ambulance_chance",
+      "caption": "Prawdopodobieństwo, że wymagany jest Motocykl",
       "type": "Integer"
     },
     {
@@ -1479,6 +1644,10 @@
         {
           "id": 20,
           "caption": "Pożar kolei"
+        },
+        {
+          "id": 21,
+          "caption": "Rozszerzenie operacji lotniskowych"
         }
       ],
       "generates_mission_types": ["fire"]
@@ -1661,6 +1830,14 @@
         {
           "id": 16,
           "caption": "Samochody holownicze"
+        },
+        {
+          "id": 17,
+          "caption": "Rozszerzenie dotyczące Policji lotniczej"
+        },
+        {
+          "id": 18,
+          "caption": "Rozszerzenie operacji lotniskowych"
         }
       ],
       "generates_mission_types": ["police"]
@@ -6497,6 +6674,42 @@
     {
       "id": 926,
       "caption": "Bójka między kibicami podczas meczu piłki ręcznej"
+    },
+    {
+      "id": 927,
+      "caption": "Wypadek lotniczy – kod A"
+    },
+    {
+      "id": 928,
+      "caption": "Wypadek lotniczy – kod C"
+    },
+    {
+      "id": 929,
+      "caption": "Wypadek lotniczy – kod F"
+    },
+    {
+      "id": 930,
+      "caption": "Wypadek lotniczy – kod D"
+    },
+    {
+      "id": 931,
+      "caption": "Przegrzane hamulce – kod D"
+    },
+    {
+      "id": 932,
+      "caption": "Wyciek paliwa z samolotu – kod A"
+    },
+    {
+      "id": 933,
+      "caption": "Zderzenie z ptakiem – kod A"
+    },
+    {
+      "id": 934,
+      "caption": "Zderzenie z ptakiem – kod B"
+    },
+    {
+      "id": 935,
+      "caption": "Kontrola drogi startowej"
     }
   ],
   "education_data": [
@@ -6517,7 +6730,7 @@
       "caption": "Szkolenie SP LSP",
       "duration": "259200",
       "education_key": "arff",
-      "hidden": true
+      "date_start": "2026-09-29 12:00:00 UTC"
     },
     {
       "id": 3,
