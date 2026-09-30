@@ -736,6 +736,11 @@
       "type": "Integer"
     },
     {
+      "key": "airport_2_count",
+      "caption": "Wymagane przedłużenie operacji chirurgicznych",
+      "type": "Integer"
+    },
+    {
       "key": "need_oneof_fire_engine_or_airport_fire_engine",
       "caption": "Wymagane wóz strażacki lub SSR",
       "type": "Integer"
@@ -758,11 +763,6 @@
     {
       "key": "need_airport_rescue",
       "caption": "Wymagana Przyczepa rataa",
-      "type": "Integer"
-    },
-    {
-      "key": "airport_2_count",
-      "caption": "Wymagane przedłużenie operacji chirurgicznych",
       "type": "Integer"
     },
     {
