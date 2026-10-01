@@ -881,6 +881,11 @@
       "type": "Integer"
     },
     {
+      "key": "need_k9_chance",
+      "caption": "Pravděpodobnost potřeby Kynologů PČR",
+      "type": "Integer"
+    },
+    {
       "key": "need_boot_chance",
       "caption": "Pravděpodobnost, že bude potřeba Přívěs se člunem",
       "type": "Integer"
@@ -903,11 +908,6 @@
     {
       "key": "need_gwtaucher_chance",
       "caption": "Pravděpodobnost, že bude potřeba Potápěčský automobil",
-      "type": "Integer"
-    },
-    {
-      "key": "need_k9_chance",
-      "caption": "Pravděpodobnost potřeby Kynologů PČR",
       "type": "Integer"
     },
     {
@@ -6296,6 +6296,26 @@
     {
       "id": 805,
       "caption": "Rvačka fanoušků na házenkářském utkání"
+    },
+    {
+      "id": 806,
+      "caption": "Provedení příkazu k domovní prohlídce"
+    },
+    {
+      "id": 807,
+      "caption": "Nalezená drogová laboratoř"
+    },
+    {
+      "id": 808,
+      "caption": "Vloupání do muzea"
+    },
+    {
+      "id": 809,
+      "caption": "Vloupání do obytného domu"
+    },
+    {
+      "id": 810,
+      "caption": "Operace proti praní špinavých peněz"
     }
   ],
   "education_data": [
