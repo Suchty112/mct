@@ -7340,6 +7340,26 @@
     {
       "id": 951,
       "caption": "Jets de projectiles sur les forces de l’ordre"
+    },
+    {
+      "id": 952,
+      "caption": "Méga-émeutes"
+    },
+    {
+      "id": 953,
+      "caption": "Incendie dans une brocante"
+    },
+    {
+      "id": 954,
+      "caption": "Démantèlement d’un trafic clandestin"
+    },
+    {
+      "id": 955,
+      "caption": "Sécurisation d'un bâtiment en démolition"
+    },
+    {
+      "id": 956,
+      "caption": "Incendie d'un camion-citerne transportant du kérosène"
     }
   ],
   "education_data": [
