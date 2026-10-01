@@ -5835,6 +5835,22 @@
     {
       "id": 782,
       "caption": "Bortførelse"
+    },
+    {
+      "id": 783,
+      "caption": "Nedkørt dyr på motorvejen"
+    },
+    {
+      "id": 784,
+      "caption": "Dæk eksploderet på lastbil, dækrester på motirvejen"
+    },
+    {
+      "id": 785,
+      "caption": "Røg fra skraldebil"
+    },
+    {
+      "id": 786,
+      "caption": "Splint i øjet"
     }
   ],
   "education_data": [
