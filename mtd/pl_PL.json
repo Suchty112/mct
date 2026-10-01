@@ -6710,6 +6710,22 @@
     {
       "id": 935,
       "caption": "Kontrola drogi startowej"
+    },
+    {
+      "id": 936,
+      "caption": "Oparzenie spowodowane pracami spawalniczymi"
+    },
+    {
+      "id": 937,
+      "caption": "Osoba uwięziona pod konstrukcją budowlaną"
+    },
+    {
+      "id": 938,
+      "caption": "Pościg za skradzionym samochodem"
+    },
+    {
+      "id": 939,
+      "caption": "Drzazga w oku"
     }
   ],
   "education_data": [
