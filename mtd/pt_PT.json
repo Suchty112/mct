@@ -2013,7 +2013,7 @@
     },
     {
       "id": 25,
-      "caption": "Evento de Inverno 2023",
+      "caption": "Evento de Inverno",
       "key": "AWARD_WINTER_MISSIONS"
     },
     {
@@ -2640,6 +2640,51 @@
       "id": 150,
       "caption": "Missões de outono de 2026",
       "key": "AWARD_AUTUMN_MISSIONS_2026"
+    },
+    {
+      "id": 151,
+      "caption": "Missões de Polícia",
+      "key": "AWARD_POLICE_MISSIONS_BEGINNER_2026"
+    },
+    {
+      "id": 152,
+      "caption": "Missões de Polícia",
+      "key": "AWARD_POLICE_MISSIONS_INTERMEDIATE_2026"
+    },
+    {
+      "id": 153,
+      "caption": "Missões de Polícia",
+      "key": "AWARD_POLICE_MISSIONS_EXPERT_2026"
+    },
+    {
+      "id": 154,
+      "caption": "Missões de Combate a Incêndios",
+      "key": "AWARD_FIRE_MISSIONS_BEGINNER_2026"
+    },
+    {
+      "id": 155,
+      "caption": "Missões de Combate a Incêndios",
+      "key": "AWARD_FIRE_MISSIONS_INTERMEDIATE_2026"
+    },
+    {
+      "id": 156,
+      "caption": "Missões de Combate a Incêndios",
+      "key": "AWARD_FIRE_MISSIONS_EXPERT_2026"
+    },
+    {
+      "id": 157,
+      "caption": "Missões de ambulância",
+      "key": "AWARD_AMBULANCE_MISSIONS_BEGINNER_2026"
+    },
+    {
+      "id": 158,
+      "caption": "Missões de ambulância",
+      "key": "AWARD_AMBULANCE_MISSIONS_INTERMEDIATE_2026"
+    },
+    {
+      "id": 159,
+      "caption": "Missões de ambulância",
+      "key": "AWARD_AMBULANCE_MISSIONS_EXPERT_2026"
     }
   ],
   "filter_types": [
