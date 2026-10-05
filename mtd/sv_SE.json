@@ -2668,6 +2668,51 @@
       "id": 147,
       "caption": "Höstens uppdrag 2026",
       "key": "AWARD_AUTUMN_MISSIONS_2026"
+    },
+    {
+      "id": 148,
+      "caption": "Polisuppdrag",
+      "key": "AWARD_POLICE_MISSIONS_BEGINNER_2026"
+    },
+    {
+      "id": 149,
+      "caption": "Polisuppdrag",
+      "key": "AWARD_POLICE_MISSIONS_INTERMEDIATE_2026"
+    },
+    {
+      "id": 150,
+      "caption": "Polisuppdrag",
+      "key": "AWARD_POLICE_MISSIONS_EXPERT_2026"
+    },
+    {
+      "id": 151,
+      "caption": "Brandsläckningsuppdrag",
+      "key": "AWARD_FIRE_MISSIONS_BEGINNER_2026"
+    },
+    {
+      "id": 152,
+      "caption": "Brandsläckningsuppdrag",
+      "key": "AWARD_FIRE_MISSIONS_INTERMEDIATE_2026"
+    },
+    {
+      "id": 153,
+      "caption": "Brandsläckningsuppdrag",
+      "key": "AWARD_FIRE_MISSIONS_EXPERT_2026"
+    },
+    {
+      "id": 154,
+      "caption": "Ambulansuppdrag",
+      "key": "AWARD_AMBULANCE_MISSIONS_BEGINNER_2026"
+    },
+    {
+      "id": 155,
+      "caption": "Ambulansuppdrag",
+      "key": "AWARD_AMBULANCE_MISSIONS_INTERMEDIATE_2026"
+    },
+    {
+      "id": 156,
+      "caption": "Ambulansuppdrag",
+      "key": "AWARD_AMBULANCE_MISSIONS_EXPERT_2026"
     }
   ],
   "filter_types": [
