@@ -1849,7 +1849,7 @@
     },
     {
       "id": 21,
-      "caption": "2023 冬のイベント",
+      "caption": "冬のイベント",
       "key": "AWARD_WINTER_MISSIONS"
     },
     {
@@ -2466,6 +2466,51 @@
       "id": 144,
       "caption": "2026年秋のミッション",
       "key": "AWARD_AUTUMN_MISSIONS_2026"
+    },
+    {
+      "id": 145,
+      "caption": "警察官の任務",
+      "key": "AWARD_POLICE_MISSIONS_BEGINNER_2026"
+    },
+    {
+      "id": 146,
+      "caption": "警察官の任務",
+      "key": "AWARD_POLICE_MISSIONS_INTERMEDIATE_2026"
+    },
+    {
+      "id": 147,
+      "caption": "警察官の任務",
+      "key": "AWARD_POLICE_MISSIONS_EXPERT_2026"
+    },
+    {
+      "id": 148,
+      "caption": "消防ミッション",
+      "key": "AWARD_FIRE_MISSIONS_BEGINNER_2026"
+    },
+    {
+      "id": 149,
+      "caption": "消防ミッション",
+      "key": "AWARD_FIRE_MISSIONS_INTERMEDIATE_2026"
+    },
+    {
+      "id": 150,
+      "caption": "消防ミッション",
+      "key": "AWARD_FIRE_MISSIONS_EXPERT_2026"
+    },
+    {
+      "id": 151,
+      "caption": "救急ミッション",
+      "key": "AWARD_AMBULANCE_MISSIONS_BEGINNER_2026"
+    },
+    {
+      "id": 152,
+      "caption": "救急ミッション",
+      "key": "AWARD_AMBULANCE_MISSIONS_INTERMEDIATE_2026"
+    },
+    {
+      "id": 153,
+      "caption": "救急ミッション",
+      "key": "AWARD_AMBULANCE_MISSIONS_EXPERT_2026"
     }
   ],
   "filter_types": [
