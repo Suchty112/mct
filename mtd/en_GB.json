@@ -2908,7 +2908,7 @@
     },
     {
       "id": 24,
-      "caption": "Winter Event 2023",
+      "caption": "Winter Event",
       "key": "AWARD_WINTER_MISSIONS"
     },
     {
@@ -3515,6 +3515,51 @@
       "id": 145,
       "caption": "7th Anniversary",
       "key": "AWARD_SEVEN_YEARS"
+    },
+    {
+      "id": 146,
+      "caption": "Police Missions",
+      "key": "AWARD_POLICE_MISSIONS_BEGINNER_2026"
+    },
+    {
+      "id": 147,
+      "caption": "Police Missions",
+      "key": "AWARD_POLICE_MISSIONS_INTERMEDIATE_2026"
+    },
+    {
+      "id": 148,
+      "caption": "Police Missions",
+      "key": "AWARD_POLICE_MISSIONS_EXPERT_2026"
+    },
+    {
+      "id": 149,
+      "caption": "Firefighting Missions",
+      "key": "AWARD_FIRE_MISSIONS_BEGINNER_2026"
+    },
+    {
+      "id": 150,
+      "caption": "Firefighting Missions",
+      "key": "AWARD_FIRE_MISSIONS_INTERMEDIATE_2026"
+    },
+    {
+      "id": 151,
+      "caption": "Firefighting Missions",
+      "key": "AWARD_FIRE_MISSIONS_EXPERT_2026"
+    },
+    {
+      "id": 152,
+      "caption": "Ambulance Missions",
+      "key": "AWARD_AMBULANCE_MISSIONS_BEGINNER_2026"
+    },
+    {
+      "id": 153,
+      "caption": "Ambulance Missions",
+      "key": "AWARD_AMBULANCE_MISSIONS_INTERMEDIATE_2026"
+    },
+    {
+      "id": 154,
+      "caption": "Ambulance Missions",
+      "key": "AWARD_AMBULANCE_MISSIONS_EXPERT_2026"
     }
   ],
   "filter_types": [
