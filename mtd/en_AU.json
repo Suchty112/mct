@@ -1983,7 +1983,7 @@
     {
       "id": 19,
       "caption": "<span class=\"translation_missing localeapp\" title=\"translation missing: en_AU.award.autumn_missions\">Autumn Missions</span>",
-      "key": "AWARD_AUTUMN_MISSIONS"
+      "key": "AWARD_FALL_MISSIONS"
     },
     {
       "id": 20,
@@ -2614,6 +2614,51 @@
       "id": 145,
       "caption": "Spring Missions 2026",
       "key": "AWARD_SPRING_MISSIONS_2026"
+    },
+    {
+      "id": 146,
+      "caption": "Police Missions",
+      "key": "AWARD_POLICE_MISSIONS_BEGINNER_2026"
+    },
+    {
+      "id": 147,
+      "caption": "Police Missions",
+      "key": "AWARD_POLICE_MISSIONS_INTERMEDIATE_2026"
+    },
+    {
+      "id": 148,
+      "caption": "Police Missions",
+      "key": "AWARD_POLICE_MISSIONS_EXPERT_2026"
+    },
+    {
+      "id": 149,
+      "caption": "Firefighting Missions",
+      "key": "AWARD_FIRE_MISSIONS_BEGINNER_2026"
+    },
+    {
+      "id": 150,
+      "caption": "Firefighting Missions",
+      "key": "AWARD_FIRE_MISSIONS_INTERMEDIATE_2026"
+    },
+    {
+      "id": 151,
+      "caption": "Firefighting Missions",
+      "key": "AWARD_FIRE_MISSIONS_EXPERT_2026"
+    },
+    {
+      "id": 152,
+      "caption": "Ambulance Missions",
+      "key": "AWARD_AMBULANCE_MISSIONS_BEGINNER_2026"
+    },
+    {
+      "id": 153,
+      "caption": "Ambulance Missions",
+      "key": "AWARD_AMBULANCE_MISSIONS_INTERMEDIATE_2026"
+    },
+    {
+      "id": 154,
+      "caption": "Ambulance Missions",
+      "key": "AWARD_AMBULANCE_MISSIONS_EXPERT_2026"
     }
   ],
   "filter_types": [
