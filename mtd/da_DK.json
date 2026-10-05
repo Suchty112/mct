@@ -1977,7 +1977,7 @@
     },
     {
       "id": 26,
-      "caption": "Vinterbegivenhed 2023",
+      "caption": "Vinterbegivenhed",
       "key": "AWARD_WINTER_MISSIONS"
     },
     {
@@ -2639,6 +2639,51 @@
       "id": 158,
       "caption": "Efterårsmissioner 2026",
       "key": "AWARD_AUTUMN_MISSIONS_2026"
+    },
+    {
+      "id": 159,
+      "caption": "Politimissioner (Begynder)",
+      "key": "AWARD_POLICE_MISSIONS_BEGINNER_2026"
+    },
+    {
+      "id": 160,
+      "caption": "Politimissioner",
+      "key": "AWARD_POLICE_MISSIONS_INTERMEDIATE_2026"
+    },
+    {
+      "id": 161,
+      "caption": "Politimissioner",
+      "key": "AWARD_POLICE_MISSIONS_EXPERT_2026"
+    },
+    {
+      "id": 162,
+      "caption": "Brandslukningsmissioner",
+      "key": "AWARD_FIRE_MISSIONS_BEGINNER_2026"
+    },
+    {
+      "id": 163,
+      "caption": "Brandslukningsmissioner",
+      "key": "AWARD_FIRE_MISSIONS_INTERMEDIATE_2026"
+    },
+    {
+      "id": 164,
+      "caption": "Brandslukningsmissioner",
+      "key": "AWARD_FIRE_MISSIONS_EXPERT_2026"
+    },
+    {
+      "id": 165,
+      "caption": "Ambulancemissioner",
+      "key": "AWARD_AMBULANCE_MISSIONS_BEGINNER_2026"
+    },
+    {
+      "id": 166,
+      "caption": "Ambulancemissioner",
+      "key": "AWARD_AMBULANCE_MISSIONS_INTERMEDIATE_2026"
+    },
+    {
+      "id": 167,
+      "caption": "Ambulancemissioner",
+      "key": "AWARD_AMBULANCE_MISSIONS_EXPERT_2026"
     }
   ],
   "filter_types": [
