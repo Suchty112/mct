@@ -1491,6 +1491,26 @@
       "type": "Integer"
     },
     {
+      "key": "need_brush_truck",
+      "caption": "Benötigte TLF-W",
+      "type": "Integer"
+    },
+    {
+      "key": "need_brush_truck_chance",
+      "caption": "TLF-W Anforderungswahrscheinlichkeit",
+      "type": "Integer"
+    },
+    {
+      "key": "need_wildfire_equipment",
+      "caption": "Benötigte GW-Waldbrand",
+      "type": "Integer"
+    },
+    {
+      "key": "need_wildfire_equipment_chance",
+      "caption": "GW-Waldbrand Anforderungswahrscheinlichkeit",
+      "type": "Integer"
+    },
+    {
       "key": "personal_min_thw",
       "caption": "Durchschnittliche min. Personalanzahl (THW)",
       "type": "Integer"
@@ -1962,6 +1982,10 @@
         {
           "id": 29,
           "caption": "Tierrettung"
+        },
+        {
+          "id": 30,
+          "caption": "Wald- und Vegetationsbrandbekämpfung"
         }
       ],
       "generates_mission_types": ["fire"]
@@ -7806,6 +7830,12 @@
       "caption": "Bahnrettung",
       "duration": "259200",
       "education_key": "railway_fire"
+    },
+    {
+      "id": 19,
+      "caption": "Wald- und Vegetationsbrandbekämpfung",
+      "duration": "86400",
+      "education_key": "wildfire"
     },
     {
       "id": 0,
