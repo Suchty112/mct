@@ -3473,43 +3473,53 @@
     },
     {
       "id": 175,
-      "caption": "Polizeieinsätze",
+      "caption": "Polizeieinsätze (Fortgeschritten)",
       "key": "AWARD_POLICE_MISSIONS_INTERMEDIATE_2026"
     },
     {
       "id": 176,
-      "caption": "Polizeieinsätze",
+      "caption": "Polizeieinsätze (Experte)",
       "key": "AWARD_POLICE_MISSIONS_EXPERT_2026"
     },
     {
       "id": 177,
-      "caption": "Feuerwehreinsätze",
+      "caption": "Feuerwehreinsätze (Anfänger)",
       "key": "AWARD_FIRE_MISSIONS_BEGINNER_2026"
     },
     {
       "id": 178,
-      "caption": "Feuerwehreinsätze",
+      "caption": "Feuerwehreinsätze (Fortgeschritten)",
       "key": "AWARD_FIRE_MISSIONS_INTERMEDIATE_2026"
     },
     {
       "id": 179,
-      "caption": "Feuerwehreinsätze",
+      "caption": "Feuerwehreinsätze (Experte)",
       "key": "AWARD_FIRE_MISSIONS_EXPERT_2026"
     },
     {
       "id": 180,
-      "caption": "Rettungseinsätze",
+      "caption": "Rettungseinsätze (Anfänger)",
       "key": "AWARD_AMBULANCE_MISSIONS_BEGINNER_2026"
     },
     {
       "id": 181,
-      "caption": "Rettungseinsätze",
+      "caption": "Rettungseinsätze (Fortgeschritten)",
       "key": "AWARD_AMBULANCE_MISSIONS_INTERMEDIATE_2026"
     },
     {
       "id": 182,
-      "caption": "Rettungseinsätze",
+      "caption": "Rettungseinsätze (Experte)",
       "key": "AWARD_AMBULANCE_MISSIONS_EXPERT_2026"
+    },
+    {
+      "id": 183,
+      "caption": "Verbands-Herausforderung Oktober 2026",
+      "key": "AWARD_ALLIANCE_CHALLENGE_OCTOBER_2026"
+    },
+    {
+      "id": 184,
+      "caption": "Halloween 2026",
+      "key": "AWARD_HALLOWEEN_2026"
     }
   ],
   "filter_types": [
