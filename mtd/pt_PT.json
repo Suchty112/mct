@@ -437,7 +437,7 @@
     },
     {
       "key": "need_pump",
-      "caption": "Moto Bombas necessárias:",
+      "caption": "RBSB necessários",
       "type": "Integer"
     },
     {
@@ -632,7 +632,7 @@
     },
     {
       "key": "need_flood_equipment",
-      "caption": "Atrelados de Intervenção em Intempéries necessários:",
+      "caption": "RBGC necessários",
       "type": "Integer"
     },
     {
@@ -687,12 +687,12 @@
     },
     {
       "key": "mountain_rescue_count",
-      "caption": "UEPS Necessário",
+      "caption": "FEPC/GNR-UEPS necessários",
       "type": "Integer"
     },
     {
       "key": "need_mountain_atv",
-      "caption": "VTT Necessário",
+      "caption": "VAOP - SGA necessários",
       "type": "Integer"
     },
     {
@@ -792,7 +792,7 @@
     },
     {
       "key": "need_pump_chance",
-      "caption": "Probabilidade de requerer Moto Bomba:",
+      "caption": "Probabilidade de Requerer RBSB",
       "type": "Integer"
     },
     {
@@ -922,7 +922,7 @@
     },
     {
       "key": "need_flood_equipment_chance",
-      "caption": "Probabilidade de Atrelado de Intervenção em Intempéries ser necessário:",
+      "caption": "Probabilidade de Requerer RBGC",
       "type": "Integer"
     },
     {
@@ -957,7 +957,7 @@
     },
     {
       "key": "need_mountain_atv_chance",
-      "caption": "Probabilidade de que o VTT seja necessário",
+      "caption": "Probabilidade de Requerer VAOP - SGA ",
       "type": "Integer"
     },
     {
@@ -1884,7 +1884,7 @@
     },
     {
       "id": 28,
-      "caption": "UEPS",
+      "caption": "FEPC/GNR-UEPS",
       "key": "BUILDING_TYPE_MOUNTAIN_RESCUE",
       "generates_mission_types": ["mountain"]
     },
@@ -2685,6 +2685,16 @@
       "id": 159,
       "caption": "Missões de ambulância",
       "key": "AWARD_AMBULANCE_MISSIONS_EXPERT_2026"
+    },
+    {
+      "id": 160,
+      "caption": "Desafio da Aliança outubro de 2026",
+      "key": "AWARD_ALLIANCE_CHALLENGE_OCTOBER_2026"
+    },
+    {
+      "id": 161,
+      "caption": "Halloween 2026",
+      "key": "AWARD_HALLOWEEN_2026"
     }
   ],
   "filter_types": [
