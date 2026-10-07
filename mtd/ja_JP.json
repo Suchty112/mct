@@ -2511,6 +2511,16 @@
       "id": 153,
       "caption": "救急ミッション",
       "key": "AWARD_AMBULANCE_MISSIONS_EXPERT_2026"
+    },
+    {
+      "id": 154,
+      "caption": "アライアンス・チャレンジ 2026年10月",
+      "key": "AWARD_ALLIANCE_CHALLENGE_OCTOBER_2026"
+    },
+    {
+      "id": 155,
+      "caption": "2026年のハロウィーン",
+      "key": "AWARD_HALLOWEEN_2026"
     }
   ],
   "filter_types": [
