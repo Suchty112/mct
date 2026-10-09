@@ -1801,6 +1801,10 @@
     {
       "id": 66,
       "caption": "Schiffswerft"
+    },
+    {
+      "id": 67,
+      "caption": "Freizeitpark"
     }
   ],
   "available_icons": [
@@ -7724,6 +7728,10 @@
     {
       "id": 1033,
       "caption": "Einsturz Tunnelbaustelle"
+    },
+    {
+      "id": 1034,
+      "caption": "Entgleisung eines Fahrgeschäfts"
     }
   ],
   "education_data": [
