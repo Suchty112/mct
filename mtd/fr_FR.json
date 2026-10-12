@@ -221,6 +221,11 @@
       "type": "Datetime"
     },
     {
+      "key": "patrol_based",
+      "caption": "Kann nur auf Streifenfahrten auftreten",
+      "type": "Unknown"
+    },
+    {
       "key": "police_value",
       "caption": null,
       "type": "Integer"
