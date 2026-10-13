@@ -6371,6 +6371,26 @@
     {
       "id": 810,
       "caption": "Operace proti praní špinavých peněz"
+    },
+    {
+      "id": 811,
+      "caption": "Odhalení organizovaného pojistného podvodu"
+    },
+    {
+      "id": 812,
+      "caption": "Odhalení padělaných profesních osvědčení"
+    },
+    {
+      "id": 813,
+      "caption": "Vyšetřování organizované krádeže identity"
+    },
+    {
+      "id": 814,
+      "caption": "Zastrašování svědka před soudním jednáním"
+    },
+    {
+      "id": 815,
+      "caption": "Koordinované zatýkání při rozsáhlém korupčním vyšetřování"
     }
   ],
   "education_data": [
