@@ -746,6 +746,21 @@
       "type": "Integer"
     },
     {
+      "key": "fire_special_rescue_count",
+      "caption": "Salvamentos Especiais necessários",
+      "type": "Integer"
+    },
+    {
+      "key": "need_energy_supply",
+      "caption": "RBGI necessários",
+      "type": "Integer"
+    },
+    {
+      "key": "need_dlk_crane",
+      "caption": "Veículo Grua necessários",
+      "type": "Integer"
+    },
+    {
       "key": "need_bomb_chance",
       "caption": "Probabilidade de requerer um Inativação de Explosivos e Segurança em Subsolo",
       "type": "Integer"
@@ -988,6 +1003,26 @@
     {
       "key": "need_mountain_helicopter_rescue_lift_chance",
       "caption": "Probabilidade de que o Cesto-maca seja necessário",
+      "type": "Integer"
+    },
+    {
+      "key": "need_dlk_crane_chance",
+      "caption": "Probabilidade de Requerer Veículo Grua",
+      "type": "Integer"
+    },
+    {
+      "key": "need_energy_supply_chance",
+      "caption": "Probabilidade de Requerer RBGI",
+      "type": "Integer"
+    },
+    {
+      "key": "need_dozer",
+      "caption": "Máquina de Rastos necessário",
+      "type": "Integer"
+    },
+    {
+      "key": "need_dozer_chance",
+      "caption": "Probabilidade de Requerer Máquina de Rastos",
       "type": "Integer"
     },
     {
@@ -1422,6 +1457,10 @@
         {
           "id": 8,
           "caption": "Camiões de reboque"
+        },
+        {
+          "id": 9,
+          "caption": "Salvamentos Especiais"
         }
       ],
       "generates_mission_types": ["fire"]
@@ -1886,6 +1925,16 @@
       "id": 28,
       "caption": "FEPC/GNR-UEPS",
       "key": "BUILDING_TYPE_MOUNTAIN_RESCUE",
+      "extensions": [
+        {
+          "id": 0,
+          "caption": "Expansão de Incêndios Florestais"
+        },
+        {
+          "id": 1,
+          "caption": "Expansão de Salvamento e Resgate Aquático"
+        }
+      ],
       "generates_mission_types": ["mountain"]
     },
     {
@@ -5723,6 +5772,58 @@
     {
       "id": 741,
       "caption": "Estilhaço no olho"
+    },
+    {
+      "id": 742,
+      "caption": "Falha de energia no hospital"
+    },
+    {
+      "id": 743,
+      "caption": "* Falha de energia numa parte da cidade"
+    },
+    {
+      "id": 744,
+      "caption": "Fornecimento de energia temporário devido à manutenção do transformador"
+    },
+    {
+      "id": 745,
+      "caption": "Incêndio em Junta de Freguesia"
+    },
+    {
+      "id": 746,
+      "caption": "Incêndio em Central Biomassa"
+    },
+    {
+      "id": 747,
+      "caption": "Incêndio em subestação elétrica"
+    },
+    {
+      "id": 748,
+      "caption": "Incêndio em Fábrica de Confeção Têxtil"
+    },
+    {
+      "id": 749,
+      "caption": "Viatura encontrada submersa"
+    },
+    {
+      "id": 750,
+      "caption": "Emergência durante atividade subaquática"
+    },
+    {
+      "id": 751,
+      "caption": "Incêndio em veículo com propagação ao mato"
+    },
+    {
+      "id": 752,
+      "caption": "Lançamento de Foguetes Provoca Incêndio Florestal"
+    },
+    {
+      "id": 753,
+      "caption": "Queda de Helicoptero"
+    },
+    {
+      "id": 754,
+      "caption": "Incêndio numa feira da ladra"
     }
   ],
   "education_data": [
@@ -5822,6 +5923,12 @@
       "caption": "Camião de reboque grande",
       "duration": "432000",
       "education_key": "tow_trucks"
+    },
+    {
+      "id": 16,
+      "caption": "Treinamento de Operador de Grua",
+      "duration": "432000",
+      "education_key": "dlk"
     },
     {
       "id": 0,
