@@ -861,11 +861,6 @@
       "type": "Integer"
     },
     {
-      "key": "need_rescueboat",
-      "caption": "Idroambulanza richieste",
-      "type": "Integer"
-    },
-    {
       "key": "fire_boat_dock_count",
       "caption": "Moli dei vigili del fuoco richiesti",
       "type": "Integer"
@@ -1278,6 +1273,11 @@
     {
       "key": "need_coastal_jetski_police_chance",
       "caption": "Probabilità che sia necessaria la Moto d'acqua della polizia",
+      "type": "Integer"
+    },
+    {
+      "key": "need_rescueboat",
+      "caption": "Idroambulanza richieste",
       "type": "Integer"
     },
     {
@@ -6740,7 +6740,7 @@
     },
     {
       "id": 877,
-      "caption": "Rissa a bordo di uno yact"
+      "caption": "Rissa a bordo di uno yacht"
     },
     {
       "id": 878,
@@ -6809,6 +6809,10 @@
     {
       "id": 894,
       "caption": "Ricerca sub scomparso"
+    },
+    {
+      "id": 895,
+      "caption": "Allagamento (GRANDISSIMO)"
     }
   ],
   "education_data": [
