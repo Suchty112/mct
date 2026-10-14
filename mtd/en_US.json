@@ -226,6 +226,11 @@
       "type": "Integer"
     },
     {
+      "key": "patrol_based",
+      "caption": "Kann nur auf Streifenfahrten auftreten",
+      "type": "Unknown"
+    },
+    {
       "key": "need_streifenwagen",
       "caption": "Required Police Cars",
       "type": "Integer"
