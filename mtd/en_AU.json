@@ -221,6 +221,11 @@
       "type": "Integer"
     },
     {
+      "key": "additive_value_overlays",
+      "caption": null,
+      "type": "Unknown"
+    },
+    {
       "key": "alliance_mission_sort_order",
       "caption": null,
       "type": "Integer"
@@ -349,11 +354,6 @@
       "key": "need_rw_chance",
       "caption": "Probability of Major Rescue or SES Rescue being required",
       "type": "Integer"
-    },
-    {
-      "key": "additive_value_overlays",
-      "caption": null,
-      "type": "Unknown"
     },
     {
       "key": "wasser_value",
@@ -943,6 +943,36 @@
     {
       "key": "need_coastal_command_chance",
       "caption": "Probability that Lifeguard Supervisor is required",
+      "type": "Integer"
+    },
+    {
+      "key": "need_crime_scene_unit",
+      "caption": "Required Crime Scene Units",
+      "type": "Integer"
+    },
+    {
+      "key": "need_crime_scene_unit_chance",
+      "caption": "Probability that Crime Scene Unit is required",
+      "type": "Integer"
+    },
+    {
+      "key": "need_civil_patrolcar",
+      "caption": "Required Detective Vehicles",
+      "type": "Integer"
+    },
+    {
+      "key": "need_civil_patrolcar_chance",
+      "caption": "Probability that Detective Vehicle is required",
+      "type": "Integer"
+    },
+    {
+      "key": "need_highway_police",
+      "caption": "Required Highway Patrols",
+      "type": "Integer"
+    },
+    {
+      "key": "need_highway_police_chance",
+      "caption": null,
       "type": "Integer"
     },
     {
@@ -1605,6 +1635,14 @@
         {
           "id": 14,
           "caption": "Large Prison"
+        },
+        {
+          "id": 15,
+          "caption": "Crime Scene and Investigation Extension"
+        },
+        {
+          "id": 16,
+          "caption": "Highway Patrol Extension"
         }
       ],
       "generates_mission_types": ["police"]
@@ -6303,6 +6341,24 @@
       "id": 6,
       "caption": "Senior Sergeant",
       "education_key": "police_service_group_leader",
+      "duration": "432000"
+    },
+    {
+      "id": 7,
+      "caption": "Detective Training",
+      "education_key": "criminal_investigation",
+      "duration": "432000"
+    },
+    {
+      "id": 8,
+      "caption": "Crash Investigation Training",
+      "education_key": "police_crash_investigation",
+      "duration": "432000"
+    },
+    {
+      "id": 9,
+      "caption": "Crime Scene Investigation Training",
+      "education_key": "police_crime_scene_investigation",
       "duration": "432000"
     },
     {
