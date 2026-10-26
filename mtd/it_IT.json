@@ -156,13 +156,8 @@
       "type": "Datetime"
     },
     {
-      "key": "need_elw1",
-      "caption": "Funzionari richiesti",
-      "type": "Integer"
-    },
-    {
-      "key": "need_elw1_chance",
-      "caption": "Possibilità che venga richiesto il Funzionario",
+      "key": "minutes_value",
+      "caption": null,
       "type": "Integer"
     },
     {
@@ -171,14 +166,14 @@
       "type": "Integer"
     },
     {
-      "key": "need_lf_chance",
-      "caption": "Possibilità che venga richiesta un APS/ABP",
-      "type": "Integer"
-    },
-    {
       "key": "brandmeldeanlage_possible",
       "caption": null,
       "type": "Boolean"
+    },
+    {
+      "key": "need_elw1",
+      "caption": "Funzionari richiesti",
+      "type": "Integer"
     },
     {
       "key": "need_gwgefahrgut",
@@ -218,6 +213,11 @@
     {
       "key": "patient_allow_first_responder_full",
       "caption": "I primi soccorritori possono prendersi cura dei pazienti.",
+      "type": "Integer"
+    },
+    {
+      "key": "need_elw1_chance",
+      "caption": "Possibilità che venga richiesto il Funzionario",
       "type": "Integer"
     },
     {
@@ -348,11 +348,6 @@
     {
       "key": "need_traffic_car",
       "caption": "Richiesta Polizia Stradale",
-      "type": "Integer"
-    },
-    {
-      "key": "minutes_value",
-      "caption": null,
       "type": "Integer"
     },
     {
@@ -773,6 +768,11 @@
     {
       "key": "police_investigation_count",
       "caption": "Richiesta della Sezione Investigativa della Polizia",
+      "type": "Integer"
+    },
+    {
+      "key": "need_lf_chance",
+      "caption": "Possibilità che venga richiesta un APS/ABP",
       "type": "Integer"
     },
     {
