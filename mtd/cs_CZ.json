@@ -886,6 +886,61 @@
       "type": "Integer"
     },
     {
+      "key": "mining_value",
+      "caption": null,
+      "type": "Integer"
+    },
+    {
+      "key": "mining_rescue_count",
+      "caption": "Povinná Báňská záchranná stanice",
+      "type": "Integer"
+    },
+    {
+      "key": "mining_ambulance_count",
+      "caption": "Vyžadována Zdravotnická služba",
+      "type": "Integer"
+    },
+    {
+      "key": "need_mining_command",
+      "caption": "Povinné Zásahové vozidlo BZS",
+      "type": "Integer"
+    },
+    {
+      "key": "need_mining_ambulance",
+      "caption": "Povinná Báňská záchranná sanitka",
+      "type": "Integer"
+    },
+    {
+      "key": "gas_detector_count",
+      "caption": "Požadovaný detektor plynů",
+      "type": "Integer"
+    },
+    {
+      "key": "mining_breathing_protection_count",
+      "caption": "Povinná Dýchací ochrana",
+      "type": "Integer"
+    },
+    {
+      "key": "need_gas_detector",
+      "caption": "Požadovaný detektor plynů",
+      "type": "Integer"
+    },
+    {
+      "key": "need_mining_breathing_protection",
+      "caption": "Povinná Dýchací ochrana",
+      "type": "Integer"
+    },
+    {
+      "key": "need_mining_heavy_rescue",
+      "caption": "Povinný Technický automobil BZS",
+      "type": "Integer"
+    },
+    {
+      "key": "need_mining_rescue_diver",
+      "caption": "Povinné Vozidlo báňských potápěčů",
+      "type": "Integer"
+    },
+    {
       "key": "need_boot_chance",
       "caption": "Pravděpodobnost, že bude potřeba Přívěs se člunem",
       "type": "Integer"
@@ -1273,6 +1328,36 @@
     {
       "key": "need_criminal_investigation_chance",
       "caption": "Pravděpodobnost požadavku na SKPV",
+      "type": "Integer"
+    },
+    {
+      "key": "need_mining_rescue_diver_chance",
+      "caption": "Pravděpodobnost, že je požadováno Vozidlo báňských potápěčů",
+      "type": "Integer"
+    },
+    {
+      "key": "need_mining_heavy_rescue_chance",
+      "caption": "Pravděpodobnost, že je požadován Technický automobil BZS",
+      "type": "Integer"
+    },
+    {
+      "key": "need_mining_command_chance",
+      "caption": "Pravděpodobnost, že je požadováno Zásahové vozidlo BZS",
+      "type": "Integer"
+    },
+    {
+      "key": "need_mining_ambulance_chance",
+      "caption": "Pravděpodobnost, že je požadována Báňská záchranná sanitka",
+      "type": "Integer"
+    },
+    {
+      "key": "need_gas_detector_chance",
+      "caption": "Pravděpodobnost, že je vyžadován Detektor plynů",
+      "type": "Integer"
+    },
+    {
+      "key": "need_mining_breathing_protection_chance",
+      "caption": "Pravděpodobnost, že je vyžadována Dýchací ochrana",
       "type": "Integer"
     },
     {
@@ -1683,6 +1768,14 @@
     {
       "id": 95,
       "caption": "Zoo"
+    },
+    {
+      "id": 96,
+      "caption": "Vrtné pracoviště"
+    },
+    {
+      "id": 97,
+      "caption": "Lom"
     }
   ],
   "available_icons": [
@@ -1729,7 +1822,10 @@
     "lightningStrike",
     "hiking",
     "bus",
-    "bridge"
+    "bridge",
+    "drillingsite",
+    "gasleak",
+    "diving"
   ],
   "building_types": [
     {
@@ -2230,6 +2326,18 @@
       "id": 27,
       "caption": "Letecká základna HZS",
       "key": "BUILDING_TYPE_FEUERWEHRHUBSCHRAUBERLANDEPLATZ"
+    },
+    {
+      "id": 28,
+      "caption": "Báňská záchranná stanice",
+      "key": "BUILDING_TYPE_MINING_RESCUE",
+      "extensions": [
+        {
+          "id": 0,
+          "caption": "Zdravotní služba"
+        }
+      ],
+      "generates_mission_types": ["mining"]
     }
   ],
   "awards": [
@@ -6391,6 +6499,42 @@
     {
       "id": 815,
       "caption": "Koordinované zatýkání při rozsáhlém korupčním vyšetřování"
+    },
+    {
+      "id": 816,
+      "caption": "Havárie vrtné soupravy"
+    },
+    {
+      "id": 817,
+      "caption": "Horníci uvěznění pod závalem"
+    },
+    {
+      "id": 818,
+      "caption": "Únik metanu"
+    },
+    {
+      "id": 819,
+      "caption": "Nedostatek kyslíku"
+    },
+    {
+      "id": 820,
+      "caption": "Požár vrtné soupravy"
+    },
+    {
+      "id": 821,
+      "caption": "Výbuch v dole"
+    },
+    {
+      "id": 822,
+      "caption": "Průval podzemní vody"
+    },
+    {
+      "id": 823,
+      "caption": "Zatopení strojovny v dole"
+    },
+    {
+      "id": 824,
+      "caption": "Pád osoby do důlní jámy"
     }
   ],
   "education_data": [
@@ -6492,6 +6636,20 @@
       "duration": "432000",
       "education_key": "wildfire",
       "date_start": "2025-03-10 10:00:00 UTC"
+    },
+    {
+      "id": 16,
+      "caption": "Záchrana z výšky a hloubky",
+      "duration": "432000",
+      "education_key": "mining_rescue",
+      "date_start": "2026-10-27 11:00:00 UTC"
+    },
+    {
+      "id": 17,
+      "caption": "Záchranář – potápěč",
+      "duration": "432000",
+      "education_key": "mining_diver",
+      "date_start": "2026-10-27 11:00:00 UTC"
     },
     {
       "id": 0,
@@ -6609,6 +6767,13 @@
       "duration": "432000",
       "education_key": "special_operation_response",
       "date_start": "2026-05-27 11:00:00 UTC"
+    },
+    {
+      "id": 8,
+      "caption": "Báňská zdravotnická služba",
+      "duration": "432000",
+      "education_key": "mining_ambulance",
+      "date_start": "2026-10-27 11:00:00 UTC"
     },
     {
       "id": 0,
