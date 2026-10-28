@@ -256,6 +256,11 @@
       "type": "Integer"
     },
     {
+      "key": "patrol_based",
+      "caption": "Kann nur auf Streifenfahrten auftreten",
+      "type": "Unknown"
+    },
+    {
       "key": "only_alliance_mission",
       "caption": "Only available as alliance mission",
       "type": "Boolean"
