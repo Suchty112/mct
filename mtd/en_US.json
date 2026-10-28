@@ -1046,6 +1046,16 @@
       "type": "Integer"
     },
     {
+      "key": "criminal_investigation_count",
+      "caption": "Required Crime Scene and Investigation Extensions",
+      "type": "Integer"
+    },
+    {
+      "key": "need_civil_patrolcar",
+      "caption": "Required Detective Vehicles",
+      "type": "Integer"
+    },
+    {
       "key": "need_arff_chance",
       "caption": "Probability of ARFF being required",
       "type": "Integer"
@@ -1368,6 +1378,21 @@
     {
       "key": "need_fire_flood_equipment_container_chance",
       "caption": "Probability that FWDC is required",
+      "type": "Integer"
+    },
+    {
+      "key": "need_civil_patrolcar_chance",
+      "caption": "Probability that Detective Vehicle is required",
+      "type": "Integer"
+    },
+    {
+      "key": "need_crime_scene_unit",
+      "caption": "Required Crime Scene Units",
+      "type": "Integer"
+    },
+    {
+      "key": "need_crime_scene_unit_chance",
+      "caption": "Probability that Crime Scene Unit is required",
       "type": "Integer"
     },
     {
@@ -2104,6 +2129,10 @@
         {
           "id": 22,
           "caption": "Police Water Rescue"
+        },
+        {
+          "id": 23,
+          "caption": "Crime Scene and Investigation Extension"
         }
       ],
       "generates_mission_types": ["police"]
@@ -8248,6 +8277,38 @@
     {
       "id": 1174,
       "caption": "Fire at a flea market"
+    },
+    {
+      "id": 1175,
+      "caption": "Burglary at a museum"
+    },
+    {
+      "id": 1176,
+      "caption": "Burglary at a residential property"
+    },
+    {
+      "id": 1177,
+      "caption": "Anti-Money Laundering Operation"
+    },
+    {
+      "id": 1178,
+      "caption": "Organized insurance fraud uncovered"
+    },
+    {
+      "id": 1179,
+      "caption": "Discovery of forged professional certificates"
+    },
+    {
+      "id": 1180,
+      "caption": "Investigation into organized identity theft"
+    },
+    {
+      "id": 1181,
+      "caption": "Witness intimidation before a court hearing"
+    },
+    {
+      "id": 1182,
+      "caption": "Coordinated arrests in a major corruption investigation"
     }
   ],
   "education_data": [
@@ -8485,6 +8546,18 @@
       "caption": "Swift water rescue",
       "duration": "345600",
       "education_key": "gw_wasserrettung"
+    },
+    {
+      "id": 16,
+      "caption": "Detective Training",
+      "duration": "432000",
+      "education_key": "criminal_investigation"
+    },
+    {
+      "id": 17,
+      "caption": "Crime Scene Investigation Training",
+      "education_key": "police_crime_scene_investigation",
+      "duration": "432000"
     },
     {
       "id": 0,
