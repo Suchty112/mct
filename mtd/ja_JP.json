@@ -2521,6 +2521,11 @@
       "id": 155,
       "caption": "2026年のハロウィーン",
       "key": "AWARD_HALLOWEEN_2026"
+    },
+    {
+      "id": 156,
+      "caption": "2026 カボチャ発見",
+      "key": "AWARD_HALLOWEEN_HUNT_2026"
     }
   ],
   "filter_types": [
