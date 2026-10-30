@@ -2961,6 +2961,11 @@
       "id": 163,
       "caption": "Halloween 2026",
       "key": "AWARD_HALLOWEEN_2026"
+    },
+    {
+      "id": 164,
+      "caption": "Znalezione dynie 2026",
+      "key": "AWARD_HALLOWEEN_HUNT_2026"
     }
   ],
   "filter_types": [
