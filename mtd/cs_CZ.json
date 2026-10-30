@@ -3175,6 +3175,11 @@
       "id": 168,
       "caption": "Halloween 2026",
       "key": "AWARD_HALLOWEEN_2026"
+    },
+    {
+      "id": 169,
+      "caption": "Halloweenský lov 2026",
+      "key": "AWARD_HALLOWEEN_HUNT_2026"
     }
   ],
   "filter_types": [
