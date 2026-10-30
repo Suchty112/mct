@@ -2515,6 +2515,11 @@
       "id": 158,
       "caption": "Halloween 2026",
       "key": "AWARD_HALLOWEEN_2026"
+    },
+    {
+      "id": 159,
+      "caption": "Löydetyt kurpitsat 2026",
+      "key": "AWARD_HALLOWEEN_HUNT_2026"
     }
   ],
   "filter_types": [
