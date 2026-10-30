@@ -2744,6 +2744,11 @@
       "id": 161,
       "caption": "Halloween 2026",
       "key": "AWARD_HALLOWEEN_2026"
+    },
+    {
+      "id": 162,
+      "caption": "Abóboras encontradas 2026",
+      "key": "AWARD_HALLOWEEN_HUNT_2026"
     }
   ],
   "filter_types": [
