@@ -416,6 +416,11 @@
       "type": "Integer"
     },
     {
+      "key": "water_damage_pump_value",
+      "caption": "Acqua da Rimuovere",
+      "type": "Integer"
+    },
+    {
       "key": "ktw_value",
       "caption": null,
       "type": "Integer"
@@ -646,11 +651,6 @@
       "type": "Integer"
     },
     {
-      "key": "water_damage_pump_count",
-      "caption": "Richiesta Estensione Soccorso Alluvionale",
-      "type": "Integer"
-    },
-    {
       "key": "need_pump",
       "caption": "Richiesti Carrelli Alluvionali",
       "type": "Integer"
@@ -661,8 +661,8 @@
       "type": "Integer"
     },
     {
-      "key": "water_damage_pump_value",
-      "caption": "Acqua da Rimuovere",
+      "key": "water_damage_pump_count",
+      "caption": "Richiesta Estensione Soccorso Alluvionale",
       "type": "Integer"
     },
     {
