@@ -421,6 +421,11 @@
       "type": "Integer"
     },
     {
+      "key": "need_streifenwagen_chance",
+      "caption": "Possibilità che siano richieste le volanti",
+      "type": "Integer"
+    },
+    {
       "key": "ktw_value",
       "caption": null,
       "type": "Integer"
@@ -848,11 +853,6 @@
     {
       "key": "need_mountain_snow_dogs",
       "caption": "Cane da Valanga obbligatorio",
-      "type": "Integer"
-    },
-    {
-      "key": "need_streifenwagen_chance",
-      "caption": "Possibilità che siano richieste le volanti",
       "type": "Integer"
     },
     {
