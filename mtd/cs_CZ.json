@@ -6657,6 +6657,12 @@
       "date_start": "2026-10-27 11:00:00 UTC"
     },
     {
+      "id": 18,
+      "caption": "Školení lékaře",
+      "duration": "432000",
+      "education_key": "critical_care"
+    },
+    {
       "id": 0,
       "caption": "<span class=\"translation_missing localeapp\" title=\"translation missing: cs_CZ.education.thw_zug\">Thw Zug</span>",
       "duration": "604800",
