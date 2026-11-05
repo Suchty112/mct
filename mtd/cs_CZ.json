@@ -3180,6 +3180,11 @@
       "id": 169,
       "caption": "Halloweenský lov 2026",
       "key": "AWARD_HALLOWEEN_HUNT_2026"
+    },
+    {
+      "id": 170,
+      "caption": "Alianční výzva listopad 2026",
+      "key": "AWARD_ALLIANCE_CHALLENGE_NOVEMBER_2026"
     }
   ],
   "filter_types": [
