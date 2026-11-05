@@ -2717,6 +2717,11 @@
       "id": 158,
       "caption": "Halloween Hunt 2026",
       "key": "AWARD_HALLOWEEN_HUNT_2026"
+    },
+    {
+      "id": 159,
+      "caption": "Alliance Challenge November 2026",
+      "key": "AWARD_ALLIANCE_CHALLENGE_NOVEMBER_2026"
     }
   ],
   "filter_types": [
