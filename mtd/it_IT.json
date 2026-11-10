@@ -916,6 +916,11 @@
       "type": "Integer"
     },
     {
+      "key": "need_municipal_police",
+      "caption": "Veicoli della Polizia Locale richiesti",
+      "type": "Integer"
+    },
+    {
       "key": "need_bomb_chance",
       "caption": "Possibilità che siano richiesti gli artificieri",
       "type": "Integer"
@@ -1128,11 +1133,6 @@
     {
       "key": "need_search_and_rescue_equipment_chance",
       "caption": "Probabilità che sia richiesto il Modulo Scarrabile USAR",
-      "type": "Integer"
-    },
-    {
-      "key": "need_municipal_police",
-      "caption": "Veicoli della Polizia Locale richiesti",
       "type": "Integer"
     },
     {
@@ -2192,7 +2192,25 @@
     {
       "id": 24,
       "caption": "Base Aerea Antincendio",
-      "key": "BUILDING_TYPE_FIRE_AVIATION_STATION"
+      "key": "BUILDING_TYPE_FIRE_AVIATION_STATION",
+      "extensions": [
+        {
+          "id": 0,
+          "caption": "Estensione Elicottero SAR"
+        },
+        {
+          "id": 1,
+          "caption": "Estensioni Elicottero SAR aggiuntive"
+        },
+        {
+          "id": 2,
+          "caption": "Estensioni Elicottero SAR aggiuntive"
+        },
+        {
+          "id": 3,
+          "caption": "Estensioni Elicottero SAR aggiuntive"
+        }
+      ]
     },
     {
       "id": 25,
@@ -2347,6 +2365,11 @@
       "caption": "Molo della Polizia",
       "key": "BUILDING_TYPE_POLICE_BOAT_DOCK",
       "generates_mission_types": ["police_ocean"]
+    },
+    {
+      "id": 34,
+      "caption": "Sede Protezione Civile (Piccola)",
+      "key": "BUILDING_TYPE_TECHNICAL_AID_KLEINWACHE"
     }
   ],
   "awards": [
@@ -6823,6 +6846,18 @@
     {
       "id": 895,
       "caption": "Allagamento (GRANDISSIMO)"
+    },
+    {
+      "id": 896,
+      "caption": "Incendio boschivo con supporto aereo"
+    },
+    {
+      "id": 897,
+      "caption": "Recupero con verricello di escursionista ferito"
+    },
+    {
+      "id": 898,
+      "caption": "Scantinati allagati dopo nubifragio"
     }
   ],
   "education_data": [
@@ -6960,6 +6995,12 @@
       "duration": "432000",
       "education_key": "firefighting_marine",
       "date_start": "2026-08-18 11:00:00 UTC"
+    },
+    {
+      "id": 22,
+      "caption": "Corso per Tecnico di Elisoccorso",
+      "duration": "432000",
+      "education_key": "heli_tech"
     },
     {
       "id": 0,
