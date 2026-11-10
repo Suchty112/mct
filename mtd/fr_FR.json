@@ -1126,6 +1126,51 @@
       "type": "Integer"
     },
     {
+      "key": "municipal_police_count",
+      "caption": "Postes de police municipaux requis",
+      "type": "Integer"
+    },
+    {
+      "key": "municipal_police_motorized_unit_count",
+      "caption": "Extension brigade motorisée requise",
+      "type": "Integer"
+    },
+    {
+      "key": "need_municipal_police_bike",
+      "caption": "VTT Requis",
+      "type": "Integer"
+    },
+    {
+      "key": "need_municipal_police_scooter",
+      "caption": "Scooters requis",
+      "type": "Integer"
+    },
+    {
+      "key": "need_municipal_police_patrol",
+      "caption": "Voitures de Patrouille (PM) Requises",
+      "type": "Integer"
+    },
+    {
+      "key": "municipal_police_mounted_unit_count",
+      "caption": "Extension brigade équestre requises",
+      "type": "Integer"
+    },
+    {
+      "key": "need_municipal_police_horse",
+      "caption": "Brigades équestres requises",
+      "type": "Integer"
+    },
+    {
+      "key": "need_municipal_police_motorcycle",
+      "caption": "Unité motocycliste (PM) Requise",
+      "type": "Integer"
+    },
+    {
+      "key": "need_municipal_police_dogs",
+      "caption": "Équipes cynophiles (PM) Requises",
+      "type": "Integer"
+    },
+    {
       "key": "need_boot_chance",
       "caption": "Probabilité qu'un BLS ou CSL soit requis",
       "type": "Integer"
@@ -1643,6 +1688,46 @@
     {
       "key": "need_railway_modules_support_chance",
       "caption": "Probabilité que le VSAV Tu soit requis",
+      "type": "Integer"
+    },
+    {
+      "key": "need_municipal_police_patrol_chance",
+      "caption": "Probabilité qu’un véhicule de patrouille (PM) soit nécessaire",
+      "type": "Integer"
+    },
+    {
+      "key": "need_municipal_police_bike_chance",
+      "caption": "Probabilité qu'un VTT soit nécessaire",
+      "type": "Integer"
+    },
+    {
+      "key": "need_municipal_police_dogs_chance",
+      "caption": "Probabilité qu’une équipe cynophile (PM) soit requise",
+      "type": "Integer"
+    },
+    {
+      "key": "need_municipal_police_motorcycle_chance",
+      "caption": "Probabilité qu’une unité motocycliste (PM) soit requise",
+      "type": "Integer"
+    },
+    {
+      "key": "need_municipal_police_scooter_chance",
+      "caption": "Probabilité qu’un scooter soit requis",
+      "type": "Integer"
+    },
+    {
+      "key": "need_municipal_police_horse_chance",
+      "caption": "Probabilité qu’une brigade équestre soit requise",
+      "type": "Integer"
+    },
+    {
+      "key": "need_police_prisoner_transport",
+      "caption": null,
+      "type": "Integer"
+    },
+    {
+      "key": "need_police_prisoner_transport_chance",
+      "caption": null,
       "type": "Integer"
     },
     {
@@ -2305,6 +2390,10 @@
         {
           "id": 12,
           "caption": "Unités d'enquête criminelle"
+        },
+        {
+          "id": 13,
+          "caption": "Service de transfert des détenus"
         }
       ],
       "generates_mission_types": ["police"]
@@ -2710,6 +2799,22 @@
         }
       ],
       "generates_mission_types": ["mountain"]
+    },
+    {
+      "id": 32,
+      "caption": "Poste de police municipale",
+      "key": "BUILDING_TYPE_MUNICIPAL_POLICE",
+      "extensions": [
+        {
+          "id": 0,
+          "caption": "Brigade Motorisée"
+        },
+        {
+          "id": 1,
+          "caption": "Brigade équestre "
+        }
+      ],
+      "generates_mission_types": ["municipal_police"]
     }
   ],
   "awards": [
@@ -3600,6 +3705,10 @@
     {
       "key": "mountain_missions",
       "caption": "Sauvetage en Montagne"
+    },
+    {
+      "key": "municipal_police_missions",
+      "caption": "Police municipale"
     }
   ],
   "existing_mission_captions": [
@@ -7434,6 +7543,42 @@
     {
       "id": 957,
       "caption": "Double séisme majeur en zone urbaine densément peuplée"
+    },
+    {
+      "id": 958,
+      "caption": "Patrouille de routine dans une zone piétonne"
+    },
+    {
+      "id": 959,
+      "caption": "Véhicules interdits dans un parc municipal"
+    },
+    {
+      "id": 960,
+      "caption": "Tapage diurne sur une place publique"
+    },
+    {
+      "id": 961,
+      "caption": "Surveillance des abords d'un marché de quartier"
+    },
+    {
+      "id": 962,
+      "caption": "Contrôle de vitesse sur une avenue limitée à 30 km/h"
+    },
+    {
+      "id": 963,
+      "caption": "Tournée de surveillance des sentiers forestiers et des chemins de terre"
+    },
+    {
+      "id": 964,
+      "caption": "Surveillance nocturne des zones industrielles."
+    },
+    {
+      "id": 965,
+      "caption": "Événement festif de grande ampleur (concert en plein air)"
+    },
+    {
+      "id": 966,
+      "caption": "Rixe générale entre bandes rivales dans un quartier sensible (Petits)"
     }
   ],
   "education_data": [
@@ -7616,6 +7761,18 @@
       "caption": "Formation d'opérateur de remorque d'hélicoptère",
       "duration": "432000",
       "education_key": "mountain_rescue_helicopter_trailer"
+    },
+    {
+      "id": 17,
+      "caption": "Agent de Police Judiciaire Adjoint",
+      "duration": "432000",
+      "education_key": "judicial_police_officer"
+    },
+    {
+      "id": 18,
+      "caption": "Agent équestre – Galop 5",
+      "duration": "432000",
+      "education_key": "police_horse"
     },
     {
       "id": 0,
