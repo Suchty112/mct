@@ -2733,6 +2733,11 @@
       "id": 160,
       "caption": "Alliansutmaning november 2026",
       "key": "AWARD_ALLIANCE_CHALLENGE_NOVEMBER_2026"
+    },
+    {
+      "id": 161,
+      "caption": "7-årsjubileum!",
+      "key": "AWARD_SEVEN_YEARS"
     }
   ],
   "filter_types": [
@@ -5841,6 +5846,18 @@
     {
       "id": 761,
       "caption": "Brand på en loppmarknad"
+    },
+    {
+      "id": 762,
+      "caption": "Person fastklämd under cykel i spårvagnsspår"
+    },
+    {
+      "id": 763,
+      "caption": "Cykelstöld vid pendeltågsstation"
+    },
+    {
+      "id": 764,
+      "caption": "Kajakpaddlare försvunnen i dimma"
     }
   ],
   "education_data": [
