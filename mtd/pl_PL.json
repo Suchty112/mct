@@ -2971,6 +2971,11 @@
       "id": 165,
       "caption": "Wyzwanie sojuszu listopad 2026 r.",
       "key": "AWARD_ALLIANCE_CHALLENGE_NOVEMBER_2026"
+    },
+    {
+      "id": 166,
+      "caption": "7. Rocznica",
+      "key": "AWARD_SEVEN_YEARS"
     }
   ],
   "filter_types": [
@@ -6795,6 +6800,18 @@
     {
       "id": 940,
       "caption": "Pożar na pchlim targu"
+    },
+    {
+      "id": 941,
+      "caption": "Pożar suszarni do ubrań w bloku"
+    },
+    {
+      "id": 942,
+      "caption": "Kradzież roweru ze stojaka"
+    },
+    {
+      "id": 943,
+      "caption": "Ciężarówka zablokowana na zalanym podjeździe"
     }
   ],
   "education_data": [
