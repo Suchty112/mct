@@ -6545,6 +6545,18 @@
     {
       "id": 824,
       "caption": "Pád osoby do důlní jámy"
+    },
+    {
+      "id": 825,
+      "caption": "Pád do ledovcové trhliny"
+    },
+    {
+      "id": 826,
+      "caption": "Kolaps řidiče tramvaje"
+    },
+    {
+      "id": 827,
+      "caption": "Požár sušárny prádla v bytovém domě"
     }
   ],
   "education_data": [
