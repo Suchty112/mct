@@ -247,12 +247,12 @@
     },
     {
       "key": "personnel_educations_count",
-      "caption": "Required Personnel Available",
+      "caption": "Požadovaný personál je k dispozici",
       "type": "Unknown"
     },
     {
       "key": "required_personnel_educations",
-      "caption": "Required Personnel",
+      "caption": "Požadovaný personál",
       "type": "Unknown"
     },
     {
