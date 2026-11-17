@@ -231,6 +231,11 @@
       "type": "Integer"
     },
     {
+      "key": "patrol_based",
+      "caption": "Kann nur auf Streifenfahrten auftreten",
+      "type": "Unknown"
+    },
+    {
       "key": "need_k9",
       "caption": "Potrzeba Jednostki K-9",
       "type": "Integer"
