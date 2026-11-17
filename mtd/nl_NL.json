@@ -376,6 +376,11 @@
       "type": "Integer"
     },
     {
+      "key": "patrol_based",
+      "caption": "Kann nur auf Streifenfahrten auftreten",
+      "type": "Unknown"
+    },
+    {
       "key": "need_bike_police",
       "caption": "Benodigde Biketeams",
       "type": "Integer"
