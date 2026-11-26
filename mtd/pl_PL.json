@@ -2981,6 +2981,16 @@
       "id": 166,
       "caption": "7. Rocznica",
       "key": "AWARD_SEVEN_YEARS"
+    },
+    {
+      "id": 167,
+      "caption": "Misje świąteczne 2026",
+      "key": "AWARD_CHRISTMAS_2026"
+    },
+    {
+      "id": 168,
+      "caption": "Świąteczny kolekcjoner 2026",
+      "key": "AWARD_CHRISTMAS_COLLECTION_2026"
     }
   ],
   "filter_types": [
