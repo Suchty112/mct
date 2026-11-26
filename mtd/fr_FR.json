@@ -3647,6 +3647,16 @@
       "id": 167,
       "caption": "Défi de l'Alliance novembre 2026",
       "key": "AWARD_ALLIANCE_CHALLENGE_NOVEMBER_2026"
+    },
+    {
+      "id": 168,
+      "caption": "Missions de Noël 2026",
+      "key": "AWARD_CHRISTMAS_2026"
+    },
+    {
+      "id": 169,
+      "caption": "Collectionneur de Noël 2026",
+      "key": "AWARD_CHRISTMAS_COLLECTION_2026"
     }
   ],
   "filter_types": [
@@ -7587,6 +7597,10 @@
     {
       "id": 968,
       "caption": "Secours à un groupe de kayakistes en difficulté"
+    },
+    {
+      "id": 969,
+      "caption": "Explosion et incendie d'une usine chimique Seveso en zone périurbaine"
     }
   ],
   "education_data": [
