@@ -2722,6 +2722,16 @@
       "id": 159,
       "caption": "Alliance Challenge November 2026",
       "key": "AWARD_ALLIANCE_CHALLENGE_NOVEMBER_2026"
+    },
+    {
+      "id": 160,
+      "caption": "Christmas Missions 2026",
+      "key": "AWARD_CHRISTMAS_2026"
+    },
+    {
+      "id": 161,
+      "caption": "Christmas Collector 2026",
+      "key": "AWARD_CHRISTMAS_COLLECTION_2026"
     }
   ],
   "filter_types": [
