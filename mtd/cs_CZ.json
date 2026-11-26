@@ -3185,6 +3185,16 @@
       "id": 170,
       "caption": "Alianční výzva listopad 2026",
       "key": "AWARD_ALLIANCE_CHALLENGE_NOVEMBER_2026"
+    },
+    {
+      "id": 171,
+      "caption": "Vánoční mise 2026",
+      "key": "AWARD_CHRISTMAS_2026"
+    },
+    {
+      "id": 172,
+      "caption": "Vánoční sběratel 2026",
+      "key": "AWARD_CHRISTMAS_COLLECTION_2026"
     }
   ],
   "filter_types": [
