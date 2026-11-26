@@ -3002,6 +3002,16 @@
       "id": 159,
       "caption": "Desafío de la Alianza Noviembre de 2026",
       "key": "AWARD_ALLIANCE_CHALLENGE_NOVEMBER_2026"
+    },
+    {
+      "id": 160,
+      "caption": "Misiones de Navidad 2026",
+      "key": "AWARD_CHRISTMAS_2026"
+    },
+    {
+      "id": 161,
+      "caption": "Coleccionista de Navidad 2026",
+      "key": "AWARD_CHRISTMAS_COLLECTION_2026"
     }
   ],
   "filter_types": [
