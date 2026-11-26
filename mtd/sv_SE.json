@@ -2738,6 +2738,16 @@
       "id": 161,
       "caption": "7-årsjubileum!",
       "key": "AWARD_SEVEN_YEARS"
+    },
+    {
+      "id": 162,
+      "caption": "Juluppdrag 2026",
+      "key": "AWARD_CHRISTMAS_2026"
+    },
+    {
+      "id": 163,
+      "caption": "Julsamlare 2026",
+      "key": "AWARD_CHRISTMAS_COLLECTION_2026"
     }
   ],
   "filter_types": [
